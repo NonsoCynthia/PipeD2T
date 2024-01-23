@@ -1,0 +1,870 @@
+Jacob Bundsgaard VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of Aarhus.
+DT[form=defined] the runway length of Aarhus Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY–2..
+Adirondack Regional Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be 507 metres above sea level.
+Adirondack Regional Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Harrietstown, New York.
+Adolfo Suárez Madrid – Barajas Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located at San Sebastián de los Reyes.
+14L/32R VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the runway name of the Adolfo Suárez Madrid – Barajas Airport.
+14R/32 L VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the runway name of the Adolfo Suárez Madrid – Barajas Airport.
+Afonso Pena International Airport VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] operate by Infraero.
+Agra Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Agra.
+Al-Taqaddum Air Base VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be 84.0 above sea level.
+The Alderney Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve Alderney.
+18R/36 L VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the runway name of the Allama Iqbal International Airport.
+DT[form=defined] the runway length of Alpena County Regional Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY–2..
+1/19 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the runway name of Alpena County Regional Airport.
+Amsterdam Airport Schiphol VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve DT[form=defined] the city of Amsterdam.
+Andrews VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the county seat of Andrews County, Texas.
+Andrews County Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve Andrews, Texas.
+11/29 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the runway name of Andrews County Airport.
+Andrews County Airport runway name VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be Helipad.
+Angola International Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve Luanda.
+Ardmore Airport ( New Zealand ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Auckland, New Zealand.
+Giorgos Kaminis VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the mayor of Athens.
+Athens International Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Spata.
+The German language VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] speak in Belgium.
+Philippe of Belgium VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of Belgium.
+Copenhagen VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the capital of Denmark.
+Lars Løkke Rasmussen VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of Denmark.
+The Flemish Government VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] lead the Flemish Region.
+Greek VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] speak in Greece.
+Nikos Voutsis VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of Greece.
+Harrietstown, New York VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of the United States.
+Anwar Zaheer Jamali VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of Pakistan.
+Paracuellos de Jarama VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of the Community of Madrid.
+The Port Authority of New York and New Jersey VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] base at the Four World Trade Center.
+San Sebastián de los Reyes VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in Spain.
+Saranac Lake, New York VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of the United States.
+Stephen Dilts VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the Chief of the South Jersey Transportation Authority.
+Alan Shepard VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] award the Distinguished Service Medal by the United States Navy.
+Alan Shepard VP[aspect=simple,tense=past,voice=active,person=null,number=null] die in California.
+William Anders VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=defined] the backup pilot of Apollo 11.
+Apollo 14 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] operate by NASA.
+NASA VP[aspect=simple,tense=past,voice=active,person=null,number=null] operate Apollo 8.
+Buzz Aldrin VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be an American.
+Elliot See VP[aspect=simple,tense=past,voice=active,person=null,number=null] perform as a test pilot.
+The University of Texas at Austin VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] affiliate with the University of Texas System.
+Hook 'em VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the mascot of the University of Texas at Austin.
+John Madin VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=defined] the architect of 103 Colmore Row.
+103 Colmore Row VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located on Colmore Row.
+11 Diagonal Street VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] complete in 1983.
+200 Public Square VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] complete in 1985.
+20 Fenchurch Street VP[aspect=simple,tense=past,voice=active,person=null,number=null] originate in January 2009.
+20 Fenchurch Street VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in the United Kingdom.
+300 North LaSalle VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have 60 floors.
+HOK SVE VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=defined] the architect of 3Arena.
+3Arena VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located at the EastLink bridge.
+Adare Manor VP[aspect=simple,tense=past,voice=active,person=null,number=null] originate in 1700.
+Adare Manor VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in the Republic of Ireland.
+The Akita Museum of Art VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] inaugurate on September 28, 2013.
+The Mason School of Business VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the current tenant of the Alan B. Miller Hall.
+V. V. Doshi VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=defined] the architect of Amdavad ni Gufa.
+Ampara Hospital VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in Bangalore.
+Asher and Mary Isabelle Richardson House VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] add to DT[form=defined] the National Register of Historic Places on November 22, 1988.
+Asser Levy Public Baths VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] build in 1904.
+Birmingham VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have the postcode area'B '.
+Chicago VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of DuPage County, Illinois.
+Dublin VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in the Republic of Ireland.
+Dublin VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of Leinster.
+Sumitra Mahajan VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a leader in India.
+The Brazilians VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=undefined] a ethnic group in Japan.
+Tarō Asō VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of Japan.
+Bill Marriott VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a key person at Marriott International.
+English VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the official language of the Republic of Ireland.
+Cape Town VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the capital of South Africa.
+London VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the capital of the United Kingdom.
+Native Americans VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be one of DT[form=defined] the ethnic groups in the United States.
+Paul Ryan VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a leader in the United States.
+DT[form=defined] the area code for Abilene, Texas VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY–2..
+Abilene VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of Texas.
+The Mayor VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of Albany, Georgia.
+Albany, Oregon VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a total area of 45.97 square kilometres.
+Albany, Oregon VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in the United States.
+The State Senate VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] lead Albuquerque, New Mexico.
+Albuquerque City Council VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] lead Albuquerque, New Mexico.
+Amarillo, Texas VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in the United States.
+Amarillo VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of Potter County, Texas.
+Amarillo, Texas VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of the United States.
+DT[form=defined] the area code for Anaheim, California VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY–2..
+Anderson, Indiana VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of Adams Fall Creek, Lafayette, Richland, Union.
+Angola VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of the Pleasant Township, Steuben County.
+The city administrator VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] lead Ann Arbor, Michigan.
+The Mayor VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of Ann Arbor, Michigan.
+Ann Arbor, Michigan VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a population density of 1580.7 inhabitants per square kilometre.
+Antioch, California VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be 13.0 above sea level.
+Antioch, California VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] lead by the Californians 11th State Assembly district.
+Arlington, Texas VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be 184.0 above sea level.
+Atlantic County, New Jersey VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in the United States.
+Attica VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of Fountain County, Indiana.
+Auburn VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of the state of Alabama.
+California VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in the United States.
+Atlanta VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the largest city in Fulton County, Georgia.
+Georgia VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in the United States.
+Indians VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the capital of Indiana.
+Lee County VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in DT[form=defined] the state of Alabama.
+Trenton VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the capital of New Jersey.
+Potter County VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in Texas.
+Tarrant County Texas VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in the United States.
+Ann Arbor VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the largest city in Washtenaw County, Michigan.
+The comic character, Asterix VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by René Goscinny.
+The comic character, Auron VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by Marv Wolfman.
+The comic character, Balder VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by Jack Kirby.
+Bananaman VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] broadcast by the company STV.
+Bananaman first VP[aspect=simple,tense=past,voice=active,person=null,number=null] air on October 3, 1983.
+Bill Oddie VP[aspect=simple,tense=past,voice=active,person=null,number=null] star in Bananaman.
+Baymax VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a character in Big Hero 6.
+Bill Everett VP[aspect=simple,tense=past,voice=active,person=null,number=null] win the Eisner Award.
+Kate Hardie VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a child of Bill Oddie.
+The comic character, Bolt VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by Dan Mishkin.
+Bozo the Iron Man full name VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be Hugh Hazzard.
+John Buscema VP[aspect=simple,tense=past,voice=active,person=null,number=null] win the Eagle Award ( comics character ).
+Marv Wolfman VP[aspect=simple,tense=past,voice=active,person=null,number=null] win the Eagle Award ( comics character ).
+Ajoblanco alternative name VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be Ajo blanco.
+bread, almonds, garlic, water and olive oil VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be main ingredients in Ajoblanco.
+Arem-arem VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] find the country's.
+Arem arem VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from DT[form=defined] the country of Indonesia.
+Tomatoes, red chili, garlic and olive oil VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=defined] the main ingredients in Arrabbiata sauce.
+Cuttlefish VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Arròs negre.
+squid VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Arròs negre.
+Asam pedas VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from Malaysia.
+Avocado VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from DT[form=defined] the genus Persea.
+it should VP[aspect=simple,tense=present,voice=passive,person=null,number=null] serve Hot.
+Baked Alaska VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be a dessert.
+Frangipane VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in bakewell tart.
+noodles VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=undefined] a ingredient in Bakso.
+Vermicelli VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Bakso.
+Chorizo VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Bandeja paisa.
+Barny cakes VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] create by Mondelez International.
+Barny Cakes can VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] be chocolate.
+Barny cakes VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] contain 1.8 g of protein.
+Batchoy VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] eat in the Philippines.
+Chicken VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in batchoy.
+Vegetables VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=undefined] a ingredient in batchoy.
+Binignit VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from DT[form=defined] the region of Visayas.
+Patrick McLoughlin VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of the Derbyshire Dales.
+Cake VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be a dessert.
+A nice confectionery dessert VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be a dessert.
+Jusuf Kalla VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of Indonesia.
+Italians VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] inhabit Italy.
+Baduy VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ethnic group in Java.
+Lemon VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of DT[form=defined] the order of Rosids.
+Mexicans VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be from Mexico.
+Spanish VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] speak in Mexico.
+Arabic VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] speak in the Philippines.
+Shumai VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a variation of Siomay.
+Native Americans VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be one of DT[form=defined] the ethnic groups in the United States.
+The Ataturk Monument VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] design by Pietro Canonica.
+The Atatürk Monument VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] make from Bronze.
+Artur Rasizade VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of Azerbaijan.
+The Baku Turkish Martyrs Memorial VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Azerbaijan.
+The Baku Turkish Martyrs Memorial VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] make from Red granite and white marble.
+Peter Stöger VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the manager of 1FC Koln.
+1FC Magdeburg VP[aspect=simple,tense=past,voice=active,person=null,number=null] play in DT[form=defined] the 2014 season.
+Lumezzane VP[aspect=simple,tense=past,voice=active,person=null,number=null] play in the 2014-15 Leg Pro season.
+DT[form=defined] the fullname of A.D. Isidro Metapan VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY–2..
+A.E Dimitra Efxeinoupolis full name VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be A.E Dimitra Efxeinoupolis.
+A.E Dimitra Efxeinoupolis VP[aspect=simple,tense=past,voice=active,person=null,number=null] play in DT[form=defined] the 2014 season.
+A.E Dimitra Efxeinoupolis VP[aspect=simple,tense=past,voice=active,person=null,number=null] play in the 2014-15 A EPSTH Greece season.
+AFC Blackpool VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have 1500 members.
+AFC Fylde's ground VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be The Fylde.
+A.S. Gubbio 1910 ground VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in Italy.
+Livorno Calcio VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have 19238 members.
+AS Roma VP[aspect=simple,tense=past,voice=active,person=null,number=null] play in Serie A in 2014-15.
+Frank de Boer VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] manage AFC Ajax.
+AFC Ajax VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] nickname Joden, Godenzonen.
+AFC Ajax ( amateurs ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have 5000 members.
+AZAL PFK VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Shuvalan, Baku, Azerbaijan.
+AZ Alkmaar VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have 17023 members.
+Agremiação Sportiva Arapiraquense VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] manage by Vica.
+Agremiação Sportiva Arapiraquense play in the 2015 Campeonato Brasileiro Série C in PATIENT-1.
+Akron Summit Assault's ground VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be St Vincent-St Mary High School.
+Akron Summit Assault VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have 3000 members.
+Amsterdam-Centrum VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of Amsterdam.
+Nikos Voutsis VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of Greece.
+Gus Poyet VP[aspect=simple,tense=past,voice=active,person=null,number=null] play for AEK Athens FC.
+Jens Härtel VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] play for SV Germania Schoneiche.
+John van den Brom VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] play for AZ Alkmaar.
+Isidro Metapan VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] play for A.D. Isidro Metapan.
+Massimo Drago VP[aspect=simple,tense=past,voice=active,person=null,number=null] play for Delfino Pescara 1936.
+Massimo Drago VP[aspect=simple,tense=past,voice=active,person=null,number=null] play for Chieti Calcio.
+The Olympic Stadium ( Athens ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Marousi.
+K-W United FC VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=defined] the champions of the Premier Development League.
+Stuart Parker VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be at Bury FC.
+Accademia di Architettura di Mendrisio VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have academic staff size of 100.
+The Acharya Institute of Technology VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Saranvapalli Radhakrishnan Road, located in Bangalore.
+Alba Iulia VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in Romania.
+Alba Iulia VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of Alba County.
+Andrew the Apostle VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the patron saint of Romania.
+The School of Business and Social Sciences at the Aarhus University VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a academic staff size of 737.
+The School of Business and Social Sciences at the Aarhus University VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in Denmark.
+1634 : The Bavarian Crisis VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] write by Eric Flint.
+1634 : The Bavarian Crisis VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] precede by The Grantville Gazettes.
+1634 : The Ram Rebellion VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] follow by 1635 : The Cannon Law.
+AIP Advances VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the EISSN number 2158.
+A Fortress of Grey Ice VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] publish in hardback.
+A Long Long Way VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the ISBN number 0-670-03380 4.
+A Loyal Character Dancer VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the ISBN number 1-56947-301-3.
+A Severed Wasp VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] write by Madeleine LEngle.
+A Wizard of Mars VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] publish in English.
+Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the LCCN number 32024459.
+Above the Veil VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] publish in hardback.
+Acta Mathematica Hungarica VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] abbreviate to Acta Math.
+Acta Mathematica Hungarica VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come under DT[form=defined] the academic discipline of Mathematics.
+The Acta Palaeontologica Polonica VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the CODEN code apGPAC.
+The Addiction journal VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the OCLC number 27367194.
+Addiction ( journal ) VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] publish by Wiley-Blackwell.
+Administrative Science Quarterly VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the LCCN number 57059226.
+Aenir VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the OCLC number 45644811.
+Alcatraz Versus the Evil Librarians VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the OCLC number 78771100.
+Alcatraz Versus the Evil Librarians VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] follow by Alcatraz Versus the Scrivener's Bones.
+The American Journal of Mathematics VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the impact 1.337.
+Castle VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] follow by the novel Aenir.
+Cornell University VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the nickname Cornell Big Red.
+HIV VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from DT[form=defined] the genus Lentivirus.
+Wolf Solent VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a notable work by John Cowper Powys.
+Elizabeth II VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of the United Kingdom.
+Joe Biden VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a leader in the United States.
+Wolf Solent VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] write by John Cowper Powys.
+Abilene Regional Airport, Abilene in Texas, VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] serve by DT[form=undefined] a airport in PATIENT-3.
+Adolfo Suárez Madrid – Barajas Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Alcobendas and DT[form=undefined] a runway length of ENTITY–3.
+Adolfo Suárez Madrid – Barajas Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located at San Sebastián de los Reyes and DT[form=undefined] a runway length of ENTITY–3.
+Agra airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in India where DT[form=defined] the leader's name ENTITY3.
+Al Asad Airbase VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Al Anbar Province, Iraq, ENTITY–3 feet above sea level.
+The USAF VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] operate by Operation Enduring Freedom who have previously in battles at PATIENT-3.
+The USAF VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] operate by the invasion of Panama who VP[adevel[form=undefined] a few of ENTITY–2 key members VP[a.k.a. PATIENT-1, and ENTITY -2 VP[asm=past,tensity=past perfect,voice =passive.
+Adolfo Suárez Madrid – Barajas Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Alcobendas, part of DT[form=defined] the Community of PATIENT-3.
+DT[form=defined] the surface type of Alderney Airport's 1st runway, which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be length of : ENTITY–2, VP[adevels ENTITY_3..
+The Pakistan Civil Aviation Authority VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] base at Jinnah International Airport, and ENTITY–1 also VP[a.k.a. DT[form=defined] the operating organisation for ENTITY3.
+Alpena County Regional Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Wilson Township, Alpena County, Michigan, which in turn VP[ as part of DT[form=defined] the country of PATIENT-3.
+-3.3528 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the operating organisation for Amsterdam Airport Schiphol which, which, in turn, VP[a.skelefruits ENTITY–3 m above sea level.
+Andrews County Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be 973.0 above sea level.
+Andrews County Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Texas where DT[form=defined] the capital city of ENTITY3.
+Angola International Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Angola International Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Ícolo e Bengo, DT[form=undefined] a popular tourist destination in and tourist destination, ENTITY–3.
+Antwerp International Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Appleton International Airport, part of Appleton, Wisconsin, VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] serve by DT[form=undefined] a Wisconsin-3.
+DT[form=defined] the 2nd runway at Poaceae VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] make from ENTITY -2, which VP[a.k.a. member of ENTITY–3..
+DT[form=defined] the 3rd runway at Ardmore Airport ( New Zealand ) VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] make from ENTITY - class member of PATIENT-2..
+Ashgabat International Airport in Ashgabat VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a runway length of ENTITY–3.
+Athens International Airport in Athens, VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve DT[form=defined] the city of ENTITY–3.
+Athens International Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve DT[form=defined] the city of Athens and VP[adevelines length of runway ENTITY–3.
+Adolfo Suárez Madrid – Barajas Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in San Sebastián de los Reyes, part of DT[form=defined] the Community of PATIENT-3.
+Alan Shepard, who VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=undefined] a crew member of Apollo 14, VP[airdh retire on ENTITY–3.
+Buzz Aldrin VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be the United States who's birth place VP[a.k.a PATIENT-3.
+Buzz Aldrin, now retired, VP[aspect=simple,tense=past,voice=active,person=null,number=null] serve as Fighter-3.
+Buzz Aldrin VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=undefined] a crew member of Apollo 11, which ENTITY–3 operate.
+Buzz Aldrin VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be a fighter pilot and DT[form=undefined] a crew member of ENTITY–3.
+11 Diagonal Street VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in South Africa, where there is DT[form=undefined] a ethnic group of ENTITY–3.
+200 Public Square, which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have Cleveland floors, can VP[ as well as can can be located in DT[form=undefined] a city in ENTITY–3.
+20 Fenchurch Street VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in London, where DT[form=defined] the leader of ENTITY–2 VP[a.k.D. of government inclusdes ENTITY3.
+250 Delaware Avenue VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in the United States where DT[form=defined] the leader VP[a.k.form=undefined] a.D. call ENTITY–3.
+300 North LaSalle, with Illinois floors, VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in DT[form=defined] the state of ENTITY–3.
+HOK SVE VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=defined] the architect of 3Arena, located at ENTITY–3.
+3Arena, located at the East Link bridge, VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] own by DT[form=defined] the owner of which, ENTITY–3.
+Live Nation Entertainment, located in Beinto California, VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the owner of ENTITY–3.
+Marriott International VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the tenant of AC Hotel Bella Sky Copenhagen which currently inagurate with ENTITY–3 floors.
+Addis Ababa City Hall VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be the government of Addis Ababa high and DT[form=defined] the current tenants of ENTITY–1 building VP[ aspect=plural] be in ENTITY3.
+Adisham Hall, with DT[form=undefined] a architectural style of Haputale, VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in and services PATIENT-3.
+Adisham Hall VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in Bangalore where DT[form=defined] the language ENTITY–2 VP[adevel, ENTITY3.
+DT[form=defined] the address of Alan B Miller Hall which VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] start on ENTITY–2, VP[a nice,tle=present, voice=active, person=3rd.,number=null] be `` ENTITY"-..
+Alan B Miller Hall, located in Williamsburg, Virginia, VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] own by DT[form=defined] the owner of ENTITY–3.
+Robert A.M. Stern VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a tenant of the Alan B. Miller Hall, which VP[a.k.a. ENTITY–3.
+Ampara Hospital VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in DT[form=defined] the region of Ampara District, ENTITY–3.
+Ampara Hospital VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in Sri Lanka, where DT[form=defined] the capital city city of ENTITY–3.
+It VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located on The latter and DT[form=defined] the Reference Number in DT [form=demonstrative] the National Register of Historic Places VP[ aspect=progressive, tense=infinitive, voice=active.,person=null, number=null] be ENTITY–3.
+Asilomar Conference Grounds VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located on Asilomar Blvd, Pacific Grove, California and DT[form=defined] the Reference Number in DT [form=demonstrative] the National Register of Historic Places, ENTITY–3.
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be one of DT[form=defined] the ethnic groups in New Zealand.
+The Asser Levy Public Baths, VP[aspect=simple,tense=past,voice=active,person=null,number=null] construct in 23rd Street, Manhattan, can VP[ aspect=progressive,tens=present, voice=passive, person=null.number=plural] find on ENTITY–3.
+Amdavad ni Gufa VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Gujarat, where DT[form=undefined] a leader of ENTITY–2, ENTITY_3.
+The comic character, Asterix VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by Albert Uderzo and ENTITY–3.
+Aurakles, also VP[aspect=simple,tense=past,voice=active,person=null,number=null] know as Len Wein, DT[form=undefined] a fictional character, which VP[a.k.a. PATIENT-3, VP[ as DT[voice=passural] create by ENTITY–2.
+the patient 3.k.a, otherwise VP[aspect=simple,tense=past,voice=active,person=null,number=null] know as Varianne Mao,, DT[form=undefined] a fictional comic superhero,,, VP[a.k.a. PATIENT-3.
+Bananaman VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] broadcast by the BBC and ENTITY–1 ENTITY3.
+Bill Oddie, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in Lancashire, in DT[form=defined] the TV series ENTITY–3.
+Bibbo Bibbowski VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be Jerry Ordway who also DT[form=defined] the creator of ENTITY–3.
+Black Pirate, otherwise VP[aspect=simple,tense=past,voice=active,person=null,number=null] know as Sheldon Moldoff, DT[form=undefined] a fictional character,,, which VP[a.k.a. PATIENT-1 VP[ASpect=progressive,Tense=present, voice=passive,person-null, number=singular] create by ENTITY–3.
+The comic character, Blockbuster VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by Roger Stern and ENTITY–3.
+The character Bolt VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by Gary Cohn and ENTITY–3.
+Bread VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Ajoblanco which can also VP[a.k.a. dish from ENTITY–3.
+Almond VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Ajoblanco which can can also can VP[ as well and from and from, in, the region of ENTITY–3.
+Tomato VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in amatriciana sauce which can also can can VP[ as DT[a.
+Bandeja paisa VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from DT[form=defined] the Antioquia Department region, ENTITY–3.
+banana leaf VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Arem-arem which can also can VP[ as food, and ENTITY–3.
+Olive oil VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Arrabbiata sauce which can can can also can can VP[a.k.a.
+Arrabbiata sauce VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from Italy where DT[form=defined] the capital city of ENTITY–3.
+Tomato VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Arrabbiata sauce which can can also can can VP[a.k.A.f.
+squid VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Arros negre, which can can also VP[adevel] be from ENTITY–3.
+cuttlefish VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Arros negre, which can can also from and from ENTITY–3.
+It VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a Java dish that main ingredients VP[ aspect=progressive,tensity=infinitive, voice=active.,person=jamble=active,person=null, number=null] consist of ENTITY–3.
+sausage VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in a bacon explosion which come from ENTITY–3.
+Bacon Explosion VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from the United States where DT[form=defined] the Chief Justice VP[a.k.a. John C.D.
+Bacon Explosion VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be a dish that VP[ as DT[form=undefined] a main ingredient VP[ASpect=progressive,tend=present-voice=passive, person=null, number=null] use ENTITY–3.
+Bacon butty VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in a bacon sandwich which can also can also be by :.
+Christmas pudding VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Baked Alaska which can also VP[ade=passive, person=null, number=null] think to VP[ as ENTITY–3.
+Baked Alaska VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from China, where DT[form=defined] the VP[a.k.a. person=null, ENTITY–3, can also VP[ASpect=passive,tend to VP[ aspect=perfect, voice=person=null, number=null] hear.
+Baked Alaska and cookies VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=undefined] a type of ENTITY–2.
+Bakewell pudding VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create the Rutland Arms and DT[form=undefined] a main ingredient in ENTITY–1 ingredients of ENTITY_3.
+Bakewell tart VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in bakewell pudding which ENTITY–3 and ENTITY_1 variations on same dish.
+Lemon VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from DT[form=defined] the genus Citrus and ENTITY–1 in ENTITY -3.
+Shrimp VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in batchoy which can also VP[adevel] be from ENTITY–3.
+Philippines VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] eat in the Chinese Filipino, where ENTITY–3 form one of DT[form=defined] the ethnic groups.
+Beef kway teow VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish from Singapore where one of languages that VP[a.k.A.D. speak ENTITY–3.
+Beef kway teow VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish from Singapore where one of the leaders VP[a.k.a PATIENT-2's ethnic groups, in turn ENTITY–3.
+The Bhajji VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from the country of India where DT[form=undefined] a political leader VP[a.k.a. ENTITY–3.
+Bhajji VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish similar to pakora and ENTITY–1 ingredient of ENTITY3.
+Banana VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a main ingredient in binignit along with ENTITY–3.
+Sago VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a main ingredient in Binignit along with ENTITY–3.
+Sweet potato VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] belong to DT[form=defined] the division of flowering plants, and ENTITY–1 inclusdes in DT [form=undefined] a dish VP[ASpect=prolsh.
+Solanales VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in sweet potato and ENTITY–2 order of plants ENTITY3.
+Granola VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Bionico, which should VP[a.konfinitive,tone=passive,person- serve as ENTITY–3 course.
+Bionico VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be a dessert that can sometimes contain DT[form=undefined] a variation of ENTITY–3.
+Bionico and ice cream VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=undefined] a type of ENTITY–2.
+Siomay VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Batagor, which VP[a.k.a. ENTITY–3, which variation of ENTITY/1.
+The Atatürk Monument in Turkey VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] inaugurate on `` PATIENT-3 ''.
+The Baku Turkish Martyrs Memorial VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] make from Red granite and white marble and DT[form=defined] the dedicate to ENTITY–3.
+The Baku Turkish Martyrs Memorial VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] make from Red granite and white marble and VP[ade=defined] the native name of ENTITY–1 ENTITY3.
+Dead Mans Plack VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] make from rock and DT[form=defined] the dedicate to ENTITY–3.
+Serie B play in Carpi FC 1909, DT[form=defined] the champions of which VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be ENTITY–3.
+AC Chievo Verona play at the Stadio Marc'Antonio Bentegodi in DT[form=undefined] a league VP[aspect=simple,tense=past,voice=active,person=null,number=null] call ENTITY–3.
+Lumezzane ground VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in Italy where DT[form=undefined] a political leader VP[a.C.D. of ENTITY–3.
+Jorge Humberto Rodriguez VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] be manager of A D Isidro Metapan, ENTITY–2 also DT[form=undefined] a player for ENTITY3.
+their VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in DT[form=defined] the league, 1500, and ENTITY–1 ground VP[a.k.a. PATIENT-3 members.
+AFC Blackpool VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] have Stuart Parker as their manager, ENTITY–2 also DT[form=undefined] a member of ENTITY3.
+AFC Blackpool VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] have Stuart Parker as their manager, ENTITY–2 also DT[form=undefined] a member of ENTITY3.
+Fylde VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] have DT[form=defined] the ground 3180 and ENTITY–3 members.
+Fylde VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] base at 3180 and ENTITY–1 ground ENTITY3 members.
+Livorno Calcio VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] manage by Christian Panucci who once DT[form=undefined] a player for ENTITY3.
+AS Roma ground VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in Rome, ENTITY–1 play in DT[form=undefined] a league in which ENTITY PATIENT-3 play.
+ACF Fiorentina play in DT[form=defined] the Serie A league which VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] base in ENTITY3.
+Ajax Youth Academy VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] manage Frank de Boer and also DT[form=undefined] a player for ENTITY3.
+AFC Ajax N.V. VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] own AFC Ajax which currently with DT[form=undefined] a memberrs of ENTITY–3.
+AFC Ajax ( amateurs ) ground VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in Amsterdam where DT[form=defined] the leader of PATIENT-3.
+AFC Ajax ( amateurs ) VP[aspect=simple,tense=past,voice=active,person=null,number=null] play in 5000 and ENTITY–1 ground VP[ as DT[form=undefined] a capacity of ENTITY_3.
+AZAL PFK VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] play their home matches at the AZAL Arena, which can VP[ as well as in DT[form=defined] the city of ENTITY–3.
+Alkmaar Zaanstreek ( abbreviated to AZ Alkmaar ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a membership of ENTITY–3.
+Agremiação Sportiva Arapiraquense's ground VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be the Estadio Municipal Coaracy da Mata Fonseca, located in DT[form=defined] the country of ENTITY–3.
+Agremiação Sportiva Arapiraquense full name VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be `` Agremiação Sportiva Arapiraquense '' and ENTITY1 VP[a.k.a. PATIENT-2, ENTITY 1 VP[ASpect=progressive,tens=present-voice=null,people=non-3rd.number=null] have DT[form=undefined] a membership of ENTITY–3.
+Akron Summit Assault VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Akron, Ohio, ENTITY–3.
+Chieti Calcio VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] be DT[form=defined] the manager of Massimo Drago and previously of, and now, ENTITY–3.
+Saranapalli Radhakrishnan Road VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the director of it's campus in ENTITY–3.
+The school official school colours VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be The All India Council for Technical Education and DT[form=defined] the ` Technical Campus'status of ENTITY - ENTITY–1 - VP[ASpect=perfect, tense=past,voice =passive.,person=null,number='null] give by ENTITY3.
+The Acharya Institute of Technology VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] offer tennis as DT[form=undefined] a sport and ENTITY–2 VP[adevel body of ENTITY/3.
+The School of Business and Social Sciences at the Aarhus University VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] affiliate with the European University Association, which headquarters in ENTITY3.
+The Acharya Institute of Technology VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in DT[form=defined] the state of Karnataka which borders on ENTITY–3.
+Virginia DeMarce and Eric Flint VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=defined] the authors of 1634 : The Bavarian Crisis, which VP[a.k.a. sequel to ENTITY–3.
+The book VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be available as Eric Flint and DT[form=defined] the author of ENTITY–1 book, VP[ASpect=progressive,tensity=present.voice=passive.,person=null,number-null] call ENTITY PATIENT-1.
+1634 : The Ram Rebellion VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be available in patient-2.k.a and DT[form=defined] the author VP[a.k.a. PATIENT-2.
+ACM Transactions on Information Systems VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the abbreviation of ACMTrans and CODEN code ENTITY–3.
+The AIDS ( journal ) VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] publish in the UK, where DT[form=defined] the leader VP[a.k.a. PATIENT-3.
+A Fortress of Grey Ice, by J.V. Jones, VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a ISBN number of ENTITY–3.
+A Glastonbury Romance VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in Prints and DT[form=defined] the ISBN number of ENTITY–3.
+A Glastonbury Romance VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be available in hardcover with DT[form=undefined] a ISBN number of `` PATIENT-3 ''.
+A Glastonbury Romance VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in 1174 and ENTITY–1 ENTITY -3 pages long.
+A Long Long Way VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the OCLC number 0-670-03380 4 and ISBN number of ENTITY–3.
+A Loyal Character Dancer VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] publish in the United States, where ENTITY3 form one of DT[form=defined] the ethnic groups.
+Soho Press in the United States VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the publisher of ENTITY–3.
+A Wizard of Mars VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] write by Diane Duane and DT[form=defined] the OCLC number ENTITY–3.
+A Wizard of Mars VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] publish in hardcover and DT[form=undefined] a ISBN number of ENTITY–3.
+A Wizard of Mars VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have 560 pages and DT[form=defined] the ISBN number of `` PATIENT-3 ''.
+Above the Veil VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a Australian novel which VP[a.k.a. the sequel to ENTITY–3.
+Aenir VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] write in Above the Veil and DT[form=undefined] a prequel to ENTITY–3.
+Above the Veil VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] write after Aenir.
+Julius Springer VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the founder of Springer Science and Business Media, which in turn publisher of both PATIENT-3.
+Administrative Science Quarterly ( abbreviated to Q.S ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the CODEN code ENTITY–3.
+Cornell University VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] affiliate with the Association of Public and Land grant Universities and DT[form=defined] the publisher of ENTITY–3.
+Aenir, by Garth Nix, VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a ISBN number of `` PATIENT-3 ''.
+Alcatraz Versus the Evil Librarians VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] publish in hardcover and DT[form=undefined] a ISBN number of `` PATIENT-1 ''.
+Alcatraz Versus the Evil Librarians VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be 320 pages long and DT[form=defined] the ISBN number of ENTITY–3.
+The AIDS ( journal ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] belong to DT[form=defined] the academic discipline, HIV, and DT [form=undefined] a family of ENTITY3.
+A Fortress of Grey Ice VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from the United States where DT[form=defined] the national language of PATIENT-3.
+Abilene Regional Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve DT[form=defined] the city of Abilene in Texas, part of both ENTITY–3, ENTITY4.
+Adirondack Regional Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Adolfo Suárez Madrid – Barajas Airport in Madrid VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a runway name of `` ENTITY–3 '' and DT[ form=undeserved a runway length of ENTITY_4.
+Agra Airport in India, with DT[form=defined] the ICAO location identifier of `` PATIENT-3 '', VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] operate by ENTITY4.
+Iraq VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the operating organisation for Al Asad airbase in ENTITY–3, which VP[a runway length of ENTITY_4.
+Al Asad Airbase, which VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] involve in the United States Air Force and battles at DT[form=defined] the city of ENTITY–3, VP[aero-1 operating organization for aircraft carriers and aircraft carriers, ENTITY4.
+Al Asad Airbase VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Al Asad Airbase VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+DT[form=defined] the 1st runway at Alderney Airport which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve ENTITY–2, surface type VP[ade=simple-present, voice=active-active, person=non-3rd.,number=plural] be ENTITY3, VP[a length of ENTITY=singular] be in length..
+Alpena County Regional Airport, located in Wilson Township, Alpena County, Michigan, VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY–3 metres above sea level and VP[adevel[form=undefined] a runway length of ENTITY -4.
+Amsterdam Airport Schiphol, which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve DT[form=defined] the city of Amsterdam, located at 3 meters above sea level with DT [form=undefined] a runway that VP[adevelle to DT[ form=defined" the length ENTITY–4 meters.
+Andrews County Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Texas, DT[form=defined] the largest city of which in turn be ENTITY–3, ENTITY4.
+Angola International Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located at Ícolo e Bengo, DT[form=undefined] a popular tourist destination in ENTITY–3, and ENTITY_1 runway length of ENTITY -4.
+Angola International Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located at Ícolo e Bengo, DT[form=undefined] a popular tourist destination in ENTITY–3, and ENTITY_1 runway name in turn VP[a.
+Antwerp International Airport VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] operate by the Flemish Region, which in turn belong to DT[form=defined] the region of ENTITY–3, at ENTITY4 metres above sea level.
+Antwerp International Airport, VP[aspect=simple,tense=past,voice=active,person=null,number=null] operate by the Flemish Region, and by DT[form=defined] the owner of ENTITY–3, services ENTITY4.
+Appleton, Wisconsin VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Appleton International Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Greenville, Wisconsin, which in turn VP[ as part of DT[form=defined] the city of ENTITY–3, ENTITY4.
+DT[form=defined] the 3rd runway at Ardmore Airport ( New Zealand ) VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] make from ENTITY - ENTITY–2, ENTITY_3, which VP[a.k.a. ENTITY 4..
+Ashgabat International Airport in Ashgabat VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be elevated at DT[form=undefined] a elevation of 211 metres above sea level and DT[ form=defined] the runway length VP[ASpect=perfect.
+Athens International Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve DT[form=defined] the city of Athens, ENTITY–3 where ENTITY_4 heads by PATIENT-2.
+The airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Egg Harbor Township, New Jersey, in DT[form=defined] the country of ENTITY–3, and VP[a runway name VP[ aspect=progressive,tendering=present.,voice=passive, person=null,number-null] call ENTITY_4.
+Antwerp International Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve DT[form=defined] the city of Antwerp, ENTITY–3 where ENTITY -4 VP[ade=present-3.
+DT[form=defined] the 2nd runway at Poaceae VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] make from ENTITY - ENTITY–2, ENTITY_2 order : ENTITY3 and class : ENTITIES-4..
+Alan Bean VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=undefined] a crew member of Apollo 12, which VP[a.k.a. PATIENT-1, VP[ASpect=progressive,tend=present, voice=passive, person=null.,number=null] operate by ENTITY–3, and whose commander inagurate ENTITY_4.
+Dianne Feinstein VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a senator in California where ENTITY - ENTITY–3, who later in life VP[ as of ENTITY=null, die in PATIENT-4.
+Buzz Aldrin, who VP[aspect=simple,tense=past,voice=active,person=null,number=null] graduate from Apollo 11 and whose real name VP[a.k.a. ENTITY–3, VP[ade=past perfect,tend to VP[asse=infinitive, voice=active.,person=voice=passive,person=(null, number=null) become DT[form=undefined] a crew member of ENTITY4.
+Buzz Aldrin, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in Glen Ridge, New Jersey, and DT[form=undefined] a member of ENTITY–3 crew, VP[ade=past perfect,tensity=present,voice =active,person=-3rd,number='null] spend ENTITY+4 in space.
+Alan Shepard, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] award the Distinguished Service Medal by the US Navy, ENTITY–3.
+Elliot See, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] select by NASA in 1962, VP[ade=past perfect,tend=present,voice =active,person=-3rd.,number=null] pass away on ENTITY–3, in DT[form=defined] the city of ENTITY -4.
+Elliot See, Deceased, VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear on in DT[form=defined] the same city on ENTITY–3 in ENTITY4.
+William Anders VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+11 Diagonal Street VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in South Africa, where DT[form=defined] the capital city of ENTITY–3 and ENTITY_4.
+11 Diagonal Street VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in South Africa, where DT[form=defined] the leader of ENTITY–3 and one ethnic group VP[a.k.C.D. of DT[ form=undefined] a ethnic group of people there VP[ASpect=progressive,tens=infinitive, voice=active.,person=null, number=null] be ENTITY 4.
+11 Diagonal Street VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in South Africa, where DT[form=defined] the leader of ENTITY–3 and ENTITY_4 VP[ade=infinitive, voice=active.,person=non-3rd.,number=plural] be one ethnic group.
+200 Public square VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in Cleveland, in DT[form=defined] the country of ENTITY–3, where ENTITY_4, who VP[ as one of DT[ form=undefined] a leader.
+Buffalo, New York VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+300 North LaSalle VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Chicago, in DT[form=defined] the country of ENTITY–3, where ENTITY_4, one of DT[ form=demonstrative] this city leaders, VP[adevel] be in attendance.
+HOK SVE VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=defined] the architect of 3Arena, which VP[a.s.l. complete in ENTITY–3, and located at ENTITY4.
+The company Populous VP[aspect=simple,tense=past,voice=active,person=null,number=plural] be DT[form=defined] the architects of the 3Arena, which VP[a.s.l. complete in ENTITY–3, and located at ENTITY 4.
+3Arena, located in Dublin, in DT[form=defined] the country of ENTITY–3, VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] own by ENTITY4.
+3XN VP[aspect=simple,tense=past,voice=active,person=null,number=plural] be DT[form=defined] the architects of the AC Hotel Bella Sky Copenhagen, which currently tenants by DT [form=undefined] a Marriott and located in ENTITY–4.
+James Pain VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=defined] the architect of Adare Manor, which VP[a.k.a. ENTITY–3, and ENTITY_1 owner inagurate by ENTITY4.
+Addis Ababa City Hall, the Government of Addis Ababa high, DT[form=undefined] a floor area of ENTITY–3, VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be currently in use by current tenant ENTITY4.
+Adisham Hall, with architectural style Bangalore, VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] complete in ENTITY–3 and located in DT[form=defined] the country of ENTITY4.
+The Akita Museum of Art VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have 3746.66 square metres floors and DT[form=undefined] a floor area of ENTITY–3.
+The Akita Museum of Art VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Akita, in DT[form=defined] the city of ENTITY–3, in and ENTITY_4.
+The College of William and Mary VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=defined] the start date of DT [form=undefined] a building at Alan B Miller Hall, ENTITY–3, which VP[a.k.a. ENTITY_4.
+the Alan B. Miller Hall, Virginia, VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] own by DT[form=defined] the chancellor of ENTITY3.
+Virginia VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the current tenant of the Alan B. Miller Hall, located in ENTITY–3, ENTITY4.
+Alan B Miller Hall in the College of William and Mary, VP[aspect=simple,tense=past,voice=active,person=null,number=null] start on ENTITY–3 and VP[ade=passive,tend=singular] own by DT[form=defined] the owner of ENTITY4.
+Ampara Hospital, with Ampara District beds, VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in DT[form=defined] the region of ENTITY–3, ENTITY4.
+Ampara Hospital VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in the Eastern Province, in DT[form=defined] the country of ENTITY–3, where DT [form=undefined] a key leader VP[a.
+The Asher and Mary Isabelle Richardson House, VP[aspect=simple,tense=past,voice=active,person=null,number=null] build in U.S. Route 83, and located at DT[form=undefined] a U.S.C.F.C., ENTITY–1 VP[ASpect=progressive,tend=present,voice =passive,person-null, number=singular] add to DT[forms=defined] the National Register of Historic Places on ENTITY_3.
+the Asilomar Conference Grounds in Pacific Grove, California VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] add to DT[form=defined] the National Register of Historic Places, on.
+Asser Levy Public Baths VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be located in Asser Levy Avenue and East 23rd Street and ENTITY–1 addition to DT[form=defined] the National Register of Historic Places inagurate on `` PATIENT-3 ''.
+Asser Levy Public Baths VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be located in New York City, part of DT[form=defined] the city of ENTITY–3, in.
+Amdavad ni Gufa VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in India, where DT[form=defined] the leaders of ENTITY–3 and ENTITY_4.
+Karl Kesel Auron and DT[form=defined] the comic book creator VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY–4, along with ENTITY/3.
+The BBC VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] show on Tony Hall, Baron Hall of Birkenhead, which located in DT[form=defined] the city of ENTITY–3 and DT [form=undefined] a key member of staff by ENTITY_4.
+Bananaman VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be first broadcast by October 3, 1983 on DT[form=undefined] a tv series on ENTITY–3 and VP[adevel VP[ aspect=prolural] star of ENTITY_4.
+Duncan Rouleau VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=defined] the first appearance for Baymax who VP[a.k.a. the character's real name VP[ASpect=progressive,tens=present, voice=passive, person=null.,number=null] consider to VP[ade=infinitive,everything===null.
+Bibbo Bibbowski VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by Jerry Ordway and ( DT[form=defined] the creator of ENTITY–1 ) ENTITY3.
+Blockbuster VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a comic character with DT[ form=defined] the alternative name of Roland Desmond, and VP[a.k.a. PATIENT-1, ENTITY–3, by ENTITY4.
+the comic character, Bolt VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the alternative name, Larry Bolatinsky, and ENTITY–1 creators VP[a.k.a PATIENT-3, VP[ASpect=plural] be in DT[Form=demonstrative] this field.
+Bolt VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the alternative name, Larry Boltinsky, and ENTITY–1 creators VP[a.k.a PATIENT-3, and DT[ form=undefined] a comic book character of ENTITY4.
+Ajoblanco ( alternative name ajoblanco ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] contain DT[form=undefined] a ingredient of ENTITY–3 and can can VP[ as well as VP[ade=null,tendering in ENTITY4.
+Water VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Ajoblanco which VP[a.k.a. a dish from DT[ form=defined] the region of ENTITY–3, in country ENTITY4.
+Indonesian VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish from Joko Widodo, where ENTITY–3 and/or ENTITY4 VP[ as leader.
+it's VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be a food spoken nationwide and also in DT[form=defined] the country of ENTITY–3, where ENTITY_4 heads by PATIENT-2.
+Arrabbiata sauce VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from Italy where DT[form=defined] the national language VP[a.k.C.a. ENTITY–3, and ENTITY_4 heads by PATIENT-2 leader.
+Rome VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Arrabbiata sauce, which can can also can can can VP[ as DT[body=null, number=null] find in DT [form=defined] the region of ENTITY–3, ENTITY_4.
+Rome VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Arrabbiata sauce which can can also can can can be from DT [form=defined] the region of ENTITY–3, ENTITY4.
+Catalonia VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Arros negre, which can can also from ENTITY–3, ENTITY_4.
+Cuttlefish VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Arros negre, which can can also from ENTITY–3, ENTITY_4.
+Asam pedas VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from DT[form=defined] the region of Sumatra and Malay Peninsula, ENTITY–3, and DT [form=undefined] a dish that VP[a.k.a. the main ingredients VP[ aspect=progressive,tens=present-voice=axle=passive,person-m.
+Ayam penyet VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Bacon Explosion VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from sausage and DT[form=undefined] a main ingredient VP[ASpect=progressive,tensity=singular] be ENTITY–3.
+Bacon Explosion VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from the United States where DT[form=defined] the capital city city city of PATIENT-3 and one ethnic group of ENTITY–4.
+Bacon Explosion VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from the United States where DT[form=defined] the leader VP[a.k.a.
+Bacon Explosion VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from the United States where DT[form=undefined] a political leader, John C.R. and one of ethnic groups in ENTITY–2 VP[ASpect=progressive,tensity=present-present, voice=active.,person=non-3rd.,number=plural] be that of ENTITY -3.
+condiments VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be ingredients in bacon sandwiches which come from and can also VP[ as DT[form=undefined] a variation on ENTITY–3 or ENTITY4.
+Meringue VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Baked Alaska which can also VP[ as ENTITY–1, ENTITY=3 and ENTITY_4.
+sponge cake VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Baked Alaska which can also can can be from DT [form=defined] the region of ENTITY–3 and ENTITY_4.
+Christmas pudding VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Baked Alaska, which along with ENTITY–4 can also ENTITY/3.
+Christmas pudding VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Baked Alaska, which along with ENTITY–4 VP[ as ENTITY/3, should VP[a.k.A.C.
+Bandeja paisa VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a the kidney bean dish from DT[ form=defined] the region of ENTITY–3 and one of DT [form=defined" the ingredients VP[a.k.A. the ingredients ENTITY -4 -.
+Barny cakes can VP[aspect=simple,tense=present,voice=passive,person=null,number=null] find in France, where DT[form=defined] the leaders VP[a.k.a. PATIENT-2 and ENTITY–3, VP[ as well as ENTITY -4.
+Barny cakes, which can VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] be apple, contain DT[form=undefined] a total of ENTITY–3 of protein and ENTITY -4 of carbohydrates.
+Beef kway teow VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish from Singapore where DT [form=defined] the local currency inagural] be PATIENT-3 and ENTITY–2 leader ENTITY_4.
+Oyster sauce VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in beef kway teow, which can also VP[adevel] be popular in DT [form=defined] the region of ENTITY–3, and also in countries such as Indonesia.
+Beef kway teow VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a popular dish in Indonesia and also ENTITY–3, where ENTITY -4 heads by PATIENT-2.
+-3.k.a VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from the country India and DT[form=defined] the main ingredients of ENTITY–1 food VP[a.k.a. ENTITY.-3.
+Bhajji VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from India, where DT[form=defined] the people who live there VP[ade=present-non-4th,number-plural] be ENTITY–3.
+Bhajji VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from India, where DT[form=defined] the leaders of ENTITY–2 VP[ade=present-non-3rd-3-2 include DT[ form=undefined] a Narendra Modi and a leader of PATIENT-3.
+Bhajji VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from DT[form=defined] the Karnataka region and DT [form=undefined] a dish that VP[a.k.a. PATIENT-2, ENTITY1 main ingredients VP[ aspect=progressive,tend=present-voice=passive,person-null,number-plural] use ENTITY–3.
+Binignit VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish from sweet potato that main ingredient VP[ASpect=progressive,tens=present-voice=passive,person-3 and ENTITY–4.
+Bionico VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish from sour cream, ENTITY–1 ENTITY_3 that can contain ENTITY4.
+Bionico VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a raisins dish from DT [form=defined] the region of ENTITY–3, ENTITY4.
+Celery VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from DT[form=defined] the genus Apiaceae, from ENTITY–3 family, and ENTITY_1 DT [form=undefined] a ingredient of ENTITY4.
+Granola VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient of Bionico, which like can also ENTITY/3, as can ENTITY–4.
+Bakso VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish from it's, where ENTITY–3 VP[ as capital and ENTITY_4.
+Ayam penyet VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish from Singapore, and ENTITY–3 ( country of ethnic ENTITY4 ).
+Ayam penyet VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish from Java, ENTITY–3, and ENTITY4 VP[ as one ethnic group.
+Arròs negre VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a traditional dish from Spain, where ENTITY–3 and ENTITY_2 leader's name VP[ASpect=progressive,tens=present-voice=passive, person=null, number=null] call ENTITY -4.
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be one of DT[form=defined] the ethnic groups in New Zealand.
+It VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] dedicate to It, ENTITY–1 location of which VP[a.s.l. be in DT[form=defined] the country's leader's name of ENTITY_3.
+Hüseyin Bütüner and Hilmi Güner VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] dedicate to the Turkish martyrs, VP[a.k.a. ENTITY–3, located in ENTITY4.
+Hüseyin Bütüner and Hilmi Güner VP[aspect=simple,tense=past,voice=active,person=null,number=plural] be DT[form=defined] the designers of the Baku Turkish Martyrs Memorial, located in and in ENTITY–3, whose leader's name VP[a.k.C.D.
+DT[form=defined] the native name of the Baku Turkish Martyrs Memorial VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY–2 and ENTITY_1, which VP[a.k.a. PATIENT-3, VP[ asante=undefined] a monument in ENTITY4..
+Cesena, who VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] have DT[form=undefined] a ground in 23900, ENTITY–3 members, play in in in and ENTITY4.
+Calcio Catania VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] be DT[form=defined] the manager of Massimo Drago, ENTITY–2 club ENTITY3 and ENTITY4.
+Lumezzane VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have 4150 members, play in DT[form=defined] the league, ENTITY–3 in ENTITY4 season.
+A.E Dimitra Efxeinoupolis VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Greece, where DT[form=defined] the leaders of which VP[a.k.a. ENTITY–3, and/or ENTITY4.
+AFC Blackpool VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] have Stuart Parker as their manager, ENTITY–2 once DT[form=undefined] a footballer for ENTITY3 and ENTITY4.
+AFC Blackpool VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] have Stuart Parker as their manager, ENTITY–2 once DT[form=undefined] a footballer for ENTITY3 and ENTITY4.
+AFC Blackpool VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] have Stuart Parker as their manager, ENTITY–2 also DT[form=undefined] a footballer with ENTITY3 and ENTITY4.
+3180 ( abbreviated to the A.F.C. Fylde ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a membership of ENTITY–3, and ENTITY1 ground VP[a.k.a. PATIENT-4.
+Livorno Calcio VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] manage by Christian Panucci who once of DT[form=defined] the football teams at, and now VP[aays for, ENTITY–3, VP[ASpect=perfect.
+70634 ( abbreviated to A.S. Roma ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a membership of ENTITY–3 and ENTITY1 ground in ENTITY4.
+AEK Athens FC, who VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] have DT[form=undefined] a ground in 69618, ENTITY–3 members, play in in in and win ENTITY4 in PATIENT-2.
+AFC Ajax ( amateurs ), with 5000 members, VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in DT[form=defined] the league, ENTITY–3 league, and ENTITY1 play in ENTITY_4.
+AZAL Arena VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the ground of AZAL PFK who play in ENTITY–3, of which ENTITY4 VP[ as champions.
+Alkmaar Zaanstreek ( abbreviated to AZ Alkmaar ) VP[aspect=simple,tense=past,voice=active,person=null,number=null] compete in DT[form=defined] the ENTITY–3 season and ENTITY -1 ground currently hosts ENTITY 4 fans.
+De Graafschap VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] be manager of John van den Brom and ENTITY–2 club VP[ASpect=simple,Tense=past,voice =active, person=null,number-singular] be ENTITY/3 but ENTITY_2 now play for DT[form=undefined] a football team at ENTITY4.
+Agremiação Sportiva Arapiraquense's ground VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be the Estadio Municipal Coaracy da Mata Fonseca, and DT[form=defined] the league ENTITY–1 play in VP[ as well as ENTITY3 where DT[ form=undefined] a championship with ENTITY_4.
+Agremiação Sportiva Arapiraquense play in DT[form=defined] the Campeonato Brasileiro Série C league, which VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] base in ENTITY–3 and ENTITY_2 champions of football.
+Akron Summit Assault, whose ground VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be St Vincent-St Mary High School, play in DT[form=undefined] a league, ENTITY–3, of which ENTITY_4 VP[ as champions.
+Akron Summit Assault, with 3000 members, VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a member of ENTITY–3, with champions ENTITY_4.
+DT[form=defined] the ground of A.S. Gubbio 1910 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY2, where ENTITY–3 live and ENTITY_2 leader VP[ade=present-3..
+AEK Athens FC ground VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be the Olympic Stadium ( Athens ), located in DT[form=defined] the city of ENTITY–3, where DT [form=undefined] a mayor VP[a.k.C.F.
+the Accademia di Architettura di Mendrisio in 600 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a dean of ENTITY–3 and ENTITY=4 students.
+DT[form=defined] the motto of the Acharya Institute of Technology located in ENTITY2 city, VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be `` ENTITY–3 ''..
+DT[form=defined] the President of the Acharya Institute of Technology located in ENTITY2, ENTITY3, VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY–4..
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be one of DT[form=defined] the ethnic groups in New Zealand.
+India VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Mumbai, where DT[form=defined] the largest city city of ENTITY–3 and ENTITY4 can VP[ as DT[ form=undefined] a river.
+The 1 Decembrie 1918 University VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Romania, where DT[form=defined] the leader of ENTITY–2, who VP[a.k.a. ENTITY_3, ENTITY4.
+It latin name VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be `` The university '' and ENTITY1 VP[a.s located in DT[form=defined] the country's patron saint of ENTITY–3.
+The School VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] establish in 1928 and currently VP[aderes DT[form=undefined] a staff size of ENTITY–3 and student population size of 16.
+1634 : The Bavarian Crisis VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Eric Flint, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in Burbank, California, DT[form=defined] the author of ENTITY–3 and ENTITY/3 ENTITY4.
+1634 : The Ram Rebellion VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be Eric Flint with ENTITY–3 pages and DT[form=undefined] a book by ENTITY4.
+1634 : The Ram Rebellion by Eric Flint VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be available in DT[form=defined] the ENTITY–3 format with DT [form=undefined] a ISBN number of ENTITY_4.
+1634 : The Ram Rebellion, available as 1634 : The Ram Rebellion, VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a total of ENTITY–3 pages long and DT [form=defined] the authors of which VP[ahem : ENTITY_4.
+ACM Transactions on Information Systems ( abbreviated to ACMTrans. Inf. Syst ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of DT[form=defined] the academic Discipline of ENTITY–3 and DT [form=undefined] a ISSN number ENTITY_4.
+ACM Transactions on Information Systems ( abbreviated to ACMTrans. Inf. Syst ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of DT[form=defined] the academic Discipline of ENTITY–3 and DT [form=undefined] a ISSN number ENTITY_4.
+The United Kingdom VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] publish in Elizabeth II by DT[form=undefined] a subsidiary of ENTITY–3, whose leader's name VP[a.k.a PATIENT-4.
+A.T. Charlie Johnson VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the editor of AIP Advances, which ENTITY–3 own, and ENTITY_2 residence VP[a.k.a. PATIENT-4.
+AIP Advances ( abbreviated to A.T. Charlie Johnson ) VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] edit by DT[form=defined] the editor ENTITY–3, and VP[a CODEN code of `` PATIENT-4 ''.
+A Glastonbury Romance VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be available in hardcover, OCLC number : ENTITY–3, ISBN number : `` PATIENT-4 ''.
+A Long Long Way VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] write in English, DT[form=defined] the language of both PATIENT-3, and ENTITY4.
+A Loyal Character Dancer VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] publish by Soho Press, in and in and from, PATIENT-3, where one of DT[form=defined] the ethnic groups VP[a.k.A.C.F.
+A Loyal Character Dancer in Soho Press VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the publisher of ENTITY–3 and ENTITY_4.
+A Severed Wasp VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be available in Print with DT[form=defined] the OCLC number of ENTITY–3 and Library of Congress Classification ENTITY_4.
+A Severed Wasp, available in 388, VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY–3 pages and DT[form=undefined] a ISBN number of `` PATIENT-4.
+A Wizard of Mars by Diane Duane VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] publish in ENTITY–3 with DT[form=undefined] a OCLC number of ENTITY_4.
+A Wizard of Mars by Diane Duane VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] publish in DT[form=defined] the ENTITY–3 format with DT [form=undefined] a ISBN number of ENTITY_4.
+Above the Veil VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the sequel to Australians and from ENTITY/4.
+The Acta Mathematica Hungarica ( abbreviated to Hungar ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a LCCN number of 83 and ISSN number of ENTITY–4.
+It's ( abbreviated to It's ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come under DT[form=defined] the discipline of ENTITY–3 and VP[a.k.a. ISSN number ENTITY4.
+The Acta Palaeontologica Polonica ( abbreviated to Pol ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a LCCN number of ENTITY–3 and ISSN number ENTITY_4.
+Addiction ( journal ) ( abbreviated to addiction ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] belong to academic discipline, and DT[form=undefined] a ISSN number of ENTITY–3.
+Garth Nix VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the author of Aenir, available in in ENTITY–3 with OCLC number ENTITY4.
+Garth Nix VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the author of Aenir, available in in ENTITY–3 and ISBN number of `` PATIENT-4 ''.
+The American Journal of Mathematics ( abbreviated to Mathematics ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come under DT[form=defined] the academic discipline of ENTITY–3 and DT [form=undefined] a ISSN number of `` PATIENT-4 ''.
+the American Journal of Mathematics ( abbreviated to the academic field of study ) VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be first VP[ as of ENTITY–3 with DT[form=undefined] a ISSN number of `` PATIENT-4 ''.
+Administrative Science Quarterly VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] publish by Q.S, which founder of ENTITY–3.
+The United Kingdom VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] publish in David Cameron by DT[form=undefined] a subsidiary of ENTITY–3 and ENTITY4.
+A Fortress of Grey Ice VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from the United States, where DT[form=defined] the leader VP[a.k.a. ENTITY–3, and one ethnic group of ENTITY_2 VP[ASpect=progressive,tensity=present-present-voice=passive, person=null,number-null] call ENTITY4.
+Alcatraz Versus the Evil Librarians VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from the United States where DT[form=defined] the language VP[a.k.a. PATIENT-3, and ENTITY–4 VP[ as one of DT[ form=demonstrative] the ethnic groups.
+Abilene Regional Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve DT[form=defined] the city of Abilene in Texas, part of both ENTITY–3 in ENTITY4, and VP[a runway length ENTITY5.
+Adolfo Suárez Madrid – Barajas Airport in Alcobendas, VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] operate by DT[form=defined] the operating organization of ENTITY–3, ENTITY_4, in DT[ form=undefined] a popular tourist destination in, and tourist destination of, in and from ENTITY/5.
+The Adolfo Suárez Madrid – Barajas Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located at Madrid and DT[form=undefined] a operation organization of ENTITY–3, ENTITY1 runway name VP[a.s.l. and length of `` ENTITY_4 ''.
+Agra Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be Uttar Pradesh above sea level and located in ENTITY–3, part of DT[form=defined] the state of ENTITY -4.
+Agra Airport, part of Uttar Pradesh, VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the location of ENTity-3 and VP[ade=defined" the leader ENTITY_4.
+Al Asad Airbase VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] operate by the United States Air Force who deploy DT[form=defined] the attack aircraft, ENTITY–3, aircraft fighter, fighter pilot, aircraft-4, and VP[adeircraft fighter, and who VP[airdrove battles battles in ENTITY/5.
+Al Asad Airbase VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] operate by the United States Air Force who deploy DT[form=defined] the attack aircraft, ENTITY–3, aircraft fighter, fighter aircraft, and aircraft fighter ( aircraft fighter ), as well as battles in battle with aircraft fighter and fighter planes, such as ENTITY_4.
+Al Asad Airbase VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] operate by the United States Air Force who deploy DT[form=defined] the attack aircraft, ENTITY–3, and aircraft fighters, such as aircraft fighter ENTITY_4, and who VP[airdrove battles in battles at PATIENT-5.
+Al Asad airbase VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] operate by the United States Air Force who deploy DT[form=defined] the attack aircraft, ENTITY–3, aircraft fighter, fighter aircraft, and aircraft fighter ( aircraft fighter ), as well as battles in battles at and Invasion of ENTITY -4.
+The Pakistan Civil Aviation Authority VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Alpena County Regional Airport, located in Alpena, Michigan, VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve DT[form=defined] the city of ENTITY–3 at ENTITY4 metres above sea level and DT[ form=undefined] a runway length of ENTLE-5.
+Amsterdam Airport Schiphol, which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve DT[form=defined] the city of Amsterdam, ENTITY–3 meters above sea level and VP[adevel ENTITY_4 long.
+Andrews County Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Texas, where DT[form=defined] the demonym of people VP[a.k.a. ENTITY–3, ENTITY=4, and ENTITY/5 VP[ASpect=procrural] speak.
+Andrews County Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Texas, in DT[form=defined] the country of ENTITY–3, where ENTITY -4 live and ENTITY/5 VP[a.
+Andrews County Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Texas, in DT[form=defined] the country of ENTITY–3, where ENTITY -4 live and one of languages that VP[adevel] be speak in use ENTITY/5.
+Andrews County Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Texas, DT[form=defined] the largest city of which in total ENTITY–3, ENTITY4, and ENTITY2 capital city ENTITY5.
+Angola International Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Antwerp International Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve DT[form=defined] the city of Antwerp, ENTITY–3, where ENTITY4 VP[ade=present-3 VP[a.k.a. ENTITY/2 VP[ASpect=progressive,tendering=present.voice=passive, person=null.,number=singular] lead by ENTITY_5.
+Appleton International Airport, located in Appleton, Wisconsin, VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve DT[form=defined] the city of ENTITY–3, and located at ENTITY4 metres above sea level with DT [form=undefined] a runway length of ENTITIES-5.
+Greenville, part of Dale, Wisconsin, VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the location for ENTITY–3, which services ENTITY4.
+DT[form=defined] the 3rd runway at Ardmore Airport ( New Zealand ) VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] make from ENTITY -2 ( ENTITY–3 and ENTITY_4 ), ENTITY/5..
+its VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be poaceae above sea level, DT[form=undefined] a 3rd runway surface type of ENTITY–3, runway name of `` PATIENT-4 '', and runway length ENTITY=5.
+Atlantic City International Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Egg Harbor Township, New Jersey, which in turn, in DT[form=defined] the township of ENTITY–3, ENTITY4, and ENTITY_1 runway length, in PATIENT-5.
+Adolfo Suárez Madrid – Barajas Airport in Madrid, VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the operating organisation for ENTITY–3, located at ENTITY_4, in and ENTITY/5.
+Atlantic City International Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+DT[form=defined] the 2nd runway at Ardmore Airport ( New Zealand ) VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] make from ENTITY–3, ENTITY_2 ( ENTITY=4 ; ENTITY/5 )..
+United States Alan Bean VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=undefined] a crew member of ENTITY–3, which VP[a.k.a. ENTITY_4, with command by ENTITY/5.
+Alan Shepard, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear on November 18, 1923 in DT[form=defined] the state of ENTITY–3, VP[ade=past perfect,tend=present,voice =active,person=-null, number=null] graduate from ENTITY ENTITY_4 and VP[a year later, ENTITY=null, NASA astronaut, NASA VP[ASpect=prodigy-1 VP[asmpect=perfect.
+Alan Shepard, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in New Hampshire, later in life in life become DT[form=undefined] a Test pilot.
+Alan Shepard, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in New Hampshire, later in life in life become ENTITY–3 and DT[form=undefined] a crew member of ENTITY -4, which VP[a.k.a. tv series, VP[asm=active, person=null.,number=null] operate by ENTITY/5.
+Alan Bean VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=undefined] a crew member of Apollo 12, which VP[a.k.a. ENTITY–3, along with backup pilot ENTITY_4 and ENTITY/5.
+Buzz Aldrin VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Elliot See VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Elliot See VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Elliot See VP[aspect=simple,tense=past,voice=active,person=null,number=null] attend the University of Texas at Austin ( VP[ as part of DT[form=undefined] a affiliation of ENTITY–3 ) and VP[adevel to ENTITY/4, where ENTITY -1 later in life VP[a.k.a. PATIENT-2, VP[ASpect=progressive,tend=present, voice=passive,person-null, number=null" die in ENTITY5.
+Elliot See VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+his, who VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=undefined] a crew member of Buzz Aldrin and ENTITY–4, VP[a NASA test pilot and crew member, ENTITY_1 date of retirement VP[ASpect=prolsh=present, voice=passive, person=null.
+11 Diagonal Street VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in South Africa, where DT[form=undefined] a political leader inclusdes PATIENT-3, DT [form=defined] the capital of ENTITY–2 VP[a.CITY-4, and ENTITY5 form one ethnic group.
+11 Diagonal Street VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+200 Public Square VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of Cleveland, DT[form=undefined] a city with DT [form=defined] the governing body ENTITY–3, and VP[ade=present-1 home to ENTITY4.
+DT[form=defined] the building at 250 Delaware Avenue VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] start in ENTITY–2, VP[a floor count of ENTITY_3, floor area ENTITY4, and architectural style ENTITY5..
+300 North LaSalle VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Chicago, part of DT[form=defined] the city of which, in and of ENTITY–3, ENTITY4, where ENTITY -5 VP[ade=present-3 leader.
+3Arena, VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] own by Live Nation Entertainment, and located in DT[form=defined] the city of ENTITY3, ENTITY4 ( Lord Mayor of which ENTITY–5 ).
+3Arena in Live Nation Entertainment, part of DT[form=defined] the Republic of Ireland, VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] own by ENTITY–4 and DT [form=undefined] a leader of ENTITY - ENTITY/2, ENTITY_5.
+the AC Hotel Bella Sky Copenhagen, with Bella Center floors, VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] own by DT[form=defined] the owner of ENTITY–3, with DT[ form=undefined] a current tenant of tenant ENTITY4, located in ENTITY5.
+its, with Bella Center floors, VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] design by DT[form=defined] the architects of ENTITY–3, and now own by ENTITY4, with tenant ENTITY -5.
+Adisham Hall in Bangalore VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] start in DT[form=defined] the region of PATIENT-3 and ENTITY–4 with DT [form=undefined] a architectural style of ENTITY/5.
+Adisham Hall VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Haputale, DT[form=undefined] a popular tourist destination in DT [form=defined] the country of ENTITY–3, where ENTITY_4 VP[ as capital and ENTITY/5 VP[a.k.l.
+Adisham Hall in Bangalore VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] start in DT[form=defined] the region of PATIENT-3 and ENTITY–4 with ENTITY -5.
+The Akita Museum of Art VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Akita, part of DT[form=defined] the city of ENTITY–3, in and ENTITY_4, where ENTITY -5 form one ethnic group.
+Robert A.M. Stern VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=defined] the architect of Alan B Miller Hall, located in ENTITY–3, which currently hosts ENTITY4, located located in and ENTITY5.
+the Alan B. Miller Hall, which VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] complete on 1June 2009, in DT[form=defined] the country of ENTITY–3, currently hosts current tenant ENTITY4, which can also VP[a.k.a. PATIENT-5.
+Amdavad ni Gufa VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+DT[form=defined] the address of Amdavad ni Gufa VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be, ENTITY–2 ENTITY3 ENTITY4, in and in ENTITY/5 ENTITY_6..
+Amdavad ni Gufa VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Ahmedabad, in DT[form=defined] the state of Gujarat, ENTITY–3, in and ENTITY4, where ENTITY -2 leader's name ENTITY5.
+Ampara Hospital VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in the Eastern Province, in DT[form=defined] the country of ENTITY–3, where ENTITY_4 and ENTITY's leader of PATIENT-3, ENTITY -5.
+Julia Morgan, VP[aspect=simple,tense=past,voice=active,person=null,number=null] bear in San Francisco, also DT[form=defined] the architect behind ENTITY"-3, ENTITY–4 and ENTITY/5.
+Julia Morgan, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in California, also DT[form=defined] the architect of many significant buildings, one of whose buildings in California in California VP[ASpect=progressive,tens=present, voice=active, person=3rd, number=null] be ENTITY–3, ENTITY4 and ENTITY/5.
+New York City VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of Asser Levy Public Baths, which in turn, in DT[form=defined] the country of.
+103 Colmore Row VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] design by the architect John Madin, from DT[form=defined] the town of ENTITY–3 ( ENTITY_4 ), where ENTITY -5 VP[ade=active,tend=present, voice=active.
+Addis Ababa and Addis Ababa Stadium VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be located in DT[form=defined] the city of ENTITY–1 in ENTITY ENTITY -4, where ENTITY's leader of which VP[a.k.l.
+250 Delaware Avenue VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Bananaman, VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be first broadcast by Steve Bright on ENTITY–3, by DT[form=defined] the creators of which ENTITY_4 and ENTITY/5.
+the comic character of Bolt, with alternative Larry Boltinsky, VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by ENTITY–3 and DT[form=undefined] a national of ENTITY/4, who also ENTITY -5.
+Baymax, DT[form=undefined] a character in Duncan Rouleau, which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] star ENTITY–3,, inagurate by ENTITY -5, ENTITY_4.
+Baymax VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a character in Duncan Rouleau, which ENTITY–3 stars, and ENTITY_1 VP [aspe=past, voice=passive- create by ENTITY -5, ENTITY ENTITY.
+Baymax, DT[form=undefined] a character in Duncan Rouleau, which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] star ENTITY–3,, inagurate by ENTITY -5, ENTITY_4.
+Ajoblanco VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from DT[form=defined] the country of Andalusia, ENTITY–3, and DT [form=undefined] a dish which VP[a.k.a. PATIENT-4.
+Ajoblanco ( alternative name Ajo blanco ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from DT[form=defined] the region of ENTITY–3, ENTITY4, and ENTITY1 VP[a.k.a. water, which VP[ as one of DT[ form=defined" the ingredients in ENTITY_1, can also can VP[ASpect=progressive,tens=presentITY-5.
+Arem-arem VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish of Javanese cuisine, ENTITY–1 main ingredients VP[ aspect=progressive,tend?,voice=passive, person=null.,number=plural] use ENTITY-, and ENTITY -1 variation VP[a.k.a.
+Arem-arem VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Arrabbiata sauce VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Arros negre VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Arros negre VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Arros negre VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Asam pedas ( alternative name Asam padeh ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish of ENTITY–3 from DT [form=defined] the region of ENTITIES-4 and ENTITY/5.
+Asam pedas VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Bacon Explosion VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from the Kansas City metropolitan area, ENTITY–3, and ENTITY1 main ingredients VP[ as ENTITY -4 and ( as DT[form=undefined] a ingredient ) ENTITY5.
+The Bacon Explosion VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from the United States where DT[form=undefined] a political leader in ENTITY–3, DT [form=defined] the capital city in Washington, ENTITY=4, and there of many ethnic groups one of which inclusdes ENTITY5.
+a bacon sandwich, which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be popular in Bacon Ridge, New Jersey, can also be by DT[form=defined] the names ENTITY–3 or ENTITY_4.
+a bacon sandwich VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+It, which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be popular in Bacon Sandwich's, main ingredients VP[ aspect=progressive,tensity=infinitive, voice=active.,person=null, number=null] be ENTITY–3 and can also VP[ade=defined] the names of ENTITY_4.
+Baked Alaska VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Baked Alaska VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from the United States, ENTITY–3, and DT[form=defined] the main ingredients of ENTITY_1 food of PATIENT-4.
+Bakewell tart VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in bakewell pudding ( variant of ENTITY–3 ), which can can also can also from ENTITY -4 region, part of which can also ENTITY_5.
+Bakewell pudding's VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be Derbyshire Dales from DT[form=defined] the region of DerITY-3, ENTITY_1 main ingredients VP[ as ENTITY–4 and ENTITY/5.
+Shortcrust pastry VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in bakewell tart ( or ENTITY–3 ) from ENTITY -4, part of ENTITY5.
+Bandeja paisa VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Batagor VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Shiitake VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Shumai which in turn and variation of ENTITY–3, which can also can can can VP[a.k.a.
+Beef kway teow VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish from Indonesia and also from, ENTITY–3, where ENTITY4 VP[a.k.a. ENTITY_5, can VP[ as well and ENTITY/null, and where one of DT [form=defined] the leaders VP[adevel] the local leaders, can CRLC, VP[ASpect=progressive,tzones=null, number=null] speak.
+Beef kway teow VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Beef kway teow VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Beef kway teow VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish from Singapore and Indonesia and also from and popular dish in ENTITY–3, where one of DT[Form=defined] the languages VP[a.k.a. the leaders of ENTITY3 VP[ASpect=progressive,tenses=present-voice=passive,person-3, and one of whose ethnic groups VP[adevels VP[ aspect=perfect,tensed=presentITY-4, call ENTITY -5.
+Bhajji VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+India VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from Sumitra Mahajan, where DT[form=defined] the people who live there VP[aonym of ENTITY–3 and DT[ form=undefined] a political leader VP[ aspect=progressive,tensity=present-voice=passive, person=null,number-null] call ENTITY_4 and/or ENTITY5.
+Bhajji VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Bhajji VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Sweet potato VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] contain solanales ( of DT[form=defined] the order ENTITY–3 ), ENTITY_4, and ENTITY/5.
+Bionico VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from DT[form=defined] the Guadalajara region, ENTITY–3, and ENTITY1 main ingredients of ingredients of ENTITY_4.
+Bionico VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Bakso VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a Chinese cuisine dish from ENTITY–3, where DT [form=defined] the capital city city city VP[a.s.l.
+Celery VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Bakso which VP[a.k.a. dish from ENTITY–3, where ENTITY4 VP[ade=present-3.
+Amatriciana sauce VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a traditional dish from Italy, where ENTITY/3 and ENTITY–4 VP[ as well as in ENTITY -5.
+Java VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish from Baduy and also from, and region of, ENTITY–3 ( country of, which ENTITY_4 and ethnic group of ENTITY -5.
+Java VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Philippines VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] find in Ilocano people where ENTITY–3 VP[a.k.a. PATIENT-4 and people of DT[form=defined] the ethnic group of ENTITY/5 can VP[ade=presentę be found.
+Arròs negre VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from Spain, where DT[form=defined] the country's leader and ethnic group of ENTITY–3, ENTITY=4 VP[ade=defined" the currency, and ENTITY/non-3rd person=null,number-plural] be ENTITY5.
+The 11th Mississippi Infantry Monument VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in DT[form=defined] the municipality of Gettysburg Pennsylvania, ENTITY–3.
+a contributing property VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be west of the 11th Mississippi Infantry Monument where ENTITY - ENTITY–3 located in DT[form=defined] the state VP[ASpect=perfect, tense=past,voice=-active, person=null,number-null] categorise as ENTITY_4.
+Baku's VP[aspect=simple,tense=past,voice=active,person=null,number=plural] be DT[form=defined] the designers of the Turkish martyrs memorial, which VP[a.k.a. monument, which in turn awards ENTITY–3, and located in capital city ENTITY4.
+Azerbaijan VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of the Turkish martyrs memorial, where ENTITY–3 and ENTITY_4 VP[ as ENTITY1 capital city, and where one of DT [form=demonstrative] this country's monuments can also be located in ENTITY -5.
+Red granite and white marble VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of Baku Turkish Martyrs'Memorial, where there you will find ENTITY–3, which, in DT [form=undefined] a ENTITY 4, VP[a monument to ENTITY -5.
+Azerbaijan the Turkish martyrs VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of ENTITY–1 where ENTITY - ENTITY_4, located in ENTITY/1, VP[a memorials to people who VP[adelevered by PATIENT-5, can VP[ as well.
+39371 ( abbreviated to A.C. Chievo Verona ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in DT[form=defined] the country of ENTITY–3, VP[a ENTITY1 ground in ENTITY4, and ENTITY_1 VP[ade to VP[asse=infinitive,tensity=null] play ENTITY -5 season.
+Rolando Maran, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in Italy, and now DT[form=undefined] a manager of ENTITY–3, VP[ade=present, voice=non-3rd, number=null] play for ENTITY4 and ENTITY5.
+Michele Marcolini, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in Italy and now DT[form=undefined] a manager for ENTITY3, VP[adevelos for previous club ENTITY4 and ENTITY5.
+A.E Dimitra Efxeinoupolis VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+DT[form=defined] the fullname of they VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY–2, ENTITY_1 have full name of `` PATIENT-3, '' ENTITY=1 ground VP[a.s.l. play in ENTITY4 and ENTITY -1 play in season ENTITY/5..
+5300 ( abbreviated to A.S. Gubbio 1910 ), VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] manage by DT[form=defined] the ground by ENTITY–3, and ENTITY_1 ground VP[ASpect=progressive,tend=present-present, voice=active, person=null, number=null] hold ENTITY -4 fans, ENTITY1 play in ENTITY5 season.
+19238 ( abbreviated to Livorno Calcio ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a membership of ENTITY–3, ENTITY1 home ground VP[a.k.a. ENTITY_4 and VP[ade in ENTITY5 season.
+The Associazione Sportiva Roma ( abbreviated to AS Roma ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a membership of ENTITY–3, ENTITY1 ground in ENTITY4, and ENTITY_1 VP[ade=past,tend to VP[asse=infinitive, voice=active.,person=null,number-null] play ENTITY5 season.
+AZAL Arena VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the ground of AZAL PFK who play in ENTITY–3, of which ENTITY4 VP[ as champions.
+3500, with AZAL Arena members, VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the ground of ENTITY–1, who play their home matches in ENTITY -4, with champions ENTITY_5.
+AFC Ajax VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the manager of John van den Brom, which VP[a.k.a. ENTITY–3 own, and ENTITY_2 also in ENTITY4 and ENTITIES-5.
+Agremiação Sportiva Arapiraquense, whose nickname VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be `` Asa Gigante '', play in DT[form=defined] the ENTITY–3 league in ENTITY4 where ENTITY -5 VP[ as champions.
+The 2015 Campeonato Brasileiro Série C VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=defined] the champions of Agremiação Sportiva Arapiraquense, ENTITY–4, which ENTITY3 play in in ENTITY -5.
+Akron Metron club Summit Assault ( abbreviated to Akron Summit Assault, VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] manage by DT[form=defined] the manager by ENTITY–3, play in ENTITY4 and VP[a.s.l.
+Akron Summit Assault, who VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] have DT[form=undefined] a ground in Akron, Ohio, play in DT[ form=defined] the league, which in turn ENTITY–3, ENTITY_4, with ENTITY -5 as champions.
+DT[form=defined] the ground of A.S. Gubbio 1910 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY–2, where ENTITY_2 leader VP[ade=present-3, DT[ form=undefined] a capital city VP[ASpect=progressive,tend,voice =active, person=null,number-null] be ENTITY4, and ENTITY/person=null/number=null] speak ENTITY -5..
+DT[form=defined] the ground of it's VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY–2, where ENTITY_3 VP[a.s.l. speak, capital city city VP[ASpect=procrural] be ENTITY4 and ENTITY5..
+Stadio Olimpico, or A.S. Roma for short, VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a ground at ENTITY–3 and VP[adevel in ENTITY4, where ENTITY -5, who once VP[ahem be champions, play.
+DT[form=defined] the city of Mendrisio ENTITY–3 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be home to DT [form=undefined] a academic staff size of about 100 and ENTITY's dean ENTITY=3..
+It in 600 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] establish in DT[form=defined] the region of Switzerland, ENTITY–1 VP[ASpect=progressive,tens=present, voice=active, person=null.,number=null] attend by ENTITY PATIENT-3 and currently VP[ as well-equipped with students and ENTITY -4 members of staff, DT [form=undefined] a country with ENTITY/5.
+DT[form=defined] the city of Mendrisio VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be home to ENTITY1 which VP[adevel] be established in ENTITY–3, with ENTITY_4 as Dean, and ENTITY -5 academic staff..
+The Institute VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] give DT[form=defined] the ` Technical Campus'status by the All India Council for Technical Education ( located in ENTITY–3 ) and ENTITY_1 also VP[ as well as to VP[a liking to PATIENT-4, which can VP[ASpect=progressive,tend=present, voice=passone=active,person- find in DT [form=undefined] a city in DT[ augural] the city of ENTITY5.
+The Acharya Institute of Technology's campus VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in Sri Lanka, DT[form=defined] the country of ENTITY–3, and ENTITY_1 currently inagurate ENTITY -4 postgraduate students.
+The Institute in 2000 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] establish in DT[form=defined] the country of ENTITY–3, ENTITY_1 director VP[ASpect=perfect,tle=present, voice=active, person=3rd,number='null] be ENTITY4 and ENTITY1 VP[adevel VP[ aspect=progressive,tensity=present-voice=active.,person=3th,number:null] have strong connections with ENTITY/5.
+The 1 Decembrie 1918 University VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Romania, where DT[form=defined] the leader of ENTITY–2 VP[ASpect=progressive,tend, voice=passive, person=null, number=plural] call ENTITY3, ENTITY_2 capital VP[a.C.S.2 ethnic group VP[espect=perfect,tensity=present-voice=passural] be that of Germans, and also of PATIENT-4.
+the School of Business and Social Sciences at the Aarhus University in Denmark VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] establish in DT[form=defined] the ENTITY–3 and currently VP[ as well as with DT[ form=undefined] a staff size of ENTITY-$4, ENTITY_1 affiliation inaguralise with inagurate with ENTITY/5.
+it in 1928 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] establish in DT[form=defined] the ENTITY–3 season and currently VP[ as well as VP[ASpect=progressive,tens=present, voice=active,person =null, number=null] provide educational services to DT[ form=undefined] a academic staff of ENTITY-$4 and ENTITY -5 students.
+David Weber VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the author of it's, which in turn in turn VP[ade=past, voice=passive- follow by ENTITY–3 and then later by novel, which can VP[a.k.a. PATIENT-4, which originally in English.
+Virginia DeMarce VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the author of 1634 : The Ram Rebellion, ENTITY–3 pages long, available as ENTITY 4 and ISBN number ENTITY_5.
+The AIDS ( journal ) VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] publish in Lippincott Williams & Wilkins by DT[form=undefined] a subsidiary of ENTITY–3, ENTITY_2 leader ENTITY=4 and ENTITY/2 capital city ENTITY5.
+A Fortress of Grey Ice by J.V. Jones VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] produce in in in and can VP[ as well as with DT[form=undefined] a OCLC number of `` PATIENT-3 '', and ISBN number ENTITY_4.
+A Long Long Way, from The Secret Scripture, VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] follow by DT[form=defined] the sequel by ENTITY–3 and ENTITY_4 and then ENTITY/5.
+A Severed Wasp VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be available in Print with DT[form=defined] the OCLC number of ENTITY–3, ISBN number of `` PATIENT-4 '', and Library of Congress Classification ENTITY=5.
+English VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from Great Britain, and originally in DT[form=defined] the language of both, but now, ENTITY–3, same as in ENTITY 4, where ENTITY/5 VP[adevelural] be one ethnic group.
+A Severed Wasp VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a 388 page book available in ENTITY–3, with OCLC number ENTITY_4 and ISBN number of ENTITY5.
+A Wizard of Mars by Diane Duane VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be available in DT[form=defined] the ENTITY–3 format with DT[ form=undefined] a OCLC number of ENTITY_4, and DT [form=undeserved] a ISBN number of `` ENTITY-".
+Addiction ( journal ) VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] abbreviate to addiction and DT[form=undefined] a ISSN number of ENTITY–3 as well as of DT [form=defined] the LCCN number ENTITY_4.
+Cornell University VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Alcatraz Versus the Evil Librarians VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from English, and originally in DT[form=defined] the language of ENTITY–3, ENTITY_4, and ENTITY/5.
+The American Journal of Mathematics ( Mathematics ) VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] publish ENTITY–3 with DT[form=undefined] a academic discipline of ENTITY_4 and DT [form=defined] the ISSN number ENTITY -5.
+The American Journal of Mathematics, or Am.J. Math, VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be first VP[adevel[form=defined] the academic discipline of ENTITY–3, ENTITY4, with ISSN number ENTITY5.
+English VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] publish by Great Britain, located in DT[form=defined] the country of which, in both PATIENT-3, and in ENTITY/5, ENTITY_4, VP[ASpect=progressive,tendering.
+English VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from Great Britain, where DT[form=defined] the main language, as in ENTITY 4 and ENTITY/non-3rd person=null,number-null] speak ENTITY–3, and where ENTITY5 form one ethnic group.
+English VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from Great Britain, where DT[form=defined] the main language, as in ENTITY 4 and ENTITY/non-3rd ethnic group of ENTITY–2, ENTITY_3.
+United Kingdom VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+English VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from Great Britain, where they speak DT[form=defined] the same language as in ENTITY–3, same as in both of PATIENT-4, and one of their ethnic groups of ENTITY/2 VP[adevels VP[ as ENTITY_5.
+English VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from Great Britain, where they speak DT[form=defined] the same language as in ENTITY–3, same as in both of PATIENT-4, and where there is ethnic group of ENTITY/5.
+A Severed Wasp VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from the United States, where DT[form=defined] the leader VP[a.k.e.voice=passive-3, ENTITY–4, and one ethnic group of ENTITY/non-3rd ethnic group VP[espect=plural] be ENTITY5.
+Abilene, Texas VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Abilene Regional Airport, which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve Abilene in Texas, located at DT[form=undefined] a elevation of ENTITY–3 metres above sea level with DT[ form=defined] the ICAO location identifier ENTITY4, and VP[ade=defined" the runway name, which in turn VP[a nice confectionery ENTITY -5, and DT [form=defined) the runway length of which, ENTITY=6.
+Abilene Regional Airport, which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve Abilene, Texas, located at DT[form=undefined] a elevation of ENTITY–3 metres above sea level with DT[ form=defined] the ICAO location identifier ENTITY4, VP[a runway name ENTITY - ENTITY5, and DT[forms=undeserved length ENTITY=6.
+its in Madrid VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] operate by DT[form=defined] the operating organization ENTITY–3, VP[ade=present-voice=active, person=non-3rd.,number=plural] be elevated ENTITY4 metres above sea level and VP[a runway name VP[ASpect=progressive,tend=presentITY-5, with length of ENTITY=6.
+Agra Airport, with DT[form=defined] the ICAO location identifier of Uttar Pradesh, VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY–3, part of both ENTITY4 and ENTITY5.
+Uttar Pradesh VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the native name of Agra Airport in ENTITY–3, part of DT [form=undefined] a part of both ENTITY4 and ENTITY5.
+Al Asad Airbase VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Al Asad Airbase VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] operate by the United States Air Force who deploy DT[form=defined] the attack aircraft, ENTITY–3, transport aircraft, aircraft fighter, aircraft-4, fighter aircraft and aircraft fighter ( aircraft fighter ), as well as aircraft fighter and fighter aircraft, such as ENTITY -5, and VP[ade=prolsh battles in battles at PATIENT-2.
+their, who VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] operate Al Asad airbase, have previously battles in DT[form=defined] the Invasion of PATIENT-3, battles in battles at ENTITY–4 and VP[adevels ENTITY -5 on ENTITY2 aircraft carriers.
+the United States Air Force, who VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] operate Al Asad Airbase, have previously battles at DT[form=defined] the cities of ENTITY–3 and ENTITY4, and VP[ade=infinitive,tens=infilait aircraft carriers such as DT[ form=undefined] a attack aircraft, and DT [form=demonstrative] this transport aircraft, which can also VP[a.k.a. DT[voice=passively transport aircrafts, such as, ENTITY_5.
+Lahore VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the operating organisation of the Allama Iqbal International Airport, which VP[a.k.a. the city of ENTITIES-3, located in ENTITY4, ENTITY–5, where ENTITY_6 VP[ade=perfect,k.C.D. and leader ENTITY -7.
+Lahore VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the operating organisation for Allama Iqbal International Airport in ENTITY–3, ENTITY_4, which VP[adevel VP[ as well as ENTITY 5, where one of the leaders VP[a.D.C. the local people VP[assevels ENTITY -6.
+it's in Andrews, Texas, which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve DT[form=defined] the city of ENTITY–3, VP[a.s.l. situate ENTITY4 meters above sea level and VP[ade=defined" the runway name, of which ENTITY=5 VP[ASpect=progressive,tens=present-present, voice=active,person=null,number-null] measure ENTITY -6 meters long.
+Andrews County Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Texas, in DT[form=defined] the country of ENTITY–3, where ENTITY_4 VP[ as ENTITY/2 capital city, as well as DT[formed the largest city, ENTITY5, and ENTITY -6 can VP[a.k.a. speak.
+Andrews County Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Texas, where DT[form=defined] the largest city city of ENTITY–3, people of which VP[a.k.C.D. call ENTITY -4, ENTITY5, and ENTITY=6 VP[ade=defined" the state's capital city of Gujarat.
+Angola International Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located Luanda metres above sea level in and services DT[form=defined] the city of ENTITY–3, ENTITY4, in ENTITY -5, in DT[ form=undefined] a part of ENTITIES-6.
+Angola International Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located at Ícolo e Bengo, in DT[form=defined] the city of ENTITY–3, ENTITY4, at elevated ENTITY5 metres above sea level and with DT [form=undefined] a runway length of ENTLE-6.
+The Flemish Region VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the operating organisation for Antwerp International Airport, which VP[a.k.a. city=null, number=null] own by ENTITY–3, and which services city of ENTITY4, ENTITY=5 meters above sea level, and DT [form=undefined] a runway length ENTITY6.
+Appleton International Airport, located in Appleton, Wisconsin, VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve DT[form=defined] the city of ENTITY–3 at ENTITY4 metres above sea level, with DT [form=undefined] a runway name of `` ENTITY -5 '', and DT[ form=undeserved by ENTITY_6 meters.
+Greenville VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of Clayton Winnebago County, ENTITY–3, and DT[form=undefined] a location of both PATIENT-4 and ENTITY/5.
+The Civil Aviation Authority VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the operating organisation for Ardmore Airport ( New Zealand ), which located at ENTITY–3 metres above sea level with DT[ form=undefined] a 3rd runway surface type of ENTITY4, and runway name of ``, ENTITY_5 '', which measures length of, in length.
+Ashgabat VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=defined] the operating organisation for its in ENTITY3, ENTITY–4 metres above sea level, with DT [form=undefined] a runway name of ENTITY5, and runway length, of course, of which ENTITY=6.
+The Port Authority of New York and New Jersey VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the operating organisation for Atlantic City International airport which, located ENTITY–3 metres above sea level and with DT[ form=undefined] a ICAO Location Identifier of ENTITY_4, VP[a runway name ENTITY/5, and runway length ENTITY=6.
+Antwerp International Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Adirondack Regional Airport VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a city in Lake Placid in New York, ENTITY–3, which VP[ade=progressive,tend=present-voice=passive- serve by ENTITY4.
+the United States Alan Bean, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in in DT[form=defined] the city of ENTITY–3, later in life VP[a career VP[ade=progressive,tend to become DT[ form=undefined] a crew member for ENTITY -4 and later, for crew member on ENTITY/5, which ENTITY's operator inagurate by ENTITY‑6.
+Alan Shepard, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear on November 18, 1923 in ENTITY–3 and who later in life VP[adevel[form=undefined] a graduate from ENTITY_4, VP[a NASA test pilot and later in time ENTITY - who later VP[asmpect=progressive,tend to VP[asse=present, voice=active, person=null.,number=null] pass away on, ENTITY/5, in in in California.
+Alan Shepard, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in New Hampshire and who Alma Mater ENTITY–3, VP[asm=past perfect,tend to VP[ade=infinitive, voice=active,person =null, number=null] be ENTITY/4 and VP[asse=perfect,tENSE=present,voice =active, person=3rd,number:null] pass away in DT[form=defined] the state of ENTITY5.
+Alan Shepard, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in New Hampshire, in 1959 ENTITY–1 VP[ASpect=progressive,tend=present, voice=active, person=null.,number=null] begin work for DT[form=undefined] a organisation in 1959 and VP[ as DT[ form=defined] the space program, in 1963 as crew member of ENTITY -4, which ENTITY=5, but ENTITY_1 since then VP[a.k.a. ENTITY6.
+Alan Bean VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=undefined] a crew member of Apollo 12, which ENTITY–3, along with backup pilot, pilot, commander, and astronaut, ENTITY_4, spend ENTITY -5 in space.
+He, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear on November 18, 1923 in in DT[form=defined] the state of ENTITY–3, later in life, go on to VP[ade=infinitive,tvoice=active, person=null.,number=null] receive ENTITY_4, which rank higher than ENTITY -5, and VP[asm=perfect,tendiole to ENTITY/1 death in California.
+Elliot See, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in Dallas, ENTITY–1 alma Mater VP[ASpect=progressive,tle=present, voice=active, person=null.,number=plural] be ENTITY -3, which, part of DT[form=defined] the affiliation of ENTITY4 and DT[ form=undefined] a competition league, will host ENTITY_5 and ENTITY's president VP[a.D.C.
+Elliot See VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Elliot See VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Elliot See, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in Dallas, almaMater in life ENTITY–3, which in DT[form=demonstrative] this case VP[a affiliation VP[ade to belong to ENTITY4.
+William Anders VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=undefined] a crew member of NASA's ENTITY2 along with ENTITY–4 and ENTITY/non-3rd, number=plural] be backup pilot and pilot by backup pilot, ENTITY_5, who VP[adevel] retire on ENTITY=6.
+United Kingdom and London VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be leaders in DT[form=defined] the capital of ENTITY–1, ENTITY4 ( currency ENTITY5 ), where one of DT[ form=demonstrative] this country's landmarks VP[a.k.C.a. ENTITY 6, VP[ASpect=progressive,tendering by PATIENT-2 VP[ aspect=perfect,t he architect, located in London.
+250 Delaware Avenue VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+300 North LaSalle VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+3Arena in Live Nation Entertainment, part of DT[form=defined] the County of ENTITY–3, ENTITY4, VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] own by ENTITY5 and DT [form=undefined] a local leader VP[ASpect=progressive,Tense=past.
+Adisham Hall VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Adisham Hall VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Haputale, DT[form=undefined] a popular tourist destination in, ENTITY–3, where ENTITY_4 VP[ASpect=procracker-3 capital city VP[a.k.a PATIENT-5, and ENTITY -3 currency VP[ aspect=perfect,tenses=present.,voice=passive,person=]3rd.,number=null] call ENTITY6.
+Adisham Hall VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Haputale, in DT[form=defined] the country of ENTITY–3, where ENTITY -4 VP[ as leader, ENTITY5 as currency, and ENTITY6 as capital city.
+The Akita Museum of Art VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Akita, part of DT[form=defined] the city of ENTITY–3, in and ENTITY_4, where ENTITY -5 and ethnic group ENTITY=6.
+Amdavad ni Gufa VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Ahmedabad, in DT[form=defined] the city of ENTITY–3, ENTITY4, where DT [form=undefined] a leader VP[a.k.a. ENTITY -5 and ENTITY6 VP[ as one of many leaders.
+Amdavad ni Gufa VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Ahmedabad, in DT[form=defined] the city of ENTITY–3, in and ENTITY -4, where DT [form=undefined] a leader VP[a.C.L. call ENTITY_5, and DT[ form=defined" the leader of, in turn, ENTITY6.
+Ampara Hospital VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Julia Morgan, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in California, also DT[form=defined] the architect of many significant buildings, one of whose buildings in California in California VP[ASpect=progressive,tens=present, voice=active, person=3rd, number=null] be ENTITY–3, ENTITY4 and ENTITY/5.
+Julia Morgan, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in California, VP[ as DT[form=undefined] a architect, design many significant buildings, one of which in Chinatown, and also DT [form=defined] the grounds of ENTITY+5.
+The Asilomar Conference Grounds, VP[aspect=simple,tense=past,voice=active,person=null,number=null] construct in Pacific Grove, California in DT[form=defined] the architectural style of ENTITY–3 and located at ENTITY4, added to National Register of Historic Places on `` PATIENT-5 ''.
+Asser Levy Public Baths, VP[aspect=simple,tense=past,voice=active,person=null,number=null] construct in 23rd Street ( Manhattan ) in DT[form=defined] the architectural style of ENTITY–3 and located at ENTITY4, added to National Register of Historic Places ENTITY/5.
+Asser Levy Public Baths VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be located in New York City, part of DT[form=defined] the city of ENTITY–3, in.
+it's VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] design by the architect John Madin, who who originally from and VP[a.CITY-3, with postal code ENTITY–4 and now DT[form=undefined] a resident of ENTITY5 with ENTITY6 as one of AGENT leaders.
+Addis Ababa City Hall VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+250 Delaware Avenue VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+250 Delaware Avenue VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Bananaman VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] show by John Geering between DT[form=defined] the broadcast of ENTITY–3 and ENTITY_4, VP[ased=pastive,tensed=present,voice =defined] some of which ENTITY - VP[ASpect=progressive,tensity=present-voice=active, person=null.,number=null] create by ENTITIES-5 - and which currently inagurate ENTITY6.
+Baymax VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Ajoblanco ( alternative name Ajo blanco ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] include : DT[form=defined] the ingredients : ENTITY–3 ; ENTITY_1 VP[asm=present-3 can also from ENTITY -4, in and from, ENTITY/5.
+Amatriciana VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a sauce from Lazio, ENTITY–3 and ENTITY1 main ingredients of ingredients in ENTITY_1 food VP[ASpect=progressive,tens=presentITY-4.
+Arem-arem VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish of Javanese cuisine and ENTITY–3, where ENTITY_4 and currency ENTITY5, and where DT [form=defined] the official language of Indonesia VP[a.k.a. ENTITY6.
+Arrabbiata sauce VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from Italy where DT[form=defined] the country's leader VP[a.k.C.D. and people's ethnic group VP[ as ENTITY–3, people'ment=non-4's language of ENTITY - ENTITY_5 - and ENTITY=6 VP[ASpect=procrural] the capital city.
+Arros negre VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from DT[form=defined] the region of the Valencian Community, ENTITY–3, where ENTITY -4 VP[ as leader, and ENTITY/5 as demonym for people from ENTITY_3 VP[ASpect=progressive,tendering by ENTITY6.
+Asam pedas VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from DT[form=defined] the Malay Peninsula region, ENTITY–3 ( capital ENTITY4 ), where ethnic groups include ENTITY5 and ENTITY6.
+Asam pedas VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from DT[form=defined] the Malay Peninsula region, ENTITY–3 ( country of ENTITY4 ), where ethnic groups include ENTITY5 and ENTITY6.
+Ayam penyet VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Bacon Explosion VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from the United States where DT[form=defined] the leader VP[a.k.a. ENTITY–3, ENTITY_4, DT [form=undefined] a capital city of ENTITY5, and one ethnic group VP[ aspect=progressive,tensity=past, voice=passive, person=null,number-singular] call ENTITY -6.
+Baked Alaska VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from France, where DT[form=undefined] a political leader of ENTITY–3 and ENTITY/4, and also where ENTITY -5 can VP[ as well as from, and from, in, ENTITY_6.
+Shortcrust pastry VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in bakewell tart ( or, ENTITY–3 ) from ENTITY - ENTITY4 region, part of ENTITY5, where ENTITY_6 leader of DT[forms=defined] the local people, can also VP[ASpect=progressive,tens=infinitive, voice=passive, person=null, number=null] find.
+Bandeja paisa VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish from Columbian cuisine, ENTITY–3, that VP[a.k.a. the genus ENTITY_4 and family of ENTITY5.
+Bandeja paisa VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish from the Paisa Region, ENTITY–3, that VP[a.k.a. ENTITY4 ( member of DT[ form=defined] the order of ENTITY5 and family of family ENTITY6 ).
+Barny cakes VP[aspect=simple,tense=past,voice=active,person=null,number=null] come from sponge cake, where DT[form=defined] the country's leaders VP[a.k.e. both ENTITY -3 and ENTITY–4, ENTITY/non-3rd, number=plural] be PATIENT-5, and DT [form=undefined] a main ingredient in ENTITY_1 can ENTITY=6.
+Barny cakes can VP[aspect=simple,tense=present,voice=passive,person=null,number=null] find in Mondelez International, where DT[form=undefined] a leader and DT[ form=defined] the country's language VP[a.k.a. ENTITY–3, and ENTITY_4 can also VP[ASpect=perfect.
+Singapore VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Bhajji ( also VP[aspect=simple,tense=past,voice=active,person=null,number=null] know as Bhaji ), DT[form=undefined] a dish of ENTITY–3, VP[ade=present, voice=3rd,number-null] come from ENTITY4, ENTITY/5.
+Bhajji VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from DT[form=defined] the Karnataka region of ENTITY–3, where ENTITY_4 and ENTITY/5 lead, and where people from ENTITY - ENTITY-) call ENTITY6.
+Jalisco VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a food from Jesús Casillas Romero and ENTITY–3 ( leader : ENTITY4 ), and also ENTITY5, which variation on ENTITY/5 ENTITY6 VP[a.D.C.
+Bionico VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from DT[form=defined] the Guadalajara region, ENTITY–3, where ENTITY_4 VP[ade=past perfect, voice=passive, person=null, number=null] lead, and ENTITY -5, same as ENTITY6.
+Frangipane VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Bakewell tart ( variant of ENTITY–3 ), which can can also can also from ENTITY -4 region, ENTITY5, where ENTITY_6 leader VP[a.k.D.C.
+Frangipane VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in Bakewell tart ( variant of ENTITY–3 ), which can can also can also from ENTITY -4 region, part of DT[ form=defined] the city of Birmingham, where ENTITY/5 VP[ASpect=progressive,tens=present and DT[voice=passive/person=null, number=plural] lead by ENTITY6.
+Indonesia VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of Bakso, where ENTITY–3, ENTITY_4, and where one of DT [form=demonstrative] this country's local dishes VP[a.k.a. ENTITY5 can VP[ade=passive,tens=presentITY-6.
+Amatriciana sauce VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a traditional dish from Italy, where ENTITY–3 live, and ENTITY/4 and/or ENTITY5 lead by ENTITY -6.
+Java VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish from Baduy, and ENTITY–3 ( country of ENTITY4 ), where ENTITY5 VP[a.k.a. ENTITY6 VP[ASpect=progressive,tens=present-voice=passive,person-null,number-null] speak people.
+Philippines VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Singapore VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Ajoblanco VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from Spain where DT[form=defined] the country's leader and people's name ENTITY–3, ENTITY=4 VP[ade=infinitive, voice=passive, person=null,number-plural] call ENTITY -5, and ENTITY_6 can VP[ as well.
+The 11th Mississippi Infantry Monument VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in DT[form=defined] the municipality of Gettysburg Pennsylvania, ENTITY–3.
+Azerbaijan Baku VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of ENTITY–1, where ENTITY_4 and ENTITY/5, ENTITY - capital city, VP[ as well as ENTITY=6, can also VP[a.s.l.
+The Baku Turkish Martyrs Memorial VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+The memorial The memorial, VP[aspect=simple,tense=past,voice=active,person=null,number=null] design by DT[form=defined] the architects of ENTITY–3, and ENTITY=1 VP[ as well VP[ade=progressive,Tense=present, voice=passive, person=null.,number=plural] dedicate to ENTITY - ENTITY_4, also locally know as ENTITY/5, located in ENTITY6.
+Artur Rasizade the Baku Turkish Martyrs memorial VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the location of ENTITY–3, VP[ased by design by ENTITY_4, which can now VP[ade=passive,t he ENTITY -5, and ENTITY=6, which VP[a.k.a. PATIENT-3, which in turn hosts ENTITY7.
+Blackpool ground VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in Nasa, entity 3 where DT[form=defined] the leader VP[a.k.e.a. NASA, ENTITY–3.
+Gus Poyet VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] manage by Chelsea FC who once DT[form=undefined] a player for ENTITY–3 and now VP[a player for football at ENTITY4, ENTITY_1 play in ENTITY/5, of which ENTITY -6, have previously VP[adeveled.
+Agremiação Sportiva Arapiraquense's ground VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be Estadio Municipal Coaracy da Mata Fonseca in DT[form=defined] the city of ENTITY–3 and ENTITY_1 play in the league, ENTITY4, which can also in ENTITY -5, where ENTITY's champions VP[ahem-6 play.
+Agremiação Sportiva Arapiraquense's ground VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be Estadio Municipal Coaracy da Mata Fonseca in DT[form=defined] the city of ENTITY–3 and ENTITY_1 play in the league, ENTITY4, which can also in ENTITY -5, where ENTITY's champions VP[ahem-6 play.
+Agremiação Sportiva Arapiraquense VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+DT[form=defined] the city of Mendrisio ENTITY–3, VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[ form=undefined] a location in ENTITY1 which VP[a academic staff to VP[asse=infinitive, voice=active.,person=null, number=null] provide educational services and services to students, with ENTITY -1 dean ENTITY_4..
+the Accademia di Architettura di Mendrisio in Ticino, DT[form=undefined] a popular tourist destination in, VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in DT [form=defined] the country of ENTITY–3, which ENTITY_1 ( established 1996 ) VP[ as well as ENTITY - ENTITY' ENTITY-' ENTITY+7 students, and ENTITY3's leader's name ENTITY=8.
+the Acharya Institute of Technology in Bangalore VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] find in DT[form=defined] the state of ENTITY–3, which in turn hosts ENTITY4 and ENTITY -5 state.
+The Institute in Sri Sarvapalli Radhakrishnan Road VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] establish in DT[form=defined] the country of ENTITY–3, ENTITY1 VP[aderes ENTITY4 post-graduate students and ENTITY_1 campus can can also can VP[ aspect=progressive,tendering students by ENTITY 1 address : in PATIENT-5.
+Bangalore VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be west of DT[form=defined] the state of the Acharya Institute of Technology where ENTITY–3 in DT[ form=undefined] a neighbouring city VP[a.k. c.f. call `` PATIENT-1 '' and ENTITY_3 VP[adevel=past, voice=passive,person-null,number-singular[ affiliate with ENTITY -4.
+1 Decembrie 1918 University VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+it in Denmark VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] establish in DT[form=defined] the ENTITY–3 and currently VP[ as well as VP[ASpect=progressive,tens=present, voice=active,person =null, number=null] provide educational services to ENTITY 4 students with strong connections with ENTITY/5.
+A Long Long Way VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] write in The Secret Scripture, and ENTITY–1 DT[form=undefined] a prequel to ENTITY_3 which VP[a.k.a. ENTITY4, VP[ASpect=perfect,Tense=present, voice=active, person=3rd.,number=null] publish by ENTITY5.
+A Long Long Way VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a The Secret Scripture book which VP[a.k.a. the sequel to ENTITY–3 and DT[ form=defined] the follow-up to novel ENTITY4, which ENTITY/5 publish.
+Above the Veil VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the sequel to Into Battle ( DT[ form=undefined] a sequel to which VP[a.k. c. be ENTITY–3 ) and DT[voice=passive-2 sequel to novel ENTITY4, DT[Form=und[efined]A ENTITY5 novel, which VP [aspect-simple,Tense=past, voice=passural] follow by ENTITY6.
+Cornell University ( nickname Ithaca ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the publisher of ENTITY3, ENTITY_1 VP[adevel : ENTITY–4, in the state ENTITY/5, and ENTITY - ENTITY=1 also VP[a. ENTITY's Alma Mater and affiliation : in New York.
+Cornell University ( nickname Ithaca, New York ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the publisher of ENTITY3, ENTITY_1 VP[adevel : ENTITY–4, in the state ENTITY/5, and ENTITY - ENTITY=1 affiliation : with ENTITY6.
+Alcatraz Versus the Evil Librarians VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from English, and originally in DT[form=defined] the language of both PATIENT-3, ENTITY_4, and ENTITY–2, where ENTITY/5 VP[adevel VP[ as leader and DT[ form=undefined] a ethnic group of ENTITY6.
+English VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from Great Britain, where they speak DT[form=defined] the same language, as in ENTITY–4, but also where one ethnic group, inclusdes that of ENTITY5, and ENTITY=6 VP[a capital city, Washington.
+English VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from Great Britain where DT[form=undefined] a political leader VP[ASpect=progressive,tendering ENTITY–3, ENTITY/4 VP[a.k.a. same as in, but with variations such as, that of, in ENTITY5, and where one ethnic group of ENTITY - ENTITY_6 - can also be found.
+AIDS ( journal ) VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] publish in the United Kingdom, where DT[form=undefined] a leader of which, along with ENTITY–3 and ENTITY/4, VP[ade=simple-2 capital city city VP[a.k.a PATIENT-5, and they speak ENTITY6.
+The United Kingdom VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] publish in David Cameron by DT[form=defined] the parent company of ENTITY–3 ( parent company ENTITY4 ), DT[forms=undefined] a company with ENTITY5 and ENTITY6 as leaders.
+A Severed Wasp VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from English, where ENTITY–3 ( language of ENTITY4 ) VP[ased by ENTITY5 and ENTITY6, and by DT[form=defined] the ethnic group of PATIENT-2.
+A Severed Wasp VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from the United States, where DT[form=defined] the leader VP[a.k.e.a. ENTITY–3, and like in, like in ENTITY5, people there speak, largely, the language of ENTITY_4, and one ethnic group, ENTITY/non-3rd ethnic group VP[asm=plural] be that of, of which, of, that ENTITY -5.
+the United States Alan Bean, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in in DT[form=defined] the city of ENTITY–3, VP[ as part of crew member ENTITY -4, which ENTITY/s operator VP[a.l/situated in New Zealand and VP[ade=undefined] a crew member of, ENTITY5 by ENTITY_6, but now ENTITY=7.
+an American Alan Shepard, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear on ENTITY–3 in ENTITY_4, VP[ade=perfect,tend=present, voice=active, person=3rd.,number=null] graduate ENTITY -5, and in DT[form=undefined] a NASA career of ENTITY=progressive,tzlevel, optimism, ENTITY ENTITY1 VP[a.k.a. astronaut, who first VP[ aspect=prolsh, join space program in 1959, and later VP[ASpect=satisfy,tle=present.
+Alan Shepard, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear on November 18, 1923, in ENTITY–3, VP[ade=perfect,tend=present, voice=active, person=3rd.,number=null] receive ENTITY_4, and in DT[form=undefined] a NASA career of ENTITY/progressive,tzleavers, in 1959, ENTITY=1 VP[asm=null.
+Alan Shepard VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear November 18, 1923 in ENTITY–3.
+Alan Shepard, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in New Hampshire, later in life in life VP[a NASA astronaut, VP[ade=past perfect,tend=present,voice =passive.
+Edwin E.K., otherwise VP[aspect=simple,tense=past,voice=active,person=null,number=null] know as Buzz Aldrin, who VP[a.k.a. ENTITY–3 in ENTITY_4, VP[ade=perfect,tend=present, voice=passive, person=3rd,number='null] bear on ENTITY/3, and who later in life to VP[asse=infinitive, tweet ENTITY=null, graduate from ENTITY5, and then go on to become DT[form=undefined] a Fighter-6 and crew member of ENTITY7.
+Buzz Aldrin, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear on January 20, 1930, in ENTITY–3, and ENTITY_1 Alma Mater of ENTITY4, in DT[form=undefined] a NASA program VP[ASpect=defined] the city of Birmingham, in 1963, ENTITY=null, and now VP[a.k.a. a crew member on DT[ form=defined" the ENTITY -6 flight mission, VP[asm=null.
+Buzz Aldrin, who VP[aspect=simple,tense=past,voice=active,person=null,number=null] graduate from 1963, then DT[form=undefined] a fighter pilot and ENTITY–3, VP[ade=simple-past, voice=passive, person=null.,number=singular] select by ENTITY/6 in ENTITY_4 to VP[asse=infinitive,tone=active.,person=name=null," be DT[ form=undeserved on ENTITY -5 with backup pilot ENTITY7.
+Elliot See VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Elliot See, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear on July 23, 1927 in DT[form=undefined] a city in ENTITY–3, later in life VP[ as DT[ form=undiscovered] a student at ENTITY -4, which inadagurate with ENTITY5.
+his, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear on October 17, 1933 in ENTITY–3, VP[ as DT[form=undefined] a student at ENTITY4 and later ENTITY/5 and crew member of ENTITY6 before ENTITY_1 retirement on date=null] go on to sea on PATIENT-7.
+The Atatürk Monument VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+The Baku Turkish Martyrs Memorial VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+the 14th New Jersey Volunteer Infantry Monument, located in July 11, 1907 in DT[form=defined] the city of ENTITY3, VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] establish on ENTITY–4 and VP[a.k.a. ENTITY_5, and now under ENTITY6, by ENTITY7.
+The Monocacy National Battlefield VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located on Frederick, Maryland in DT[form=defined] the city of ENTITY–3, ENTITY_1, and ENTITY -1, which VP[a.s.l.f. establish on ENTLE-4, VP[ as ENTITY/5, and by ENTITY6.
+the Accademia di Architettura di Mendrisio in Ticino, in DT[form=undefined] a popular tourist destination in, VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in, ENTITY–3, which ENTITY_1 ( established in 1996 ) VP[ as well as ENTITY+5 students, and ENTITY -3's leader ( official title ENTITY=6 ), who's name in turn ENTITY7.
+the Acharya Institute of Technology campus VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be Saranvapalli Radhakrishnan Road, in DT[form=defined] the state of ENTITY–3, ENTITY 4, in India, which ENTITY - ENTITY_1 established in ENTITY5, and DT [form=undefined] a director of which, who also VP[a.D.C.
+The Institute in Bangalore, DT[form=defined] the country of ENTITY–3, VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] establish in DT[ form=undefined] a year later and currently VP[ aspect=progressive,tend to VP[asse=present, voice=active, person=null.,number=null] provide educational services to students with President ENTITY_ ENTITY=4, ENTITY5 and ENTITY6, and VP[a strong affiliation with ENTITY7.
+Karnataka VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be west of DT[form=defined] the state of the Acharya Institute of Technology where ENTITY–3 which VP[a.k.a. Technical Campus ENTITY_4 in ENTITY5, offer sport such as football, which sports go by ENTITY -6, VP[ASpect=progressive,tendering by sports body ENTITY7.
+The Acharya Institute of Technology VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] give DT[form=defined] the Technical Campus status by the All India Council for Technical Education in ENTITY3.
+1 Decembrie 1918 University VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+the School of Business and Social Sciences at the Aarhus University in Aarhus, which VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] establish ENTITY–3, currently VP[aderes with DT[form=undefined] a staff size of ENTITY-$4 and DT[ form=defined] the affiliation with ENTITY5, ENTITY_2 leader ENTITY=3rd.
+The School of Business and Social Sciences at the Aarhus University in Aarhus VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] establish in DT[form=defined] the ENTITY–3 and currently VP[ as well as VP[ASpect=progressive,tens=present, voice=active,person =null, number=null] provide educational services to ENTITY 4 students with strong connections with ENTITY/5.
+Alan Bean VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be March 15, 1932 on ENTITY–3 in DT[form=defined] the city of ENTITY4.
+Alan Bean, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in Wheeler, Texas, Alma Mater : ENTITY–3.
+his his, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear on ENTITY–3, in DT[form=defined] the city of ENTITY -4, VP[ade=past perfect,tend=present,voice =active,person=-null, number=null] graduate from ENTITY ENTITY/5, and VP[asm=simple-past,tensed=past-past perfect ENTITY=6, who in ENTITY_7 VP[a.k.a. crew member and later ENTITY-. ENTITY, who later in life become DT[ form=undefined] a crew member on ENTLE-8, later in death, in California.
+United States Alan Shepard, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear on ENTITY–3, in DT[form=defined] the city of ENTITY -4, VP[ade=past perfect,tend=present,voice =active,person=-null, number=null] graduate from ENTITY/5, and VP[a year later ENTITY=6.
+Alan Shepard, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear on November 18, 1923, in ENTITY–3, later in life become ENTITY 4 and later ENTITY5, DT[form=undefined] a award higher than ENTITY6.
+American Buzz Aldrin, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in ENTITY–3, VP[ as DT[form=undefined] a student at ENTITY_4, and as ENTITY/5 and crew member of ENTITY ENTITY6, ENTITY - otherwise VP[a.k.a. ENTITY7 - VP[ASpect=perfect,Tense=present,voice =active,person=-3rd,number='null] have since ENTITY8.
+Buzz Aldrin VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+Buzz Aldrin VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear on January 20, 1930 in ENTITY–3.
+Buzz Aldrin, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in Glen Ridge, New Jersey, Alma Mater ENTITY–3.
+Elliot See, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear on July 23, 1927 in DT[form=undefined] a city in ENTITY–3, later in life VP[ as DT[ form=undiscovered] a student at ENTITY -4, which inadagurate with ENTITY/5.
+Elliot See VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+the United States William Anders, who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear on ENTITY–3, in in DT[form=defined] the city of ENTITY -4, VP[ade=perfect,tend=present, voice=active, person=3rd.,number=null] graduate from ENTITY/5, and later ENTITY=6, who later in life become ENTITY7, and who later VP[a.k.a. retire on in New Zealand.
+the 11th Mississippi Infantry Monument VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in DT[form=defined] the municipality of Gettysburg Pennsylvania, in and in ENTITY–3, ENTITY4.
+The Atatürk Monument VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in PATIENT-1.
+the Red granite and white marble VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of ENTITY–1, where ENTITY_4 in ENTITY/5, VP[a.k.a. ENTITY -6 ENTITY ENTITY 7 ENTITY 5, which in turn hosts ENTITY8.
+it's campus VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be Saranvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, ENTITY–1, which, which VP[a.k.a. ENTITY_3, with president ENTITY4, and DT[form=undefined] a strong affiliation with ENTITY/5.
+The Institute's campus VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Saranvapalli Radhakrishnan Road, ENTITY–1 VP[ade=past,voice =passive,person=]null,number=]singular" establish in DT[form=defined] the city of Bangalore in ENTITIES-3, currently with DT[ form=undefined] a staff size of ENTITY 4 and ENTITY -5 postgraduate students, VP[a motto ENTITY=6, and DT[forms=undeserved by ENTITY7, which also with strong connections with ENTITY8.
+The Institute's campus VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be Saranapalli Radhakrishnan Road, Bangalore, in DT[form=defined] the country of ENTITY–3, ENTITY1 established in ENTITY4, and ENTITY_1 director VP[a.k.a. ENTITY5, president ENTITY=6, and affiliation with ENTITY7.
+its in it's VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] establish in DT[form=defined] the country of ENTITY–3, ENTITY_1 president VP[ASpect=progressive,tle=present, voice=active, person=null.,number=null] be ENTITY4 and ENTITY -1 campus, with ENTITY/5 postgraduate students, VP[ as well as with strong connections to ENTITY6 in the city of the city city ENTITY7 and with campus at ENTITY8.
+the AWH Engineering College in Kuttikkattoor, DT[form=defined] the state of ENTITY–3, ENTITY4 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located within ENTITY -1 city, with academic staff size ENTITY_5, and ENTITY3 largest city ENTITY=7 and river ENTITY8.
+1 Decembrie 1918 University VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Alba Iulia, in DT[form=defined] the country of ENTITY–3, DT[ form=undefined] a country lead by ENTITY_4, who VP[a.k.a. ENTITY5, and whose capital city city of city ENTITY=6, whose national anthem ENTITY7 and whose ethnic group ENTITY8.
+The Institute campus VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in Saranvapalli Radhakrishnan Road, DT[form=defined] the city of ENTITY–3, ENTITY1 ENTITY_1 VP[ade=past,tvoice=passive, person=null,number-singular" establish in ENTITIES-4 and ENTITY -1 director VP[a.k.a. ENTITY5 VP[ASpect=progressive,tensity=present-voice=present.,person=4th, number=null] have strong connections with ENTITY=6 in DT[ form=undefined] a neighbouring city of Gujarat.

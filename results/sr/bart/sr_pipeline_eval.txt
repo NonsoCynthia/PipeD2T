@@ -1,0 +1,870 @@
+Jacob Bundsgaard is the leader of Aarhus.
+the runway length of Aarhus Airport is ENTITY–2..
+Adirondack Regional Airport is 507 metres above sea level.
+Adirondack Regional Airport is located in Harrietstown, New York.
+Adolfo Suárez Madrid – Barajas Airport is located at San Sebastián de los Reyes.
+14L/32R is the runway name of the Adolfo Suárez Madrid – Barajas Airport.
+14R/32 L is the runway name of the Adolfo Suárez Madrid – Barajas Airport.
+Afonso Pena International Airport is operated by Infraero.
+Agra Airport is located in Agra.
+Al-Taqaddum Air Base is 84.0 above sea level.
+The Alderney Airport serves Alderney.
+18R/36 L is the runway name of the Allama Iqbal International Airport.
+the runway length of Alpena County Regional Airport is ENTITY–2..
+1/19 is the runway name of Alpena County Regional Airport.
+Amsterdam Airport Schiphol serves the city of Amsterdam.
+Andrews is the county seat of Andrews County, Texas.
+Andrews County Airport serves Andrews, Texas.
+11/29 is the runway name of Andrews County Airport.
+Andrews County Airport runway name is Helipad.
+Angola International Airport serves Luanda.
+Ardmore Airport ( New Zealand ) is located in Auckland, New Zealand.
+Giorgos Kaminis is the mayor of Athens.
+Athens International Airport is located in Spata.
+The German language is spoken in Belgium.
+Philippe of Belgium is the leader of Belgium.
+Copenhagen is the capital of Denmark.
+Lars Løkke Rasmussen is the leader of Denmark.
+The Flemish Government leads the Flemish Region.
+Greek is spoken in Greece.
+Nikos Voutsis is the leader of Greece.
+Harrietstown, New York is part of the United States.
+Anwar Zaheer Jamali is the leader of Pakistan.
+Paracuellos de Jarama is part of the Community of Madrid.
+The Port Authority of New York and New Jersey is based at the Four World Trade Center.
+San Sebastián de los Reyes is in Spain.
+Saranac Lake, New York is part of the United States.
+Stephen Dilts is the Chief of the South Jersey Transportation Authority.
+Alan Shepard was awarded the Distinguished Service Medal by the United States Navy.
+Alan Shepard died in California.
+William Anders was the backup pilot of Apollo 11.
+Apollo 14 was operated by NASA.
+NASA operated Apollo 8.
+Buzz Aldrin is an American.
+Elliot See performed as a test pilot.
+The University of Texas at Austin is affiliated with the University of Texas System.
+Hook 'em is the mascot of the University of Texas at Austin.
+John Madin was the architect of 103 Colmore Row.
+103 Colmore Row is located on Colmore Row.
+11 Diagonal Street was completed in 1983.
+200 Public Square was completed in 1985.
+20 Fenchurch Street originated in January 2009.
+20 Fenchurch Street is located in the United Kingdom.
+300 North LaSalle has 60 floors.
+HOK SVE was the architect of 3Arena.
+3Arena is located at the EastLink bridge.
+Adare Manor originated in 1700.
+Adare Manor is in the Republic of Ireland.
+The Akita Museum of Art was inaugurated on September 28, 2013.
+The Mason School of Business is the current tenant of the Alan B. Miller Hall.
+V. V. Doshi was the architect of Amdavad ni Gufa.
+Ampara Hospital is in Bangalore.
+Asher and Mary Isabelle Richardson House was added to the National Register of Historic Places on November 22, 1988.
+Asser Levy Public Baths were built in 1904.
+Birmingham has the postcode area'B '.
+Chicago is part of DuPage County, Illinois.
+Dublin is in the Republic of Ireland.
+Dublin is part of Leinster.
+Sumitra Mahajan is is a leader in India.
+The Brazilians are is a ethnic group in Japan.
+Tarō Asō is the leader of Japan.
+Bill Marriott is is a key person at Marriott International.
+English is the official language of the Republic of Ireland.
+Cape Town is the capital of South Africa.
+London is the capital of the United Kingdom.
+Native Americans are one of the ethnic groups in the United States.
+Paul Ryan is is a leader in the United States.
+the area code for Abilene, Texas is ENTITY–2..
+Abilene is part of Texas.
+The Mayor is the leader of Albany, Georgia.
+Albany, Oregon has is a total area of 45.97 square kilometres.
+Albany, Oregon is in the United States.
+The State Senate leads Albuquerque, New Mexico.
+Albuquerque City Council leads Albuquerque, New Mexico.
+Amarillo, Texas is in the United States.
+Amarillo is part of Potter County, Texas.
+Amarillo, Texas is part of the United States.
+the area code for Anaheim, California is ENTITY–2..
+Anderson, Indiana is part of Adams Fall Creek, Lafayette, Richland, Union.
+Angola is part of the Pleasant Township, Steuben County.
+The city administrator leads Ann Arbor, Michigan.
+The Mayor is the leader of Ann Arbor, Michigan.
+Ann Arbor, Michigan has is a population density of 1580.7 inhabitants per square kilometre.
+Antioch, California is 13.0 above sea level.
+Antioch, California is lead by the Californians 11th State Assembly district.
+Arlington, Texas is 184.0 above sea level.
+Atlantic County, New Jersey is in the United States.
+Attica is part of Fountain County, Indiana.
+Auburn is part of the state of Alabama.
+California is in the United States.
+Atlanta is the largest city in Fulton County, Georgia.
+Georgia is in the United States.
+Indians is the capital of Indiana.
+Lee County is in the state of Alabama.
+Trenton is the capital of New Jersey.
+Potter County is in Texas.
+Tarrant County Texas is in the United States.
+Ann Arbor is the largest city in Washtenaw County, Michigan.
+The comic character, Asterix was created by René Goscinny.
+The comic character, Auron was created by Marv Wolfman.
+The comic character, Balder was created by Jack Kirby.
+Bananaman was broadcast by the company STV.
+Bananaman first aired on October 3, 1983.
+Bill Oddie starred in Bananaman.
+Baymax is is a character in Big Hero 6.
+Bill Everett won the Eisner Award.
+Kate Hardie is is a child of Bill Oddie.
+The comic character, Bolt was created by Dan Mishkin.
+Bozo the Iron Man full name is Hugh Hazzard.
+John Buscema won the Eagle Award ( comics character ).
+Marv Wolfman won the Eagle Award ( comics character ).
+Ajoblanco alternative name is Ajo blanco.
+bread, almonds, garlic, water and olive oil are main ingredients in Ajoblanco.
+Arem-arem is found the country's.
+Arem arem comes from the country of Indonesia.
+Tomatoes, red chili, garlic and olive oil are the main ingredients in Arrabbiata sauce.
+Cuttlefish is is a ingredient in Arròs negre.
+squid is is a ingredient in Arròs negre.
+Asam pedas is from Malaysia.
+Avocado is from the genus Persea.
+it should be served Hot.
+Baked Alaska is a dessert.
+Frangipane is is a ingredient in bakewell tart.
+noodles are is a ingredient in Bakso.
+Vermicelli is is a ingredient in Bakso.
+Chorizo is is a ingredient in Bandeja paisa.
+Barny cakes were created by Mondelez International.
+Barny Cakes can be chocolate.
+Barny cakes contain 1.8 g of protein.
+Batchoy is eaten in the Philippines.
+Chicken is is a ingredient in batchoy.
+Vegetables are is a ingredient in batchoy.
+Binignit comes from the region of Visayas.
+Patrick McLoughlin is the leader of the Derbyshire Dales.
+Cake is a dessert.
+A nice confectionery dessert is a dessert.
+Jusuf Kalla is the leader of Indonesia.
+Italians inhabit Italy.
+Baduy is is a ethnic group in Java.
+Lemon is part of the order of Rosids.
+Mexicans are from Mexico.
+Spanish is spoken in Mexico.
+Arabic is spoken in the Philippines.
+Shumai is is a variation of Siomay.
+Native Americans are one of the ethnic groups in the United States.
+The Ataturk Monument was designed by Pietro Canonica.
+The Atatürk Monument is made from Bronze.
+Artur Rasizade is the leader of Azerbaijan.
+The Baku Turkish Martyrs Memorial is located in Azerbaijan.
+The Baku Turkish Martyrs Memorial is made from Red granite and white marble.
+Peter Stöger is the manager of 1FC Koln.
+1FC Magdeburg played in the 2014 season.
+Lumezzane played in the 2014-15 Leg Pro season.
+the fullname of A.D. Isidro Metapan is ENTITY–2..
+A.E Dimitra Efxeinoupolis full name is A.E Dimitra Efxeinoupolis.
+A.E Dimitra Efxeinoupolis played in the 2014 season.
+A.E Dimitra Efxeinoupolis played in the 2014-15 A EPSTH Greece season.
+AFC Blackpool has 1500 members.
+AFC Fylde's ground is The Fylde.
+A.S. Gubbio 1910 ground is in Italy.
+Livorno Calcio has 19238 members.
+AS Roma played in Serie A in 2014-15.
+Frank de Boer manages AFC Ajax.
+AFC Ajax nickname Joden, Godenzonen.
+AFC Ajax ( amateurs ) has 5000 members.
+AZAL PFK is located in Shuvalan, Baku, Azerbaijan.
+AZ Alkmaar has 17023 members.
+Agremiação Sportiva Arapiraquense is managed by Vica.
+Agremiação Sportiva Arapiraquense play in the 2015 Campeonato Brasileiro Série C in PATIENT-1.
+Akron Summit Assault's ground is St Vincent-St Mary High School.
+Akron Summit Assault has 3000 members.
+Amsterdam-Centrum is part of Amsterdam.
+Nikos Voutsis is the leader of Greece.
+Gus Poyet played for AEK Athens FC.
+Jens Härtel plays for SV Germania Schoneiche.
+John van den Brom plays for AZ Alkmaar.
+Isidro Metapan plays for A.D. Isidro Metapan.
+Massimo Drago played for Delfino Pescara 1936.
+Massimo Drago played for Chieti Calcio.
+The Olympic Stadium ( Athens ) is located in Marousi.
+K-W United FC are the champions of the Premier Development League.
+Stuart Parker was at Bury FC.
+Accademia di Architettura di Mendrisio has academic staff size of 100.
+The Acharya Institute of Technology is located in Saranvapalli Radhakrishnan Road, located in Bangalore.
+Alba Iulia is in Romania.
+Alba Iulia is part of Alba County.
+Andrew the Apostle is the patron saint of Romania.
+The School of Business and Social Sciences at the Aarhus University has is a academic staff size of 737.
+The School of Business and Social Sciences at the Aarhus University is in Denmark.
+1634 : The Bavarian Crisis was written by Eric Flint.
+1634 : The Bavarian Crisis was preceded by The Grantville Gazettes.
+1634 : The Ram Rebellion was followed by 1635 : The Cannon Law.
+AIP Advances has the EISSN number 2158.
+A Fortress of Grey Ice was published in hardback.
+A Long Long Way has the ISBN number 0-670-03380 4.
+A Loyal Character Dancer has the ISBN number 1-56947-301-3.
+A Severed Wasp was written by Madeleine LEngle.
+A Wizard of Mars is published in English.
+Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg has the LCCN number 32024459.
+Above the Veil was published in hardback.
+Acta Mathematica Hungarica is abbreviated to Acta Math.
+Acta Mathematica Hungarica comes under the academic discipline of Mathematics.
+The Acta Palaeontologica Polonica has the CODEN code apGPAC.
+The Addiction journal has the OCLC number 27367194.
+Addiction ( journal ) is published by Wiley-Blackwell.
+Administrative Science Quarterly has the LCCN number 57059226.
+Aenir has the OCLC number 45644811.
+Alcatraz Versus the Evil Librarians has the OCLC number 78771100.
+Alcatraz Versus the Evil Librarians was followed by Alcatraz Versus the Scrivener's Bones.
+The American Journal of Mathematics has the impact 1.337.
+Castle was followed by the novel Aenir.
+Cornell University has the nickname Cornell Big Red.
+HIV is from the genus Lentivirus.
+Wolf Solent is is a notable work by John Cowper Powys.
+Elizabeth II is the leader of the United Kingdom.
+Joe Biden is is a leader in the United States.
+Wolf Solent was written by John Cowper Powys.
+Abilene Regional Airport, Abilene in Texas, is served by is a airport in PATIENT-3.
+Adolfo Suárez Madrid – Barajas Airport is located in Alcobendas and is a runway length of ENTITY–3.
+Adolfo Suárez Madrid – Barajas Airport is located at San Sebastián de los Reyes and is a runway length of ENTITY–3.
+Agra airport is located in India where the leader's name ENTITY3.
+Al Asad Airbase is located in Al Anbar Province, Iraq, ENTITY–3 feet above sea level.
+The USAF is operated by Operation Enduring Freedom who have previously in battles at PATIENT-3.
+The USAF is operated by the invasion of Panama who a few of ENTITY–2 key members PATIENT-1, and ENTITY -2 perfect,voice =passive.
+Adolfo Suárez Madrid – Barajas Airport is located in Alcobendas, part of the Community of PATIENT-3.
+the surface type of Alderney Airport's 1st runway, which is length of : ENTITY–2, ENTITY_3..
+The Pakistan Civil Aviation Authority is based at Jinnah International Airport, and ENTITY–1 also the operating organisation for ENTITY3.
+Alpena County Regional Airport is located in Wilson Township, Alpena County, Michigan, which in turn as part of the country of PATIENT-3.
+-3.3528 is the operating organisation for Amsterdam Airport Schiphol which, which, in turn, ENTITY–3 m above sea level.
+Andrews County Airport is 973.0 above sea level.
+Andrews County Airport is located in Texas where the capital city of ENTITY3.
+Angola International Airport is in PATIENT-1.
+Angola International Airport is located in Ícolo e Bengo, is a popular tourist destination in and tourist destination, ENTITY–3.
+Antwerp International Airport is in PATIENT-1.
+Appleton International Airport, part of Appleton, Wisconsin, is served by is a Wisconsin-3.
+the 2nd runway at Poaceae is made from ENTITY -2, which member of ENTITY–3..
+the 3rd runway at Ardmore Airport ( New Zealand ) is made from ENTITY - class member of PATIENT-2..
+Ashgabat International Airport in Ashgabat has is a runway length of ENTITY–3.
+Athens International Airport in Athens, serves the city of ENTITY–3.
+Athens International Airport serves the city of Athens and length of runway ENTITY–3.
+Adolfo Suárez Madrid – Barajas Airport is located in San Sebastián de los Reyes, part of the Community of PATIENT-3.
+Alan Shepard, who was is a crew member of Apollo 14, retire on ENTITY–3.
+Buzz Aldrin was the United States who's birth place PATIENT-3.
+Buzz Aldrin, now retired, served as Fighter-3.
+Buzz Aldrin was is a crew member of Apollo 11, which ENTITY–3 operate.
+Buzz Aldrin was a fighter pilot and is a crew member of ENTITY–3.
+11 Diagonal Street is located in South Africa, where there is is a ethnic group of ENTITY–3.
+200 Public Square, which has Cleveland floors, can as well as can can be located in is a city in ENTITY–3.
+20 Fenchurch Street is located in London, where the leader of ENTITY–2 of government inclusdes ENTITY3.
+250 Delaware Avenue is located in the United States where the leader a.D. call ENTITY–3.
+300 North LaSalle, with Illinois floors, is located in the state of ENTITY–3.
+HOK SVE was the architect of 3Arena, located at ENTITY–3.
+3Arena, located at the East Link bridge, is owned by the owner of which, ENTITY–3.
+Live Nation Entertainment, located in Beinto California, is the owner of ENTITY–3.
+Marriott International is the tenant of AC Hotel Bella Sky Copenhagen which currently inagurate with ENTITY–3 floors.
+Addis Ababa City Hall is the government of Addis Ababa high and the current tenants of ENTITY–1 building aspect=plural] be in ENTITY3.
+Adisham Hall, with is a architectural style of Haputale, is located in and services PATIENT-3.
+Adisham Hall is in Bangalore where the language ENTITY–2 ENTITY3.
+the address of Alan B Miller Hall which was started on ENTITY–2, nice,tle=present, voice=active, person=3rd.,number=null] be `` ENTITY"-..
+Alan B Miller Hall, located in Williamsburg, Virginia, is owned by the owner of ENTITY–3.
+Robert A.M. Stern is is a tenant of the Alan B. Miller Hall, which ENTITY–3.
+Ampara Hospital is located in the region of Ampara District, ENTITY–3.
+Ampara Hospital is in Sri Lanka, where the capital city city of ENTITY–3.
+It is located on The latter and the Reference Number in DT [form=demonstrative] the National Register of Historic Places aspect=progressive, tense=infinitive, voice=active.,person=null, number=null] be ENTITY–3.
+Asilomar Conference Grounds is located on Asilomar Blvd, Pacific Grove, California and the Reference Number in DT [form=demonstrative] the National Register of Historic Places, ENTITY–3.
+ENTITY-2 is one of the ethnic groups in New Zealand.
+The Asser Levy Public Baths, constructed in 23rd Street, Manhattan, can aspect=progressive,tens=present, voice=passive, person=null.number=plural] find on ENTITY–3.
+Amdavad ni Gufa is located in Gujarat, where is a leader of ENTITY–2, ENTITY_3.
+The comic character, Asterix was created by Albert Uderzo and ENTITY–3.
+Aurakles, also known as Len Wein, is a fictional character, which PATIENT-3, as create by ENTITY–2.
+the patient 3.k.a, otherwise known as Varianne Mao,, is a fictional comic superhero,,, PATIENT-3.
+Bananaman was broadcast by the BBC and ENTITY–1 ENTITY3.
+Bill Oddie, who was born in Lancashire, in the TV series ENTITY–3.
+Bibbo Bibbowski is Jerry Ordway who also the creator of ENTITY–3.
+Black Pirate, otherwise known as Sheldon Moldoff, is a fictional character,,, which PATIENT-1 voice=passive,person-null, number=singular] create by ENTITY–3.
+The comic character, Blockbuster was created by Roger Stern and ENTITY–3.
+The character Bolt was created by Gary Cohn and ENTITY–3.
+Bread is is a ingredient in Ajoblanco which can also dish from ENTITY–3.
+Almond is is a ingredient in Ajoblanco which can can also can as well and from and from, in, the region of ENTITY–3.
+Tomato is is a ingredient in amatriciana sauce which can also can can as DT[a.
+Bandeja paisa is from the Antioquia Department region, ENTITY–3.
+banana leaf is is a ingredient in Arem-arem which can also can as food, and ENTITY–3.
+Olive oil is is a ingredient in Arrabbiata sauce which can can can also can can VP[a.k.a.
+Arrabbiata sauce is from Italy where the capital city of ENTITY–3.
+Tomato is is a ingredient in Arrabbiata sauce which can can also can can VP[a.k.A.f.
+squid is is a ingredient in Arros negre, which can can also be from ENTITY–3.
+cuttlefish is is a ingredient in Arros negre, which can can also from and from ENTITY–3.
+It is is a Java dish that main ingredients aspect=progressive,tensity=infinitive, voice=active.,person=jamble=active,person=null, number=null] consist of ENTITY–3.
+sausage is is a ingredient in a bacon explosion which come from ENTITY–3.
+Bacon Explosion comes from the United States where the Chief Justice John C.D.
+Bacon Explosion is a dish that as is a main ingredient person=null, number=null] use ENTITY–3.
+Bacon butty is is a ingredient in a bacon sandwich which can also can also be by :.
+Christmas pudding is is a ingredient in Baked Alaska which can also person=null, number=null] think to as ENTITY–3.
+Baked Alaska is from China, where the person=null, ENTITY–3, can also to aspect=perfect, voice=person=null, number=null] hear.
+Baked Alaska and cookies are is a type of ENTITY–2.
+Bakewell pudding was created the Rutland Arms and is a main ingredient in ENTITY–1 ingredients of ENTITY_3.
+Bakewell tart is is a ingredient in bakewell pudding which ENTITY–3 and ENTITY_1 variations on same dish.
+Lemon is from the genus Citrus and ENTITY–1 in ENTITY -3.
+Shrimp is is a ingredient in batchoy which can also be from ENTITY–3.
+Philippines is eaten in the Chinese Filipino, where ENTITY–3 form one of the ethnic groups.
+Beef kway teow is is a dish from Singapore where one of languages that speak ENTITY–3.
+Beef kway teow is is a dish from Singapore where one of the leaders PATIENT-2's ethnic groups, in turn ENTITY–3.
+The Bhajji comes from the country of India where is a political leader ENTITY–3.
+Bhajji is is a dish similar to pakora and ENTITY–1 ingredient of ENTITY3.
+Banana is is a main ingredient in binignit along with ENTITY–3.
+Sago is is a main ingredient in Binignit along with ENTITY–3.
+Sweet potato belongs to the division of flowering plants, and ENTITY–1 inclusdes in DT [form=undefined] a dish VP[ASpect=prolsh.
+Solanales is is a ingredient in sweet potato and ENTITY–2 order of plants ENTITY3.
+Granola is is a ingredient in Bionico, which should serve as ENTITY–3 course.
+Bionico is a dessert that can sometimes contain is a variation of ENTITY–3.
+Bionico and ice cream are is a type of ENTITY–2.
+Siomay is is a ingredient in Batagor, which ENTITY–3, which variation of ENTITY/1.
+The Atatürk Monument in Turkey was inaugurated on `` PATIENT-3 ''.
+The Baku Turkish Martyrs Memorial is made from Red granite and white marble and the dedicate to ENTITY–3.
+The Baku Turkish Martyrs Memorial is made from Red granite and white marble and the native name of ENTITY–1 ENTITY3.
+Dead Mans Plack is made from rock and the dedicate to ENTITY–3.
+Serie B play in Carpi FC 1909, the champions of which are ENTITY–3.
+AC Chievo Verona play at the Stadio Marc'Antonio Bentegodi in is a league called ENTITY–3.
+Lumezzane ground is in Italy where is a political leader of ENTITY–3.
+Jorge Humberto Rodriguez has been manager of A D Isidro Metapan, ENTITY–2 also is a player for ENTITY3.
+their is in the league, 1500, and ENTITY–1 ground PATIENT-3 members.
+AFC Blackpool have had Stuart Parker as their manager, ENTITY–2 also is a member of ENTITY3.
+AFC Blackpool have had Stuart Parker as their manager, ENTITY–2 also is a member of ENTITY3.
+Fylde have the ground 3180 and ENTITY–3 members.
+Fylde are based at 3180 and ENTITY–1 ground ENTITY3 members.
+Livorno Calcio are managed by Christian Panucci who once is a player for ENTITY3.
+AS Roma ground is in Rome, ENTITY–1 play in is a league in which ENTITY PATIENT-3 play.
+ACF Fiorentina play in the Serie A league which is based in ENTITY3.
+Ajax Youth Academy manages Frank de Boer and also is a player for ENTITY3.
+AFC Ajax N.V. owns AFC Ajax which currently with is a memberrs of ENTITY–3.
+AFC Ajax ( amateurs ) ground is in Amsterdam where the leader of PATIENT-3.
+AFC Ajax ( amateurs ) played in 5000 and ENTITY–1 ground as is a capacity of ENTITY_3.
+AZAL PFK play their home matches at the AZAL Arena, which can as well as in the city of ENTITY–3.
+Alkmaar Zaanstreek ( abbreviated to AZ Alkmaar ) has is a membership of ENTITY–3.
+Agremiação Sportiva Arapiraquense's ground is the Estadio Municipal Coaracy da Mata Fonseca, located in the country of ENTITY–3.
+Agremiação Sportiva Arapiraquense full name is `` Agremiação Sportiva Arapiraquense '' and ENTITY1 PATIENT-2, ENTITY 1 have is a membership of ENTITY–3.
+Akron Summit Assault is located in Akron, Ohio, ENTITY–3.
+Chieti Calcio has been the manager of Massimo Drago and previously of, and now, ENTITY–3.
+Saranapalli Radhakrishnan Road is the director of it's campus in ENTITY–3.
+The school official school colours are The All India Council for Technical Education and the ` Technical Campus'status of ENTITY - ENTITY–1 - tense=past,voice =passive.,person=null,number='null] give by ENTITY3.
+The Acharya Institute of Technology offers tennis as is a sport and ENTITY–2 body of ENTITY/3.
+The School of Business and Social Sciences at the Aarhus University is affiliated with the European University Association, which headquarters in ENTITY3.
+The Acharya Institute of Technology is located in the state of Karnataka which borders on ENTITY–3.
+Virginia DeMarce and Eric Flint are the authors of 1634 : The Bavarian Crisis, which sequel to ENTITY–3.
+The book is available as Eric Flint and the author of ENTITY–1 book, call ENTITY PATIENT-1.
+1634 : The Ram Rebellion is available in patient-2.k.a and the author PATIENT-2.
+ACM Transactions on Information Systems has the abbreviation of ACMTrans and CODEN code ENTITY–3.
+The AIDS ( journal ) is published in the UK, where the leader PATIENT-3.
+A Fortress of Grey Ice, by J.V. Jones, has is a ISBN number of ENTITY–3.
+A Glastonbury Romance is in Prints and the ISBN number of ENTITY–3.
+A Glastonbury Romance is available in hardcover with is a ISBN number of `` PATIENT-3 ''.
+A Glastonbury Romance is in 1174 and ENTITY–1 ENTITY -3 pages long.
+A Long Long Way has the OCLC number 0-670-03380 4 and ISBN number of ENTITY–3.
+A Loyal Character Dancer is published in the United States, where ENTITY3 form one of the ethnic groups.
+Soho Press in the United States is the publisher of ENTITY–3.
+A Wizard of Mars was written by Diane Duane and the OCLC number ENTITY–3.
+A Wizard of Mars was published in hardcover and is a ISBN number of ENTITY–3.
+A Wizard of Mars has 560 pages and the ISBN number of `` PATIENT-3 ''.
+Above the Veil is is a Australian novel which the sequel to ENTITY–3.
+Aenir is written in Above the Veil and is a prequel to ENTITY–3.
+Above the Veil was written after Aenir.
+Julius Springer is the founder of Springer Science and Business Media, which in turn publisher of both PATIENT-3.
+Administrative Science Quarterly ( abbreviated to Q.S ) has the CODEN code ENTITY–3.
+Cornell University is affiliated with the Association of Public and Land grant Universities and the publisher of ENTITY–3.
+Aenir, by Garth Nix, has is a ISBN number of `` PATIENT-3 ''.
+Alcatraz Versus the Evil Librarians is published in hardcover and is a ISBN number of `` PATIENT-1 ''.
+Alcatraz Versus the Evil Librarians is 320 pages long and the ISBN number of ENTITY–3.
+The AIDS ( journal ) belongs to the academic discipline, HIV, and DT [form=undefined] a family of ENTITY3.
+A Fortress of Grey Ice is from the United States where the national language of PATIENT-3.
+Abilene Regional Airport serves the city of Abilene in Texas, part of both ENTITY–3, ENTITY4.
+Adirondack Regional Airport is in PATIENT-1.
+Adolfo Suárez Madrid – Barajas Airport in Madrid has is a runway name of `` ENTITY–3 '' and form=undeserved a runway length of ENTITY_4.
+Agra Airport in India, with the ICAO location identifier of `` PATIENT-3 '', is operated by ENTITY4.
+Iraq is the operating organisation for Al Asad airbase in ENTITY–3, which runway length of ENTITY_4.
+Al Asad Airbase, which was involved in the United States Air Force and battles at the city of ENTITY–3, operating organization for aircraft carriers and aircraft carriers, ENTITY4.
+Al Asad Airbase is in PATIENT-1.
+Al Asad Airbase is in PATIENT-1.
+the 1st runway at Alderney Airport which serves ENTITY–2, surface type voice=active-active, person=non-3rd.,number=plural] be ENTITY3, length of ENTITY=singular] be in length..
+Alpena County Regional Airport, located in Wilson Township, Alpena County, Michigan, is ENTITY–3 metres above sea level and a runway length of ENTITY -4.
+Amsterdam Airport Schiphol, which serves the city of Amsterdam, located at 3 meters above sea level with DT [form=undefined] a runway that to form=defined" the length ENTITY–4 meters.
+Andrews County Airport is located in Texas, the largest city of which in turn be ENTITY–3, ENTITY4.
+Angola International Airport is located at Ícolo e Bengo, is a popular tourist destination in ENTITY–3, and ENTITY_1 runway length of ENTITY -4.
+Angola International Airport is located at Ícolo e Bengo, is a popular tourist destination in ENTITY–3, and ENTITY_1 runway name in turn VP[a.
+Antwerp International Airport is operated by the Flemish Region, which in turn belong to the region of ENTITY–3, at ENTITY4 metres above sea level.
+Antwerp International Airport, operated by the Flemish Region, and by the owner of ENTITY–3, services ENTITY4.
+Appleton, Wisconsin is in PATIENT-1.
+Appleton International Airport is located in Greenville, Wisconsin, which in turn as part of the city of ENTITY–3, ENTITY4.
+the 3rd runway at Ardmore Airport ( New Zealand ) is made from ENTITY - ENTITY–2, ENTITY_3, which ENTITY 4..
+Ashgabat International Airport in Ashgabat is elevated at is a elevation of 211 metres above sea level and form=defined] the runway length VP[ASpect=perfect.
+Athens International Airport serves the city of Athens, ENTITY–3 where ENTITY_4 heads by PATIENT-2.
+The airport is located in Egg Harbor Township, New Jersey, in the country of ENTITY–3, and runway name aspect=progressive,tendering=present.,voice=passive, person=null,number-null] call ENTITY_4.
+Antwerp International Airport serves the city of Antwerp, ENTITY–3 where ENTITY -4 VP[ade=present-3.
+the 2nd runway at Poaceae is made from ENTITY - ENTITY–2, ENTITY_2 order : ENTITY3 and class : ENTITIES-4..
+Alan Bean was is a crew member of Apollo 12, which PATIENT-1, voice=passive, person=null.,number=null] operate by ENTITY–3, and whose commander inagurate ENTITY_4.
+Dianne Feinstein is is a senator in California where ENTITY - ENTITY–3, who later in life as of ENTITY=null, die in PATIENT-4.
+Buzz Aldrin, who graduated from Apollo 11 and whose real name ENTITY–3, perfect,tend to voice=active.,person=voice=passive,person=(null, number=null) become is a crew member of ENTITY4.
+Buzz Aldrin, who was born in Glen Ridge, New Jersey, and is a member of ENTITY–3 crew, perfect,tensity=present,voice =active,person=-3rd,number='null] spend ENTITY+4 in space.
+Alan Shepard, who was awarded the Distinguished Service Medal by the US Navy, ENTITY–3.
+Elliot See, who was selected by NASA in 1962, perfect,tend=present,voice =active,person=-3rd.,number=null] pass away on ENTITY–3, in the city of ENTITY -4.
+Elliot See, Deceased, was born on in the same city on ENTITY–3 in ENTITY4.
+William Anders is in PATIENT-1.
+11 Diagonal Street is located in South Africa, where the capital city of ENTITY–3 and ENTITY_4.
+11 Diagonal Street is located in South Africa, where the leader of ENTITY–3 and one ethnic group of form=undefined] a ethnic group of people there voice=active.,person=null, number=null] be ENTITY 4.
+11 Diagonal Street is located in South Africa, where the leader of ENTITY–3 and ENTITY_4 voice=active.,person=non-3rd.,number=plural] be one ethnic group.
+200 Public square is in Cleveland, in the country of ENTITY–3, where ENTITY_4, who as one of form=undefined] a leader.
+Buffalo, New York is in PATIENT-1.
+300 North LaSalle is located in Chicago, in the country of ENTITY–3, where ENTITY_4, one of form=demonstrative] this city leaders, be in attendance.
+HOK SVE was the architect of 3Arena, which complete in ENTITY–3, and located at ENTITY4.
+The company Populous were the architects of the 3Arena, which complete in ENTITY–3, and located at ENTITY 4.
+3Arena, located in Dublin, in the country of ENTITY–3, is owned by ENTITY4.
+3XN were the architects of the AC Hotel Bella Sky Copenhagen, which currently tenants by DT [form=undefined] a Marriott and located in ENTITY–4.
+James Pain was the architect of Adare Manor, which ENTITY–3, and ENTITY_1 owner inagurate by ENTITY4.
+Addis Ababa City Hall, the Government of Addis Ababa high, is a floor area of ENTITY–3, is currently in use by current tenant ENTITY4.
+Adisham Hall, with architectural style Bangalore, was completed in ENTITY–3 and located in the country of ENTITY4.
+The Akita Museum of Art has 3746.66 square metres floors and is a floor area of ENTITY–3.
+The Akita Museum of Art is located in Akita, in the city of ENTITY–3, in and ENTITY_4.
+The College of William and Mary was the start date of DT [form=undefined] a building at Alan B Miller Hall, ENTITY–3, which ENTITY_4.
+the Alan B. Miller Hall, Virginia, is owned by the chancellor of ENTITY3.
+Virginia is the current tenant of the Alan B. Miller Hall, located in ENTITY–3, ENTITY4.
+Alan B Miller Hall in the College of William and Mary, started on ENTITY–3 and own by the owner of ENTITY4.
+Ampara Hospital, with Ampara District beds, is located in the region of ENTITY–3, ENTITY4.
+Ampara Hospital is located in the Eastern Province, in the country of ENTITY–3, where DT [form=undefined] a key leader VP[a.
+The Asher and Mary Isabelle Richardson House, built in U.S. Route 83, and located at is a U.S.C.F.C., ENTITY–1 =passive,person-null, number=singular] add to the National Register of Historic Places on ENTITY_3.
+the Asilomar Conference Grounds in Pacific Grove, California was added to the National Register of Historic Places, on.
+Asser Levy Public Baths are located in Asser Levy Avenue and East 23rd Street and ENTITY–1 addition to the National Register of Historic Places inagurate on `` PATIENT-3 ''.
+Asser Levy Public Baths are located in New York City, part of the city of ENTITY–3, in.
+Amdavad ni Gufa is located in India, where the leaders of ENTITY–3 and ENTITY_4.
+Karl Kesel Auron and the comic book creator is ENTITY–4, along with ENTITY/3.
+The BBC was shown on Tony Hall, Baron Hall of Birkenhead, which located in the city of ENTITY–3 and DT [form=undefined] a key member of staff by ENTITY_4.
+Bananaman was first broadcast by October 3, 1983 on is a tv series on ENTITY–3 and aspect=prolural] star of ENTITY_4.
+Duncan Rouleau was the first appearance for Baymax who the character's real name voice=passive, person=null.,number=null] consider to VP[ade=infinitive,everything===null.
+Bibbo Bibbowski was created by Jerry Ordway and ( the creator of ENTITY–1 ) ENTITY3.
+Blockbuster is is a comic character with form=defined] the alternative name of Roland Desmond, and PATIENT-1, ENTITY–3, by ENTITY4.
+the comic character, Bolt has the alternative name, Larry Bolatinsky, and ENTITY–1 creators PATIENT-3, be in this field.
+Bolt has the alternative name, Larry Boltinsky, and ENTITY–1 creators PATIENT-3, and form=undefined] a comic book character of ENTITY4.
+Ajoblanco ( alternative name ajoblanco ) contains is a ingredient of ENTITY–3 and can can as well as in ENTITY4.
+Water is is a ingredient in Ajoblanco which a dish from form=defined] the region of ENTITY–3, in country ENTITY4.
+Indonesian is is a dish from Joko Widodo, where ENTITY–3 and/or ENTITY4 as leader.
+it's is a food spoken nationwide and also in the country of ENTITY–3, where ENTITY_4 heads by PATIENT-2.
+Arrabbiata sauce is from Italy where the national language ENTITY–3, and ENTITY_4 heads by PATIENT-2 leader.
+Rome is is a ingredient in Arrabbiata sauce, which can can also can can can as number=null] find in DT [form=defined] the region of ENTITY–3, ENTITY_4.
+Rome is is a ingredient in Arrabbiata sauce which can can also can can can be from DT [form=defined] the region of ENTITY–3, ENTITY4.
+Catalonia is is a ingredient in Arros negre, which can can also from ENTITY–3, ENTITY_4.
+Cuttlefish is is a ingredient in Arros negre, which can can also from ENTITY–3, ENTITY_4.
+Asam pedas is from the region of Sumatra and Malay Peninsula, ENTITY–3, and DT [form=undefined] a dish that the main ingredients aspect=progressive,tens=present-voice=axle=passive,person-m.
+Ayam penyet is in PATIENT-1.
+Bacon Explosion comes from sausage and is a main ingredient be ENTITY–3.
+Bacon Explosion comes from the United States where the capital city city city of PATIENT-3 and one ethnic group of ENTITY–4.
+Bacon Explosion comes from the United States where the leader VP[a.k.a.
+Bacon Explosion comes from the United States where is a political leader, John C.R. and one of ethnic groups in ENTITY–2 voice=active.,person=non-3rd.,number=plural] be that of ENTITY -3.
+condiments are ingredients in bacon sandwiches which come from and can also as is a variation on ENTITY–3 or ENTITY4.
+Meringue is is a ingredient in Baked Alaska which can also as ENTITY–1, ENTITY=3 and ENTITY_4.
+sponge cake is is a ingredient in Baked Alaska which can also can can be from DT [form=defined] the region of ENTITY–3 and ENTITY_4.
+Christmas pudding is is a ingredient in Baked Alaska, which along with ENTITY–4 can also ENTITY/3.
+Christmas pudding is is a ingredient in Baked Alaska, which along with ENTITY–4 as ENTITY/3, should VP[a.k.A.C.
+Bandeja paisa is is a the kidney bean dish from form=defined] the region of ENTITY–3 and one of DT [form=defined" the ingredients the ingredients ENTITY -4 -.
+Barny cakes can be found in France, where the leaders PATIENT-2 and ENTITY–3, as well as ENTITY -4.
+Barny cakes, which can be apple, contain is a total of ENTITY–3 of protein and ENTITY -4 of carbohydrates.
+Beef kway teow is is a dish from Singapore where DT [form=defined] the local currency inagural] be PATIENT-3 and ENTITY–2 leader ENTITY_4.
+Oyster sauce is is a ingredient in beef kway teow, which can also be popular in DT [form=defined] the region of ENTITY–3, and also in countries such as Indonesia.
+Beef kway teow is is a popular dish in Indonesia and also ENTITY–3, where ENTITY -4 heads by PATIENT-2.
+-3.k.a is from the country India and the main ingredients of ENTITY–1 food ENTITY.-3.
+Bhajji comes from India, where the people who live there be ENTITY–3.
+Bhajji comes from India, where the leaders of ENTITY–2 include form=undefined] a Narendra Modi and a leader of PATIENT-3.
+Bhajji is from the Karnataka region and DT [form=undefined] a dish that PATIENT-2, ENTITY1 main ingredients aspect=progressive,tend=present-voice=passive,person-null,number-plural] use ENTITY–3.
+Binignit is is a dish from sweet potato that main ingredient and ENTITY–4.
+Bionico is is a dish from sour cream, ENTITY–1 ENTITY_3 that can contain ENTITY4.
+Bionico is is a raisins dish from DT [form=defined] the region of ENTITY–3, ENTITY4.
+Celery is from the genus Apiaceae, from ENTITY–3 family, and ENTITY_1 DT [form=undefined] a ingredient of ENTITY4.
+Granola is is a ingredient of Bionico, which like can also ENTITY/3, as can ENTITY–4.
+Bakso is is a dish from it's, where ENTITY–3 as capital and ENTITY_4.
+Ayam penyet is is a dish from Singapore, and ENTITY–3 ( country of ethnic ENTITY4 ).
+Ayam penyet is is a dish from Java, ENTITY–3, and ENTITY4 as one ethnic group.
+Arròs negre is is a traditional dish from Spain, where ENTITY–3 and ENTITY_2 leader's name person=null, number=null] call ENTITY -4.
+ENTITY-2 is one of the ethnic groups in New Zealand.
+It is dedicated to It, ENTITY–1 location of which be in the country's leader's name of ENTITY_3.
+Hüseyin Bütüner and Hilmi Güner dedicate to the Turkish martyrs, ENTITY–3, located in ENTITY4.
+Hüseyin Bütüner and Hilmi Güner were the designers of the Baku Turkish Martyrs Memorial, located in and in ENTITY–3, whose leader's name VP[a.k.C.D.
+the native name of the Baku Turkish Martyrs Memorial is ENTITY–2 and ENTITY_1, which PATIENT-3, asante=undefined] a monument in ENTITY4..
+Cesena, who have is a ground in 23900, ENTITY–3 members, play in in in and ENTITY4.
+Calcio Catania has been the manager of Massimo Drago, ENTITY–2 club ENTITY3 and ENTITY4.
+Lumezzane has 4150 members, play in the league, ENTITY–3 in ENTITY4 season.
+A.E Dimitra Efxeinoupolis is located in Greece, where the leaders of which ENTITY–3, and/or ENTITY4.
+AFC Blackpool have had Stuart Parker as their manager, ENTITY–2 once is a footballer for ENTITY3 and ENTITY4.
+AFC Blackpool have had Stuart Parker as their manager, ENTITY–2 once is a footballer for ENTITY3 and ENTITY4.
+AFC Blackpool have had Stuart Parker as their manager, ENTITY–2 also is a footballer with ENTITY3 and ENTITY4.
+3180 ( abbreviated to the A.F.C. Fylde ) has is a membership of ENTITY–3, and ENTITY1 ground PATIENT-4.
+Livorno Calcio are managed by Christian Panucci who once of the football teams at, and now for, ENTITY–3, VP[ASpect=perfect.
+70634 ( abbreviated to A.S. Roma ) has is a membership of ENTITY–3 and ENTITY1 ground in ENTITY4.
+AEK Athens FC, who have is a ground in 69618, ENTITY–3 members, play in in in and win ENTITY4 in PATIENT-2.
+AFC Ajax ( amateurs ), with 5000 members, is in the league, ENTITY–3 league, and ENTITY1 play in ENTITY_4.
+AZAL Arena is the ground of AZAL PFK who play in ENTITY–3, of which ENTITY4 as champions.
+Alkmaar Zaanstreek ( abbreviated to AZ Alkmaar ) competed in the ENTITY–3 season and ENTITY -1 ground currently hosts ENTITY 4 fans.
+De Graafschap has been manager of John van den Brom and ENTITY–2 club =active, person=null,number-singular] be ENTITY/3 but ENTITY_2 now play for is a football team at ENTITY4.
+Agremiação Sportiva Arapiraquense's ground is the Estadio Municipal Coaracy da Mata Fonseca, and the league ENTITY–1 play in as well as ENTITY3 where form=undefined] a championship with ENTITY_4.
+Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league, which is based in ENTITY–3 and ENTITY_2 champions of football.
+Akron Summit Assault, whose ground is St Vincent-St Mary High School, play in is a league, ENTITY–3, of which ENTITY_4 as champions.
+Akron Summit Assault, with 3000 members, is is a member of ENTITY–3, with champions ENTITY_4.
+the ground of A.S. Gubbio 1910 is located in ENTITY2, where ENTITY–3 live and ENTITY_2 leader VP[ade=present-3..
+AEK Athens FC ground is the Olympic Stadium ( Athens ), located in the city of ENTITY–3, where DT [form=undefined] a mayor VP[a.k.C.F.
+the Accademia di Architettura di Mendrisio in 600 has is a dean of ENTITY–3 and ENTITY=4 students.
+the motto of the Acharya Institute of Technology located in ENTITY2 city, is `` ENTITY–3 ''..
+the President of the Acharya Institute of Technology located in ENTITY2, ENTITY3, is ENTITY–4..
+ENTITY-2 is one of the ethnic groups in New Zealand.
+India is located in Mumbai, where the largest city city of ENTITY–3 and ENTITY4 can as form=undefined] a river.
+The 1 Decembrie 1918 University is located in Romania, where the leader of ENTITY–2, who ENTITY_3, ENTITY4.
+It latin name is `` The university '' and ENTITY1 located in the country's patron saint of ENTITY–3.
+The School was established in 1928 and currently is a staff size of ENTITY–3 and student population size of 16.
+1634 : The Bavarian Crisis is in PATIENT-1.
+Eric Flint, who was born in Burbank, California, the author of ENTITY–3 and ENTITY/3 ENTITY4.
+1634 : The Ram Rebellion is Eric Flint with ENTITY–3 pages and is a book by ENTITY4.
+1634 : The Ram Rebellion by Eric Flint is available in the ENTITY–3 format with DT [form=undefined] a ISBN number of ENTITY_4.
+1634 : The Ram Rebellion, available as 1634 : The Ram Rebellion, is is a total of ENTITY–3 pages long and DT [form=defined] the authors of which : ENTITY_4.
+ACM Transactions on Information Systems ( abbreviated to ACMTrans. Inf. Syst ) is part of the academic Discipline of ENTITY–3 and DT [form=undefined] a ISSN number ENTITY_4.
+ACM Transactions on Information Systems ( abbreviated to ACMTrans. Inf. Syst ) is part of the academic Discipline of ENTITY–3 and DT [form=undefined] a ISSN number ENTITY_4.
+The United Kingdom is published in Elizabeth II by is a subsidiary of ENTITY–3, whose leader's name PATIENT-4.
+A.T. Charlie Johnson is the editor of AIP Advances, which ENTITY–3 own, and ENTITY_2 residence PATIENT-4.
+AIP Advances ( abbreviated to A.T. Charlie Johnson ) is edited by the editor ENTITY–3, and CODEN code of `` PATIENT-4 ''.
+A Glastonbury Romance is available in hardcover, OCLC number : ENTITY–3, ISBN number : `` PATIENT-4 ''.
+A Long Long Way is written in English, the language of both PATIENT-3, and ENTITY4.
+A Loyal Character Dancer is published by Soho Press, in and in and from, PATIENT-3, where one of the ethnic groups VP[a.k.A.C.F.
+A Loyal Character Dancer in Soho Press is the publisher of ENTITY–3 and ENTITY_4.
+A Severed Wasp is available in Print with the OCLC number of ENTITY–3 and Library of Congress Classification ENTITY_4.
+A Severed Wasp, available in 388, has ENTITY–3 pages and is a ISBN number of `` PATIENT-4.
+A Wizard of Mars by Diane Duane was published in ENTITY–3 with is a OCLC number of ENTITY_4.
+A Wizard of Mars by Diane Duane was published in the ENTITY–3 format with DT [form=undefined] a ISBN number of ENTITY_4.
+Above the Veil is the sequel to Australians and from ENTITY/4.
+The Acta Mathematica Hungarica ( abbreviated to Hungar ) has is a LCCN number of 83 and ISSN number of ENTITY–4.
+It's ( abbreviated to It's ) comes under the discipline of ENTITY–3 and ISSN number ENTITY4.
+The Acta Palaeontologica Polonica ( abbreviated to Pol ) has is a LCCN number of ENTITY–3 and ISSN number ENTITY_4.
+Addiction ( journal ) ( abbreviated to addiction ) belongs to academic discipline, and is a ISSN number of ENTITY–3.
+Garth Nix is the author of Aenir, available in in ENTITY–3 with OCLC number ENTITY4.
+Garth Nix is the author of Aenir, available in in ENTITY–3 and ISBN number of `` PATIENT-4 ''.
+The American Journal of Mathematics ( abbreviated to Mathematics ) comes under the academic discipline of ENTITY–3 and DT [form=undefined] a ISSN number of `` PATIENT-4 ''.
+the American Journal of Mathematics ( abbreviated to the academic field of study ) was first as of ENTITY–3 with is a ISSN number of `` PATIENT-4 ''.
+Administrative Science Quarterly is published by Q.S, which founder of ENTITY–3.
+The United Kingdom is published in David Cameron by is a subsidiary of ENTITY–3 and ENTITY4.
+A Fortress of Grey Ice is from the United States, where the leader ENTITY–3, and one ethnic group of ENTITY_2 person=null,number-null] call ENTITY4.
+Alcatraz Versus the Evil Librarians is from the United States where the language PATIENT-3, and ENTITY–4 as one of form=demonstrative] the ethnic groups.
+Abilene Regional Airport serves the city of Abilene in Texas, part of both ENTITY–3 in ENTITY4, and runway length ENTITY5.
+Adolfo Suárez Madrid – Barajas Airport in Alcobendas, is operated by the operating organization of ENTITY–3, ENTITY_4, in form=undefined] a popular tourist destination in, and tourist destination of, in and from ENTITY/5.
+The Adolfo Suárez Madrid – Barajas Airport is located at Madrid and is a operation organization of ENTITY–3, ENTITY1 runway name and length of `` ENTITY_4 ''.
+Agra Airport is Uttar Pradesh above sea level and located in ENTITY–3, part of the state of ENTITY -4.
+Agra Airport, part of Uttar Pradesh, is the location of ENTity-3 and the leader ENTITY_4.
+Al Asad Airbase is operated by the United States Air Force who deploy the attack aircraft, ENTITY–3, aircraft fighter, fighter pilot, aircraft-4, and fighter, and who battles battles in ENTITY/5.
+Al Asad Airbase is operated by the United States Air Force who deploy the attack aircraft, ENTITY–3, aircraft fighter, fighter aircraft, and aircraft fighter ( aircraft fighter ), as well as battles in battle with aircraft fighter and fighter planes, such as ENTITY_4.
+Al Asad Airbase is operated by the United States Air Force who deploy the attack aircraft, ENTITY–3, and aircraft fighters, such as aircraft fighter ENTITY_4, and who battles in battles at PATIENT-5.
+Al Asad airbase is operated by the United States Air Force who deploy the attack aircraft, ENTITY–3, aircraft fighter, fighter aircraft, and aircraft fighter ( aircraft fighter ), as well as battles in battles at and Invasion of ENTITY -4.
+The Pakistan Civil Aviation Authority is in PATIENT-1.
+Alpena County Regional Airport, located in Alpena, Michigan, serves the city of ENTITY–3 at ENTITY4 metres above sea level and form=undefined] a runway length of ENTLE-5.
+Amsterdam Airport Schiphol, which serves the city of Amsterdam, ENTITY–3 meters above sea level and ENTITY_4 long.
+Andrews County Airport is located in Texas, where the demonym of people ENTITY–3, ENTITY=4, and ENTITY/5 speak.
+Andrews County Airport is located in Texas, in the country of ENTITY–3, where ENTITY -4 live and ENTITY/5 VP[a.
+Andrews County Airport is located in Texas, in the country of ENTITY–3, where ENTITY -4 live and one of languages that be speak in use ENTITY/5.
+Andrews County Airport is located in Texas, the largest city of which in total ENTITY–3, ENTITY4, and ENTITY2 capital city ENTITY5.
+Angola International Airport is in PATIENT-1.
+Antwerp International Airport serves the city of Antwerp, ENTITY–3, where ENTITY4 ENTITY/2 person=null.,number=singular] lead by ENTITY_5.
+Appleton International Airport, located in Appleton, Wisconsin, serves the city of ENTITY–3, and located at ENTITY4 metres above sea level with DT [form=undefined] a runway length of ENTITIES-5.
+Greenville, part of Dale, Wisconsin, is the location for ENTITY–3, which services ENTITY4.
+the 3rd runway at Ardmore Airport ( New Zealand ) is made from ENTITY -2 ( ENTITY–3 and ENTITY_4 ), ENTITY/5..
+its is poaceae above sea level, is a 3rd runway surface type of ENTITY–3, runway name of `` PATIENT-4 '', and runway length ENTITY=5.
+Atlantic City International Airport is located in Egg Harbor Township, New Jersey, which in turn, in the township of ENTITY–3, ENTITY4, and ENTITY_1 runway length, in PATIENT-5.
+Adolfo Suárez Madrid – Barajas Airport in Madrid, is the operating organisation for ENTITY–3, located at ENTITY_4, in and ENTITY/5.
+Atlantic City International Airport is in PATIENT-1.
+the 2nd runway at Ardmore Airport ( New Zealand ) is made from ENTITY–3, ENTITY_2 ( ENTITY=4 ; ENTITY/5 )..
+United States Alan Bean was is a crew member of ENTITY–3, which ENTITY_4, with command by ENTITY/5.
+Alan Shepard, who was born on November 18, 1923 in the state of ENTITY–3, perfect,tend=present,voice =active,person=-null, number=null] graduate from ENTITY ENTITY_4 and year later, ENTITY=null, NASA astronaut, NASA VP[asmpect=perfect.
+Alan Shepard, who was born in New Hampshire, later in life in life become is a Test pilot.
+Alan Shepard, who was born in New Hampshire, later in life in life become ENTITY–3 and is a crew member of ENTITY -4, which tv series, person=null.,number=null] operate by ENTITY/5.
+Alan Bean was is a crew member of Apollo 12, which ENTITY–3, along with backup pilot ENTITY_4 and ENTITY/5.
+Buzz Aldrin is in PATIENT-1.
+Elliot See is in PATIENT-1.
+Elliot See is in PATIENT-1.
+Elliot See attended the University of Texas at Austin ( as part of is a affiliation of ENTITY–3 ) and to ENTITY/4, where ENTITY -1 later in life PATIENT-2, voice=passive,person-null, number=null" die in ENTITY5.
+Elliot See is in PATIENT-1.
+his, who was is a crew member of Buzz Aldrin and ENTITY–4, NASA test pilot and crew member, ENTITY_1 date of retirement voice=passive, person=null.
+11 Diagonal Street is located in South Africa, where is a political leader inclusdes PATIENT-3, DT [form=defined] the capital of ENTITY–2 and ENTITY5 form one ethnic group.
+11 Diagonal Street is in PATIENT-1.
+200 Public Square is part of Cleveland, is a city with DT [form=defined] the governing body ENTITY–3, and home to ENTITY4.
+the building at 250 Delaware Avenue was started in ENTITY–2, floor count of ENTITY_3, floor area ENTITY4, and architectural style ENTITY5..
+300 North LaSalle is located in Chicago, part of the city of which, in and of ENTITY–3, ENTITY4, where ENTITY -5 leader.
+3Arena, is owned by Live Nation Entertainment, and located in the city of ENTITY3, ENTITY4 ( Lord Mayor of which ENTITY–5 ).
+3Arena in Live Nation Entertainment, part of the Republic of Ireland, is owned by ENTITY–4 and DT [form=undefined] a leader of ENTITY - ENTITY/2, ENTITY_5.
+the AC Hotel Bella Sky Copenhagen, with Bella Center floors, is owned by the owner of ENTITY–3, with form=undefined] a current tenant of tenant ENTITY4, located in ENTITY5.
+its, with Bella Center floors, was designed by the architects of ENTITY–3, and now own by ENTITY4, with tenant ENTITY -5.
+Adisham Hall in Bangalore was started in the region of PATIENT-3 and ENTITY–4 with DT [form=undefined] a architectural style of ENTITY/5.
+Adisham Hall is located in Haputale, is a popular tourist destination in DT [form=defined] the country of ENTITY–3, where ENTITY_4 as capital and ENTITY/5 VP[a.k.l.
+Adisham Hall in Bangalore was started in the region of PATIENT-3 and ENTITY–4 with ENTITY -5.
+The Akita Museum of Art is located in Akita, part of the city of ENTITY–3, in and ENTITY_4, where ENTITY -5 form one ethnic group.
+Robert A.M. Stern was the architect of Alan B Miller Hall, located in ENTITY–3, which currently hosts ENTITY4, located located in and ENTITY5.
+the Alan B. Miller Hall, which was completed on 1June 2009, in the country of ENTITY–3, currently hosts current tenant ENTITY4, which can also PATIENT-5.
+Amdavad ni Gufa is in PATIENT-1.
+the address of Amdavad ni Gufa be, ENTITY–2 ENTITY3 ENTITY4, in and in ENTITY/5 ENTITY_6..
+Amdavad ni Gufa is located in Ahmedabad, in the state of Gujarat, ENTITY–3, in and ENTITY4, where ENTITY -2 leader's name ENTITY5.
+Ampara Hospital is located in the Eastern Province, in the country of ENTITY–3, where ENTITY_4 and ENTITY's leader of PATIENT-3, ENTITY -5.
+Julia Morgan, born in San Francisco, also the architect behind ENTITY"-3, ENTITY–4 and ENTITY/5.
+Julia Morgan, who was born in California, also the architect of many significant buildings, one of whose buildings in California in California voice=active, person=3rd, number=null] be ENTITY–3, ENTITY4 and ENTITY/5.
+New York City is part of Asser Levy Public Baths, which in turn, in the country of.
+103 Colmore Row was designed by the architect John Madin, from the town of ENTITY–3 ( ENTITY_4 ), where ENTITY -5 voice=active.
+Addis Ababa and Addis Ababa Stadium are located in the city of ENTITY–1 in ENTITY ENTITY -4, where ENTITY's leader of which VP[a.k.l.
+250 Delaware Avenue is in PATIENT-1.
+Bananaman, was first broadcast by Steve Bright on ENTITY–3, by the creators of which ENTITY_4 and ENTITY/5.
+the comic character of Bolt, with alternative Larry Boltinsky, was created by ENTITY–3 and is a national of ENTITY/4, who also ENTITY -5.
+Baymax, is a character in Duncan Rouleau, which stars ENTITY–3,, inagurate by ENTITY -5, ENTITY_4.
+Baymax is is a character in Duncan Rouleau, which ENTITY–3 stars, and ENTITY_1 VP [aspe=past, voice=passive- create by ENTITY -5, ENTITY ENTITY.
+Baymax, is a character in Duncan Rouleau, which stars ENTITY–3,, inagurate by ENTITY -5, ENTITY_4.
+Ajoblanco is from the country of Andalusia, ENTITY–3, and DT [form=undefined] a dish which PATIENT-4.
+Ajoblanco ( alternative name Ajo blanco ) is from the region of ENTITY–3, ENTITY4, and ENTITY1 water, which as one of form=defined" the ingredients in ENTITY_1, can also can VP[ASpect=progressive,tens=presentITY-5.
+Arem-arem is is a dish of Javanese cuisine, ENTITY–1 main ingredients aspect=progressive,tend?,voice=passive, person=null.,number=plural] use ENTITY-, and ENTITY -1 variation VP[a.k.a.
+Arem-arem is in PATIENT-1.
+Arrabbiata sauce is in PATIENT-1.
+Arros negre is in PATIENT-1.
+Arros negre is in PATIENT-1.
+Arros negre is in PATIENT-1.
+Asam pedas ( alternative name Asam padeh ) is is a dish of ENTITY–3 from DT [form=defined] the region of ENTITIES-4 and ENTITY/5.
+Asam pedas is in PATIENT-1.
+Bacon Explosion is from the Kansas City metropolitan area, ENTITY–3, and ENTITY1 main ingredients as ENTITY -4 and ( as is a ingredient ) ENTITY5.
+The Bacon Explosion comes from the United States where is a political leader in ENTITY–3, DT [form=defined] the capital city in Washington, ENTITY=4, and there of many ethnic groups one of which inclusdes ENTITY5.
+a bacon sandwich, which is popular in Bacon Ridge, New Jersey, can also be by the names ENTITY–3 or ENTITY_4.
+a bacon sandwich is in PATIENT-1.
+It, which is popular in Bacon Sandwich's, main ingredients aspect=progressive,tensity=infinitive, voice=active.,person=null, number=null] be ENTITY–3 and can also the names of ENTITY_4.
+Baked Alaska is in PATIENT-1.
+Baked Alaska is from the United States, ENTITY–3, and the main ingredients of ENTITY_1 food of PATIENT-4.
+Bakewell tart is is a ingredient in bakewell pudding ( variant of ENTITY–3 ), which can can also can also from ENTITY -4 region, part of which can also ENTITY_5.
+Bakewell pudding's is Derbyshire Dales from the region of DerITY-3, ENTITY_1 main ingredients as ENTITY–4 and ENTITY/5.
+Shortcrust pastry is is a ingredient in bakewell tart ( or ENTITY–3 ) from ENTITY -4, part of ENTITY5.
+Bandeja paisa is in PATIENT-1.
+Batagor is in PATIENT-1.
+Shiitake is is a ingredient in Shumai which in turn and variation of ENTITY–3, which can also can can can VP[a.k.a.
+Beef kway teow is is a dish from Indonesia and also from, ENTITY–3, where ENTITY4 ENTITY_5, can as well and ENTITY/null, and where one of DT [form=defined] the leaders the local leaders, can CRLC, number=null] speak.
+Beef kway teow is in PATIENT-1.
+Beef kway teow is in PATIENT-1.
+Beef kway teow is is a dish from Singapore and Indonesia and also from and popular dish in ENTITY–3, where one of the languages the leaders of ENTITY3 and one of whose ethnic groups aspect=perfect,tensed=presentITY-4, call ENTITY -5.
+Bhajji is in PATIENT-1.
+India comes from Sumitra Mahajan, where the people who live there of ENTITY–3 and form=undefined] a political leader aspect=progressive,tensity=present-voice=passive, person=null,number-null] call ENTITY_4 and/or ENTITY5.
+Bhajji is in PATIENT-1.
+Bhajji is in PATIENT-1.
+Sweet potato contains solanales ( of the order ENTITY–3 ), ENTITY_4, and ENTITY/5.
+Bionico is from the Guadalajara region, ENTITY–3, and ENTITY1 main ingredients of ingredients of ENTITY_4.
+Bionico is in PATIENT-1.
+Bakso is is a Chinese cuisine dish from ENTITY–3, where DT [form=defined] the capital city city city VP[a.s.l.
+Celery is is a ingredient in Bakso which dish from ENTITY–3, where ENTITY4 VP[ade=present-3.
+Amatriciana sauce is is a traditional dish from Italy, where ENTITY/3 and ENTITY–4 as well as in ENTITY -5.
+Java is is a dish from Baduy and also from, and region of, ENTITY–3 ( country of, which ENTITY_4 and ethnic group of ENTITY -5.
+Java is in PATIENT-1.
+Philippines is found in Ilocano people where ENTITY–3 PATIENT-4 and people of the ethnic group of ENTITY/5 can be found.
+Arròs negre is from Spain, where the country's leader and ethnic group of ENTITY–3, ENTITY=4 the currency, and ENTITY/non-3rd person=null,number-plural] be ENTITY5.
+The 11th Mississippi Infantry Monument is located in the municipality of Gettysburg Pennsylvania, ENTITY–3.
+a contributing property is west of the 11th Mississippi Infantry Monument where ENTITY - ENTITY–3 located in the state tense=past,voice=-active, person=null,number-null] categorise as ENTITY_4.
+Baku's were the designers of the Turkish martyrs memorial, which monument, which in turn awards ENTITY–3, and located in capital city ENTITY4.
+Azerbaijan is the leader of the Turkish martyrs memorial, where ENTITY–3 and ENTITY_4 as ENTITY1 capital city, and where one of DT [form=demonstrative] this country's monuments can also be located in ENTITY -5.
+Red granite and white marble is the leader of Baku Turkish Martyrs'Memorial, where there you will find ENTITY–3, which, in DT [form=undefined] a ENTITY 4, monument to ENTITY -5.
+Azerbaijan the Turkish martyrs is the leader of ENTITY–1 where ENTITY - ENTITY_4, located in ENTITY/1, memorials to people who by PATIENT-5, can as well.
+39371 ( abbreviated to A.C. Chievo Verona ) is in the country of ENTITY–3, ENTITY1 ground in ENTITY4, and ENTITY_1 to play ENTITY -5 season.
+Rolando Maran, who was born in Italy, and now is a manager of ENTITY–3, voice=non-3rd, number=null] play for ENTITY4 and ENTITY5.
+Michele Marcolini, who was born in Italy and now is a manager for ENTITY3, for previous club ENTITY4 and ENTITY5.
+A.E Dimitra Efxeinoupolis is in PATIENT-1.
+the fullname of they is ENTITY–2, ENTITY_1 have full name of `` PATIENT-3, '' ENTITY=1 ground play in ENTITY4 and ENTITY -1 play in season ENTITY/5..
+5300 ( abbreviated to A.S. Gubbio 1910 ), is managed by the ground by ENTITY–3, and ENTITY_1 ground voice=active, person=null, number=null] hold ENTITY -4 fans, ENTITY1 play in ENTITY5 season.
+19238 ( abbreviated to Livorno Calcio ) has is a membership of ENTITY–3, ENTITY1 home ground ENTITY_4 and in ENTITY5 season.
+The Associazione Sportiva Roma ( abbreviated to AS Roma ) has is a membership of ENTITY–3, ENTITY1 ground in ENTITY4, and ENTITY_1 to voice=active.,person=null,number-null] play ENTITY5 season.
+AZAL Arena is the ground of AZAL PFK who play in ENTITY–3, of which ENTITY4 as champions.
+3500, with AZAL Arena members, is the ground of ENTITY–1, who play their home matches in ENTITY -4, with champions ENTITY_5.
+AFC Ajax is the manager of John van den Brom, which ENTITY–3 own, and ENTITY_2 also in ENTITY4 and ENTITIES-5.
+Agremiação Sportiva Arapiraquense, whose nickname is `` Asa Gigante '', play in the ENTITY–3 league in ENTITY4 where ENTITY -5 as champions.
+The 2015 Campeonato Brasileiro Série C are the champions of Agremiação Sportiva Arapiraquense, ENTITY–4, which ENTITY3 play in in ENTITY -5.
+Akron Metron club Summit Assault ( abbreviated to Akron Summit Assault, was managed by the manager by ENTITY–3, play in ENTITY4 and VP[a.s.l.
+Akron Summit Assault, who have is a ground in Akron, Ohio, play in form=defined] the league, which in turn ENTITY–3, ENTITY_4, with ENTITY -5 as champions.
+the ground of A.S. Gubbio 1910 is located in ENTITY–2, where ENTITY_2 leader form=undefined] a capital city =active, person=null,number-null] be ENTITY4, and ENTITY/person=null/number=null] speak ENTITY -5..
+the ground of it's is located in ENTITY–2, where ENTITY_3 speak, capital city city be ENTITY4 and ENTITY5..
+Stadio Olimpico, or A.S. Roma for short, has is a ground at ENTITY–3 and in ENTITY4, where ENTITY -5, who once be champions, play.
+the city of Mendrisio ENTITY–3 is home to DT [form=undefined] a academic staff size of about 100 and ENTITY's dean ENTITY=3..
+It in 600 was established in the region of Switzerland, ENTITY–1 voice=active, person=null.,number=null] attend by ENTITY PATIENT-3 and currently as well-equipped with students and ENTITY -4 members of staff, DT [form=undefined] a country with ENTITY/5.
+the city of Mendrisio is home to ENTITY1 which be established in ENTITY–3, with ENTITY_4 as Dean, and ENTITY -5 academic staff..
+The Institute was given the ` Technical Campus'status by the All India Council for Technical Education ( located in ENTITY–3 ) and ENTITY_1 also as well as to liking to PATIENT-4, which can voice=passone=active,person- find in DT [form=undefined] a city in augural] the city of ENTITY5.
+The Acharya Institute of Technology's campus is in Sri Lanka, the country of ENTITY–3, and ENTITY_1 currently inagurate ENTITY -4 postgraduate students.
+The Institute in 2000 was established in the country of ENTITY–3, ENTITY_1 director voice=active, person=3rd,number='null] be ENTITY4 and ENTITY1 aspect=progressive,tensity=present-voice=active.,person=3th,number:null] have strong connections with ENTITY/5.
+The 1 Decembrie 1918 University is located in Romania, where the leader of ENTITY–2 voice=passive, person=null, number=plural] call ENTITY3, ENTITY_2 capital ethnic group be that of Germans, and also of PATIENT-4.
+the School of Business and Social Sciences at the Aarhus University in Denmark was established in the ENTITY–3 and currently as well as with form=undefined] a staff size of ENTITY-$4, ENTITY_1 affiliation inaguralise with inagurate with ENTITY/5.
+it in 1928 was established in the ENTITY–3 season and currently as well as voice=active,person =null, number=null] provide educational services to form=undefined] a academic staff of ENTITY-$4 and ENTITY -5 students.
+David Weber is the author of it's, which in turn in turn voice=passive- follow by ENTITY–3 and then later by novel, which can PATIENT-4, which originally in English.
+Virginia DeMarce is the author of 1634 : The Ram Rebellion, ENTITY–3 pages long, available as ENTITY 4 and ISBN number ENTITY_5.
+The AIDS ( journal ) is published in Lippincott Williams & Wilkins by is a subsidiary of ENTITY–3, ENTITY_2 leader ENTITY=4 and ENTITY/2 capital city ENTITY5.
+A Fortress of Grey Ice by J.V. Jones was produced in in in and can as well as with is a OCLC number of `` PATIENT-3 '', and ISBN number ENTITY_4.
+A Long Long Way, from The Secret Scripture, was followed by the sequel by ENTITY–3 and ENTITY_4 and then ENTITY/5.
+A Severed Wasp is available in Print with the OCLC number of ENTITY–3, ISBN number of `` PATIENT-4 '', and Library of Congress Classification ENTITY=5.
+English is from Great Britain, and originally in the language of both, but now, ENTITY–3, same as in ENTITY 4, where ENTITY/5 be one ethnic group.
+A Severed Wasp is is a 388 page book available in ENTITY–3, with OCLC number ENTITY_4 and ISBN number of ENTITY5.
+A Wizard of Mars by Diane Duane is available in the ENTITY–3 format with form=undefined] a OCLC number of ENTITY_4, and DT [form=undeserved] a ISBN number of `` ENTITY-".
+Addiction ( journal ) is abbreviated to addiction and is a ISSN number of ENTITY–3 as well as of DT [form=defined] the LCCN number ENTITY_4.
+Cornell University is in PATIENT-1.
+Alcatraz Versus the Evil Librarians is from English, and originally in the language of ENTITY–3, ENTITY_4, and ENTITY/5.
+The American Journal of Mathematics ( Mathematics ) is published ENTITY–3 with is a academic discipline of ENTITY_4 and DT [form=defined] the ISSN number ENTITY -5.
+The American Journal of Mathematics, or Am.J. Math, was first the academic discipline of ENTITY–3, ENTITY4, with ISSN number ENTITY5.
+English is published by Great Britain, located in the country of which, in both PATIENT-3, and in ENTITY/5, ENTITY_4, VP[ASpect=progressive,tendering.
+English is from Great Britain, where the main language, as in ENTITY 4 and ENTITY/non-3rd person=null,number-null] speak ENTITY–3, and where ENTITY5 form one ethnic group.
+English is from Great Britain, where the main language, as in ENTITY 4 and ENTITY/non-3rd ethnic group of ENTITY–2, ENTITY_3.
+United Kingdom is in PATIENT-1.
+English is from Great Britain, where they speak the same language as in ENTITY–3, same as in both of PATIENT-4, and one of their ethnic groups of ENTITY/2 as ENTITY_5.
+English is from Great Britain, where they speak the same language as in ENTITY–3, same as in both of PATIENT-4, and where there is ethnic group of ENTITY/5.
+A Severed Wasp is from the United States, where the leader ENTITY–4, and one ethnic group of ENTITY/non-3rd ethnic group be ENTITY5.
+Abilene, Texas is in PATIENT-1.
+Abilene Regional Airport, which serves Abilene in Texas, located at is a elevation of ENTITY–3 metres above sea level with form=defined] the ICAO location identifier ENTITY4, and the runway name, which in turn nice confectionery ENTITY -5, and DT [form=defined) the runway length of which, ENTITY=6.
+Abilene Regional Airport, which serves Abilene, Texas, located at is a elevation of ENTITY–3 metres above sea level with form=defined] the ICAO location identifier ENTITY4, runway name ENTITY - ENTITY5, and length ENTITY=6.
+its in Madrid is operated by the operating organization ENTITY–3, person=non-3rd.,number=plural] be elevated ENTITY4 metres above sea level and runway name with length of ENTITY=6.
+Agra Airport, with the ICAO location identifier of Uttar Pradesh, is located in ENTITY–3, part of both ENTITY4 and ENTITY5.
+Uttar Pradesh is the native name of Agra Airport in ENTITY–3, part of DT [form=undefined] a part of both ENTITY4 and ENTITY5.
+Al Asad Airbase is in PATIENT-1.
+Al Asad Airbase is operated by the United States Air Force who deploy the attack aircraft, ENTITY–3, transport aircraft, aircraft fighter, aircraft-4, fighter aircraft and aircraft fighter ( aircraft fighter ), as well as aircraft fighter and fighter aircraft, such as ENTITY -5, and battles in battles at PATIENT-2.
+their, who operate Al Asad airbase, have previously battles in the Invasion of PATIENT-3, battles in battles at ENTITY–4 and ENTITY -5 on ENTITY2 aircraft carriers.
+the United States Air Force, who operate Al Asad Airbase, have previously battles at the cities of ENTITY–3 and ENTITY4, and aircraft carriers such as form=undefined] a attack aircraft, and DT [form=demonstrative] this transport aircraft, which can also transport aircrafts, such as, ENTITY_5.
+Lahore is the operating organisation of the Allama Iqbal International Airport, which the city of ENTITIES-3, located in ENTITY4, ENTITY–5, where ENTITY_6 and leader ENTITY -7.
+Lahore is the operating organisation for Allama Iqbal International Airport in ENTITY–3, ENTITY_4, which as well as ENTITY 5, where one of the leaders the local people ENTITY -6.
+it's in Andrews, Texas, which serves the city of ENTITY–3, situate ENTITY4 meters above sea level and the runway name, of which ENTITY=5 voice=active,person=null,number-null] measure ENTITY -6 meters long.
+Andrews County Airport is located in Texas, in the country of ENTITY–3, where ENTITY_4 as ENTITY/2 capital city, as well as the largest city, ENTITY5, and ENTITY -6 can speak.
+Andrews County Airport is located in Texas, where the largest city city of ENTITY–3, people of which call ENTITY -4, ENTITY5, and ENTITY=6 the state's capital city of Gujarat.
+Angola International Airport is located Luanda metres above sea level in and services the city of ENTITY–3, ENTITY4, in ENTITY -5, in form=undefined] a part of ENTITIES-6.
+Angola International Airport is located at Ícolo e Bengo, in the city of ENTITY–3, ENTITY4, at elevated ENTITY5 metres above sea level and with DT [form=undefined] a runway length of ENTLE-6.
+The Flemish Region is the operating organisation for Antwerp International Airport, which city=null, number=null] own by ENTITY–3, and which services city of ENTITY4, ENTITY=5 meters above sea level, and DT [form=undefined] a runway length ENTITY6.
+Appleton International Airport, located in Appleton, Wisconsin, serves the city of ENTITY–3 at ENTITY4 metres above sea level, with DT [form=undefined] a runway name of `` ENTITY -5 '', and form=undeserved by ENTITY_6 meters.
+Greenville is part of Clayton Winnebago County, ENTITY–3, and is a location of both PATIENT-4 and ENTITY/5.
+The Civil Aviation Authority is the operating organisation for Ardmore Airport ( New Zealand ), which located at ENTITY–3 metres above sea level with form=undefined] a 3rd runway surface type of ENTITY4, and runway name of ``, ENTITY_5 '', which measures length of, in length.
+Ashgabat are the operating organisation for its in ENTITY3, ENTITY–4 metres above sea level, with DT [form=undefined] a runway name of ENTITY5, and runway length, of course, of which ENTITY=6.
+The Port Authority of New York and New Jersey is the operating organisation for Atlantic City International airport which, located ENTITY–3 metres above sea level and with form=undefined] a ICAO Location Identifier of ENTITY_4, runway name ENTITY/5, and runway length ENTITY=6.
+Antwerp International Airport is in PATIENT-1.
+Adirondack Regional Airport is is a city in Lake Placid in New York, ENTITY–3, which serve by ENTITY4.
+the United States Alan Bean, who was born in in the city of ENTITY–3, later in life career to become form=undefined] a crew member for ENTITY -4 and later, for crew member on ENTITY/5, which ENTITY's operator inagurate by ENTITY‑6.
+Alan Shepard, who was born on November 18, 1923 in ENTITY–3 and who later in life a graduate from ENTITY_4, NASA test pilot and later in time ENTITY - who later to voice=active, person=null.,number=null] pass away on, ENTITY/5, in in in California.
+Alan Shepard, who was born in New Hampshire and who Alma Mater ENTITY–3, perfect,tend to voice=active,person =null, number=null] be ENTITY/4 and =active, person=3rd,number:null] pass away in the state of ENTITY5.
+Alan Shepard, who was born in New Hampshire, in 1959 ENTITY–1 voice=active, person=null.,number=null] begin work for is a organisation in 1959 and as form=defined] the space program, in 1963 as crew member of ENTITY -4, which ENTITY=5, but ENTITY_1 since then ENTITY6.
+Alan Bean was is a crew member of Apollo 12, which ENTITY–3, along with backup pilot, pilot, commander, and astronaut, ENTITY_4, spend ENTITY -5 in space.
+He, who was born on November 18, 1923 in in the state of ENTITY–3, later in life, go on to person=null.,number=null] receive ENTITY_4, which rank higher than ENTITY -5, and to ENTITY/1 death in California.
+Elliot See, who was born in Dallas, ENTITY–1 alma Mater voice=active, person=null.,number=plural] be ENTITY -3, which, part of the affiliation of ENTITY4 and form=undefined] a competition league, will host ENTITY_5 and ENTITY's president VP[a.D.C.
+Elliot See is in PATIENT-1.
+Elliot See is in PATIENT-1.
+Elliot See, who was born in Dallas, almaMater in life ENTITY–3, which in this case affiliation to belong to ENTITY4.
+William Anders was is a crew member of NASA's ENTITY2 along with ENTITY–4 and ENTITY/non-3rd, number=plural] be backup pilot and pilot by backup pilot, ENTITY_5, who retire on ENTITY=6.
+United Kingdom and London are leaders in the capital of ENTITY–1, ENTITY4 ( currency ENTITY5 ), where one of form=demonstrative] this country's landmarks ENTITY 6, by PATIENT-2 aspect=perfect,t he architect, located in London.
+250 Delaware Avenue is in PATIENT-1.
+300 North LaSalle is in PATIENT-1.
+3Arena in Live Nation Entertainment, part of the County of ENTITY–3, ENTITY4, is owned by ENTITY5 and DT [form=undefined] a local leader VP[ASpect=progressive,Tense=past.
+Adisham Hall is in PATIENT-1.
+Adisham Hall is located in Haputale, is a popular tourist destination in, ENTITY–3, where ENTITY_4 capital city PATIENT-5, and ENTITY -3 currency aspect=perfect,tenses=present.,voice=passive,person=]3rd.,number=null] call ENTITY6.
+Adisham Hall is located in Haputale, in the country of ENTITY–3, where ENTITY -4 as leader, ENTITY5 as currency, and ENTITY6 as capital city.
+The Akita Museum of Art is located in Akita, part of the city of ENTITY–3, in and ENTITY_4, where ENTITY -5 and ethnic group ENTITY=6.
+Amdavad ni Gufa is located in Ahmedabad, in the city of ENTITY–3, ENTITY4, where DT [form=undefined] a leader ENTITY -5 and ENTITY6 as one of many leaders.
+Amdavad ni Gufa is located in Ahmedabad, in the city of ENTITY–3, in and ENTITY -4, where DT [form=undefined] a leader call ENTITY_5, and form=defined" the leader of, in turn, ENTITY6.
+Ampara Hospital is in PATIENT-1.
+Julia Morgan, who was born in California, also the architect of many significant buildings, one of whose buildings in California in California voice=active, person=3rd, number=null] be ENTITY–3, ENTITY4 and ENTITY/5.
+Julia Morgan, who was born in California, as is a architect, design many significant buildings, one of which in Chinatown, and also DT [form=defined] the grounds of ENTITY+5.
+The Asilomar Conference Grounds, constructed in Pacific Grove, California in the architectural style of ENTITY–3 and located at ENTITY4, added to National Register of Historic Places on `` PATIENT-5 ''.
+Asser Levy Public Baths, constructed in 23rd Street ( Manhattan ) in the architectural style of ENTITY–3 and located at ENTITY4, added to National Register of Historic Places ENTITY/5.
+Asser Levy Public Baths are located in New York City, part of the city of ENTITY–3, in.
+it's was designed by the architect John Madin, who who originally from and with postal code ENTITY–4 and now is a resident of ENTITY5 with ENTITY6 as one of AGENT leaders.
+Addis Ababa City Hall is in PATIENT-1.
+250 Delaware Avenue is in PATIENT-1.
+250 Delaware Avenue is in PATIENT-1.
+Bananaman was shown by John Geering between the broadcast of ENTITY–3 and ENTITY_4, =defined] some of which ENTITY - person=null.,number=null] create by ENTITIES-5 - and which currently inagurate ENTITY6.
+Baymax is in PATIENT-1.
+Ajoblanco ( alternative name Ajo blanco ) includes : the ingredients : ENTITY–3 ; ENTITY_1 can also from ENTITY -4, in and from, ENTITY/5.
+Amatriciana is is a sauce from Lazio, ENTITY–3 and ENTITY1 main ingredients of ingredients in ENTITY_1 food VP[ASpect=progressive,tens=presentITY-4.
+Arem-arem is is a dish of Javanese cuisine and ENTITY–3, where ENTITY_4 and currency ENTITY5, and where DT [form=defined] the official language of Indonesia ENTITY6.
+Arrabbiata sauce is from Italy where the country's leader and people's ethnic group as ENTITY–3, people'ment=non-4's language of ENTITY - ENTITY_5 - and ENTITY=6 the capital city.
+Arros negre comes from the region of the Valencian Community, ENTITY–3, where ENTITY -4 as leader, and ENTITY/5 as demonym for people from ENTITY_3 by ENTITY6.
+Asam pedas is from the Malay Peninsula region, ENTITY–3 ( capital ENTITY4 ), where ethnic groups include ENTITY5 and ENTITY6.
+Asam pedas is from the Malay Peninsula region, ENTITY–3 ( country of ENTITY4 ), where ethnic groups include ENTITY5 and ENTITY6.
+Ayam penyet is in PATIENT-1.
+Bacon Explosion comes from the United States where the leader ENTITY–3, ENTITY_4, DT [form=undefined] a capital city of ENTITY5, and one ethnic group aspect=progressive,tensity=past, voice=passive, person=null,number-singular] call ENTITY -6.
+Baked Alaska is from France, where is a political leader of ENTITY–3 and ENTITY/4, and also where ENTITY -5 can as well as from, and from, in, ENTITY_6.
+Shortcrust pastry is is a ingredient in bakewell tart ( or, ENTITY–3 ) from ENTITY - ENTITY4 region, part of ENTITY5, where ENTITY_6 leader of the local people, can also voice=passive, person=null, number=null] find.
+Bandeja paisa is is a dish from Columbian cuisine, ENTITY–3, that the genus ENTITY_4 and family of ENTITY5.
+Bandeja paisa is is a dish from the Paisa Region, ENTITY–3, that ENTITY4 ( member of form=defined] the order of ENTITY5 and family of family ENTITY6 ).
+Barny cakes come from sponge cake, where the country's leaders both ENTITY -3 and ENTITY–4, ENTITY/non-3rd, number=plural] be PATIENT-5, and DT [form=undefined] a main ingredient in ENTITY_1 can ENTITY=6.
+Barny cakes can be found in Mondelez International, where is a leader and form=defined] the country's language ENTITY–3, and ENTITY_4 can also VP[ASpect=perfect.
+Singapore is in PATIENT-1.
+Bhajji ( also known as Bhaji ), is a dish of ENTITY–3, voice=3rd,number-null] come from ENTITY4, ENTITY/5.
+Bhajji comes from the Karnataka region of ENTITY–3, where ENTITY_4 and ENTITY/5 lead, and where people from ENTITY - ENTITY-) call ENTITY6.
+Jalisco is is a food from Jesús Casillas Romero and ENTITY–3 ( leader : ENTITY4 ), and also ENTITY5, which variation on ENTITY/5 ENTITY6 VP[a.D.C.
+Bionico is from the Guadalajara region, ENTITY–3, where ENTITY_4 perfect, voice=passive, person=null, number=null] lead, and ENTITY -5, same as ENTITY6.
+Frangipane is is a ingredient in Bakewell tart ( variant of ENTITY–3 ), which can can also can also from ENTITY -4 region, ENTITY5, where ENTITY_6 leader VP[a.k.D.C.
+Frangipane is is a ingredient in Bakewell tart ( variant of ENTITY–3 ), which can can also can also from ENTITY -4 region, part of form=defined] the city of Birmingham, where ENTITY/5 and number=plural] lead by ENTITY6.
+Indonesia is the leader of Bakso, where ENTITY–3, ENTITY_4, and where one of DT [form=demonstrative] this country's local dishes ENTITY5 can VP[ade=passive,tens=presentITY-6.
+Amatriciana sauce is is a traditional dish from Italy, where ENTITY–3 live, and ENTITY/4 and/or ENTITY5 lead by ENTITY -6.
+Java is is a dish from Baduy, and ENTITY–3 ( country of ENTITY4 ), where ENTITY5 ENTITY6 speak people.
+Philippines is in PATIENT-1.
+Singapore is in PATIENT-1.
+Ajoblanco is from Spain where the country's leader and people's name ENTITY–3, ENTITY=4 voice=passive, person=null,number-plural] call ENTITY -5, and ENTITY_6 can as well.
+The 11th Mississippi Infantry Monument is located in the municipality of Gettysburg Pennsylvania, ENTITY–3.
+Azerbaijan Baku is the leader of ENTITY–1, where ENTITY_4 and ENTITY/5, ENTITY - capital city, as well as ENTITY=6, can also VP[a.s.l.
+The Baku Turkish Martyrs Memorial is in PATIENT-1.
+The memorial The memorial, designed by the architects of ENTITY–3, and ENTITY=1 as well voice=passive, person=null.,number=plural] dedicate to ENTITY - ENTITY_4, also locally know as ENTITY/5, located in ENTITY6.
+Artur Rasizade the Baku Turkish Martyrs memorial is the location of ENTITY–3, by design by ENTITY_4, which can now he ENTITY -5, and ENTITY=6, which PATIENT-3, which in turn hosts ENTITY7.
+Blackpool ground is in Nasa, entity 3 where the leader NASA, ENTITY–3.
+Gus Poyet are managed by Chelsea FC who once is a player for ENTITY–3 and now player for football at ENTITY4, ENTITY_1 play in ENTITY/5, of which ENTITY -6, have previously VP[adeveled.
+Agremiação Sportiva Arapiraquense's ground is Estadio Municipal Coaracy da Mata Fonseca in the city of ENTITY–3 and ENTITY_1 play in the league, ENTITY4, which can also in ENTITY -5, where ENTITY's champions play.
+Agremiação Sportiva Arapiraquense's ground is Estadio Municipal Coaracy da Mata Fonseca in the city of ENTITY–3 and ENTITY_1 play in the league, ENTITY4, which can also in ENTITY -5, where ENTITY's champions play.
+Agremiação Sportiva Arapiraquense is in PATIENT-1.
+the city of Mendrisio ENTITY–3, is form=undefined] a location in ENTITY1 which academic staff to voice=active.,person=null, number=null] provide educational services and services to students, with ENTITY -1 dean ENTITY_4..
+the Accademia di Architettura di Mendrisio in Ticino, is a popular tourist destination in, is located in DT [form=defined] the country of ENTITY–3, which ENTITY_1 ( established 1996 ) as well as ENTITY - ENTITY' ENTITY-' ENTITY+7 students, and ENTITY3's leader's name ENTITY=8.
+the Acharya Institute of Technology in Bangalore is found in the state of ENTITY–3, which in turn hosts ENTITY4 and ENTITY -5 state.
+The Institute in Sri Sarvapalli Radhakrishnan Road was established in the country of ENTITY–3, ENTITY1 ENTITY4 post-graduate students and ENTITY_1 campus can can also can aspect=progressive,tendering students by ENTITY 1 address : in PATIENT-5.
+Bangalore is west of the state of the Acharya Institute of Technology where ENTITY–3 in form=undefined] a neighbouring city c.f. call `` PATIENT-1 '' and ENTITY_3 voice=passive,person-null,number-singular[ affiliate with ENTITY -4.
+1 Decembrie 1918 University is in PATIENT-1.
+it in Denmark was established in the ENTITY–3 and currently as well as voice=active,person =null, number=null] provide educational services to ENTITY 4 students with strong connections with ENTITY/5.
+A Long Long Way was written in The Secret Scripture, and ENTITY–1 is a prequel to ENTITY_3 which ENTITY4, voice=active, person=3rd.,number=null] publish by ENTITY5.
+A Long Long Way is is a The Secret Scripture book which the sequel to ENTITY–3 and form=defined] the follow-up to novel ENTITY4, which ENTITY/5 publish.
+Above the Veil is the sequel to Into Battle ( form=undefined] a sequel to which c. be ENTITY–3 ) and sequel to novel ENTITY4, ENTITY5 novel, which VP [aspect-simple,Tense=past, voice=passural] follow by ENTITY6.
+Cornell University ( nickname Ithaca ) is the publisher of ENTITY3, ENTITY_1 : ENTITY–4, in the state ENTITY/5, and ENTITY - ENTITY=1 also ENTITY's Alma Mater and affiliation : in New York.
+Cornell University ( nickname Ithaca, New York ) is the publisher of ENTITY3, ENTITY_1 : ENTITY–4, in the state ENTITY/5, and ENTITY - ENTITY=1 affiliation : with ENTITY6.
+Alcatraz Versus the Evil Librarians is from English, and originally in the language of both PATIENT-3, ENTITY_4, and ENTITY–2, where ENTITY/5 as leader and form=undefined] a ethnic group of ENTITY6.
+English is from Great Britain, where they speak the same language, as in ENTITY–4, but also where one ethnic group, inclusdes that of ENTITY5, and ENTITY=6 capital city, Washington.
+English is from Great Britain where is a political leader ENTITY–3, ENTITY/4 same as in, but with variations such as, that of, in ENTITY5, and where one ethnic group of ENTITY - ENTITY_6 - can also be found.
+AIDS ( journal ) is published in the United Kingdom, where is a leader of which, along with ENTITY–3 and ENTITY/4, capital city city PATIENT-5, and they speak ENTITY6.
+The United Kingdom is published in David Cameron by the parent company of ENTITY–3 ( parent company ENTITY4 ), a company with ENTITY5 and ENTITY6 as leaders.
+A Severed Wasp is from English, where ENTITY–3 ( language of ENTITY4 ) by ENTITY5 and ENTITY6, and by the ethnic group of PATIENT-2.
+A Severed Wasp is from the United States, where the leader ENTITY–3, and like in, like in ENTITY5, people there speak, largely, the language of ENTITY_4, and one ethnic group, ENTITY/non-3rd ethnic group be that of, of which, of, that ENTITY -5.
+the United States Alan Bean, who was born in in the city of ENTITY–3, as part of crew member ENTITY -4, which ENTITY/s operator in New Zealand and a crew member of, ENTITY5 by ENTITY_6, but now ENTITY=7.
+an American Alan Shepard, who was born on ENTITY–3 in ENTITY_4, voice=active, person=3rd.,number=null] graduate ENTITY -5, and in is a NASA career of ENTITY=progressive,tzlevel, optimism, ENTITY ENTITY1 astronaut, who first aspect=prolsh, join space program in 1959, and later VP[ASpect=satisfy,tle=present.
+Alan Shepard, who was born on November 18, 1923, in ENTITY–3, voice=active, person=3rd.,number=null] receive ENTITY_4, and in is a NASA career of ENTITY/progressive,tzleavers, in 1959, ENTITY=1 VP[asm=null.
+Alan Shepard was born November 18, 1923 in ENTITY–3.
+Alan Shepard, who was born in New Hampshire, later in life in life NASA astronaut, perfect,tend=present,voice =passive.
+Edwin E.K., otherwise known as Buzz Aldrin, who ENTITY–3 in ENTITY_4, voice=passive, person=3rd,number='null] bear on ENTITY/3, and who later in life to tweet ENTITY=null, graduate from ENTITY5, and then go on to become is a Fighter-6 and crew member of ENTITY7.
+Buzz Aldrin, who was born on January 20, 1930, in ENTITY–3, and ENTITY_1 Alma Mater of ENTITY4, in is a NASA program the city of Birmingham, in 1963, ENTITY=null, and now a crew member on form=defined" the ENTITY -6 flight mission, VP[asm=null.
+Buzz Aldrin, who graduated from 1963, then is a fighter pilot and ENTITY–3, voice=passive, person=null.,number=singular] select by ENTITY/6 in ENTITY_4 to be form=undeserved on ENTITY -5 with backup pilot ENTITY7.
+Elliot See is in PATIENT-1.
+Elliot See, who was born on July 23, 1927 in is a city in ENTITY–3, later in life as form=undiscovered] a student at ENTITY -4, which inadagurate with ENTITY5.
+his, who was born on October 17, 1933 in ENTITY–3, as is a student at ENTITY4 and later ENTITY/5 and crew member of ENTITY6 before ENTITY_1 retirement on date=null] go on to sea on PATIENT-7.
+The Atatürk Monument is in PATIENT-1.
+The Baku Turkish Martyrs Memorial is in PATIENT-1.
+the 14th New Jersey Volunteer Infantry Monument, located in July 11, 1907 in the city of ENTITY3, was established on ENTITY–4 and ENTITY_5, and now under ENTITY6, by ENTITY7.
+The Monocacy National Battlefield is located on Frederick, Maryland in the city of ENTITY–3, ENTITY_1, and ENTITY -1, which establish on ENTLE-4, as ENTITY/5, and by ENTITY6.
+the Accademia di Architettura di Mendrisio in Ticino, in is a popular tourist destination in, is in, ENTITY–3, which ENTITY_1 ( established in 1996 ) as well as ENTITY+5 students, and ENTITY -3's leader ( official title ENTITY=6 ), who's name in turn ENTITY7.
+the Acharya Institute of Technology campus is Saranvapalli Radhakrishnan Road, in the state of ENTITY–3, ENTITY 4, in India, which ENTITY - ENTITY_1 established in ENTITY5, and DT [form=undefined] a director of which, who also VP[a.D.C.
+The Institute in Bangalore, the country of ENTITY–3, was established in form=undefined] a year later and currently aspect=progressive,tend to voice=active, person=null.,number=null] provide educational services to students with President ENTITY_ ENTITY=4, ENTITY5 and ENTITY6, and strong affiliation with ENTITY7.
+Karnataka is west of the state of the Acharya Institute of Technology where ENTITY–3 which Technical Campus ENTITY_4 in ENTITY5, offer sport such as football, which sports go by ENTITY -6, by sports body ENTITY7.
+The Acharya Institute of Technology was given the Technical Campus status by the All India Council for Technical Education in ENTITY3.
+1 Decembrie 1918 University is in PATIENT-1.
+the School of Business and Social Sciences at the Aarhus University in Aarhus, which was established ENTITY–3, currently with is a staff size of ENTITY-$4 and form=defined] the affiliation with ENTITY5, ENTITY_2 leader ENTITY=3rd.
+The School of Business and Social Sciences at the Aarhus University in Aarhus was established in the ENTITY–3 and currently as well as voice=active,person =null, number=null] provide educational services to ENTITY 4 students with strong connections with ENTITY/5.
+Alan Bean was March 15, 1932 on ENTITY–3 in the city of ENTITY4.
+Alan Bean, who was born in Wheeler, Texas, Alma Mater : ENTITY–3.
+his his, who was born on ENTITY–3, in the city of ENTITY -4, perfect,tend=present,voice =active,person=-null, number=null] graduate from ENTITY ENTITY/5, and perfect ENTITY=6, who in ENTITY_7 crew member and later ENTITY-. ENTITY, who later in life become form=undefined] a crew member on ENTLE-8, later in death, in California.
+United States Alan Shepard, who was born on ENTITY–3, in the city of ENTITY -4, perfect,tend=present,voice =active,person=-null, number=null] graduate from ENTITY/5, and year later ENTITY=6.
+Alan Shepard, who was born on November 18, 1923, in ENTITY–3, later in life become ENTITY 4 and later ENTITY5, is a award higher than ENTITY6.
+American Buzz Aldrin, who was born in ENTITY–3, as is a student at ENTITY_4, and as ENTITY/5 and crew member of ENTITY ENTITY6, ENTITY - otherwise ENTITY7 - =active,person=-3rd,number='null] have since ENTITY8.
+Buzz Aldrin is in PATIENT-1.
+Buzz Aldrin was born on January 20, 1930 in ENTITY–3.
+Buzz Aldrin, who was born in Glen Ridge, New Jersey, Alma Mater ENTITY–3.
+Elliot See, who was born on July 23, 1927 in is a city in ENTITY–3, later in life as form=undiscovered] a student at ENTITY -4, which inadagurate with ENTITY/5.
+Elliot See is in PATIENT-1.
+the United States William Anders, who was born on ENTITY–3, in in the city of ENTITY -4, voice=active, person=3rd.,number=null] graduate from ENTITY/5, and later ENTITY=6, who later in life become ENTITY7, and who later retire on in New Zealand.
+the 11th Mississippi Infantry Monument is located in the municipality of Gettysburg Pennsylvania, in and in ENTITY–3, ENTITY4.
+The Atatürk Monument is in PATIENT-1.
+the Red granite and white marble is the leader of ENTITY–1, where ENTITY_4 in ENTITY/5, ENTITY -6 ENTITY ENTITY 7 ENTITY 5, which in turn hosts ENTITY8.
+it's campus is Saranvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, ENTITY–1, which, which ENTITY_3, with president ENTITY4, and is a strong affiliation with ENTITY/5.
+The Institute's campus is located in Saranvapalli Radhakrishnan Road, ENTITY–1 =passive,person=]null,number=]singular" establish in the city of Bangalore in ENTITIES-3, currently with form=undefined] a staff size of ENTITY 4 and ENTITY -5 postgraduate students, motto ENTITY=6, and by ENTITY7, which also with strong connections with ENTITY8.
+The Institute's campus is Saranapalli Radhakrishnan Road, Bangalore, in the country of ENTITY–3, ENTITY1 established in ENTITY4, and ENTITY_1 director ENTITY5, president ENTITY=6, and affiliation with ENTITY7.
+its in it's was established in the country of ENTITY–3, ENTITY_1 president voice=active, person=null.,number=null] be ENTITY4 and ENTITY -1 campus, with ENTITY/5 postgraduate students, as well as with strong connections to ENTITY6 in the city of the city city ENTITY7 and with campus at ENTITY8.
+the AWH Engineering College in Kuttikkattoor, the state of ENTITY–3, ENTITY4 is located within ENTITY -1 city, with academic staff size ENTITY_5, and ENTITY3 largest city ENTITY=7 and river ENTITY8.
+1 Decembrie 1918 University is located in Alba Iulia, in the country of ENTITY–3, form=undefined] a country lead by ENTITY_4, who ENTITY5, and whose capital city city of city ENTITY=6, whose national anthem ENTITY7 and whose ethnic group ENTITY8.
+The Institute campus is located in Saranvapalli Radhakrishnan Road, the city of ENTITY–3, ENTITY1 ENTITY_1 person=null,number-singular" establish in ENTITIES-4 and ENTITY -1 director ENTITY5 number=null] have strong connections with ENTITY=6 in form=undefined] a neighbouring city of Gujarat.

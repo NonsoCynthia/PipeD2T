@@ -1,0 +1,17 @@
+I would like to arrange my triples in a specific order to control the way information is expressed in the final summary. Below, you'll find examples from my ordering dataset along with inputs and expected outputs:
+ Example 1:
+  [TRIPLE] Beef_kway_teow country "Singapore_and_Indonesia" [/TRIPLE] [TRIPLE] Beef_kway_teow ingredient Palm_sugar [/TRIPLE] [TRIPLE] Beef_kway_teow region Singapore [/TRIPLE]
+  Desired order: ingredient country
+ Example 2:
+  [TRIPLE] Bacon_Explosion country United_States [/TRIPLE] [TRIPLE] Bacon_Explosion ingredient Bacon [/TRIPLE] [TRIPLE] Bacon_Explosion mainIngredients "Bacon,sausage" [/TRIPLE] [TRIPLE] Bacon_Explosion region Kansas_City_metropolitan_area [/TRIPLE]
+  Desired order: mainIngredients region country
+ Example 3:
+  [TRIPLE] Adare_Manor architect "James_Pain_and_George_Richard_Pain," [/TRIPLE] [TRIPLE] Adare_Manor completionDate 1862 [/TRIPLE] [TRIPLE] Adare_Manor owner J._P._McManus [/TRIPLE]
+  Desired order: architect completionDate owner
+ Example 4:
+  [TRIPLE] Ajoblanco country Spain [/TRIPLE] [TRIPLE] Ajoblanco ingredient Garlic [/TRIPLE] [TRIPLE] Ajoblanco mainIngredients "Bread,_almonds,_garlic,_water,_olive_oil" [/TRIPLE] [TRIPLE] Ajoblanco region Andalusia [/TRIPLE]
+  Desired order: region country mainIngredients
+ Example 5:
+  [TRIPLE] Asilomar_Conference_Grounds added_to_the_National_Register_of_Historic_Places "1987-02-27" [/TRIPLE] [TRIPLE] Asilomar_Conference_Grounds architecture "Arts_and_Crafts_Movement_and_American_craftsman_Bungalows" [/TRIPLE] [TRIPLE] Asilomar_Conference_Grounds location "Asilomar_Blvd.,_Pacific_Grove,_California" [/TRIPLE] [TRIPLE] Asilomar_Conference_Grounds yearOfConstruction 1913 [/TRIPLE]
+  Desired order: location yearOfConstruction added_to_the_National_Register_of_Historic_Places
+Please provide the desired output for the next input. Print only the order: 

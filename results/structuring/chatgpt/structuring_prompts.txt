@@ -1,0 +1,17 @@
+I would like to arrange my triples in a specific structure to control the way information is expressed in the final summary. Below, you'll find examples from my structuring dataset along with inputs and expected outputs:
+ Example 1:
+  [TRIPLE] Elliot_See almaMater University_of_Texas_at_Austin [/TRIPLE] [TRIPLE] University_of_Texas_at_Austin affiliations University_of_Texas_System [/TRIPLE] [TRIPLE] University_of_Texas_at_Austin compete_in Big_12_Conference [/TRIPLE] [TRIPLE] University_of_Texas_at_Austin mascot Hook_em_(mascot) [/TRIPLE] [TRIPLE] Elliot_See deathPlace St._Louis [/TRIPLE] [TRIPLE] St._Louis leaderName Francis_G._Slay [/TRIPLE]
+  Desired order: [SNT] almaMater [/SNT] [SNT] affiliations compete_in [/SNT] [SNT] mascot [/SNT] [SNT] deathPlace leaderName [/SNT]
+ Example 2:
+  [TRIPLE] Dessert dishVariation Sandesh_(confectionery) [/TRIPLE] [TRIPLE] Baked_Alaska course Dessert [/TRIPLE] [TRIPLE] Baked_Alaska country France [/TRIPLE] [TRIPLE] France language French_language [/TRIPLE]
+  Desired order: [SNT] dishVariation course [/SNT] [SNT] country language [/SNT]
+ Example 3:
+  [TRIPLE] Turkey largestCity Istanbul [/TRIPLE] [TRIPLE] Turkey capital Ankara [/TRIPLE] [TRIPLE] Turkey leader Ahmet_Davutoğlu [/TRIPLE] [TRIPLE] Atatürk_Monument_(İzmir) location Turkey [/TRIPLE] [TRIPLE] Atatürk_Monument_(İzmir) material "Bronze" [/TRIPLE] [TRIPLE] Atatürk_Monument_(İzmir) designer Pietro_Canonica [/TRIPLE] [TRIPLE] Atatürk_Monument_(İzmir) inaugurationDate "1932-07-27" [/TRIPLE]
+  Desired order: [SNT] largestCity capital [/SNT] [SNT] leader location material designer inaugurationDate [/SNT]
+ Example 4:
+  [TRIPLE] Elliot_See deathPlace St._Louis [/TRIPLE] [TRIPLE] Elliot_See deathDate "1966-02-28" [/TRIPLE] [TRIPLE] Elliot_See birthPlace Dallas [/TRIPLE] [TRIPLE] Elliot_See birthDate "1927-07-23" [/TRIPLE] [TRIPLE] Elliot_See almaMater University_of_Texas_at_Austin [/TRIPLE] [TRIPLE] Elliot_See was_selected_by_NASA 1962 [/TRIPLE]
+  Desired order: [SNT] deathPlace deathDate [/SNT] [SNT] birthPlace birthDate almaMater [/SNT] [SNT] was_selected_by_NASA [/SNT]
+ Example 5:
+  [TRIPLE] Ampara_Hospital region Ampara_District [/TRIPLE] [TRIPLE] Ampara_Hospital state Eastern_Province,_Sri_Lanka [/TRIPLE] [TRIPLE] Ampara_Hospital country Sri_Lanka [/TRIPLE] [TRIPLE] Eastern_Province,_Sri_Lanka leaderName Austin_Fernando [/TRIPLE]
+  Desired order: [SNT] region state country leaderName [/SNT]
+Please provide the desired output for the next input. Print only the order: 

@@ -1,0 +1,19 @@
+#!/bin/bash
+
+#SBATCH --gres=gpu:rtxa6000:1
+#SBATCH -p compute
+#SBATCH -J CH
+#SBATCH --cpus-per-task=10
+#SBATCH --mem=30000
+#SBATCH -t 1-23:59:59
+
+## --nodelist=g126
+
+source /home/cosuji/anaconda3/etc/profile.d/conda.sh
+conda activate webnlg2
+
+# Edit this jobs for each task
+python3 ../chatgpt2.py --model "gpt-3.5-turbo" \
+                --task "ordering" \
+                --data_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
+                --write_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results" 
