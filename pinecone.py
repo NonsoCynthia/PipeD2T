@@ -43,6 +43,32 @@ def write_file(write_path, result, mode='w'):
 #         )
 #     for seq in sequences:
 #         print(f"Result: {seq['generated_text']}")
+        
+def generate_text(model_id, hf_auth, input_text, max_length, device="cuda"):
+    # Load model configuration
+    model_config = AutoConfig.from_pretrained(model_id, use_auth_token=hf_auth)
+
+    # Load the model
+    model = AutoModelForCausalLM.from_pretrained(model_id,
+                                                config=model_config,
+                                                trust_remote_code=True,
+                                                use_auth_token=hf_auth)
+
+    # Load the tokenizer
+    tokenizer = AutoTokenizer.from_pretrained(model_id, use_auth_token=hf_auth)
+
+    # Tokenize input text
+    input_ids = tokenizer.encode(input_text, return_tensors="pt").to(device)
+
+    # Generate output using the model
+    generated_ids = model.generate(input_ids, max_length=max_length, num_beams=2, length_penalty=1.0)
+
+    # Decode the generated output
+    generated_text = tokenizer.decode(generated_ids[0], skip_special_tokens=True)
+
+    return generated_text.strip()
+
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -79,23 +105,17 @@ if __name__ == '__main__':
     # device = f'cuda:{cuda.current_device()}' if cuda.is_available() else 'cpu'
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-    # bnb_config = BitsAndBytesConfig(
-    #         load_in_8bit=False,
-    #         load_in_4bit=False,
-    #         llm_int8_threshold=6.0,
-    #         llm_int8_skip_modules=None,
-    #         llm_int8_enable_fp32_cpu_offload=False,
-    #         llm_int8_has_fp16_weight=False,
-    #         bnb_4bit_quant_type="fp4",
-    #         bnb_4bit_use_double_quant=False,
-    #         bnb_4bit_compute_dtype="float32",
-    #    )
-
-   # bnb_config = BitsAndBytesConfig(load_in_4bit=True, #quantization
-                                   # bnb_4bit_quant_type='nf4',
-                                    #bnb_4bit_use_double_quant=True,
-                                    #bnb_4bit_compute_dtype=bfloat16,
-                                    #)
+    bnb_config = BitsAndBytesConfig(
+            load_in_8bit=False,
+            load_in_4bit=False,
+            llm_int8_threshold=6.0,
+            llm_int8_skip_modules=None,
+            llm_int8_enable_fp32_cpu_offload=False,
+            llm_int8_has_fp16_weight=False,
+            bnb_4bit_quant_type="fp4",
+            bnb_4bit_use_double_quant=False,
+            bnb_4bit_compute_dtype="float32",
+       )
     
 
     model_config = transformers.AutoConfig.from_pretrained(
@@ -121,7 +141,7 @@ if __name__ == '__main__':
         use_auth_token=hf_auth
     )
 
-    query_pipeline = transformers.pipeline(
+    query_pipeline = pipeline(
         "text-generation",
         model=model,
         tokenizer=tokenizer,
@@ -194,11 +214,19 @@ if __name__ == '__main__':
     [TRIPLE] Asilomar_Conference_Grounds added_to_the_National_Register_of_Historic_Places "1987-02-27" [/TRIPLE] [TRIPLE] Asilomar_Conference_Grounds architecture "Arts_and_Crafts_Movement_and_American_craftsman_Bungalows" [/TRIPLE] [TRIPLE] Asilomar_Conference_Grounds location "Asilomar_Blvd.,_Pacific_Grove,_California" [/TRIPLE] [TRIPLE] Asilomar_Conference_Grounds yearOfConstruction 1913 [/TRIPLE]
     Desired output: location yearOfConstruction added_to_the_National_Register_of_Historic_Places
     Please provide the desired output for this next input: {query}'''
+
     print(rag_pipeline.invoke(prompt)['result'])
 
     
 
 
+
+
+   # bnb_config = BitsAndBytesConfig(load_in_4bit=True, #quantization
+                                   # bnb_4bit_quant_type='nf4',
+                                    #bnb_4bit_use_double_quant=True,
+                                    #bnb_4bit_compute_dtype=bfloat16,
+                                    #)
     
 
     # print(f'dataset_dict: {type(dataset_dict)}') #dataset_dict: <class 'datasets.dataset_dict.DatasetDict'>
