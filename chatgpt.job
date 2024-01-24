@@ -26,7 +26,17 @@ conda activate webnlg3
 #                 --Gen_model "chatgpt"
 
 
-python3 pinecone.py --model "gpt-3.5-turbo" \
+# python3 pinecone.py --model "gpt-3.5-turbo" \
+#                 --task "ordering" \
+#                 --data_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
+#                 --write_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results"
+
+python3 llama2.py --model "gpt-3.5-turbo" \
                 --task "ordering" \
                 --data_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
                 --write_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results"
+
+# python3 llama_langchain.py --model "gpt-3.5-turbo" \
+#                 --task "ordering" \
+#                 --data_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
+#                 --write_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results"
