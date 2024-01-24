@@ -9,7 +9,7 @@ import pandas as pd
 import torch
 from torch import cuda, bfloat16
 import transformers 
-from transformers import AutoTokenizer, BitsAndBytesConfig, AutoModelForCausalLM, pipeline
+from transformers import AutoTokenizer, BitsAndBytesConfig, AutoModelForCausalLM, pipeline, AutoConfig
 
 #from chromadb.config import Settings
 from langchain_community.llms.huggingface_pipeline import HuggingFacePipeline
