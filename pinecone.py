@@ -24,6 +24,7 @@ from langchain_community.embeddings.sentence_transformer import SentenceTransfor
 from accelerate.utils import BnbQuantizationConfig
 
 
+
 # Function to write files
 def write_file(write_path, result, mode='w'):
     with open(write_path, mode) as f:
@@ -40,34 +41,6 @@ def write_file(write_path, result, mode='w'):
 #         )
 #     for seq in sequences:
 #         print(f"Result: {seq['generated_text']}")
-        
-def generate_text(model_id, hf_auth, input_text, max_length, device="cuda"):
-    # Load model configuration
-    model_config = AutoConfig.from_pretrained(model_id, use_auth_token=hf_auth)
-
-    # Load the model
-    model = AutoModelForCausalLM.from_pretrained(model_id,
-                                                config=model_config,
-                                                trust_remote_code=True,
-                                                use_auth_token=hf_auth,
-                                                load_in_4bit=True,
-                                                )
-
-    # Load the tokenizer
-    tokenizer = AutoTokenizer.from_pretrained(model_id, use_auth_token=hf_auth)
-
-    # Tokenize input text
-    input_ids = tokenizer.encode(input_text, return_tensors="pt").to(device)
-
-    # Generate output using the model
-    generated_ids = model.generate(input_ids, max_length=max_length, num_beams=2, length_penalty=1.0)
-
-    # Decode the generated output
-    generated_text = tokenizer.decode(generated_ids[0], skip_special_tokens=True)
-
-    return generated_text.strip()
-
-
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -101,42 +74,73 @@ if __name__ == '__main__':
     model_id = "meta-llama/Llama-2-70b-chat-hf" #"meta-llama/Llama-2-13b-chat-hf" #"meta-llama/Llama-2-7b-chat-hf"
     hf_auth = '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'
 
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu") 
+    # device = f'cuda:{cuda.current_device()}' if cuda.is_available() else 'cpu'
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-    tokenizer = AutoTokenizer.from_pretrained(model_id, use_auth_token=hf_auth)
+    bnb_config = BitsAndBytesConfig(
+            load_in_8bit=False,
+            load_in_4bit=False,
+            llm_int8_threshold=6.0,
+            llm_int8_skip_modules=None,
+            llm_int8_enable_fp32_cpu_offload=False,
+            llm_int8_has_fp16_weight=False,
+            bnb_4bit_quant_type="fp4",
+            bnb_4bit_use_double_quant=False,
+            bnb_4bit_compute_dtype="float32",
+       )
 
-    model_config = transformers.AutoConfig.from_pretrained(model_id, use_auth_token=hf_auth)
+   # bnb_config = BitsAndBytesConfig(load_in_4bit=True, #quantization
+                                   # bnb_4bit_quant_type='nf4',
+                                    #bnb_4bit_use_double_quant=True,
+                                    #bnb_4bit_compute_dtype=bfloat16,
+                                    #)
+    
 
-    model = transformers.AutoModelForCausalLM.from_pretrained(model_id,
-                                                            trust_remote_code=True,
-                                                            config=model_config,
-                                                            device_map='auto',
-                                                            use_auth_token=hf_auth,
-                                                            load_in_4bit=True
-                                                        )
+    model_config = AutoConfig.from_pretrained(
+        model_id,
+        use_auth_token=hf_auth
+    )
+
+    model = AutoModelForCausalLM.from_pretrained(
+        model_id,
+        trust_remote_code=True,
+        config=model_config,
+        quantization_config=bnb_config,
+        device_map='auto',
+        use_auth_token=hf_auth,
+        # load_in_4bit=False
+    )
 
     model.eval()
+    print(f"Model loaded on {device}")
 
-    query_pipeline = pipeline("text-generation",
-                            model=model,
-                            tokenizer=tokenizer,
-                            torch_dtype=torch.float16,
-                            device_map="auto",
-                            max_new_tokens=512,
-                            do_sample=True,
-                            top_k=30,
-                            num_return_sequences=1,
-                            eos_token_id=tokenizer.eos_token_id,
-                            repetition_penalty=1.1
-                            )
+    tokenizer = AutoTokenizer.from_pretrained(
+        model_id, 
+        use_auth_token=hf_auth
+    )
 
+    query_pipeline = pipeline(
+        "text-generation",
+        model=model,
+        tokenizer=tokenizer,
+        torch_dtype=torch.float16,
+        device_map="auto",
+        max_new_tokens=512,
+        do_sample=True,
+        top_k=30,
+        num_return_sequences=1,
+        eos_token_id=tokenizer.eos_token_id,
+        repetition_penalty=1.1
+        )
+
+    # test1 = test_model(tokenizer, query_pipeline, "Please explain what is the State of the Union address. Give just a definition. Keep it in 100 words.")
     test1 = query_pipeline("Please explain what is the State of the Union address. Give just a definition. Keep it in 100 words.") 
-    print('hugging face:', test1[0]["generated_text"])
+    # print('huggin face:', test1[0]["generated_text"])
   
     llm = HuggingFacePipeline(pipeline=query_pipeline, model_kwargs={'temperature':0})
-    prompt="Please explain what is the State of the Union address. Give just a definition. Keep it in 100 words."
-    test2 = llm.invoke(prompt)
-    print('llm:', test2)
+    # prompt="Please explain what is the State of the Union address. Give just a definition. Keep it in 100 words."
+    # test2 = llm.invoke(prompt)
+    # print('llm:', test2)
 
     datset = []
     for i in range(len(train_dataset)):
@@ -165,6 +169,7 @@ if __name__ == '__main__':
         verbose=True
     )
 
+    # query it
     # query = '''[TRIPLE] Alfred_Garth_Jones birthPlace England [/TRIPLE] [TRIPLE] Alfred_Garth_Jones deathPlace London [/TRIPLE] [TRIPLE] Alfred_Garth_Jones nationality United_Kingdom [/TRIPLE]'''
     query = '''[TRIPLE] Italy capital Rome [/TRIPLE] [TRIPLE] A.S._Gubbio_1910 ground Italy [/TRIPLE] [TRIPLE] Italy language Italian_language [/TRIPLE] [TRIPLE] Italy leader Sergio_Mattarella [/TRIPLE]'''
     # query = '''You are a professional computational linguist, and you are working on a data-to-text pipeline architecture 'ordering' to be specific.
@@ -187,24 +192,68 @@ if __name__ == '__main__':
     [TRIPLE] Asilomar_Conference_Grounds added_to_the_National_Register_of_Historic_Places "1987-02-27" [/TRIPLE] [TRIPLE] Asilomar_Conference_Grounds architecture "Arts_and_Crafts_Movement_and_American_craftsman_Bungalows" [/TRIPLE] [TRIPLE] Asilomar_Conference_Grounds location "Asilomar_Blvd.,_Pacific_Grove,_California" [/TRIPLE] [TRIPLE] Asilomar_Conference_Grounds yearOfConstruction 1913 [/TRIPLE]
     Desired output: location yearOfConstruction added_to_the_National_Register_of_Historic_Places
     Please provide the desired output for this next input: {query}'''
-
     print(rag_pipeline.invoke(prompt)['result'])
 
-
-   # bnb_config = BitsAndBytesConfig(load_in_4bit=True, #quantization
-                                   # bnb_4bit_quant_type='nf4',
-                                    #bnb_4bit_use_double_quant=True,
-                                    #bnb_4bit_compute_dtype=bfloat16,
-                                    #)
     
-# bnb_config = BitsAndBytesConfig(
-#     load_in_8bit=True,
-#     load_in_4bit=False,
-#     llm_int8_threshold=6.0,
-#     llm_int8_skip_modules=None,
-#     llm_int8_enable_fp32_cpu_offload=False,
-#     llm_int8_has_fp16_weight=False,
-#     bnb_4bit_quant_type="fp4",
-#     bnb_4bit_use_double_quant=False,
-#     bnb_4bit_compute_dtype="float32",
-# )
+
+
+    
+
+    # print(f'dataset_dict: {type(dataset_dict)}') #dataset_dict: <class 'datasets.dataset_dict.DatasetDict'>
+    # print(f'train_dataset: {type(train_dataset)}') #train_dataset: <class 'data.load_dataset.CustomDataset'>
+
+
+    # Create 3 randomly selected FewShot examples
+    # train_examples = "" 
+    # for i in range(0, 5):  
+    #     context = f'''\n Example {i+1}:\n  {train_dataset['Source'][i]}\n  Desired Output: {train_dataset['Target'][i]}'''
+    #     train_examples += context
+    # train_examples += "\n" 
+
+    # t_task = {
+    #     "ordering": "order",
+    #     "structuring": "structure",
+    #     "lexicalization": "lexicalized format",  
+    #     "reg": "refering expression generation format",  
+    #     "sr": "textual realization format"
+    # }
+
+#     eg = os.path.join(write_path, f'{task}_prompts.txt')
+    
+#     # Define examples outside the loop
+#     examples = f'''I would like to arrange my triples in a specific {t_task[task]} to control the way information is expressed in the final summary. \
+# Below, you'll find examples from my {task} dataset along with inputs and expected outputs:{train_examples}\
+# Please provide the desired output for the next input. Print only the order: '''
+    
+    # write_file(eg, examples, mode='w')
+    # with open(eg,'r') as f:
+    #     examples = f.read()
+
+    # print(examples)
+    
+    # # Import the validation datasets
+    # evaluation = {
+    #     f"{task}_dev": dataset_dict["validation"],
+    #     f"{task}_test": dataset_dict["test"],
+    #     f"{task}_pipeline_eval": dataset_dict["pipeline_eval"],
+    #     f"{task}_pipeline_test": dataset_dict["pipeline_test"]
+    # }
+
+    # # # Feed the chatgpt the dev, test, and pipeline datasets for inference
+    # for dataset_name, dataset in evaluation.items():
+    #     print(f'{dataset_name}.txt')
+    #     path = os.path.join(write_path, f'{dataset_name}.txt')
+    #     feedback = []
+    #     for item in dataset:
+    #         prompt = f"{examples}{item['Source']}"
+    #         response = get_completion(prompt, model) 
+    #         feedback.append(response.replace('Desired Output: ',''))
+    #         # print(response)
+    #         # using sleep() to hault the code executions
+    #         # time.sleep(30)
+    #     write_file(path, '\n'.join(feedback), mode='a')  # Write your result into a file
+    
+    #     print(f'{dataset_name}.txt Ended!!!!', "\n")
+
+# salloc --gres=gpu:rtx2080ti:1
+# salloc --gres=gpu:rtxa6000:1
