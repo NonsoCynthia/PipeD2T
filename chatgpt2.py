@@ -23,24 +23,25 @@ def write_file(write_path, result, mode='w'):
         f.write(result)
 
 if __name__ == '__main__':
-    # parser = argparse.ArgumentParser()
-    # parser.add_argument("--model", help="path to the model")
-    # parser.add_argument("--task", help="Training task")
-    # parser.add_argument("--data_path", help="path to the data")
-    # parser.add_argument("--write_path", help="path to write best model")
-    # args = parser.parse_args()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--model", help="path to the model")
+    parser.add_argument("--task", help="Training task")
+    parser.add_argument("--data_path", help="path to the data")
+    parser.add_argument("--write_path", help="path to write best model")
+    args = parser.parse_args()
 
-    # # Model settings, Settings and configurations
-    # model = args.model
-    # task = args.task
-    # data = args.data_path
-    # write_path = os.path.join(args.write_path, task+"/chatgpt")
-
-    model = "gpt-3.5-turbo"
+    # Model settings, Settings and configurations
+    model = args.model
+    task = args.task
+    data = args.data_path
     model_path = "chatgpt"
-    task = "lexicalization" #structuring
-    data = "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg"
-    write_path = f"/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results/{task}/chatgpt"
+    write_path = os.path.join(args.write_path, task, model_path)
+
+    # model = "gpt-3.5-turbo"
+    # model_path = "chatgpt"
+    # task = "lexicalization" #structuring
+    # data = "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg"
+    # write_path = f"/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results/{task}/chatgpt"
 
     # Create result directory if it doesn't exist.
     if not os.path.exists(write_path):
@@ -95,12 +96,6 @@ Please provide the desired output for the next input. Print only the order: '''
             prompt = f"{examples}{item['Source']}"
             response = get_completion(prompt, model) 
             feedback.append(response.replace('Desired Output: ',''))
-            # print(response)
-            # using sleep() to hault the code executions
-            # time.sleep(30)
         write_file(path, '\n'.join(feedback), mode='a')  # Write your result into a file
     
         print(f'{dataset_name}.txt Ended!!!!', "\n")
-
-# salloc --gres=gpu:rtx2080ti:1
-# salloc --gres=gpu:rtxa6000:1
