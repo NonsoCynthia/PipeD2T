@@ -460,7 +460,7 @@ for _set in ['test', 'dev']:
                 bleu_score = 0
 
             result = '\n' + 'Task: ' + kind
-            result += '\n' + 'Set: ' + _set
+            result += '\n' + 'Set: ' + ('dev' if _set == 'eval' else _set)
             result += '\n' + 'Model: ' + model
             result += '\n' + 'Result: ' + str(round(bleu_score, 2))
             result += '\n' + 20 * '-' + '\n'
@@ -506,7 +506,7 @@ for _set in ['test', 'dev']:
                 bleu_score = 0 
 
             result = '\n' + 'Task: ' + kind
-            result += '\n' + 'Set: ' + _set
+            result += '\n' + 'Set: ' + ('dev' if _set == 'eval' else _set)
             result += '\n' + 'Model: ' + model
             result += '\n' + 'Result: ' + str(round(bleu_score, 2))
             result += '\n' + 20 * '-' + '\n'
@@ -551,7 +551,7 @@ for _set in ['test', 'dev']:
                 bleu_score = 0 
 
             result = '\n' + 'Task: ' + kind
-            result += '\n' + 'Set: ' + _set
+            result += '\n' + 'Set: ' + ('dev' if _set == 'eval' else _set)
             result += '\n' + 'Model: ' + model
             result += '\n' + 'Result: ' + str(round(bleu_score, 2))
             result += '\n' + 20 * '-' + '\n'
@@ -608,7 +608,7 @@ for _set in ['test', 'dev']:
                 meteor_ = 0.0
 
             result = '\n' + 'Task: ' + kind
-            result += '\n' + 'Set: ' + _set
+            result += '\n' + 'Set: ' + ('dev' if _set == 'eval' else _set)
             result += '\n' + 'Model: ' + model
             result += '\n' + 'Result: ' + str(round(meteor_, 2))
             result += '\n' + 20 * '-' + '\n'
@@ -659,7 +659,7 @@ for _set in ['test', 'dev']:
                 meteor_ = 0.0
 
             result = '\n' + 'Task: ' + kind
-            result += '\n' + 'Set: ' + _set
+            result += '\n' + 'Set: ' + ('dev' if _set == 'eval' else _set)
             result += '\n' + 'Model: ' + model
             result += '\n' + 'Result: ' + str(round(meteor_, 2))
             result += '\n' + 20 * '-' + '\n'
@@ -710,7 +710,7 @@ for _set in ['test', 'dev']:
                 meteor_ = 0.0
 
             result = '\n' + 'Task: ' + kind
-            result += '\n' + 'Set: ' + _set
+            result += '\n' + 'Set: ' + ('dev' if _set == 'eval' else _set)
             result += '\n' + 'Model: ' + model
             result += '\n' + 'Result: ' + str(round(meteor_, 2))
             result += '\n' + 20 * '-' + '\n'
