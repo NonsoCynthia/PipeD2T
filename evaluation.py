@@ -589,16 +589,17 @@ for _set in ['test', 'dev']:
 
             y_real, y_pred = [], []
             for i, g in enumerate(gold):
-                targets = [nltk.word_tokenize(' '.join(target['output']).lower()) for target in g['targets']]
-                y_real.extend(targets)
+                targets = [nltk.word_tokenize(' '.join(target['output'])) for target in g['targets']]
+                t = [' '.join(target).lower() for target in targets]
+                y_real.append(t)
                 pred = ' '.join(nltk.word_tokenize(y_predict[i].strip())).lower()
                 y_pred.append(pred)
 
 
             # Calculate METEOR score
             try:
-                y_real_str = '\n'.join([' '.join(sent) for sent in y_real])
-                y_pred_str = '\n'.join([' '.join(sent) for sent in y_pred])
+                y_real_str = '\n'.join([sent for sent in y_real])
+                y_pred_str = '\n'.join([sent for sent in y_pred])
                 meteor = meteor_score(y_real_str, y_pred_str)
             except ZeroDivisionError:
                 meteor = 0.0
@@ -636,15 +637,17 @@ for _set in ['test', 'dev']:
             y_real, y_pred = [], []
             for i, g in enumerate(gold):
                 if g['category'] not in unseen_domains:
-                    targets = [nltk.word_tokenize(' '.join(target['output']).lower()) for target in g['targets']]
-                    y_real.extend(targets)
+                    targets = [nltk.word_tokenize(' '.join(target['output'])) for target in g['targets']]
+                    t = [' '.join(target).lower() for target in targets]
+                    y_real.append(t)
                     pred = ' '.join(nltk.word_tokenize(y_predict[i].strip())).lower()
                     y_pred.append(pred)
 
+
             # Calculate METEOR score
             try:
-                y_real_str = '\n'.join([' '.join(sent) for sent in y_real])
-                y_pred_str = '\n'.join([' '.join(sent) for sent in y_pred])
+                y_real_str = '\n'.join([sent for sent in y_real])
+                y_pred_str = '\n'.join([sent for sent in y_pred])
                 meteor = meteor_score(y_real_str, y_pred_str)
             except ZeroDivisionError:
                 meteor = 0.0
@@ -682,15 +685,17 @@ for _set in ['test', 'dev']:
             y_real, y_pred = [], []
             for i, g in enumerate(gold):
                 if g['category'] in unseen_domains:
-                    targets = [nltk.word_tokenize(' '.join(target['output']).lower()) for target in g['targets']]
-                    y_real.extend(targets)
+                    targets = [nltk.word_tokenize(' '.join(target['output'])) for target in g['targets']]
+                    t = [' '.join(target).lower() for target in targets]
+                    y_real.append(t)
                     pred = ' '.join(nltk.word_tokenize(y_predict[i].strip())).lower()
                     y_pred.append(pred)
 
+
             # Calculate METEOR score
             try:
-                y_real_str = '\n'.join([' '.join(sent) for sent in y_real])
-                y_pred_str = '\n'.join([' '.join(sent) for sent in y_pred])
+                y_real_str = '\n'.join([sent for sent in y_real])
+                y_pred_str = '\n'.join([sent for sent in y_pred])
                 meteor = meteor_score(y_real_str, y_pred_str)
             except ZeroDivisionError:
                 meteor = 0.0
