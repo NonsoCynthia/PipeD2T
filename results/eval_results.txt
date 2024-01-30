@@ -565,3 +565,239 @@ Result: 0
 --------------------
 
 ############################################################
+
+
+Evaluation of Final Texts (BLEU)
+
+All domains:
+
+Task: end2end
+Set: test
+Model: t5
+Result: 0.56
+--------------------
+
+Task: end2end
+Set: test
+Model: bart
+Result: 0.45
+--------------------
+
+Task: end2end
+Set: test
+Model: gpt2
+Result: 0.33
+--------------------
+
+Task: sr
+Set: test
+Model: t5
+Result: 0.46
+--------------------
+
+Task: sr
+Set: test
+Model: bart
+Result: 0.21
+--------------------
+
+Task: sr
+Set: test
+Model: gpt2
+Result: 0.32
+--------------------
+
+Task: end2end
+Set: eval
+Model: t5
+Result: 0.65
+--------------------
+
+Task: end2end
+Set: eval
+Model: bart
+Result: 0.64
+--------------------
+
+Task: end2end
+Set: eval
+Model: gpt2
+Result: 0.62
+--------------------
+
+Task: sr
+Set: eval
+Model: t5
+Result: 0.55
+--------------------
+
+Task: sr
+Set: eval
+Model: bart
+Result: 0.28
+--------------------
+
+Task: sr
+Set: eval
+Model: gpt2
+Result: 0.49
+--------------------
+
+############################################################
+
+Seen domains:
+
+Task: end2end
+Set: test
+Model: t5
+Result: 0.63
+--------------------
+
+Task: end2end
+Set: test
+Model: bart
+Result: 0.62
+--------------------
+
+Task: end2end
+Set: test
+Model: gpt2
+Result: 0.58
+--------------------
+
+Task: sr
+Set: test
+Model: t5
+Result: 0.53
+--------------------
+
+Task: sr
+Set: test
+Model: bart
+Result: 0.27
+--------------------
+
+Task: sr
+Set: test
+Model: gpt2
+Result: 0.47
+--------------------
+
+Task: end2end
+Set: eval
+Model: t5
+Result: 0.65
+--------------------
+
+Task: end2end
+Set: eval
+Model: bart
+Result: 0.64
+--------------------
+
+Task: end2end
+Set: eval
+Model: gpt2
+Result: 0.62
+--------------------
+
+Task: sr
+Set: eval
+Model: t5
+Result: 0.55
+--------------------
+
+Task: sr
+Set: eval
+Model: bart
+Result: 0.28
+--------------------
+
+Task: sr
+Set: eval
+Model: gpt2
+Result: 0.49
+--------------------
+
+############################################################
+
+Unseen domains:
+
+Task: end2end
+Set: test
+Model: t5
+Result: 0.46
+--------------------
+
+Task: end2end
+Set: test
+Model: bart
+Result: 0.26
+--------------------
+
+Task: end2end
+Set: test
+Model: gpt2
+Result: 0.13
+--------------------
+
+Task: sr
+Set: test
+Model: t5
+Result: 0.37
+--------------------
+
+Task: sr
+Set: test
+Model: bart
+Result: 0.13
+--------------------
+
+Task: sr
+Set: test
+Model: gpt2
+Result: 0.13
+--------------------
+
+Task: end2end
+Set: eval
+Model: t5
+Result: 0
+--------------------
+
+Task: end2end
+Set: eval
+Model: bart
+Result: 0
+--------------------
+
+Task: end2end
+Set: eval
+Model: gpt2
+Result: 0
+--------------------
+
+Task: sr
+Set: eval
+Model: t5
+Result: 0
+--------------------
+
+Task: sr
+Set: eval
+Model: bart
+Result: 0
+--------------------
+
+Task: sr
+Set: eval
+Model: gpt2
+Result: 0
+--------------------
+
+############################################################
+
+
+Evaluation of Final Texts (METEOR)
+
+All domains:

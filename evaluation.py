@@ -2,10 +2,14 @@ import json
 import os
 import nltk
 from nltk.translate.bleu_score import corpus_bleu, SmoothingFunction
+from nltk.translate.meteor_score import meteor_score
+from nltk import word_tokenize
 import numpy as np
 import subprocess
 import re
 from mapping import read_file_map
+# nltk.download('punkt')
+# nltk.download('wordnet')
 
 # Function to read json and .txt files
 def read_file(path):
@@ -28,7 +32,8 @@ def write_file(write_path, result, mode='w'):
         f.write(result)
 
 # root path
-original_path = "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/"
+# original_path = "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/"
+original_path = ''
 path_input = original_path + 'data/deepnlg/input/'
 path_result = original_path + "results/"
 write_dir = path_result+"eval_results.txt"
@@ -402,7 +407,7 @@ for _set in ['test', 'dev']:
         try:
             bleu_score = corpus_bleu(y_real_tokenized, y_pred_tokenized, smoothing_function=chencherry.method3)
         except:
-           bleu_score = 0  
+            bleu_score = 0  
 
         result += '\n' + 'Task: '+ "Lexicalization"
         result += '\n' + 'Set: '+ _set 
@@ -414,16 +419,291 @@ for _set in ['test', 'dev']:
 write_file(write_dir, result, mode='a')
 write_file(write_dir, '\n' + 60 * '#' + '\n', mode='a') 
 
+
 ################################################
     #  Evaluation of Final Texts (BLEU) #
 ################################################
+print('Evaluation of Final Texts (BLEU)')
+print('All domains')
+
+result = '\n\nEvaluation of Final Texts (BLEU)\n'
+result += '\nAll domains:\n'
+write_file(write_dir, result, mode='a')
+
+models = ["t5", "bart", "gpt2"]
+tasks = ['end2end', 'sr']
+
+for _set in ['test', 'dev']:
+    gold_path = os.path.join(path_input, 'end2end', _set + '.json')  # path/task/set.json
+    gold = read_file(gold_path)
+
+    for kind in tasks:
+        for model in models:
+            if _set == 'dev':
+                _set = 'eval'
+            p = os.path.join(path_result, kind, model, kind + '_pipeline_' + _set + '.txt')
+            y_predict = read_file_map(p)
+
+            y_real, y_pred = [], []
+            for i, g in enumerate(gold):
+                t = [' '.join(target['output']).lower() for target in g['targets']]
+                y_real.append(t)
+                y_pred.append(y_predict[i].strip().lower())
+
+            y_real_tokenized = [[nltk.word_tokenize(sent) for sent in ref] for ref in y_real]
+            y_pred_tokenized = [nltk.word_tokenize(sent) for sent in y_pred]
+
+            chencherry = SmoothingFunction()
+            try:
+                bleu_score = corpus_bleu(y_real_tokenized, y_pred_tokenized, smoothing_function=chencherry.method3)
+            except:
+                bleu_score = 0
+
+            result = '\n' + 'Task: ' + kind
+            result += '\n' + 'Set: ' + _set
+            result += '\n' + 'Model: ' + model
+            result += '\n' + 'Result: ' + str(round(bleu_score, 2))
+            result += '\n' + 20 * '-' + '\n'
+
+            write_file(write_dir, result, mode='a')
+
+write_file(write_dir, '\n' + 60 * '#' + '\n', mode='a')
+
+
+
+print('Seen domains')
+result = '\nSeen domains:\n'
+write_file(write_dir, result, mode='a')
+
+models = ["t5", "bart", "gpt2"]
+tasks = ['end2end', 'sr']
+
+for _set in ['test', 'dev']:
+    gold_path = os.path.join(path_input, 'end2end', _set + '.json')  # path/task/set.json
+    gold = read_file(gold_path)
+
+    for kind in tasks:
+        for model in models:
+            if _set == 'dev':
+                _set = 'eval'
+            p = os.path.join(path_result, kind, model, kind + '_pipeline_' + _set + '.txt')
+            y_predict = read_file_map(p)
+
+            y_real, y_pred = [], []
+            for i, g in enumerate(gold):
+                if g['category'] not in unseen_domains:
+                    t = [' '.join(target['output']).lower() for target in g['targets']]
+                    y_real.append(t)
+                    y_pred.append(y_predict[i].strip().lower())
+
+            y_real_tokenized = [[nltk.word_tokenize(sent) for sent in ref] for ref in y_real]
+            y_pred_tokenized = [nltk.word_tokenize(sent) for sent in y_pred]
+
+            chencherry = SmoothingFunction()
+            try:
+                bleu_score = corpus_bleu(y_real_tokenized, y_pred_tokenized, smoothing_function=chencherry.method3)
+            except:
+                bleu_score = 0 
+
+            result = '\n' + 'Task: ' + kind
+            result += '\n' + 'Set: ' + _set
+            result += '\n' + 'Model: ' + model
+            result += '\n' + 'Result: ' + str(round(bleu_score, 2))
+            result += '\n' + 20 * '-' + '\n'
+
+            write_file(write_dir, result, mode='a')
+
+write_file(write_dir, '\n' + 60 * '#' + '\n', mode='a')
+
+
+print('Unseen domains')
+result = '\nUnseen domains:\n'
+write_file(write_dir, result, mode='a')
+
+models = ["t5", "bart", "gpt2"]
+tasks = ['end2end', 'sr']
+
+for _set in ['test', 'dev']:
+    gold_path = os.path.join(path_input, 'end2end', _set + '.json')  # path/task/set.json
+    gold = read_file(gold_path)
+
+    for kind in tasks:  # Iterate over tasks
+        for model in models:
+            if _set == 'dev':
+                _set = 'eval'
+            p = os.path.join(path_result, kind, model, kind + '_pipeline_' + _set + '.txt')
+            y_predict = read_file_map(p)
+
+            y_real, y_pred = [], []
+            for i, g in enumerate(gold):
+                if g['category'] in unseen_domains:
+                    t = [' '.join(target['output']).lower() for target in g['targets']]
+                    y_real.append(t)
+                    y_pred.append(y_predict[i].strip().lower())
+
+            y_real_tokenized = [[nltk.word_tokenize(sent) for sent in ref] for ref in y_real]
+            y_pred_tokenized = [nltk.word_tokenize(sent) for sent in y_pred]
+
+            chencherry = SmoothingFunction()
+            try:
+                bleu_score = corpus_bleu(y_real_tokenized, y_pred_tokenized, smoothing_function=chencherry.method3)
+            except:
+                bleu_score = 0 
+
+            result = '\n' + 'Task: ' + kind
+            result += '\n' + 'Set: ' + _set
+            result += '\n' + 'Model: ' + model
+            result += '\n' + 'Result: ' + str(round(bleu_score, 2))
+            result += '\n' + 20 * '-' + '\n'
+
+            write_file(write_dir, result, mode='a')
+
+write_file(write_dir, '\n' + 60 * '#' + '\n', mode='a')
+
+
 
 
 ################################################
     #  Evaluation of Final Texts (METEOR) #
 ################################################
+print('Evaluation of Final Texts (METEOR)')
+print('All domains')
+
+result = '\n\nEvaluation of Final Texts (METEOR)\n'
+result += '\nAll domains:\n'
+write_file(write_dir, result, mode='a')
+
+models = ["t5", "bart", "gpt2"]
+tasks = ['end2end', 'sr']
+
+for _set in ['test', 'dev']:
+    gold_path = os.path.join(path_input, 'end2end', _set + '.json')  # path/task/set.json
+    gold = read_file(gold_path)
+
+    for kind in tasks:
+        for model in models:
+            if _set == 'dev':
+                _set = 'eval'
+            p = os.path.join(path_result, kind, model, kind + '_pipeline_' + _set + '.txt')
+            y_predict = read_file_map(p)
+
+            y_real, y_pred = [], []
+            for i, g in enumerate(gold):
+                targets = [nltk.word_tokenize(' '.join(target['output']).lower()) for target in g['targets']]
+                y_real.extend(targets)
+                pred = ' '.join(nltk.word_tokenize(y_predict[i].strip())).lower()
+                y_pred.append(pred)
 
 
+            # Calculate METEOR score
+            try:
+                y_real_str = '\n'.join([' '.join(sent) for sent in y_real])
+                y_pred_str = '\n'.join([' '.join(sent) for sent in y_pred])
+                meteor = meteor_score(y_real_str, y_pred_str)
+            except ZeroDivisionError:
+                meteor = 0.0
+
+            result = '\n' + 'Task: ' + kind
+            result += '\n' + 'Set: ' + _set
+            result += '\n' + 'Model: ' + model
+            result += '\n' + 'Result: ' + str(round(meteor, 2))
+            result += '\n' + 20 * '-' + '\n'
+
+            write_file(write_dir, result, mode='a')
+
+write_file(write_dir, '\n' + 60 * '#' + '\n', mode='a')
+
+
+
+print('Seen domains')
+result = '\nSeen domains:\n'
+write_file(write_dir, result, mode='a')
+
+models = ["t5", "bart", "gpt2"]
+tasks = ['end2end', 'sr']
+
+for _set in ['test', 'dev']:
+    gold_path = os.path.join(path_input, 'end2end', _set + '.json')  # path/task/set.json
+    gold = read_file(gold_path)
+
+    for kind in tasks:
+        for model in models:
+            if _set == 'dev':
+                _set = 'eval'
+            p = os.path.join(path_result, kind, model, kind + '_pipeline_' + _set + '.txt')
+            y_predict = read_file_map(p)
+
+            y_real, y_pred = [], []
+            for i, g in enumerate(gold):
+                if g['category'] not in unseen_domains:
+                    targets = [nltk.word_tokenize(' '.join(target['output']).lower()) for target in g['targets']]
+                    y_real.extend(targets)
+                    pred = ' '.join(nltk.word_tokenize(y_predict[i].strip())).lower()
+                    y_pred.append(pred)
+
+            # Calculate METEOR score
+            try:
+                y_real_str = '\n'.join([' '.join(sent) for sent in y_real])
+                y_pred_str = '\n'.join([' '.join(sent) for sent in y_pred])
+                meteor = meteor_score(y_real_str, y_pred_str)
+            except ZeroDivisionError:
+                meteor = 0.0
+
+            result = '\n' + 'Task: ' + kind
+            result += '\n' + 'Set: ' + _set
+            result += '\n' + 'Model: ' + model
+            result += '\n' + 'Result: ' + str(round(meteor, 2))
+            result += '\n' + 20 * '-' + '\n'
+
+            write_file(write_dir, result, mode='a')
+
+write_file(write_dir, '\n' + 60 * '#' + '\n', mode='a')
+
+
+
+print('Unseen domains')
+result = '\nUnseen domains:\n'
+write_file(write_dir, result, mode='a')
+
+models = ["t5", "bart", "gpt2"]
+tasks = ['end2end', 'sr']
+
+for _set in ['test', 'dev']:
+    gold_path = os.path.join(path_input, 'end2end', _set + '.json')  # path/task/set.json
+    gold = read_file(gold_path)
+
+    for kind in tasks:
+        for model in models:
+            if _set == 'dev':
+                _set = 'eval'
+            p = os.path.join(path_result, kind, model, kind + '_pipeline_' + _set + '.txt')
+            y_predict = read_file_map(p)
+
+            y_real, y_pred = [], []
+            for i, g in enumerate(gold):
+                if g['category'] in unseen_domains:
+                    targets = [nltk.word_tokenize(' '.join(target['output']).lower()) for target in g['targets']]
+                    y_real.extend(targets)
+                    pred = ' '.join(nltk.word_tokenize(y_predict[i].strip())).lower()
+                    y_pred.append(pred)
+
+            # Calculate METEOR score
+            try:
+                y_real_str = '\n'.join([' '.join(sent) for sent in y_real])
+                y_pred_str = '\n'.join([' '.join(sent) for sent in y_pred])
+                meteor = meteor_score(y_real_str, y_pred_str)
+            except ZeroDivisionError:
+                meteor = 0.0
+
+            result = '\n' + 'Task: ' + kind
+            result += '\n' + 'Set: ' + _set
+            result += '\n' + 'Model: ' + model
+            result += '\n' + 'Result: ' + str(round(meteor, 2))
+            result += '\n' + 20 * '-' + '\n'
+
+            write_file(write_dir, result, mode='a')
+
+write_file(write_dir, '\n' + 60 * '#' + '\n', mode='a')
 ################################################
     #  Evaluation of Final Texts (Fluency and Semantic) #
 ################################################
