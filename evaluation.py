@@ -2,7 +2,7 @@ import json
 import os
 import nltk
 from nltk.translate.bleu_score import corpus_bleu, SmoothingFunction
-from nltk.translate.meteor_score import meteor_score
+from nltk.translate.meteor_score import meteor_score, single_meteor_score
 from nltk import word_tokenize
 import numpy as np
 import subprocess
@@ -598,16 +598,19 @@ for _set in ['test', 'dev']:
 
             # Calculate METEOR score
             try:
-                y_real_str = '\n'.join([sent for sent in y_real])
-                y_pred_str = '\n'.join([sent for sent in y_pred])
-                meteor = meteor_score(y_real_str, y_pred_str)
+                meteor = 0
+                for i in range(len(y_real)):
+                    # Convert list of tokenized sentences to a single string
+                    ref_str = ' '.join([''.join(sent) for sent in y_real[i]])
+                    meteor += single_meteor_score(ref_str , y_pred[i])
+                meteor_ = meteor/len(y_real)
             except ZeroDivisionError:
-                meteor = 0.0
+                meteor_ = 0.0
 
             result = '\n' + 'Task: ' + kind
             result += '\n' + 'Set: ' + _set
             result += '\n' + 'Model: ' + model
-            result += '\n' + 'Result: ' + str(round(meteor, 2))
+            result += '\n' + 'Result: ' + str(round(meteor_, 2))
             result += '\n' + 20 * '-' + '\n'
 
             write_file(write_dir, result, mode='a')
@@ -646,16 +649,19 @@ for _set in ['test', 'dev']:
 
             # Calculate METEOR score
             try:
-                y_real_str = '\n'.join([sent for sent in y_real])
-                y_pred_str = '\n'.join([sent for sent in y_pred])
-                meteor = meteor_score(y_real_str, y_pred_str)
+                meteor = 0
+                for i in range(len(y_real)):
+                    # Convert list of tokenized sentences to a single string
+                    ref_str = ' '.join([''.join(sent) for sent in y_real[i]])
+                    meteor += single_meteor_score(ref_str , y_pred[i])
+                meteor_ = meteor/len(y_real)
             except ZeroDivisionError:
-                meteor = 0.0
+                meteor_ = 0.0
 
             result = '\n' + 'Task: ' + kind
             result += '\n' + 'Set: ' + _set
             result += '\n' + 'Model: ' + model
-            result += '\n' + 'Result: ' + str(round(meteor, 2))
+            result += '\n' + 'Result: ' + str(round(meteor_, 2))
             result += '\n' + 20 * '-' + '\n'
 
             write_file(write_dir, result, mode='a')
@@ -694,16 +700,19 @@ for _set in ['test', 'dev']:
 
             # Calculate METEOR score
             try:
-                y_real_str = '\n'.join([sent for sent in y_real])
-                y_pred_str = '\n'.join([sent for sent in y_pred])
-                meteor = meteor_score(y_real_str, y_pred_str)
+                meteor = 0
+                for i in range(len(y_real)):
+                    # Convert list of tokenized sentences to a single string
+                    ref_str = ' '.join([''.join(sent) for sent in y_real[i]])
+                    meteor += single_meteor_score(ref_str , y_pred[i])
+                meteor_ = meteor/len(y_real)
             except ZeroDivisionError:
-                meteor = 0.0
+                meteor_ = 0.0
 
             result = '\n' + 'Task: ' + kind
             result += '\n' + 'Set: ' + _set
             result += '\n' + 'Model: ' + model
-            result += '\n' + 'Result: ' + str(round(meteor, 2))
+            result += '\n' + 'Result: ' + str(round(meteor_, 2))
             result += '\n' + 20 * '-' + '\n'
 
             write_file(write_dir, result, mode='a')
