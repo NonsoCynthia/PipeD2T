@@ -1,11 +1,21 @@
 import os
 import re
 import torch
+import numpy as np
 import json
 import pandas as pd
 from torch.utils.data import Dataset, DataLoader
 from datasets import DatasetDict, Dataset
 
+def set_seed(seed):
+    np.random.seed(seed)
+    torch.manual_seed(seed)
+    torch.cuda.manual_seed(seed)
+    torch.backends.cudnn.deterministic = True
+
+# Example usage:
+# SEED = 42
+# set_seed(SEED)
 
 # Read data from files
 def read_file(path):
@@ -141,7 +151,7 @@ def preprocess_data(path, task, model):
 
     # Pipelining Dataset
     if task == "reg":
-        path = "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results"
+        path = "../results"
         dev_ordering = read_file(os.path.join(path, f"ordering/{model}/dev.ordering.mapped"))
         test_ordering = read_file(os.path.join(path, f"ordering/{model}/test.ordering.mapped"))
         test_lexicalization = read_file_map(os.path.join(path, f"{task_suffix}/{model}/{task_suffix}_pipeline_test.txt"))
@@ -166,7 +176,7 @@ def preprocess_data(path, task, model):
             # pipeline_test = pd.DataFrame({"Source": read_file(goto_test)})
 
         else:
-            path = "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results"
+            path = "../results"
             if task == 'sr':
                 goto_dev = os.path.join(path, f"{task_suffix}/{model}/{task_suffix}_pipeline_eval.txt")
                 goto_test = os.path.join(path, f"{task_suffix}/{model}/{task_suffix}_pipeline_test.txt")

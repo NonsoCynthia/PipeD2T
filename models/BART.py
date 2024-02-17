@@ -36,3 +36,25 @@ class BART_Model(pl.LightningModule):
                                                 )
             output = self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
         return output
+    
+
+# generated_ids = self.model.generate(**model_inputs, 
+#                                             max_length=self.max_length,
+#                                             num_beams=5,  # Adjust the number of beams
+#                                             temperature=0.7,  # Adjust the temperature
+#                                             top_k=50,  # Adjust top-k sampling
+#                                             top_p=0.9,  # Adjust nucleus sampling
+#                                             repetition_penalty=2.0,  # Adjust repetition penalty
+#                                             early_stopping=True  # Enable early stopping
+#                                             )
+    
+# generated_ids = self.model.generate(**model_inputs, 
+#                                     max_length=self.max_length,
+#                                     num_beams=4,
+#                                     no_repeat_ngram_size=3,
+#                                     do_sample=True,  # Enable sampling
+#                                     temperature=0.7,
+#                                     top_p=0.9,
+#                                     repetition_penalty=2.0,
+#                                     early_stopping=True
+#                                     )    
