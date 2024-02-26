@@ -1,19 +1,35 @@
 #!/bin/bash
 
-#SBATCH --gres=gpu:rtxa6000:1
-#SBATCH -p compute
-#SBATCH -J CH
+#SBATCH --gres=gpu:rtx2080ti:1
+#SBATCH -p long
+#SBATCH -J AIx
 #SBATCH --cpus-per-task=10
 #SBATCH --mem=30000
-#SBATCH -t 1-23:59:59
+#SBATCH -t 9-23:59:59
 
 ## --nodelist=g126
+# #####gpu:rtxa6000:4  gpu:a100:3 #SBATCH --nodelist=g123
 
 source /home/cosuji/anaconda3/etc/profile.d/conda.sh
-conda activate webnlg2
+conda activate webnlg
 
-# Edit this jobs for each task
-python3 ../chatgpt2.py --model "gpt-3.5-turbo" \
-                --task "ordering" \
-                --data_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
-                --write_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results" 
+## llama2-chat-7b = "64d3f4921d6d9231813cca39" 
+## llama2-70b = "65804f2f6ddc00433c216801"
+## gpt3.5 = "640b517694bf816d35a59125" 
+## gpt4 = "6414bd3cd09663e9225130e8" 
+## gpt-4 Turbo = "654a42a36eb5634a236f5eb1"
+## falcon = "65519d57bf42e6037ab109d5"
+## bloom = "6551ab17bf42e6037ab109e0"
+
+# # Edit this jobs for each task 
+ python3 ../chatgpt.py --model_id "640b517694bf816d35a59125" \
+                    --model_path "gpt-3.5" \
+                    --task "ordering" \
+                    --data_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
+                    --write_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results"
+
+## Mapping the outputs
+# python3 mapping.py --previous_data "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
+#                 --pipeline_data "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results" \
+#                 --previous_task "structuring" \
+#                 --Gen_model "gpt-3.5"
