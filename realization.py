@@ -108,7 +108,7 @@ if __name__ == '__main__':
     # data = args.data_path # Input data path. This should be the path to the previous pipeline task, in this case it should be reg
 
     # Create result directory if it doesn't exist.
-    if not os.path.exists(write_path):
+    if not os.path.exists(args.write_path):
         os.mkdir(write_path)
 
     dataset_dict = preprocess_data(write_path, task, model)

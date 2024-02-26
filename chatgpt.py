@@ -1,20 +1,26 @@
 import os
+import time
 import argparse
-import openai
 from dotenv import load_dotenv, find_dotenv
 from data.load_dataset import CustomDataset, preprocess_data
-# from openai import OpenAI
-from langchain_openai import OpenAI, ChatOpenAI
-from langchain.prompts.few_shot import FewShotPromptTemplate
-from langchain.prompts.prompt import PromptTemplate
-from langchain.chains import LLMChain, SimpleSequentialChain, SequentialChain, ConversationChain
-from langchain.memory import ConversationBufferMemory, ConversationBufferWindowMemory
-
+from openai import OpenAI
+from aixplain.factories import ModelFactory
 
 _ = load_dotenv(find_dotenv())  # read local .env file
-# Set the OPENAI_API_KEY from environment variables
-os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
-openai.api_key = os.getenv("OPENAI_API_KEY")
+#client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+#def get_completion(prompt, model):  # model="gpt-3.5-turbo", 'gpt-3.5-turbo-16k', 'gpt-3.5-turbo', 'gpt-4'
+    #messages = [{"role": "user", "content": prompt}]
+    #response = client.chat.completions.create(
+        #model=model,
+        #messages=messages,
+        #temperature=0
+    #)
+    #return response.choices[0].message.content.strip()
+
+
+TEAM_API_KEY=os.getenv("TEAM_API_KEY")
+#model_gpt3 = ModelFactory.get("640b517694bf816d35a59125") #aixplain gpt-3.5
 
 # Function to write files
 def write_file(write_path, result, mode='w'):
@@ -23,68 +29,54 @@ def write_file(write_path, result, mode='w'):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument("--model", help="path to the model")
+    parser.add_argument("--model_id", help="model ID in aiXplain")
+    parser.add_argument("--model_path", help="path to the model")
     parser.add_argument("--task", help="Training task")
     parser.add_argument("--data_path", help="path to the data")
     parser.add_argument("--write_path", help="path to write best model")
     args = parser.parse_args()
 
     # Model settings, Settings and configurations
-    model = args.model
+    model_id = args.model_id
     task = args.task
     data = args.data_path
-    write_path = args.write_path + "/chatgpt"
+    model_path = args.model_path #"gpt-3.5"
+    write_path = os.path.join(f"{args.write_path}", f"{args.task}", f"{args.model_path}")
+
+    # model = "gpt-3.5-turbo"
+    # model_path = "chatgpt"
+    # task = "lexicalization" #structuring
+    # data = "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg"
+    # write_path = f"/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results/{task}/chatgpt"
 
     # Create result directory if it doesn't exist.
-    if not os.path.exists(write_path):
-        os.mkdir(write_path)
+    train_examples = ""
+    for i in range(0, 5):
+        context = f'''\n Example {i+1}:\n  {train_dataset['Source'][i]}\n  Output: {train_dataset['Target'][i]}'''
+        train_examples += context
+    train_examples += "\n"
 
-    dataset_dict = preprocess_data(data, task, model)
-    train_dataset = CustomDataset(dataset_dict["train"])
+    t_task = {
+        "ordering": "order",
+        "structuring": "structure",
+        "lexicalization": "lexicalized format",
+        "reg": "refering expression generation format",
+        "sr": "textual realization format"
+    }
+    prompt_dir = os.path.join(f"{args.write_path}", f"{args.task}")
+    eg = os.path.join(prompt_dir, f'{task}_prompts.txt')
 
-    # Create 3 randomly selected FewShot examples
-    examples = []
-    for i in range(0, 3):
-        context = {"Input": f'''{train_dataset['Source'][i]}''', "Output": f'''{train_dataset['Target'][i]}'''}
-        print(context)
-        examples.append(context)
+    # Define examples outside the loop
+    examples = f'''I would like to arrange my triples in a specific {t_task[task]} to control the way information is expressed in the final summary. \
+Below, you'll find examples from my {task} dataset along with inputs and expected outputs:{train_examples}
+Now strictly generate all the output result for the query, extra comments is not allowed.
+Query: '''
 
-    ######OpenAI and LangChain ######
-    # Create instances of Langchain objects
-    llm = ChatOpenAI(temperature=0, openai_api_key=openai.api_key, model_name=model)
+    write_file(eg, examples, mode='w')
 
-    
-    # create a example template
-    example_template = """User: {Input}
-AI: {Output} """
+    print(examples)
 
-    example_prompt = PromptTemplate(
-                                input_variables=["Input", "Output"], 
-                                template=example_template
-                                )
-
-    # Feed examples and formatter to FewShotPromptTemplate. Finally, create a FewShotPromptTemplate object.
-    # the prefix is our instructions
-    prefix = f''''Below is a snippet of ten Input and Output entries in my {task} dataset. Provide answers to the subsequent inputs examples: '''
-    # and the suffix our user input and output indicator
-    suffix = """User: {Input}
-AI: """
-    prompt_template = FewShotPromptTemplate(
-        examples=examples,
-        example_prompt=example_prompt,
-        prefix = prefix,
-        suffix = suffix,
-        input_variables=["Input"],
-    )
-
-    # testing = prompt_template.format(Input="[TRIPLE] Akeem_Priestley club RoPS [/TRIPLE] [TRIPLE] RoPS league Veikkausliiga [/TRIPLE]")
-    # print(testing)
-    # print(llm.invoke(testing))
-    # response = llm.invoke(testing)
-    # result_content = response.content
-    # print(result_content)
-
-    # Import the validation datasets
+    # # Import the validation datasets
     evaluation = {
         f"{task}_dev": dataset_dict["validation"],
         f"{task}_test": dataset_dict["test"],
@@ -92,47 +84,18 @@ AI: """
         f"{task}_pipeline_test": dataset_dict["pipeline_test"]
     }
 
-    # Feed the chatgpt the dev, test and pipeline datasets for inference
+    model = ModelFactory.get(f"{model_id}") #gpt-3.5
+
+    # # Feed the chatgpt the dev, test, and pipeline datasets for inference
     for dataset_name, dataset in evaluation.items():
         print(f'{dataset_name}.txt')
         path = os.path.join(write_path, f'{dataset_name}.txt')
         feedback = []
-        for item in dataset: 
-            prompt = prompt_template.format(Input=item['Source'])
-            response = llm.invoke(prompt).content
-            feedback.append(response)
-            print(response, item['Source'])
+        for i, item in enumerate(dataset):
+            prompt = f"{examples}{item['Source']} \nOutput:"
+            result = model.run(prompt)
+            output = result['rawData']['choices'][0]['message']['content']
+            feedback.append(output.strip())
 
-        write_file(path, '\n'.join(feedback), mode='w')  # Write your result into a file
-    
-        print("\n\n")
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-    # Create 3 randomly selected FewShot examples
-    # examples = []
-    # for i in range(0, 2):
-        # context = {"Input": f'''{train_dataset['Source'][i]}''', "Output": f'''{train_dataset['Target'][i]}'''}
-        # examples.append(context)
-        # print(context)
-
-    # examples = f'''Below are examples of my {task} dataset with inputs and expected outputs. 
-    #     Example 1:
-    #         [TRIPLE] Tirstrup isPartOf Central_Denmark_Region [/TRIPLE] [TRIPLE] Aarhus_Airport location Tirstrup [/TRIPLE]
-    #         location isPartOf
-    #     Example 2:
-    #         [TRIPLE] AWH_Engineering_College academicStaffSize 250 [/TRIPLE] [TRIPLE] AWH_Engineering_College country India [/TRIPLE] \
-    #                     [TRIPLE] India largestCity Mumbai [/TRIPLE] [TRIPLE] India river Ganges [/TRIPLE]
-    #         country academicStaffSize largestCity river
-    #         Provide output to the subsequent input: '''
+        write_file(path, '\n'.join(feedback), mode='a')  # Write your result into a file
+        print(f'{dataset_name}.txt Ended!!!!', "\n")

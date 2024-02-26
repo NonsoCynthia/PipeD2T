@@ -9,8 +9,19 @@ from models.GPT2 import GPT2_Model
 from models.T5 import T5_Model
 from training import Trainer
 import pytorch_lightning as pl
+import torch.nn as nn
+
+from transformers import set_seed
+set_seed(42)
 
 pl.seed_everything(42)
+
+def set_seed(seed):
+    np.random.seed(seed)
+    torch.manual_seed(seed)
+    torch.cuda.manual_seed(seed)
+    torch.backends.cudnn.deterministic = True
+
 
 
 if __name__ == '__main__':

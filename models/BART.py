@@ -48,13 +48,13 @@ class BART_Model(pl.LightningModule):
 #                                             early_stopping=True  # Enable early stopping
 #                                             )
     
-# generated_ids = self.model.generate(**model_inputs, 
+# generated_ids = self.model.generate(**model_inputs,
 #                                     max_length=self.max_length,
 #                                     num_beams=4,
 #                                     no_repeat_ngram_size=3,
-#                                     do_sample=True,  # Enable sampling
-#                                     temperature=0.7,
+#                                     do_sample=True,
+#                                     temperature=0.9,
 #                                     top_p=0.9,
 #                                     repetition_penalty=2.0,
-#                                     early_stopping=True
-#                                     )    
+#                                     early_stopping=True,
+#                                     top_k=10)   
