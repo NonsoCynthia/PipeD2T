@@ -2,11 +2,73 @@ import os
 import json
 import re
 import argparse
-from data.load_dataset import read_file
+#from data.load_dataset import read_file
 
+
+def struct_tags(contents):
+    replacements = {
+        '[ SNT)': '[SNT]', '[ /SNT)': '[/SNT]', '[SNT)': '[SNT]', '[/SNT)': '[/SNT]',
+        '[ SNT] ': '[SNT]', '[/ SNT] ': '[/SNT]', '[ Snt] ': '[SNT]', '[/ Snt] ': '[/SNT]',
+        '[sNT)': '[SNT]', '[/sNT)': '[/SNT]', '[T] ': '[SNT]', '[/T] ': '[/SNT]',
+        '[SNT?]': '[SNT]', '[/SNT?]': '[/SNT]', '[SOD]': '[SNT]', '[/SOD]': '[/SNT]',
+        ' SNT]': '[SNT]', ' /SNT]': '[/SNT]', '[SENT]': '[SNT]', '[/SENT]': '[/SNT]',
+        '[S NT]': '[SNT]', '[/S NT]': '[/SNT]', '[SVP]': '[SNT]', '[/SVP]': '[/SNT]',
+        '[SDP]': '[SNT]', '[/SDP]': '[/SNT]', '[SNT...]': '[SNT]', '[/SNT...]': '[/SNT]',
+        '[SOTT]': '[SNT]', '[/SOTT]': '[/SNT]', '[sNT]': '[SNT]', '[/sNT]': '[/SNT]',
+        '[SOT]': '[SNT]', '[/SOT]': '[/SNT]', '[SNS]': '[SNT]', '[/SNS]': '[/SNT]',
+        '], [': '] [', ']. [': '] [', '],':']', '].':']', '[[[': '[', '[[': '[',
+        '[SNT].': '[SNT]', '[/SNT].': '[SNT]', '(SNT)':'[SNT]', '(/SNT)':'[/SNT]',
+        '[SNT],':'[SNT]', '[/SNT],':'[/SNT]', '[SNT].':'[SNT]', '[/SNT].':'[/SNT]',
+        '[SNA]':'[SNT]', '[/SNA]': '[/SNT]', '[SNS]':'[SNT]', '[/SNS]':'[/SNT]',
+        "[SNT']":'[SNT]', "[/SNT']":'[/SNT]', '[SS]':'[SNT]', '[/SS]':'[/SNT]',
+        '[SUNT]':'[SNT]', '[/SUNT]':'[/SNT]', '[DNT|':'[SNT]', '[/DNT|':'[/SNT]',
+        '[SENT]':'[SNT]', '[/SENT]':'[/SNT]','[SNOR]':'[SNT]', '[/SNOR]':'[/SNT]',
+
+        }
+
+    xcontents = contents
+    for old, new in replacements.items():
+        xcontents = xcontents.replace(old, new)
+
+    pattern = re.compile(r'\[\s*(\/?\w+)\s*\]')
+    pattern2 = re.compile(r'\[\s*(\/?\s*[\w\.,]+)\s*\]\s*[\.,]?\s*')
+
+    cleaned_text = re.sub(pattern, lambda m: f"[{'/' if m.group(1).startswith('/') else ''}SNT] ", xcontents)
+    cleaned_text = re.sub(pattern2, lambda m: f"[{'/' if m.group(1).startswith('/') else ''}SNT] ", cleaned_text)
+    cleaned_text = re.sub(r'\[SNT\]([^\s])', r'[SNT] \1', cleaned_text)  # Add space after [SNT] if not followed by a space
+    cleaned_text = cleaned_text.replace('  ', ' ')
+    # Split the text into lines
+    #cleaned_text_lines = cleaned_text.strip().split('\n')
+
+    return cleaned_text
+
+
+def lex_tags(contents):
+    replacements = {
+        'ENTITITY':'ENTITY', 'ENTITIES':'ENTITY', 'ENTID':'ENTITY', 'ENTITY/':'ENTITY-', ' E-':' ENTITY-',
+        'ENTITYy':'ENTITY', 'ENTITY-"':'ENTITY-', 'AGENT':'PATIENT', 'ENTITY -':'ENTITY-', 'PATIENT -':'PATIENT-',
+        'ENTITY]':'ENTITY', 'ENTIRE': 'ENTITY', 'ENTITY)':'ENTITY', 'ENITITE-':'ENTITY-', 'ENTIT-':'ENTITY-',
+        'ENTIER-':'ENTITY-', 'ENTRY-':'ENTITY-', 'ENTIENT-':'ENTITY-', 'ENTITY CITITY': 'ENTITY',
+        ' ia ':' is a ', 'active andperson':'active, person',
+        ' [':'[', '.[':'[','[ ':'[', ' ]':']', 'ENTITY- ':'ENTITY-',
+        'PATIENT':'ENTITY',
+        }
+    xcontents = contents
+    for old, new in replacements.items():
+        xcontents = xcontents.replace(old, new)
+
+    pattern = r'\b(ENTITY)[\'"/\]?\s*[-_]\s*(\d+)(?:[.,]?\s*)\b'
+    xcontents = re.sub(pattern, r'\1-\2 ', xcontents, flags=re.IGNORECASE)
+    pattern2 = r'\b(ENTITY)(\d+)\b'
+    xcontents = re.sub(pattern2, r'\1-\2', xcontents, flags=re.IGNORECASE)
+    pattern3 = r'\b(ENT[A-Z]\w+)-(\d+)\b'
+    xcontents = re.sub(pattern3, r'ENTITY-\2', xcontents, flags=re.IGNORECASE)
+    xcontents = xcontents.replace("'", " '")
+    return xcontents
+    
 
 # Read data from files
-def read_file_map(path):
+def read_file_map(path, task):
     if path.endswith(".json"):
         with open(path, "r", encoding='utf-8') as json_file:
             data = json.load(json_file)
@@ -14,20 +76,33 @@ def read_file_map(path):
     else:
         with open(path, 'r', encoding='utf-8') as file:
             contents = file.read()
-            # Do not replace `<` and `>` if they are not part of your tags
-            # contents = contents.replace('<', '[').replace('>', ']')
-            xcontents = contents.replace('[ /SNT)', '[/SNT]').replace('[/SNT)', '[/SNT]').replace('[/ SNT] ', '[/SNT]')
-            xcontents = xcontents.replace('[/ Snt] ', '[/SNT]').replace('[/sNT)', '[/SNT]').replace('[/T] ', '[/SNT]')
-            xcontents = xcontents.replace('[SNT?]', '[SNT]').replace('/SOD', '/SNT').replace('[ SNT]', '[SNT]')
-            xcontents = xcontents.replace('/SNT]', '[/SNT]')
-            xcontents = xcontents.replace('[[[', '[').replace('[[', '[')        #.replace('[[/TRIPLE]', '[/TRIPLE]')
-            # xcontents = xcontents.replace('<', '[').replace('>', ']')
-            lines = [line.strip() for line in xcontents.split('\n')]
-            # print(lines)
+            if task == "structuring":
+                lines = [struct_tags(line.strip()) for line in contents.split('\n')]
+                #print(lines)
+            elif task == "lexicalization":
+                lines = [lex_tags(line.strip()) for line in contents.split('\n')]
+            else:
+                lines = [line.strip() for line in contents.split('\n')]
+                
             if lines and lines[-1] == '':
                 return lines[:-1]
             return lines
-        
+
+def read_file(path):
+    if path.endswith(".json"):
+        with open(path, "r", encoding='utf-8') as json_file:
+            data = json.load(json_file)
+        return data
+    else:
+        with open(path, 'r', encoding='utf-8') as file:
+            contents = file.read()
+            contents = contents.replace('<', '[').replace('>', ']')#.replace('"',"^")
+            lines = [line.strip() for line in contents.split('\n')]
+            if lines and lines[-1] == '':
+                return lines[:-1]
+            return lines
+  
+
 def prcs_entry(entry):
     cleaned_word = entry.strip('.,!')
     if cleaned_word.startswith("ENTITY-"):
@@ -134,43 +209,52 @@ def structout2lexin(struct_out, triples):
     return ' '.join(join_struct(struct))
 
 
-
-# def lexout2regin(lex_out, triples):
-#     entities = entity_mapping(triples)
-#     for i, w in enumerate(lex_out):
-#         w = w.strip().strip('.').strip(',').strip('!')
-#         if w.strip() in entities:
-#             lex_out[i] = entities[w.strip()]
-#     return ' '.join(lex_out)
+#def lexout2regin(lex_out, triples):
+    #entities = entity_mapping(triples)
+    #print(f"Entites: {entities}")
+    #for i, w in enumerate(lex_out):
+        #cleaned_word = w.strip(".,!\"'")
+        #if cleaned_word.startswith("ENTITY-") and cleaned_word.strip() in entities:
+            #print( f"{i}: {cleaned_word}=={entities[cleaned_word]}")
+            #lex_out[i] = entities[cleaned_word] + w[len(cleaned_word):]
+    #return ' '.join(lex_out).replace(" '", "'")#.replace("^",'"')
 
 def lexout2regin(lex_out, triples):
     entities = entity_mapping(triples)
+    print(f"Entities: {entities}")
     for i, w in enumerate(lex_out):
-        # Identify entities and replace them with their values
-        cleaned_word = w.strip('.,!')
-        if cleaned_word.startswith("ENTITY-") and cleaned_word in entities:
-            lex_out[i] = entities[cleaned_word] + w[len(cleaned_word):]
-
-    return ' '.join(lex_out)
+        cleaned_word = w.strip(".,!\"'")
+        # Check if the word matches the pattern ENTITY-\d+
+        if re.match(r'^ENTITY-\d+$', cleaned_word):
+            # Check if the cleaned word exists in the entities mapping
+            if cleaned_word in entities:
+                # Replace the entity with its corresponding value, preserving quotation marks if present
+                print( f"{i}: {cleaned_word}=={entities[cleaned_word]}")
+                original_word = lex_out[i]
+                replacement = entities[cleaned_word].strip('"')
+                lex_out[i] = original_word.replace(cleaned_word, replacement)
+    return ' '.join(lex_out).replace(" '", "'")
 
 
 def run(out_path, entries_path, pre_task):
-    outputs = [out.split() for out in read_file_map(out_path)]
+    outputs = [out.split() for out in read_file_map(out_path, pre_task)]
     entries = [split_triples(y.split()) for y in read_file(entries_path)]
-    # with open(out_path) as f:
-    #     outputs = f.read().split('\n')
-    # outputs = [out.split() for out in outputs]
-    # with open(entries_path) as f:
-    #     entries = f.read().split('\n')
-    # print(entries)
+    
+    #if len(outputs) != len(entries):
+        #print(f"Current {pre_task} task length {len(outputs)}", f"Previous task input length {len(entries)}")
+        #raise ValueError("Number of outputs does not match number of entries")
+    #start_index = max(0, len(outputs) - len(entries))
     for i, entry in enumerate(entries):
+        #i = start_index + i
         if pre_task == "ordering":
             yield orderout2structin(ordering_out=outputs[i], triples=entry)
         elif pre_task == "structuring":
             yield structout2lexin(struct_out=outputs[i], triples=entry)
-        # elif pre_task == "lexicalization":
-        else:
+        elif pre_task == "lexicalization":
             yield lexout2regin(lex_out=outputs[i], triples=entry)
+        else:
+            raise ValueError("Invalid pre_task value")
+
 
 
 def main(pre_data, pipe_data, pre_task, model):
