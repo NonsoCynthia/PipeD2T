@@ -1,3 +1,4 @@
+
 import os
 import time
 import argparse
@@ -88,14 +89,18 @@ Query: '''
 
     # # Feed the chatgpt the dev, test, and pipeline datasets for inference
     for dataset_name, dataset in evaluation.items():
-        print(f'{dataset_name}.txt')
-        path = os.path.join(write_path, f'{dataset_name}.txt')
-        feedback = []
-        for i, item in enumerate(dataset):
-            prompt = f"{examples}{item['Source']} \nOutput:"
-            result = model.run(prompt)
-            output = result['rawData']['choices'][0]['message']['content']
-            feedback.append(output.strip())
+            print(f'{dataset_name}.txt')
+            path = os.path.join(write_path, f'{dataset_name}.txt')
+            feedback = []
+            for i, item in enumerate(dataset):
+                prompt = f"{examples}{item['Source']} \nOutput:"
+                result = model.run(prompt)
+                while 'data' not in result:
+                    print(f"No 'data' key found in the result for dataset '{dataset_name}', item {i}. Retrying...")
+                    result = model.run(prompt)
+                    #cleaned_output = result['data'].strip().replace('\n', ' ')
+                feedback.append(result['data'].strip().replace('\n',' '))
+                #feedback.append(result['data'].strip())
 
-        write_file(path, '\n'.join(feedback), mode='a')  # Write your result into a file
-        print(f'{dataset_name}.txt Ended!!!!', "\n")
+            write_file(path, '\n'.join(feedback), mode='w')  # Write your result into a file
+            print(f'{dataset_name}.txt Ended!!!!', "\n")

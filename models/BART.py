@@ -57,4 +57,6 @@ class BART_Model(pl.LightningModule):
 #                                     top_p=0.9,
 #                                     repetition_penalty=2.0,
 #                                     early_stopping=True,
-#                                     top_k=10)   
+#                                     top_k=10) 
+      
+# https://huggingface.co/blog/4bit-transformers-bitsandbytes

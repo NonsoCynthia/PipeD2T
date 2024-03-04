@@ -69,7 +69,7 @@ if __name__ == '__main__':
     dataset_dict = preprocess_data(data, task, model_path)
     train_dataset = dataset_dict["train"]
 
-    model_id = "meta-llama/Llama-2-70b-chat-hf" #"meta-llama/Llama-2-13b-chat-hf" #"meta-llama/Llama-2-7b-chat-hf"
+    model_id = "meta-llama/Llama-2-70b-chat-hf" #"meta-llama/Llama-2-13b-chat-hf" #"meta-llama/Llama-2-7b-chat-hf" #"meta-llama/Llama-2-7b-hf"
     hf_auth = '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'
     max_length = 512
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
