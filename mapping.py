@@ -4,6 +4,13 @@ import re
 import argparse
 #from data.load_dataset import read_file
 
+def ord_tags(text):
+    s_to_remove = ['[TRIPLE]', '[/TRIPLE]', '/TRIPLE','TRIPLE', '[', ']', ',', '.', "'", '"']
+    for punctuation in s_to_remove:
+        text = text.replace(punctuation, '')  
+    # Remove extra spaces
+    text = re.sub(r'\s+', ' ', text)
+    return text.strip()
 
 def struct_tags(contents):
     replacements = {
@@ -64,7 +71,17 @@ def lex_tags(contents):
     pattern3 = r'\b(ENT[A-Z]\w+)-(\d+)\b'
     xcontents = re.sub(pattern3, r'ENTITY-\2', xcontents, flags=re.IGNORECASE)
     xcontents = xcontents.replace("'", " '")
-    return xcontents
+    # return xcontents
+    # Extract the relevant part of the text
+    text = xcontents.split(": ")[1].strip()
+    # Split the text into sentences
+    sentences = text.split(". ")
+    # Remove the last sentence if it ends with a question mark
+    if sentences[-1].endswith("?"):
+        sentences.pop()
+    # Reconstruct the text with a period at the end of each sentence
+    summary = ". ".join(sentences)
+    return summary.strip()
     
 
 # Read data from files
@@ -82,7 +99,7 @@ def read_file_map(path, task):
             elif task == "lexicalization":
                 lines = [lex_tags(line.strip()) for line in contents.split('\n')]
             else:
-                lines = [line.strip() for line in contents.split('\n')]
+                lines = [ord_tags(line.strip()) for line in contents.split('\n')]
                 
             if lines and lines[-1] == '':
                 return lines[:-1]
@@ -221,7 +238,7 @@ def structout2lexin(struct_out, triples):
 
 def lexout2regin(lex_out, triples):
     entities = entity_mapping(triples)
-    print(f"Entities: {entities}")
+    #print(f"Entities: {entities}")
     for i, w in enumerate(lex_out):
         cleaned_word = w.strip(".,!\"'")
         # Check if the word matches the pattern ENTITY-\d+
@@ -229,7 +246,7 @@ def lexout2regin(lex_out, triples):
             # Check if the cleaned word exists in the entities mapping
             if cleaned_word in entities:
                 # Replace the entity with its corresponding value, preserving quotation marks if present
-                print( f"{i}: {cleaned_word}=={entities[cleaned_word]}")
+                #print( f"{i}: {cleaned_word}=={entities[cleaned_word]}")
                 original_word = lex_out[i]
                 replacement = entities[cleaned_word].strip('"')
                 lex_out[i] = original_word.replace(cleaned_word, replacement)

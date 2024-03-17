@@ -22,7 +22,7 @@ conda activate webnlg
 ## bloom = "6551ab17bf42e6037ab109e0"
 
 # # Edit this jobs for each task 
- python3 ../chatgpt.py --model_id "640b517694bf816d35a59125" \
+python3 ../chatgpt.py --model_id "640b517694bf816d35a59125" \
                     --model_path "gpt-3.5" \
                     --task "ordering" \
                     --data_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \

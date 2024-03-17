@@ -167,6 +167,10 @@ if __name__ == '__main__':
 
     # query = '''[TRIPLE] Alfred_Garth_Jones birthPlace England [/TRIPLE] [TRIPLE] Alfred_Garth_Jones deathPlace London [/TRIPLE] [TRIPLE] Alfred_Garth_Jones nationality United_Kingdom [/TRIPLE]'''
     query = '''[TRIPLE] Italy capital Rome [/TRIPLE] [TRIPLE] A.S._Gubbio_1910 ground Italy [/TRIPLE] [TRIPLE] Italy language Italian_language [/TRIPLE] [TRIPLE] Italy leader Sergio_Mattarella [/TRIPLE]'''
+    query1 = '''[TRIPLE] Italy capital Rome [/TRIPLE] [TRIPLE] A.S._Gubbio_1910 ground Italy [/TRIPLE] [TRIPLE] Italy language Italian_language [/TRIPLE] [TRIPLE] Italy leader Sergio_Mattarella [/TRIPLE]'''
+    query2 = '''<TRIPLE> Alan_Shepard awards Distinguished_Service_Medal_(United_States_Navy) </TRIPLE> <TRIPLE> Alan_Shepard birthPlace New_Hampshire </TRIPLE> <TRIPLE> Alan_Shepard deathDate "1998-07-21" </TRIPLE> <TRIPLE> Alan_Shepard deathPlace California </TRIPLE> <TRIPLE> Distinguished_Service_Medal_(United_States_Navy) higher Department_of_Commerce_Gold_Medal </TRIPLE> <TRIPLE> Alan_Shepard was_awarded "American_Defense_Service_ribbon.svg" </TRIPLE>'''.replace('<', '[').replace('>', ']')
+    query3 = '''<TRIPLE> Turkey capital Ankara </TRIPLE> <TRIPLE> Atatürk_Monument_(İzmir) designer Pietro_Canonica </TRIPLE> <TRIPLE> Atatürk_Monument_(İzmir) inaugurationDate "1932-07-27" </TRIPLE> <TRIPLE> Turkey leaderName Ahmet_Davutoğlu </TRIPLE> <TRIPLE> Atatürk_Monument_(İzmir) location Turkey </TRIPLE> <TRIPLE> Atatürk_Monument_(İzmir) material "Bronze" </TRIPLE>'''.replace('<', '[').replace('>', ']')
+ 
     # query = '''You are a professional computational linguist, and you are working on a data-to-text pipeline architecture 'ordering' to be specific.
     # This is an example of a triple set - [TRIPLE] subject predicate object [/TRIPLE]. I want you to output an ordering of these triplesets using the predicates only:''' 
 

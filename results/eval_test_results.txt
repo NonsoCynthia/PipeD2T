@@ -75,7 +75,7 @@ Task: structuring
 Set: dev
 Model: bart
 Domain: All domains
-Accuracy: 0.48
+Accuracy: 0.52
 --------------------
 
 Task: structuring
@@ -96,7 +96,7 @@ Task: structuring
 Set: dev
 Model: bart
 Domain: Seen domains
-Accuracy: 0.48
+Accuracy: 0.52
 --------------------
 
 Task: structuring
@@ -201,7 +201,7 @@ Task: structuring
 Set: test
 Model: bart
 Domain: All domains
-Accuracy: 0.32
+Accuracy: 0.34
 --------------------
 
 Task: structuring
@@ -222,7 +222,7 @@ Task: structuring
 Set: test
 Model: bart
 Domain: Seen domains
-Accuracy: 0.45
+Accuracy: 0.48
 --------------------
 
 Task: structuring
@@ -243,7 +243,7 @@ Task: structuring
 Set: test
 Model: bart
 Domain: Unseen domains
-Accuracy: 0.18
+Accuracy: 0.19
 --------------------
 
 Task: structuring
@@ -268,7 +268,7 @@ Task: Lexicalization
 Set: dev
 Model: bart
 Domain: All domains
-Result: 0.21
+Result: 0.22
 --------------------
 
 Task: Lexicalization
@@ -289,7 +289,7 @@ Task: Lexicalization
 Set: dev
 Model: bart
 Domain: Seen domains
-Result: 0.21
+Result: 0.22
 --------------------
 
 Task: Lexicalization
@@ -331,7 +331,7 @@ Task: Lexicalization
 Set: test
 Model: bart
 Domain: All domains
-Result: 0.2
+Result: 0.21
 --------------------
 
 Task: Lexicalization
@@ -352,7 +352,7 @@ Task: Lexicalization
 Set: test
 Model: bart
 Domain: Seen domains
-Result: 0.2
+Result: 0.21
 --------------------
 
 Task: Lexicalization
@@ -373,7 +373,7 @@ Task: Lexicalization
 Set: test
 Model: bart
 Domain: Unseen domains
-Result: 0.19
+Result: 0.21
 --------------------
 
 Task: Lexicalization
@@ -537,6 +537,174 @@ Evaluation of Bleu Score for pipeline End2end and Surface Realization task
 
 Task: end2end
 Set: dev
+Model: t5
+Domain: All domains
+Result_bleu: 0.65
+--------------------
+
+Task: end2end
+Set: dev
+Model: t5
+Domain: Seen domains
+Result_bleu: 0.65
+--------------------
+
+Task: end2end
+Set: dev
+Model: t5
+Domain: Unseen domains
+Result_bleu: 0
+--------------------
+
+Task: sr
+Set: dev
+Model: t5
+Domain: All domains
+Result_bleu: 0.55
+--------------------
+
+Task: sr
+Set: dev
+Model: t5
+Domain: Seen domains
+Result_bleu: 0.55
+--------------------
+
+Task: sr
+Set: dev
+Model: t5
+Domain: Unseen domains
+Result_bleu: 0
+--------------------
+
+Task: end2end
+Set: test
+Model: t5
+Domain: All domains
+Result_bleu: 0.56
+--------------------
+
+Task: end2end
+Set: test
+Model: t5
+Domain: Seen domains
+Result_bleu: 0.63
+--------------------
+
+Task: end2end
+Set: test
+Model: t5
+Domain: Unseen domains
+Result_bleu: 0.46
+--------------------
+
+Task: sr
+Set: test
+Model: t5
+Domain: All domains
+Result_bleu: 0.46
+--------------------
+
+Task: sr
+Set: test
+Model: t5
+Domain: Seen domains
+Result_bleu: 0.53
+--------------------
+
+Task: sr
+Set: test
+Model: t5
+Domain: Unseen domains
+Result_bleu: 0.37
+--------------------
+
+Task: end2end
+Set: dev
+Model: bart
+Domain: All domains
+Result_bleu: 0.64
+--------------------
+
+Task: end2end
+Set: dev
+Model: bart
+Domain: Seen domains
+Result_bleu: 0.64
+--------------------
+
+Task: end2end
+Set: dev
+Model: bart
+Domain: Unseen domains
+Result_bleu: 0
+--------------------
+
+Task: sr
+Set: dev
+Model: bart
+Domain: All domains
+Result_bleu: 0.28
+--------------------
+
+Task: sr
+Set: dev
+Model: bart
+Domain: Seen domains
+Result_bleu: 0.28
+--------------------
+
+Task: sr
+Set: dev
+Model: bart
+Domain: Unseen domains
+Result_bleu: 0
+--------------------
+
+Task: end2end
+Set: test
+Model: bart
+Domain: All domains
+Result_bleu: 0.45
+--------------------
+
+Task: end2end
+Set: test
+Model: bart
+Domain: Seen domains
+Result_bleu: 0.62
+--------------------
+
+Task: end2end
+Set: test
+Model: bart
+Domain: Unseen domains
+Result_bleu: 0.26
+--------------------
+
+Task: sr
+Set: test
+Model: bart
+Domain: All domains
+Result_bleu: 0.21
+--------------------
+
+Task: sr
+Set: test
+Model: bart
+Domain: Seen domains
+Result_bleu: 0.27
+--------------------
+
+Task: sr
+Set: test
+Model: bart
+Domain: Unseen domains
+Result_bleu: 0.13
+--------------------
+
+Task: end2end
+Set: dev
 Model: gpt2
 Domain: All domains
 Result_bleu: 0.62
@@ -617,94 +785,6 @@ Set: test
 Model: gpt2
 Domain: Unseen domains
 Result_bleu: 0.13
---------------------
-
-############################################################
-
-Evaluation of Meteor Score for pipeline End2end and Surface Realization task
-
-Task: end2end
-Set: dev
-Model: gpt2
-Domain: All domains
-Result_Meteor: 0.37
---------------------
-
-Task: end2end
-Set: dev
-Model: gpt2
-Domain: Seen domains
-Result_Meteor: 0.37
---------------------
-
-Task: end2end
-Set: dev
-Model: gpt2
-Domain: Unseen domains
-Result_Meteor: 0.0
---------------------
-
-Task: sr
-Set: dev
-Model: gpt2
-Domain: All domains
-Result_Meteor: 0.31
---------------------
-
-Task: sr
-Set: dev
-Model: gpt2
-Domain: Seen domains
-Result_Meteor: 0.31
---------------------
-
-Task: sr
-Set: dev
-Model: gpt2
-Domain: Unseen domains
-Result_Meteor: 0.0
---------------------
-
-Task: end2end
-Set: test
-Model: gpt2
-Domain: All domains
-Result_Meteor: 0.3
---------------------
-
-Task: end2end
-Set: test
-Model: gpt2
-Domain: Seen domains
-Result_Meteor: 0.37
---------------------
-
-Task: end2end
-Set: test
-Model: gpt2
-Domain: Unseen domains
-Result_Meteor: 0.22
---------------------
-
-Task: sr
-Set: test
-Model: gpt2
-Domain: All domains
-Result_Meteor: 0.23
---------------------
-
-Task: sr
-Set: test
-Model: gpt2
-Domain: Seen domains
-Result_Meteor: 0.3
---------------------
-
-Task: sr
-Set: test
-Model: gpt2
-Domain: Unseen domains
-Result_Meteor: 0.14
 --------------------
 
 ############################################################
