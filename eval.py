@@ -44,7 +44,7 @@ def eval_ord_str(input_path, path_result, write_dir, models, domain_type):
                 result = ''
                 for model in models:
                     p = os.path.join(path_result, task, model, f'{task}_{_set}.txt')
-                    y_predict = [i.replace('[', '<').replace(']', '>') for i in read_file_map(p)]
+                    y_predict = [i.replace('[', '<').replace(']', '>') for i in read_file_map(p, task)]
 
                     y_real, y_pred = [], []
                     for i, item in enumerate(gold):
@@ -97,7 +97,7 @@ def eval_lex(input_path, path_result, write_dir, models, domain_type):
             result = ''
             for model in models:
                 p = os.path.join(path_result, task, model, f'{task}_{_set}.txt')
-                y_predict = [i.replace('[', '<').replace(']', '>') for i in read_file_map(p)]
+                y_predict = [i.replace('[', '<').replace(']', '>') for i in read_file_map(p, task)]
 
                 y_real, y_pred = [], []
                 for i, item in enumerate(gold):
@@ -153,7 +153,7 @@ def eval_reg(input_path, path_result, write_dir, models, domain_type):
             result = ''
             for model in models:
                 p = os.path.join(path_result, task, model, f'{task}_{_set}.txt')
-                y_predict = [i.replace('[', '<').replace(']', '>') for i in read_file_map(p)]
+                y_predict = [i.replace('[', '<').replace(']', '>') for i in read_file_map(p, task)]
 
                 y_real, y_pred = [], []
                 for i, item in enumerate(gold):
@@ -204,19 +204,18 @@ def eval_bleu_sr(input_path, path_result, write_dir, models, domain_type):
 
     # Store results for each model in a dictionary
     model_results = {model: '' for model in models}
-
+    
     for _set in ['dev', 'test']:
         for task in ['end2end', 'sr']:
             for domain in domain_type:
                 gold_path = os.path.join(input_path, 'end2end', f'{_set}.json')  # path/task/set.json
                 gold = read_file(gold_path)
 
-                result = ''
                 for model in models:
                     # _set = 'eval' if _set == 'dev' else _set
                     sw = {"dev":"eval", "test":"test"}
                     p = os.path.join(path_result, task, model, f'{task}_pipeline_{sw[_set]}.txt')
-                    y_predict = read_file_map(p)
+                    y_predict = read_file_map(p, task)
 
                     y_real, y_pred = [], []
                     for i, item in enumerate(gold):
@@ -243,8 +242,8 @@ def eval_bleu_sr(input_path, path_result, write_dir, models, domain_type):
                     result += '\n' + 'Result_bleu: ' + str(round(bleu_score, 2))
                     result += '\n' + 20 * '-' + '\n'
     
-                # Append results to the model's section
-                model_results[model] += result
+                    # Append results to the model's section
+                    model_results[model] += result
     
     # Write results for each model
     for model, result in model_results.items():
@@ -266,22 +265,22 @@ def eval_meteor_sr(input_path, path_result, write_dir, models, domain_type):
             for domain in domain_type:
                 gold_path = os.path.join(input_path, 'end2end', f'{_set}.json')  # path/task/set.json
                 gold = read_file(gold_path)
-
+                
                 for model in models:
                     # _set = 'eval' if _set == 'dev' else _set
                     sw = {"dev":"eval", "test":"test"}
                     p = os.path.join(path_result, task, model, f'{task}_pipeline_{sw[_set]}.txt')
-                    y_predict = read_file_map(p)
+                    y_predict = read_file_map(p, task)
 
                     y_real, y_pred = [], []
                     for i, item in enumerate(gold):
                         if (domain == "All domains" or 
                             (domain == "Seen domains" and item['category'] not in unseen_domains) or
                             (domain == "Unseen domains" and item['category'] in unseen_domains)):
-                            targets = [nltk.word_tokenize(' '.join(target['output'])) for target in item['targets']]
+                            targets = [' '.join(target['output']) for target in item['targets']]
                             t = [' '.join(target).lower() for target in targets]
                             y_real.append(t)
-                            pred = ' '.join(nltk.word_tokenize(y_predict[i].strip())).lower()
+                            pred = ' '.join(y_predict[i].strip()).lower()
                             y_pred.append(pred)
             
                     # Calculate METEOR score
@@ -290,7 +289,9 @@ def eval_meteor_sr(input_path, path_result, write_dir, models, domain_type):
                         for i in range(len(y_real)):
                             # Convert list of tokenized sentences to a single string
                             ref_str = ' '.join([''.join(sent) for sent in y_real[i]])
-                            meteor += single_meteor_score(ref_str , y_pred[i])
+                            ref_str = nltk.word_tokenize(ref_str)
+                            hypothesis_tokens = nltk.word_tokenize(y_pred[i])
+                            meteor += single_meteor_score(ref_str , hypothesis_tokens)
                         meteor_ = meteor/len(y_real)
                     except ZeroDivisionError:
                         meteor_ = 0.0
@@ -302,8 +303,8 @@ def eval_meteor_sr(input_path, path_result, write_dir, models, domain_type):
                     result += '\n' + 'Result_Meteor: ' + str(round(meteor_, 2))
                     result += '\n' + 20 * '-' + '\n'
     
-                # Append results to the model's section
-                model_results[model] += result
+                    # Append results to the model's section
+                    model_results[model] += result
     
     # Write results for each model
     for model, result in model_results.items():
@@ -338,7 +339,7 @@ if __name__ == "__main__":
 
         # Surface Realization and End2end generation
         eval_bleu_sr(input_path, path_result, write_dir, models, domain_type) #Bleu
-        eval_meteor_sr(input_path, path_result, write_dir, models, domain_type) #Meteor
+        # eval_meteor_sr(input_path, path_result, write_dir, models, domain_type) #Meteor
 
         # ('t5-base' if model == 't5' else model)
         print("Evaluation Finished!!!!!")

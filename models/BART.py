@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 import pytorch_lightning as pl
-from transformers import BartForConditionalGeneration, BartTokenizerFast as BartTokenizer
+from transformers import BartForConditionalGeneration, BartTokenizerFast as BartTokenizer, GenerationConfig
 
 pl.seed_everything(42)
 
@@ -12,6 +12,21 @@ class BART_Model(pl.LightningModule):
         self.model = BartForConditionalGeneration.from_pretrained(model_path)
         self.max_length = max_length
         self.sep_token = sep_token
+
+         # Define non-default generation parameters
+        generation_config = GenerationConfig(
+                                            early_stopping=True,
+                                            do_sample=True,
+                                            top_p=0.95,
+                                            top_k=10,
+                                            num_beams=4,
+                                            no_repeat_ngram_size=3,
+                                            repetion_penalty=2.0,
+                                            )
+
+        # Set the generation config for the model
+        self.model.config.generation = generation_config
+
 
     def forward(self, source, targets=None):
         device = torch.device("cuda" if torch.cuda.is_available() else "cpu")

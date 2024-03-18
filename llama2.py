@@ -76,17 +76,27 @@ if __name__ == '__main__':
 
      # Load model configuration
     model_config = AutoConfig.from_pretrained(model_id, token=hf_auth)
-
+    
+    bnb_config = BitsAndBytesConfig(load_in_4bit=True, #quantization
+                                    bnb_4bit_quant_type='nf4',
+                                    bnb_4bit_use_double_quant=True,
+                                    bnb_4bit_compute_dtype=bfloat16,
+                                    )
     # Load the model
     model = AutoModelForCausalLM.from_pretrained(model_id,
                                                 config=model_config,
+                                                quantization_config=bnb_config,
                                                 trust_remote_code=True,
                                                 token=hf_auth,
-                                                load_in_4bit=True,
+                                                use_safetensors=True,
+                                                device_map="auto",
+                                                #load_in_4bit=True,
                                                 )
 
     # Load the tokenizer
-    tokenizer = AutoTokenizer.from_pretrained(model_id, token=hf_auth) 
+    tokenizer = AutoTokenizer.from_pretrained(model_id, token=hf_auth)
+    tokenizer.pad_token = tokenizer.eos_token 
+    tokenizer.padding_side = "right"
  
     # Add a padding token to the tokenizer 
     tokenizer.add_special_tokens({'pad_token': '[PAD]'}) 
