@@ -3,24 +3,17 @@ import os
 os.environ["TOKENIZERS_PARALLELISM"] = "true"
 import nltk
 import torch
+import torch.nn as nn
 from torch import optim
-import pytorch_lightning as pl
+#import pytorch_lightning as pl
 from nltk.translate.bleu_score import corpus_bleu, SmoothingFunction
 nltk.download('punkt')
-import wandb
-import numpy as np
-
-def set_seed(seed):
-    np.random.seed(seed)
-    torch.manual_seed(seed)
-    torch.cuda.manual_seed(seed)
-    torch.backends.cudnn.deterministic = True
-
+#import wandb
+from transformers import set_seed
 set_seed(42)
-pl.seed_everything(42)
 
 # Create a Trainer class based on PyTorch Lightning's LightningModule
-class Trainer(pl.LightningModule):
+class Trainer(nn.Module):
     def __init__(self, model, trainloader, devdata, optimizer, epochs, batch_status, write_path, early_stop=5, verbose=True):
         # Initialize the Trainer class
         super().__init__()
@@ -115,12 +108,12 @@ class Trainer(pl.LightningModule):
         hypothesis, references = [], []
         
         for source in results.keys():
-            # if self.verbose:
-                # print('Source:', source)
-                # for ref in results[source]['refs']:
-                    # print('Real: ', ref)
-                # print('Pred: ', results[source]['hyp'])
-                # print()
+            #if self.verbose:
+                #print('Source:', source)
+                #for ref in results[source]['refs']:
+                    #print('Real: ', ref)
+                #print('Pred: ', results[source]['hyp'])
+                #print()
 
             # Tokenize hypotheses and references
             hypothesis.append(nltk.word_tokenize(results[source]['hyp']))

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#SBATCH --gres=gpu:rtx2080ti:1
+#SBATCH -p compute
+#SBATCH -J Eval
+#SBATCH --cpus-per-task=10
+#SBATCH --mem=30000
+#SBATCH -t 1-23:59:59
+
+python ../eval.py

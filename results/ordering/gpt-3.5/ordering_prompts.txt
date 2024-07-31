@@ -1,0 +1,19 @@
+I would like to arrange my triples in a specific order to control the way information is expressed in the final summary.     Below, you'll find examples from my ordering dataset along with inputs and expected outputs:
+ Example 1:
+  [TRIPLE] Antwerp_International_Airport elevationAboveTheSeaLevel_(in_metres) 12.0 [/TRIPLE] [TRIPLE] Antwerp_International_Airport operatingOrganisation "Flemish_department_of_Mobility_and_Public_Works" [/TRIPLE] [TRIPLE] Antwerp_International_Airport owner Flemish_Region [/TRIPLE]
+  Output: owner operatingOrganisation elevationAboveTheSeaLevel_(in_metres)
+ Example 2:
+  [TRIPLE] Baymax creator Duncan_Rouleau [/TRIPLE] [TRIPLE] Baymax creator Steven_T._Seagle [/TRIPLE] [TRIPLE] Baymax series Big_Hero_6_(film) [/TRIPLE] [TRIPLE] Baymax voice Scott_Adsit [/TRIPLE]
+  Output: creator creator series voice
+ Example 3:
+  [TRIPLE] Bakewell_pudding dishVariation Bakewell_tart [/TRIPLE] [TRIPLE] Bakewell_tart ingredient Fruit_preserves [/TRIPLE] [TRIPLE] Bakewell_pudding region Derbyshire_Dales [/TRIPLE]
+  Output: dishVariation region ingredient
+ Example 4:
+  [TRIPLE] Alan_Shepard almaMater "NWC,_M.A._1957" [/TRIPLE] [TRIPLE] Alan_Shepard awards Distinguished_Service_Medal_(United_States_Navy) [/TRIPLE] [TRIPLE] Alan_Shepard birthPlace New_Hampshire [/TRIPLE] [TRIPLE] Alan_Shepard deathPlace California [/TRIPLE] [TRIPLE] Distinguished_Service_Medal_(United_States_Navy) higher Department_of_Commerce_Gold_Medal [/TRIPLE] [TRIPLE] Alan_Shepard occupation Test_pilot [/TRIPLE] [TRIPLE] Alan_Shepard status "Deceased" [/TRIPLE]
+  Output: birthPlace almaMater occupation awards higher deathPlace
+ Example 5:
+  [TRIPLE] Turkmenistan_Airlines hubAirport Turkmenbashi_International_Airport [/TRIPLE] [TRIPLE] Ashgabat_International_Airport operatingOrganisation Turkmenistan_Airlines [/TRIPLE]
+  Output: operatingOrganisation hubAirport
+
+    Now strictly generate all the output result for the query, extra comments is not allowed.
+    Query: 

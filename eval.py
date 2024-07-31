@@ -2,25 +2,15 @@
 
 import json
 import os
+import re
+import numpy as np
 import nltk
 from nltk.translate.bleu_score import corpus_bleu, SmoothingFunction
 from nltk.translate.meteor_score import meteor_score, single_meteor_score
 from nltk import word_tokenize
-from mapping import read_file_map
+nltk.download('punkt')
+from mapping import read_file_map, read_file
 
-def read_file(path):
-    if path.endswith(".json"):
-        with open(path, "r", encoding='utf-8') as json_file:
-            data = json.load(json_file)
-        return data
-    else:
-        with open(path, 'r', encoding='utf-8') as file:
-            contents = file.read()
-            contents = contents.replace('[', '<').replace(']', '>')
-            lines = [line.strip() for line in contents.split('\n')]
-            if lines and lines[-1] == '':
-                return lines[:-1]
-            return lines
 
 def write_file(write_path, result, mode='w'):
     with open(write_path, mode) as f:
@@ -29,7 +19,7 @@ def write_file(write_path, result, mode='w'):
 def eval_ord_str(input_path, path_result, write_dir, models, domain_type):
     unseen_domains = ['Artist', 'Politician', 'CelestialBody', 'Athlete', 'MeanOfTransportation']
 
-    result = f'\nEvaluation of pipeline Ordering and Structuring task\n'
+    result = f"\nEvaluation of pipeline Ordering and Structuring task\n"
     write_file(write_dir, result, mode='a')
 
     # Store results for each model in a dictionary
@@ -66,7 +56,7 @@ def eval_ord_str(input_path, path_result, write_dir, models, domain_type):
 
                     result += '\n' + 'Task: ' + task
                     result += '\n' + 'Set: ' + _set
-                    result += '\n' + 'Model: ' + model
+                    result += '\n' + 'Model: ' + ('t5-base' if model == 't5' else model)
                     result += '\n' + 'Domain: ' + domain
                     result += '\n' + 'Accuracy: ' + str(accuracy)
                     result += '\n' + 20 * '-' + '\n'
@@ -96,6 +86,8 @@ def eval_lex(input_path, path_result, write_dir, models, domain_type):
 
             result = ''
             for model in models:
+                if model == 'baseline' and _set == 'dev':
+                    continue
                 p = os.path.join(path_result, task, model, f'{task}_{_set}.txt')
                 y_predict = [i.replace('[', '<').replace(']', '>') for i in read_file_map(p, task)]
 
@@ -121,15 +113,78 @@ def eval_lex(input_path, path_result, write_dir, models, domain_type):
 
                 result += '\n' + 'Task: '+ "Lexicalization"
                 result += '\n' + 'Set: '+ _set 
-                result += '\n' + 'Model: '+ model 
+                result += '\n' + 'Model: '+ ('t5-base' if model == 't5' else model) 
                 result += '\n' + 'Domain: ' + domain
-                result += '\n' + 'Result: '+ str(round(bleu_score, 2))
+                result += '\n' + 'Result_bleu: '+ str(round(bleu_score*100, 2))
                 result += '\n' + 20 * '-' + '\n'
 
             # Append results to the model's section
             model_results[model] += result
     
      # Write results for each model
+    for model, result in model_results.items():
+        write_file(write_dir, result, mode='a')
+        
+    write_file(write_dir, '\n' + 60 * '#' + '\n', mode='a')
+
+
+
+def eval_meteor_lex(input_path, path_result, write_dir, models, domain_type):
+    unseen_domains = ['Artist', 'Politician', 'CelestialBody', 'Athlete', 'MeanOfTransportation']
+    result = f'\nEvaluation of Meteor Score for lexicalization task\n'
+    task='lexicalization'
+    write_file(write_dir, result, mode='a')
+
+    # Store results for each model in a dictionary
+    model_results = {model: '' for model in models}
+
+    for _set in ['dev', 'test']:
+        for domain in domain_type:
+            gold_path = os.path.join(input_path, task, f'{_set}.json')  # path/task/set.json
+            gold = read_file(gold_path)
+            
+            for model in models:
+                if model == 'baseline' and _set == 'dev':
+                    continue
+                p = os.path.join(path_result, task, model, f'{task}_{_set}.txt')
+                y_predict = read_file(p)
+
+                y_real, y_pred = [], []
+                for i, item in enumerate(gold):
+                    if (domain == "All domains" or 
+                        (domain == "Seen domains" and item['category'] not in unseen_domains) or
+                        (domain == "Unseen domains" and item['category'] in unseen_domains)):
+                        targets = [' '.join(target['output']) for target in item['targets']]
+                        t = [' '.join(target).lower() for target in targets]
+                        y_real.append(t)
+                        pred = ' '.join(y_predict[i].strip()).lower()
+                        y_pred.append(pred)
+        
+                # Calculate METEOR score
+                try:
+                    meteor = 0
+                    for i in range(len(y_real)):
+                        # Convert list of tokenized sentences to a single string
+                        ref_str = ' '.join([''.join(sent) for sent in y_real[i]])
+                        ref_str = nltk.word_tokenize(ref_str)
+                        hypothesis_tokens = nltk.word_tokenize(y_pred[i])
+                        meteor += single_meteor_score(ref_str , hypothesis_tokens)
+                        #meteor += single_meteor_score(ref_str , y_pred[i])
+                    meteor_ = meteor/len(y_real)
+                except ZeroDivisionError:
+                    meteor_ = 0.0
+
+                result = '\n' + 'Task: ' + task
+                result += '\n' + 'Set: ' + _set
+                result += '\n' + 'Model: ' + ('t5-base' if model == 't5' else model)
+                result += '\n' + 'Domain: ' + domain
+                result += '\n' + 'Result_Meteor: ' + str(round(meteor_, 2))
+                result += '\n' + 20 * '-' + '\n'
+
+                # Append results to the model's section
+                model_results[model] += result
+    
+    # Write results for each model
     for model, result in model_results.items():
         write_file(write_dir, result, mode='a')
         
@@ -180,7 +235,7 @@ def eval_reg(input_path, path_result, write_dir, models, domain_type):
 
                 result += '\n' + 'Task: '+ "REG"
                 result += '\n' + 'Set: '+ _set 
-                result += '\n' + 'Model: '+ model
+                result += '\n' + 'Model: '+ ('t5-base' if model == 't5' else model) 
                 result += '\n' + 'Domain: ' + domain
                 result += '\n' + 'Baseline Accuracy: '+ str(round(baseline/dem, 2) if dem > 0 else 0)
                 result += '\n' + 'Accuracy: '+ str(round(num/dem, 2) if dem > 0 else 0)
@@ -204,14 +259,21 @@ def eval_bleu_sr(input_path, path_result, write_dir, models, domain_type):
 
     # Store results for each model in a dictionary
     model_results = {model: '' for model in models}
-    
+
     for _set in ['dev', 'test']:
         for task in ['end2end', 'sr']:
             for domain in domain_type:
                 gold_path = os.path.join(input_path, 'end2end', f'{_set}.json')  # path/task/set.json
                 gold = read_file(gold_path)
 
+
                 for model in models:
+                    if task == 'sr' and model in ['gpt-3.5_struct', 'gpt4_turbo_struct', 'mistral7b_struct']:
+                        continue
+                    if task == 'sr' and model == 'baseline' and _set == 'dev':
+                        continue
+                    if task == 'endend' and model == 'baseline':
+                        continue
                     # _set = 'eval' if _set == 'dev' else _set
                     sw = {"dev":"eval", "test":"test"}
                     p = os.path.join(path_result, task, model, f'{task}_pipeline_{sw[_set]}.txt')
@@ -226,8 +288,8 @@ def eval_bleu_sr(input_path, path_result, write_dir, models, domain_type):
                             y_real.append(gold_texts)
                             y_pred.append(y_predict[i].strip().lower())
             
-                    y_real_tokenized = [[nltk.word_tokenize(sent) for sent in ref] for ref in y_real]
-                    y_pred_tokenized = [nltk.word_tokenize(sent) for sent in y_pred]
+                    y_real_tokenized = [[nltk.word_tokenize(sent.lower()) for sent in ref] for ref in y_real]
+                    y_pred_tokenized = [nltk.word_tokenize(sent.lower()) for sent in y_pred]
 
                     chencherry = SmoothingFunction()
                     try:
@@ -237,9 +299,9 @@ def eval_bleu_sr(input_path, path_result, write_dir, models, domain_type):
 
                     result = '\n' + 'Task: ' + task
                     result += '\n' + 'Set: ' + _set
-                    result += '\n' + 'Model: ' + model
+                    result += '\n' + 'Model: ' + ('t5-base' if model == 't5' else model)
                     result += '\n' + 'Domain: ' + domain
-                    result += '\n' + 'Result_bleu: ' + str(round(bleu_score, 2))
+                    result += '\n' + 'Result_bleu: ' + str(round(bleu_score*100, 2))
                     result += '\n' + 20 * '-' + '\n'
     
                     # Append results to the model's section
@@ -267,6 +329,12 @@ def eval_meteor_sr(input_path, path_result, write_dir, models, domain_type):
                 gold = read_file(gold_path)
                 
                 for model in models:
+                    if task == 'sr' and model in ['gpt-3.5_struct', 'gpt4_turbo_struct', 'mistral7b_struct']:
+                        continue
+                    if task == 'sr' and model == 'baseline' and _set == 'dev':
+                        continue
+                    if task == 'endend' and model == 'baseline':
+                        continue
                     # _set = 'eval' if _set == 'dev' else _set
                     sw = {"dev":"eval", "test":"test"}
                     p = os.path.join(path_result, task, model, f'{task}_pipeline_{sw[_set]}.txt')
@@ -292,13 +360,14 @@ def eval_meteor_sr(input_path, path_result, write_dir, models, domain_type):
                             ref_str = nltk.word_tokenize(ref_str)
                             hypothesis_tokens = nltk.word_tokenize(y_pred[i])
                             meteor += single_meteor_score(ref_str , hypothesis_tokens)
+                            #meteor += single_meteor_score(ref_str , y_pred[i])
                         meteor_ = meteor/len(y_real)
                     except ZeroDivisionError:
                         meteor_ = 0.0
 
                     result = '\n' + 'Task: ' + task
                     result += '\n' + 'Set: ' + _set
-                    result += '\n' + 'Model: ' + model
+                    result += '\n' + 'Model: ' + ('t5-base' if model == 't5' else model)
                     result += '\n' + 'Domain: ' + domain
                     result += '\n' + 'Result_Meteor: ' + str(round(meteor_, 2))
                     result += '\n' + 20 * '-' + '\n'
@@ -315,31 +384,35 @@ def eval_meteor_sr(input_path, path_result, write_dir, models, domain_type):
 
 if __name__ == "__main__":
 
-        # original_path = "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/"
-        original_path = ''
+        original_path = "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/"
+        #original_path = ''
         input_path = original_path + 'data/deepnlg/input/'
         path_result = original_path + "results/"
         write_dir = path_result+"eval_test_results.txt"
 
-        # models = ["t5", "t5-large", "bart", "gpt2", "gpt-3.5"]
-        models = ["t5", "bart", "gpt2"]
+        
+        #models = ["t5-large","t5", "bart", "gpt2", "gpt-3.5", "cohere"]
         domain_type = ["All domains", "Seen domains", "Unseen domains"]
 
         heading = "Evaluation of Pipeline Neural Architecture Using Webnlg dataset on LLM's"
         write_file(write_dir, heading, mode='w')
 
         #Ordering and Structuring
+        models = ["flan-t5-large", "bart", "gpt2", "gpt-3.5", "gpt4_turbo", "cohere", "mistral7b"]
         eval_ord_str(input_path, path_result, write_dir, models, domain_type)
-
+        
         # Lexicalization
+        models = ["baseline", "flan-t5-large", "bart", "gpt2", "gpt-3.5", "gpt4_turbo", "cohere", "mistral7b"]
         eval_lex(input_path, path_result, write_dir, models, domain_type)
+        eval_meteor_lex(input_path, path_result, write_dir, models, domain_type)
 
         # Referring Expression Generation
+        models = ["flan-t5-large", "bart", "gpt2", "gpt-3.5", "cohere", "mistral7b"]
         eval_reg(input_path, path_result, write_dir, models, domain_type)
 
         # Surface Realization and End2end generation
+        models = ["flan-t5-large", "bart", "gpt2", "gpt-3.5", "gpt-3.5_struct", "gpt4_turbo", "gpt4_turbo_struct", "cohere", "mistral7b", 'mistral7b_struct']
         eval_bleu_sr(input_path, path_result, write_dir, models, domain_type) #Bleu
-        # eval_meteor_sr(input_path, path_result, write_dir, models, domain_type) #Meteor
+        eval_meteor_sr(input_path, path_result, write_dir, models, domain_type) #Meteor
 
-        # ('t5-base' if model == 't5' else model)
         print("Evaluation Finished!!!!!")

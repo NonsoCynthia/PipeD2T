@@ -1,0 +1,891 @@
+Aaron Bertram, whose career started in 1998, is a member of the American football team.
+Aaron Deer is associated with the musical artist known as The Horns of Happiness.
+Aaron Deer is signed to the record label Kill Rock Stars.
+Aaron Turner is a representative of the avant-garde metal music genre.
+Aaron Turner is a progressive metal musician.
+Abradab is a solo singer.
+date-entity-2 tense=present, voice=active, person=3rd, number=null> born on DATE-ENTITY-2.
+Abradab be born in Poland.
+The Abradab is a Hip-hop music.
+Agustín Barboza is a musician who plays the genre of Guarania music.
+Ahmet Ertegun was born in Istanbul, Turkey.
+Alan Frew is a rock musician.
+Albennie Jones is a musician who is associated with Sammy Price.
+Aleksandra Kovač is a solo singer.
+Aleksandra Kovac (Aleksandra Kovac) was born in Yugoslavia.
+rhythm and blues.
+Aleksandra Kovač, a soul music artist, is a part of the music industry.
+Alex Day is a representative of the synthpop genre.
+Alfredo Zitarrosa is associated with Héctor Numa Moraes.
+Alfredo Zitarrosa is a person who was born in Montevideo.
+Alfredo Zitarrosa died in Uruguay.
+ALFREDO ZITARROSA be recorded by RCA Records.
+Alison O'Donnell, who was born in 1963, had a prolific career as a politician and diplomat.
+Alison O'Donnell is a jazz artist.
+Alison O'Donnell is a musician who uses a variety of instruments, including the voice, bodhrán, percussion, and autoharp.
+Allen Forrest tense=present, voice=active, person=3rd, number=null> be born in 1981-02-04.
+Allen Forrest will be categorized as a pop music artist.
+Alligator Records tense=present, voice=active, person=3rd, number=null> be in Alligator Records.
+Anders Osborne, associated with Johnny Sansone, is a popular American musician.
+Anders Osborne is a member of the rhythm and blues genre.
+Anders Osborne is signed to Alligator Records.
+Andra, a singular entity, is the singer of the rhythm and blues genre.
+Andrew Rayel active in 2009.
+Andrew Rayel is associated with the musical artist Christian Burns.
+Andrew Rayel was born in Chișinău, Moldova.
+Andrew White is associated with the musical artist, Marry Banilow.
+Andrew White is signed to the record label B-Unique Records.
+Asunción is a part of Gran Asunción.
+Christian burns is a musician that plays the guitar.
+Music genre Hip-hop is a subgenre of Gangsta rap.
+Hip-hop music is a genre that originated from the funk music style.
+Indie rock be have DT a stylistic origin of New wave music.
+The city of Manchester is part of the metropolitan county of Greater Manchester.
+Polydor Records is located in London.
+Sony Music Entertainment is the distributing company for RCA Records.
+The rock and roll music style originated from the blues.
+pop music 's CLS<be=stylistic genre> of pop music.
+The United Kingdom is referred to by the demonym British people.
+Silvio Berlusconi is the chairman of A.C. Milan.
+Aaron Boogaard was born in Canada.
+Aaron Hunt play for SV Werder Bremen.
+Abel Hernández play for the Uruguay Olympic football team.
+Abel Hernández play for the Uruguay national football team.
+Abner, a footballer, was born in Brazil.
+Adam Maher was born in the Netherlands, in a town called Diemen.
+Adam Maher was born in the Netherlands.
+Adam Maher is a member of the Netherlands national under-17 football team.
+Adam Maher is a member of the PSV Eindhoven club.
+Ahmad Kadhim Assad club 'Iraq national football team'.
+Akeem Adams was born in Point Fortin.
+Akeem Dent was a member of the Atlanta Falcons.
+Akeem Priestley is a member of the Connecticut Huskies.
+Al-Khor Sports Club is a member of the Qatar Stars League.
+Al-Zawraa SC manager is Basim Qasim.
+Al-Kharaitiyat is a football team based in Qatar, playing in the Qatar Stars League.
+Alaa Abdul Zahra, the leader, was born in Baghdad.
+Alaa Abdul Zahra is a member of Sanat Mes Kerman F.C.
+Alan Martin ( footballer ) is a member of the Hamilton Academical F.C. club.
+Alan Martin ( footballer ) is a member of the Scottish national under 19 football team.
+Aleksander Barkov Jr. was born on September 2, 1995.
+Aleksander Barkov Jr. is a player for the Florida Panthers.
+Aleksander Barkov Jr. is a young Russian hockey player. He stands at 1.905 meters tall.
+Aleksander Barkov Jr. plays in the national hockey league.
+Alexander Prudnikov was born on February 24th, 1989.
+Aleksandr_Prudnikov club is FC_Amkar_Perm.
+Aleksandre Guruli's birthplace is Batumi.
+Aleksandre Guruli club FC Samtredia.
+Aleksandre Guruli club is Georgia national under 21 football team.
+Alessio Romagnoli play for A.S. Roma.
+Alessio Romagnoli is a member of A.S Roma youth club.
+Alex Plante, the leader of the United States, was born in Manitoba.
+Turkish Basketball Super League.
+Atlanta Falcons is a football team based in Atlanta, Georgia.
+Don Sweeney is the general manager of the Boston Bruins.
+Hungary is the country where Budapest is found.
+Canada is a country that speaks English.
+Canada's language is Slavey.
+Columbus is the city of the Jackets.
+the club luzhny ( FC_Karpaty_Lviv ) aspect= simple, tense= present, voice= active, person= 3rd, number= null > be managed by aspect= simple, tense= present, voice= active, person= 3rd, number= null > have DT < form= undefined > Oleh Luzhny.
+FC Torpedo Moscow is managed by Valery Petrakov.
+vp 's the chairman of Ferencvárosi TC and have the name Gábor Kubatov.
+Finland's language is Finnish.
+The coach of the Italian national under 16 football team is Daniele Zoratto.
+Maccabi Ashdod B.C. is coached by Zvi Sherf.
+Motherwell F.C. plays its home matches at Fir Park, which is their ground.
+Olympique Lyonnais be owned by Jean-Michel Aulas.
+The St Louis Rams are based in St Louis, where the leader is known as the Mayor and the population is around 3,000,000.
+The team's name is the Tennessee Titans and they are based in Nashville, Tennessee.
+the model of a car is a model of a car, and it has a weight of 2 grams per cubic centimeter.
+the star 29075 tense=present, voice=active, person=3rd, number=null> be discovered by the number (29075).
+The 410 777 2009 FD meteor had an absolute magnitude of 22.1.
+The entity-1 is defined as a satellite with the apoapsis of the given value.
+The Apollo-based RO1 satellite has a circular orbit with an apoapsis of 254989570.60815 kilometers.
+The 66063 satellite was launched in 1998 and it's RO1 model. It was active during the epoch of November 4th, 2013.
+1000_Piazzia is a spacecraft with an escape velocity of 0.0252 kilometers per second.
+<ENTITY-1> <VP<Aspect=Simple, Tense=Past, Voice=Passive, Person=3rd, Number=Singular> change name to > <ENTITY-2>.
+1001 Gaussia have is a maximum temperature of 165.0 kelvins.
+101 Helena 101 Helena apoapsis 441092000.0 ( kilometres ) The entity 101 Helena has an apoapsis of 441092000.0 kilometres.
+101 Helena DATE<mmyyyy> DATE<epoch> 2006 - 12 - 31.
+101 Helena have a mass of 3.0 kilograms.
+The average speed of the 1036 Ganymed is 16.86 km/s.
+HERA is a celestial body with an absolute magnitude of 7.66.
+103 Hera have a mass of 7.9 kilograms.
+magnitude of 107_Camilla is 7.08 .
+A. Storrs discovered 107 Camilla.
+1089 Tama, formerly known as A894 VA; A904 VD, is a product of the A-890-M1 and A-890-M2 series.
+NP <number=null> 1202.846 days with the aspect of simple, tense=present, and voice=active. The satellite is a third-person object with a defined number and a passive voice. It had an orbital period of 1202.846 days in the past. The satellite is described in the present tense as having a property of 1202.846 days, which is in active voice.
+vp tense=present, number=null, voice=passive> be the average speed of Vicia.
+ENTITY-1 date <aspect=simple,number=full> 2 0 6-12-3.
+1097 vicia is a celestial body with a rotation period of 95040.0, which is an attribute of the object known as 1097 Vicia.
+CHRISTIAN HEINRICH FRIEDRICH PETERS discovered 109 Felicitas.
+109 Felicitas tense=null, voice=passive, person=3rd, number=singular> have a periapsis of 283326000000.0.
+Hygiea is a planet that has an average speed of 16.76 kilometers per second.
+vp tense=present, voice=active, person=3rd, number=null> have a periapsis of 445895000000.0.
+vp tense=present, voice=active, person=3rd, number=null> be in the year of December 31, 2006.
+at a temperature of 173.0 kelvins be at a temperature of 11264 Claudiomaccone is at a temperature of 173.0 kelvins This response is generated based on the assumption that the entity in the triple is an object that has a specific temperature.
+James Craig Watson graduated from the University of Michigan.
+Nottingham.
+Dodge Coronet, a car model from Dodge, an American automobile brand, is a vehicle that was manufactured in 1955.
+1955 Dodge car has a 230 cubic inches engine.
+A-Rosa Luna is a name of an entity and it has a christening date of April 7th, 2005.
+AIDA Cruises is located in Rostock.
+AIDAluna is operated by AIDA cruises.
+AIDAstella was launched on March 16th, 2013.
+Astella was completed on March 11th, 2013.
+Astella, the vessel for the AIDAstella maiden voyage, was constructed in the year 2012.
+AIDAstella be operated by AIDA_Cruises.
+ALV-X-1 launch site is located at the Mid-Atlantic Regional Spaceport.
+AMC Matador is also known as American Motors Matador.
+Ara Veinticinco de Mayo (V-2) is a fighter aircraft built in Argentina, with a status of Sold to the Netherlands on April 1, 1948.
+The vehicle Abarth 1000 GT Coupé has a four-cylinder engine.
+Acura TLX is a car manufactured by Honda.
+Acura TLX be a vehicle with a layout of AWD.
+Acura TLX is a type of sedan manufactured by Honda. The Honda Accord is a vehicle that is also manufactured by Honda.
+Acura_TLX is a car that has a transmission of 9-speed ZF 9HP automatic (V6).
+Alfa Romeo 164, an Italian automobile manufactured by Alfa Romeo, was assembled in the town of Arese.
+Alfa Romeo 164 is related to the mean of transportation Lancia Thema.
+Alfa_Romeo_164 is a car that has a transmission called 4-speed_automatic_(ZF_4HP18QE).
+Alhambra was built by Samuda Brothers.
+Alhambra is a ship with a beam of 8.3 meters.
+Alhambra is a historical place that has been wrecked.
+Alhambra is a fast car with a top speed of 18.52.
+Alvis Speed 25 is a car produced by Alvis Cars. It is equipped with a straight-six engine.
+Alvis Speed 25 is a vehicle model that originated in 1937.
+The American submarine NR-1 has a ship draft of 4.6m.
+Antares rocket tense=present, voice=active, person=3rd, number=null> have a final flight on DATE-2, where DATE-2 is DATE-3.
+Antares rocket is launched from the Mid-Atlantic Regional Spaceport Launch Pad 0.
+Argentina's leader is called Gabriela Michetti.
+Launch site of Ariane 5 is Guiana Space Centre.
+Ariane 5 is a rocket that had its maiden flight on August 11, 2005.
+The Aston Martin V8 is a car that is available in a convertible style.
+Aston Martin is the manufacturer of the Aston Martin V8.
+Aston Martin is the manufacturer of the Aston Martin Virage.
+vp tense=past, voice=passive, person=3rd, number=singular> have a final flight on or around March 16, 1998.
+Atlas-II launch site is Vandenberg Air Force Base.
+Audi be founded by August Horch.
+Audi be assembled in Brussels.
+Audi_A1 is a car that is related to the SEAT Ibiza through a mean of transportation.
+Caterpillar Inc tense=present, voice=active, person=3rd, number=null> be located in/at Caterpillar Inc.
+Costa_Crociere is located in Genoa.
+vp<aspect=simple, tense=present, number=null> tense=present, voice=active, person=3rd, number=null> be a model of Chrysler.
+Fiat Croma is a mean of transportation related to Alfa Romeo 164.
+Germany's demonym is Germans.
+Norbert Lammert is a leader of Germany.
+Stanislaw Tillich tense=unknown, voice=active, person=3rd, number=null> be the leader of Germany.
+Gruppo Bertone was founded by Giovanni Bertone.
+The Guiana Space Centre's headquarter is located in Kourou, French Guiana. I hope this provides the clarification you were seeking. If you have any further questions or would like to provide additional context, please don't hesitate to ask.
+Honda is the manufacturer of the Honda K engine.
+The Star-Spangled Banner is the national anthem of the United States.
+Native Americans in the United States are an ethnic group in the country.
+Aaron S Daggett was given the purple heart award.
+Aaron S Daggett aspect = simple, tense = present, voice = active, person = 3rd, number = null > battle at battle of mine run.
+Ab_Klink be born in Stellendam, Netherlands.
+Abdul Rahman Yakub was in office while Tuanku Bujang Tuanku Othman was the vice president.
+Abdul Taib Mahmud is a member of the Parti Bumiputera Sarawak political party.
+Abdul Taib Mahmud is the predecessor of Sulaiman Abdul Rahman Taib.
+Abdul Salami Abubakar, who was born on 29th May, 1999, was a military leader who served as the de facto leader of Nigeria from 1993-1998.
+Abdul Salam Abubakar was born in Minna.
+Abdulsalami Abubakar born in Niger State.
+Abner W. Sibal was active during the period from January 3, 1965, until January 3, 1965.
+Abner W. Sibal died in Alexandria, Virginia.
+Adam Holloway was born in Kent, England.
+Adam Holloway (ENTITY-1) live in Gravesend (ENTITY-2).
+Adenan Satem graduated from the University of Adelaide.
+Adolf Schaefer was born in Mikulov, Moravia, Czechoslovakia.
+Adonis Georgiadis tense=present, voice=active, person=3rd, number=null> be in office while Antonis Samaras tense=present, voice=active, person=3rd, number=null> be the prime minister.
+Adonis Georgiadis is the deputy minister for development, competitiveness, and shipping at the Ministry of Development, Competitiveness, Shipping and Networks.
+Agnes Kant was born in Hessisch Oldendorf.
+Agnes Ward White is from Marietta, Ohio.
+vp be born on or after DATE-1 and before DATE-2, where DATE-1 and DATE-2 are the start and end dates of the career of Airey Neave.
+Airey Neave, an individual, has been awarded the Military Cross during the second world war.
+'ENTITY-1 be born at (DT<form=undefined> in ) ENTITY-2'.
+Airey Neave is a lieutenant colonel.
+Airey Neave is a person who started his service in 1935.
+Albert B White is a member of the Republican Party in the United States.
+Albert B. White is married to Agnes Ward White.
+Albert Jennings Fountain was in the Union Army during the American Civil War.
+Alberto Teisaire is an Argentinian.
+Alberto Teisaire is an Argentine Navy Rear Admiral.
+Alfons Gorbach died in Austria.
+Alfred Moore Scales ( born in 1835 ) was an American politician who was active in the years 1875 - 1879. He was a member of the Democratic Party and served as a member of the Texas Senate.
+Alfred Moore Scales ( born November 21, 1821 in Lincolnton, North Carolina - died May 3, 1889 in Charlotte, North Carolina ) was an American lawyer and soldier who fought in the American Civil War. He was a Union general during the Civil War, who commanded a brigade and later a division in the Army of the Potomac. He fought at the battles of Antietam, Fredericksburg, and Chancellorsville, where he was severely wounded. After the war, he returned to his law practice in Charlotte, North Carolina. He was born in Lincolton, North Carolina, and lived in Charlotte, North Carolina. He fought in the American Civil War, which took place between the Union and Confederate forces. The Battle of Chancellorsville was a battle between the two forces.
+Alfred N. Phillips was born in Darien, Connecticut.
+Alfred N. Phillips is the Mayor of Stamford, Connecticut.
+Allan Shivers was the governor of Texas from 1957 to 1963.
+Allan Shivers was a member of the United States Army.
+Allan Shivers is the leader who was succeeded by Price Daniel.
+Alvah Sabin's activity started on March 4th, 1853.
+Alvah Sabin is a member of the Whig Party in the United States.
+vp tense=present, voice=active, person=3rd, number=null> serve as DT <form=undefined> commander during the war.
+Austria is spoken in with the use of the Austrian German language.
+The battle of Antietam was commanded by Robert E Lee.
+the American Civil War tense=present, voice=active, person=3rd, number=null> be a part of the conflict of the conflict of American Civil War.
+the leader of Buenos Aires 's the capital of the leader where ENTITY-3 's the leader.
+the gulf war tense=present, voice=active, person=3rd, number=null> be the commander of the Gulf War.
+John F Kennedy was preceded by Dwight D Eisenhower.
+Josef Klaus person=3rd, number=null> graduate from University of Vienna.
+Juan Carlos I of Spain is the predecessor of Francisco Franco.
+Juan Peron is a member of the Labour Party of Argentina.
+vp tense=present, voice=active, person=3rd, number=null> be the leader of Netherlands.
+The United States Army fought in the Spanish-American War.
+William M O Dawson was born in Bloomington, Maryland.
+Aaron Deer is a musician who plays the guitar and produces music that falls into the psychedelia genre.
+Aaron Deer come from Indiana.
+United_States I have formatted the output to show the entities and their relationships as in your examples.
+Aaron Turner is a musician who plays the singing instrument and has the avant-garde metal genre.
+The Bavarian Crisis was written in English. - The fifth example states that Bacon Explosion is a dish that originated in the United States, where Barack Obama was once a leader.
+Abradab is a Polish-born person who was born on November 12, 1978.
+Abradab is a Polish person.
+Hip hop music is a genre of music that originated in the 1970s in the United States. It is characterized by a strong rhythmic beat and often incorporates elements of other genres such as funk, soul, and jazz. The term hip hop is often used to refer to both the music and the culture that surrounds it. Disco is a genre of dance music that became popular in the 1970s. It is characterized by a strong beat and often incorporates elements of funk, soul, and pop music. Disco was a major influence on the development of hip hop music, and the two genres share many stylistic similarities. The United States is the country that is most associated with the development of hip hop music, and it is also the country where disco music originated. Both genres have had a significant impact on the music industry and have influenced many other genres of music.
+Ace Wilder is a solo singer.
+Agustín Barboza born in Asunción, Paraguay.
+Alan Frew is an artist that plays rock music, a genre that fuses with bhangra music.
+The Rock music originated from Country music.
+The music style of jazz has its stylistic origin in the blues.
+Aleksandra Kovač is a solo singer, who performs pop music.
+RHYTHM AND BLOUES, also known as R&B, originated from the blues music genre.
+Aleksandra Kovac is a soul musician who started performing in 1990.
+Synthpop is a genre of music that emerged from the new wave movement.
+vp be born in England.
+.
+vp<aspect=simple, tense=present, number=null> be of genre taquirari tense=present, voice=active, person=3rd, number=null> be of genre singer.
+the region of montevideo 's Montevideo who is the leader of Alfredo Zitarrosa and was born in DT( Montevideo ) and died there too.
+The Uruguayan singer and songwriter, Alfredo Zitarrosa, was born in Montevideo and passed away there as well. This output provides the reader with additional information about Alfredo Zitarrosa's nationality as a singer and songwriter, and also mentions that he died in the same place where he was born. This example demonstrates how the lexicalization style of the triples in the input query affects the output format, as the output provides more context and information about the death and birth places of the entity.
+vp <aspect = simple, tense = present, voice = active, person = 3rd, number = singular> be the singer person=3rd,number=singular> be a singer called Alfredo Zitarrosa who performs the genre of Zamba and comes from the country where the leader's name is Alfredo Zitarrosa.
+I apologize for the confusion. I'm not sure what you're asking me to do here. If you can provide some more context or clarify your instructions, I'll be happy to try again.
+Alison odonnell is a folk rock musician with the record label floating world records.
+Alison odonnell is a jazz musician who plays the bodhran, percussion, and autoharp.
+Allen Forrest is a solo singer of hip-hop music.
+Andrew White, the musician, has the genre of alternative rock, a subgenre of which is Christian alternative rock.
+I am unable to understand the query.
+Anders Osborne is a musician who records for the Rabadash Records label. His music is categorized as rhythm and blues.
+Anders Osborne has recorded music with the label Shanachie Records, known for its releases in the Rhythm and Blues genre.
+artist, singular Andra (singer) be artist Pop music of music genre Pop.
+R&B is a genre of music that originated in the United States in the 1940s.
+4000.0 } > } ```.
+``` Bacon Explosion comes from the United States, where Barack Obama is a leader.
+I'm sorry, I am unable to understand the task prompt. Could you please clarify or provide additional context? I'm happy to help with any task you provide.
+The genre of alternative rock has its stylistic origins in new wave music.
+Al Anderson (of NRBQ) is an artist who plays country music.
+Polydor Records is located in London.
+Aaron Boogaard is a player from the Wichita Thunder and was born in Saskatchewan.
+Peñarol, the club with the leader Abel Hernández, is managed by Jorge Orosmán da Silva.
+Abel Hernández play for Peñarol.
+Adam Maher, the player, is a member of the AZ Alkmaar club.
+Adam Maher (ENTITY-1) is a player in the Netherlands national under-17 football team (ENTITY-2).
+I am unable to understand the task you are asking of me. If you provide me with a specific query I can try to answer it for you.
+Ferencvárosi TC ( Akeem_Adams ) tense=present, voice=active, person=3rd, number=null> belong to/be a member of/play for club Ferencvárosi_TC.
+Bacon Explosion is a dish from the United States, where Barack Obama is a leader.
+akeem ayers ( Akeem Ayers ) tense=present, voice=passive, person=3rd, number=singular> play for team ( New England Patriots ).
+Akeem Ayers, who was drafted at number 39, used to play for the Tennessee Titans.
+vp tense=present, voice=active, person=3rd, number=null> born on DATE-ENTITY-2, which is DATE-ENTITY-2 in 1987.
+Akeem Priestley is a member of the Connecticut Huskies.
+Akeem Priestley is a member of the RoPS club.
+Alaa Abdul Zahra, a footballer, is a member of the Al-Khor Sports Club, whose home ground is located in the city of Al Khor.
+Alaa Abdul-Zahra is the manager of Amar Osim's club, Al Kharaitiyat SC.
+Alan Martin ( footballer ) is a player of the Hamilton Academical FC.
+Alan Martin ( footballer ) VP be a part of the club Hamilton Academical FC.
+Aleksander Barkov ( Aleksander Barkov, Jr. ) tense=present, voice=active, person=3rd, number=null> belong to/play for/represent/be a member of/be part of the Florida Panthers, who have a birth date of September 2, 1995.
+Aleksander Barkov Jr. was born in Tampere, Finland.
+fc_torpedo_moscow 's the manager of FC_Torpedo_Moscow, where fc_torpedo_moscow has the position of DT <form=undefined> chairman and fc_torpedo_moscow 's a member of FC_Torpedo_Moscow.
+Aleksandr_Prudnikov club FC_Kuban_Krasnodar.
+Aleksandr Prudnikov tense=present, voice=active, person=3rd, number=null> belong to the league of FC Tom Tomsk.
+Aleksandre Guruli be member of FC Dinamo Batumi.
+Alex Plante was born in Manitoba in the year 1989.
+Alex Tyus is a player of the Pallacanestro Cantù club, he was born on the 8th of January 1988.
+Alex Tyus plays in the Turkish Basketball Super League, and his club is Maccabi Tel Aviv BC.
+Brandon, Manitoba, is a place where the leader is called the Conservative Party of Canada.
+Adam McQuaid be born in Canada.
+Canada writes in English.
+Levan Khomeriki is the manager of Aleksandre Guruli's club, FC Dinamo Batumi.
+Aleksandr_Prudnikov club Otkrytiye_Arena.
+The Finnish football club RoPS plays in the Veikkausliiga league.
+United Petrotrin F.C. is the club of Akeem Adams, and it is located in Palo Seco Velodrome.
+1994 VK8 (such as a spacecraft) tense=present, voice=active, person=3rd, number=null> have a mean orbital speed of 0.0925 km/s and an apoapsis of 660,363 km.
+'Apoapsis' is a measure of the distance between the periapsis and the point of the orbit nearest to the celestial body. The orbit of the 410777 2009 FD is 259776702.47055 kilometres in length, and its minimum temperature is 211 kelvins.
+Spacewatch (410777) 2009 FD tense=present, voice=active, person=3rd, number=null> have is a discoverer of the asteroid. the asteroid belt tense=present, voice=active, person=3rd, number=null> be a member of the asteroid belt. 2009 FD tense=present, voice=active, person=3rd, number=null> have is a periapsis of ENTITY-4.
+The 66063 1998 RO1 spacecraft had an escape velocity of 0.0999 kilometres per second, and its epoch was on 4 November 2013.
+the satellite NNP<number=singular,person=3rd> is a NNP<number=singular,person=3rd> satellite of the United States which NNP<number=singular,person=3rd> was launched on DATE-2 ( DATE-2 of DATE-1 ) and has an orbital period of 16244700.0. DATE-1 and DATE-2 are in the format Day Month ( e.g. 14 July ).
+The epoch date of the object with the object ID 66391 in 1999 is 2004-07-14, and its rotation period is 9953.28.
+James Craig Watson (ENTITY-1) discovered 101 Helena (ENTITY-2) and died of Peritonitis (ENTITY-3).
+1036 Ganymed tense=present, voice=passive, person=3rd, number=null> have DT <form=undefined> a speed of Ganymed.
+Walter-1 tense=present, voice=active, person=3rd, number=null> born in German-2.
+the galaxy tense=present, voice=active, number=null> be discovered by Walter Baade.
+James Craig Watson, who discovered 103 Hera, passed away due to peritonitis.
+James Craig Watson, a national of Canada, discovered 103 Hera.
+N. R. Pogson, who was born in Nottingham, was the discoverer of 107 Camilla.
+1927 WB, has an epoch date of November 26th, 2005.
+.
+The 1097 Vicia has a periapsis of 279142000000.0 and it's epoch is 2006-12-31.
+Sorry, I'm not sure what you're asking me to do here. If you provide me with a specific task or information to process, I'll be happy to help.
+109 Felicitas has a periapsis of 283326000000.0 and an epoch date of 2006-12-31.
+109 Felicitas is a main-belt asteroid discovered on December 31, 2006. It is a stony asteroid with a rotation period of 47487.6 seconds.
+10 Hygiea is a planet with a temperature of 164 kelvins and an apoapsis of 523951582.33968 kilometres.
+The epoch of 10 Hygiea was in 2015-06-27, which was formerly known as A900 GA.
+Once, Barack Obama led the United States, the home of the Bacon Explosion dish. Please note that the output may not be grammatically correct in every case, as the provided format does not contain enough information to generate complete sentences.
+the 110 lydia tense=present, voice=passive, person=3rd, number=null> be an object in the solar system where December 31, 2006 (also known as 110 Lydia) tense=present, voice=active, person=3rd, number=null> have an epoch date of 2006-12-31 and an orbital period of 142603000.0.
+A-Rosa Luna is a cruise ship with a length of 125800 millimetres.
+a-rosa_luna NP<definite=no,number=singular> A-Rosa_Luna a-rosa luna has is a length of 125800 millimetres.
+AIDA Cruises is located in Germany.
+AIDA Cruises is located in Rostock.
+.
+The ship AIDAstella was given its name on March 16, 2013, and it has a length of 253260.0 millimetres.
+I can't understand your request. Could you please clarify your instructions? > > Also, please note that I can only respond to one prompt at a time. If you have multiple queries, please provide them one at a time.
+ALV X-1 is a rocket with two stages and a diameter of 1.524 metres.
+AMC Matador is a car model manufactured in Kenosha, Wisconsin, and available in the market from 1974.
+AMC Matador be designed by Richard A Teague, who be employed by Chrysler.
+Argentina is the country of ARA_Veinticinco_de_Mayo_(V-2) which has a length of 192000.0 millimetres.
+Alfa Romeo 164 is assembled in Milan, the same city where the headquarters of Alfa Romeo, the parent company, is located. The car shares a similar transportation link to the Saab 9000, another vehicle produced in Sweden.
+a car manufactured by entity-2 in Italy tense=present, voice=active, person=3rd, number=null> be a car manufactured by entitiy-2 in entitiy-3.
+Alfa Romeo 164 is assembled in Italy and is related to the transportation vehicle Lancia Thema.
+Alvis Car and Engineering Company, which is the manufacturer of Alvis Speed 25, is located in Coventry.
+- The engine has a cubic capacity of 4387.0 cm. - The transmission consists of a single plate clutch, a separate 4-speed gearbox with silent and synchronous mesh, a central change lever, an open tubular propeller shaft with metal joints and a spiral bevel fully floating back axle. Alvis Speed 25 is a car with a powerful engine and advanced transmission.
+Alvis Speed 25 has a straight-six engine and a transmission with a single plate clutch, separate 4-speed gearbox, all-silent and all-syncromesh, centre change lever, open tubular propeller shaft with metal joints, spiral bevel and fully floating back axle.
+AMC Matador is manufactured by the American Motors, which is succeeded by the Eagle.
+Antares rocket tense=past, voice=passive, person=null, number=singular> launch at location Antares rocket which is the launch site of rocket Mid-Atlantic Regional Spaceport The launch took place on a specific date, i.e. January 9, 2014.
+Argentina's leader is called Gabriela Michetti.
+Airbus Defence and Space manufactured the Ariane 5 which was launched from ELA-3.
+Airbus, a company that manufactures the Ariane 5 rocket, has the Airbus Defence and Space as a subsidiary.
+The Aston Martin V8 is a product of the United Kingdom and is related to the Aston Martin RHAM.
+Aston Martin is the manufacturer of the Aston Martin V8, which was succeeded by the Aston Martin Virage.
+I'm sorry, I do not understand what you are asking. If you provide me with the input, I will try to respond.
+Aston Martin, the manufacturer of the Aston Martin Virage, has the Aston Martin Virage as its successor which has the Aston Martin V8 engine.
+The Atlas II rocket has a diameter of 3.04 metres and made its final flight on March 16, 1998.
+Lockheed Martin is the manufacturer of the Atlas II rocket, which was launched from Cape Canaveral Air Force Station.
+Audi is the manufacturer and Audi e-tron is the division of Audi.
+Audi is the manufacturer of the Audi A1.
+Audi is the manufacturer of the Audi A1.
+Caterpillar Inc. is a company that is led by key person Douglas R. Oberhelman and is associated with AIDAluna which has a power type.
+I'm sorry, but I am unable to understand your request.
+Finland tense=present, voice=active, person=3rd, number=null> be the leader of Finland who tense=present, voice=passive, person=3rd, number=singular> build Finland which tense=present, voice=active, person=3rd, number=null> come from Finland.
+The Bavarian Crisis is written in English and A Wizard of Mars is from the United States. The Bacon Explosion is a type of food from the U.S. that is popular. Please note that this output is generated based on the examples provided and may not cover all the possible combinations and relationships in your dataset. If you have more specific requirements or additional examples, please provide them, and I will adjust the output accordingly.
+Rolls-Royce Holdings, the owner of MTU Friedrichshafen, is known for its high-performance engines. In particular, the MTU Friedrichshafen engine is used in the A-Rosa Luna, a luxury yacht. The yacht is powered by the MTU Friedrichshafen engine, which is known for its reliability and performance.
+The United Kingdom is lead by Queen Elizabeth the second. The United Kingdom is known to have a constitutional monarchy, with a monarch as the head of state. The Queen is the head of state for 15 commonwealth nations, including the United Kingdom, Australia, and Canada. The role of the monarch includes a number of formal and informal roles. These include the opening of new parliaments, the appointment of new prime ministers, and the approval of legislation. In addition, the monarch has a symbolic role, representing the United Kingdom at official events and ceremonies.
+Aaron S Daggett is a veteran who fought in the battle of Fredericksburg and was awarded the Purple Heart.
+Aaron S Daggett is a purple heart recipient who fought in the battle of Gettysburg.
+Abdul Taib Mahmud is succeeded by Abdul Rahman Yakub.
+Abdul Taib Mahmud was born in the Kingdom of Sarawak, where the leader is the King of the state of Sarawak.
+Abdulsalami Abubakar was born in Minna and graduated from the Technical Institute, Kaduna.
+Abdul Salamani Abubakar was born in Niger State, Nigeria.
+Al-Amin Daggash is the successor of Abdusalami Abubakar.
+Bacon Explosion is a dish from the United States. } > } } ```.
+Olusegun Obasanjo is the successor of Abdulsalami Abubakar.
+world war II tense=past, voice=active, person=3rd, number=null> command over/be commander of/during/in/against/for (ENTITY-2).
+The United States Army, which is led by Barack Obama, fought in the Korean War.
+Adam Holloway (ENTITY-1) graduated from Magdalene College, Cambridge (ENTITY-2) and was born in Kent (ENTITY-3).
+Adam Holloway, who was born in Kent, is a resident of Gravesend.
+Adam Koc, a Virtuti Militari recipient, fought in World War I.
+Adonis Georgiadis was born in Athens.
+Adonis Georgiadis ( L ) was born in Athens ( G ).
+Adonis Georgiadis was born in Greece.
+Agnes Kant aspect = simple, tense = present, voice = passive, person = 3rd, number = singular > born in Hessisch Oldendorf.
+Airey Neave be awarded the military cross, in entity-2, as a member of entity-3.
+Airey Neave, who was born on March 4th, 1974, fought in the Battle of France.
+Athens International Airport is located in Greece. ``` I hope this helps! Please let me know if you have any other questions.
+Airey Neave tense=past, voice=passive, person=3rd, number=singular> be born in/at Airey Neave.
+Franklin D. Roosevelt (of Airey Neave ) tense=past, voice=passive, person=3rd, number=singular> participate in Airey Neave (of Franklin D. Roosevelt ) tense=present, voice=active, person=3rd, number=null> be a part of.
+The world war two commander was Joseph Stalin.
+Albert B White was a person who was born on 22nd September 1856 and passed away in 1941.
+Albert B. White was a politician who was born on September 22, 1856.
+Albert Jennings Fountain was born in New York City and passed away in Doña Ana County, New Mexico.
+Albert Jennings Fountain died in New Mexico.
+Albert Jennings Fountain (born in New York City) was a member of the Republican Party in the U.S.
+Isaac Rojas was the successor of Alberto Teisaire.
+Alfons Gorbach ( born in Austria ) was a member of the Austrian Nazi Party.
+Alfons Gorbach was born in Austria.
+James_W._Reid_(politician) was the successor of Alfred_Moore_Scales.
+Daniel Gould Fowle Alma Mater Princeton University.
+Alfred N. Phillips was born in Connecticut.
+The United States Army was involved in the American Civil War.
+world war ii (of 'World War II') tense=present, voice=active, person=3rd, number=null> be commanded by Joseph Stalin (of 'Joseph Stalin').
+Allan Shivers was born in Lufkin, Texas.
+Allan Shivers was succeeded by Ben Ramsey.
+Alvah Sabin tense=past, voice=active, number=singular> be born on or before ( DATE-1 ) and tense=present, voice=active, number=singular> have name Alvah Sabin.
+The Netherlands, where Agnes Kant comes from, uses the Euro as currency.
+The Netherlands is lead by Mark Rutte.
+vp<aspect=simple, tense=present, number=null> be from the United States tense=present, voice=passive, person=3rd, number=null> be from the country of the United States.
+The Suburban Legends can be categorized as a pop music genre.
+Aaron Deer is from Indiana.
+Aaron Deer is from Indiana.
+Aaron Turner is a black metal musician.
+Aaron Turner is a musician who plays drone music.
+Aaron Turner is a musician who plays ambient music.
+Aaron Turner write and perform music of the heavy metal genre.
+Aaron Turner, a musician, is a part of the black metal music community. He is also known for singing and performing with the death metal music fusion genre.
+Abradab be born on DATE-1.
+Abradab tense=null, voice=null, person=null, number=null> come from Katowice.
+Hip-hop music is a genre that originated in the 1970s in the United States. It is a style of music that is closely related to disco, which was very popular at the time. The genre quickly gained popularity and soon became a global phenomenon, with artists and fans all over the world. There are many different subgenres of hip-hop, including rap, trap, and jazz rap. These subgenres often have distinct sounds and styles, but they are all connected by the use of sampling and beat-making, which are key elements of hip-hop music. Hip-hop has become a powerful force in the music industry, with many successful artists and a huge influence on mainstream music. It has also become a part of mainstream culture, with references to hip-hop and its culture appearing in many different forms of media.
+Paraguay's leader is Juan Afara. Agustín Barboza, a notable person from Asunción, the capital of Paraguay, was born there.
+Al Anderson, the leader of NRBQ, has been singing and playing rock music since the band's formation.
+Alan Frew is a musician who performs rock music, a genre that fuses with bhangra music and originates from country music.
+Albennie Jones is a jazz musician who performs blues-influenced Afrobeat music.
+Albennie Jones is a rhythm and blues musician from the United States, where Barack Obama is a leader.
+Aleksandra Kovač is a musician who produces pop music.
+Aleksandra Kovač (ENTITY-1) is a pop music artist.
+There are many artists that belong to the rhythm and blues genre. However, I am not able to find information on Aleksandra Kovač.
+vp has is a stylistic origin of entity-2.
+Alfred Garth Jones ( born in England ) died in a place called Sidcup.
+Alfred Garth Jones was born in England and passed away in London. He was a British national.
+Alfred Garth Jones was born in Manchester, United Kingdom and passed away in London.
+Alfred Garth Jones was born in Manchester, a city led by the Labour Party (UK), and passed away in Sidcup.
+London is led by the name Boris Johnson.
+Alison odonnell is a folk musician of the irish.
+Alison O'Donnell is a folk musician.
+Alison odonnell is an artist that plays jazz music.
+Alison O'Donnell tense=present, voice=active, number=null> be recorded by Alison O'Donnell on the label Static Caravan Recordings.
+Allen Forrest is a solo singer, born in Dothan, Alabama and performs pop music.
+Allen Forrest, a solo singer, was born in Dothan, Alabama and performs rhythm and blues music.
+Andrew white is a musician with a genre of alternative rock. Alternative rock has a music fusion genre of nu-metal and it's stylistic origin is new wave music.
+The_Bavarian_Crisis language English > Bacon_Explosion country United_States > Barack_Obama leaderName of United_States > Asian_Americans ethnicGroup of United_States > The provided query asks for the generation of a summary based on the triples provided in the examples above. However, the query does not specify the desired lexicalized format or the number of summary sentences required. Therefore, the output presents the information in a bulleted list format, with each sentence providing the requested summary for each specific triple.
+The Anders Osborne is a rock musician.
+The singer Andra has the genre of dance-pop music.
+Andra ( singer ) be a part of the rhythm and blues genre.
+The singer Andra has a background as a solo singer and performs rhythm and blues music. Rhythm and blues is a derivative of disco music.
+Andrew Rayel is a trance musician.
+Andrew Rayel is a trance musician.
+vp<aspect=,tense=,voice=,person=3rd,> be of genre singer.
+Andrew White is signed to Universal Records.
+vp 's more specific stylistic of Ska.
+Albennie Jones was born in the United States, specifically in the town of Errata in Mississippi.
+Bacon Explosion comes from the United States, where Barack Obama was once a leader.
+I'm sorry, I'm not sure what you're asking for here.
+Abel Hernández is a player for the Hull City AFC football club, which is located in England. He previously played for the youth club Central Español.
+This is a complex instruction, and I am unsure how to proceed.
+The control of information expression in the summary is important to ensure the accuracy and clarity of the output. Unfortunately, I cannot understand your request.
+United Petrotrin F.C. is the club of Akeem Adams. The ground of United Petrotrin F.C. is Palo Seco.
+vp person=3rd,number=null> be a player in the sport of American football named Akeem Ayers, who was drafted in the second round by the Los Angeles Rams at position 39.
+I'm sorry, I am not able to understand the instruction. If you could provide me with the dataset and the specific format you would like to use, I will be glad to help you with the task.
+I'm sorry, I'm not sure what you are asking.
+Alaa Abdul Zahra is a member of the Iraqi national under 20 football team, and he was born in Iraq.
+The Bavarian Crisis was written in English. This output provides a simple statement about the book and the language it is written in. Example 5 involves triples about the food item Bacon Explosion and the fact that it comes from the United States, where Barack Obama is a leader. The expected output is The Bacon Explosion comes from the United States, where Barack Obama is a leader. It is a dish that is popular. This output uses the subject-verb-object format to express the provided information and includes additional commentary to provide context and meaning. Overall, the provided examples demonstrate how the lexicalized format you have specified can be used to generate summaries of the information in the input triples, with the output including additional context and relationships between entities to provide more meaningful and detailed summaries.
+Alan Martin (b. 1st January 1989), a footballer who plays for Clyde F.C., is a member of the club.
+Alan Martin ( footballer ) aspect = simple, tense = present, voice = active, person = 3rd, number = null > join club Accrington Stanley F C.
+Aleksander Barkov Jr. was born on September 2, 1995, in Tampere, Finland.
+I'm sorry, I do not understand the instruction. Please clarify your request.
+Soviet Union tense=present, voice=active, person=3rd, number=null> be the leader of Aleksandr Chumakov Soviet Union tense=present, voice=passive, person=3rd, number=null> be the death place of Soviet Union Soviet Union tense=past, voice=active, person=3rd, number=null> be the birth place of Soviet Union.
+fc alania vladikavkaz 's club of Aleksandr Prudnikov ( DATE( 1989-02-24 ) ).
+Aleksandr Prudnikov tense=present, voice=active, person=3rd, number=null> be a member of club called FC_Tom_Tomsk, where they have a date of birth of February 24th, 1989.
+The Bavarian Crisis. These books are either published or written in the United States, where English is spoken. The country is also associated with Barack Obama, who was a leader there and has an ethnic group called Asian Americans.
+Aleksandre Guruli club Olympique Lyonnais.
+Alessio Romagnoli play for A.C. Milan where the manager is Sinisa Mihajlovic.
+Alessio Romagnoli plays for A.C. Milan, which is managed by Sinisa Mihajlovic.
+Club A.S. Roma has the coach Alessio Romagnoli. Italy's national under-16 football team is coached by Daniele Zoratto.
+the italian national under-17 football team ( Alessio Romagnoli ) aspect = simple, tense = present, voice = active, person = 3rd, number = null > belong to club called Italy national under-17 football team and aspect = simple, tense = present, voice = active, person = 3rd, number = null > be born in Italy.
+vp < aspect = simple, tense = present, voice = active, person = 3rd, number = null > be the person person=3rd, number=null> be Brandon, Manitoba DT <form=undefined> Alex Plante, who member be Anyang Halla B Brandon, Manitoba DT <Form=undefined> of Anyang Halla, with DT <form=undefined> a height of Anyang Halla and a place of birth of ENTITY-5 DT <form=undefined> Brandon, Manitoba.
+Alex Plante is a player in Anyang Halla club, who is 1.9304 m in height and was born in Canada.
+I'm sorry, I am unclear on what you are asking.
+Maccabi Ashdod B.C. is a club that is coached by Zvi Sherf. Alex Tyus plays in the Turkish Basketball Super League.
+Aleksandr_Prudnikov club Otkrytiye_Arena.
+FC Anzhi Makhachkala, the club of the athlete Aleksandr Prudnikov, is based in Makhachkala, Russia. The club is affiliated with the Russian Premier League and plays its home matches at the Anzhi Arena. FC Spartak Moscow, Prudnikov's youth club, is also a Russian football club based in Moscow. The club has a long-standing rivalry with Dynamo Moscow and has won numerous titles, including the Soviet Top League, the Russian Cup, and the UEFA Cup. Prudnikov, a Russian athlete, began his career at the youth level of FC Spartak Moscow before moving to the senior team. He later transferred to FC Anzhi Makhachkala, where he currently plays.
+The Bacon Explosion comes from the United States, where Barack Obama once was the leader.
+Abel Hernández is a player of Hull City A.F.C. where Steve Bruce is a manager.
+vp tense=present, voice=active, person=3rd, number=null> be the leader of Moscow who was born in Moscow and died in Russia.
+abner ( ABNER ) NP<number=singular> be a player in the team ( BRAZIL NATIONAL UNDER-20 FOOTBALL TEAM ) where ( BRAZIL NATIONAL UNDER-20 FOOTBALL TEAM ) has as a manager ( LUIS MIGUEL RAMIS ).
+Abner ( footballer ) is a player in C.D. FAS. FAS is managed by Luis Miguel Ramis, who is also the manager of Real Madrid Castilla.
+Francis_G._Slay is the leader of St. Louis.
+the titans ( Tennessee Titans ) aspect = simple, tense = present, voice = active, person = 3rd, number = null > have as their city Nashville, Tennessee and as their former player, the entity Akeem Ayers, who debuted with them.
+Akeem Adams is a member of the Trinidad and Tobago national under-20 football team and plays for United Petrotrin F.C. at Palo Seco.
+19255 1994 VK8 kilograms. It is a description of the given query that is written in the format of the examples provided. The query details the characteristics of the object ( 19255 ) with the given data, and the output generates a description of the object based on those characteristics.
+asteroid NNP <number=singular,person=3rd> is a NNP <number=singular,person=3rd> asteroid with a discoverer of Spacewatch, which has an orbital period of 39447000.0 and a periapsis of 88234300000.0.
+ENTITY-1 is has a leader called PATIENT-1 is a length of ENTITY-2.
+The object identified by the triplets as (66391) 1999 KW4 has an average speed of 37.16 kilometres per second, an apoapsis of 162164091.8388 kilometres, and a density of 2.0 gram per cubic centimetre. Is there anything specific you'd like me to extract or focus on from this information? I can also provide additional details if required.
+1000_Piazzia is an epoch 2015-06-27 and is in the low earth orbit with a periapsis of 352497000000.0 and an orbital period of 488160.0.
+<ENTITY-1> be <ENTITY-1> a satellite <ENTITY-1> of Earth <ENTITY-2> and <ENTITY-1> have <ENTITY-1> a periapsis of <ENTITY-1> 419113394.55312 kilometres <ENTITY-3> and <ENTITY-1> be <ENTITY-1> launched on <ENTITY-1> DATE <ENTITY-3> 27-06-2015 </ENTITY-3>.
+Helena is a satellite with a semi-major axis of 441092000.0 kilometres and an escape velocity of 0.0348 kilometres per second. It has a mass of 3.0 kilograms.
+Apollo 11, the spacecraft that first landed humans on the Moon, took off from the Kennedy Space Center in Florida, United States. Please note that I have assumed the entities mentioned in the triples based on the available context. If you have specific entity labels or additional information, please provide them to refine the output further.
+James Craig Watson is a person who has discovered 103 Hera. 103 Hera has an epoch date of 2011-08-27 and is from Madison, Wisconsin, which is also the place of death of James Craig Watson.
+James Craig Watson died of peritonitis, in Madison, Wisconsin. He was the discoverer of 103 Hera.
+103 Hera is an asteroid in the main belt with an epoch date of August 27th, 2011. It has an orbital period of 1622.213 days and an apoapsis of 437,170,000.0 kilometers. I hope that was helpful! Please let me know if you would like me to rephrase or make any other changes to the output. I am always happy to improve my responses to make them more useful to you.
+the sun tense=present, voice=active, person=3rd, number=null> have a orbit of the distance around the sun at a distance of 437170000.0 kilometres and a velocity of 0.0482 kilometres per second, and a surface temperature of 170 kelvins.
+vp <aspect=simple, tense=present, number=null, person=null, voice=active> be the astronomer and mathematician tense=present, voice=active, person=3rd, number=null> be born in/at N. R. Pogson where N. R. Pogson NP <number=singular> is the city of Nottingham, England, and is the birthplace of the astronomer and mathematician N. R. Pogson (also known as Pogson or Pogenson), who discovered the comet 107 Camilla.
+( 1089 tama ) ( 1089 Tama ) aspect = simple, tense = present, voice = active, person = 3rd, number = null > have an orbital period of November 26, 2005 ( 1202.846 days ) and a former name of 1089 Tama ( A894 VA; A904 VD; ).
+1089 Tama ( 1089 Tama ) tense=present, voice=active, number=null> have an apoapsis of ( 1089 Tama ) ( 373513000.0 kilometres ) and a periapsis of November 26, 2005 ( 288749000000.0 ) and an epoch of 1089 Tama ( 2005-11-26 ).
+The Earth-crossing asteroid, 1097 Vicia, had its periapsis adjusted to 279142000000.0, on the 31st of December 2006. This object was formerly known as 1928 PC.
+The 109 Felicitas is a celestial body with a mass of 7.5 kg and an epoch date of December 31st 2006. It has an orbital period of 139705000.0.
+it has an epoch date of December 31st, 2006, an orbital period of 139705000.0, and an apoapsis of 523329000.0 kilometres.
+Hygiea is a minor planet that orbits the sun with an orbital period of 5.57 days, an average speed of 16.76 kilometres per second and an apoapsis of 523951582.339 kilometres.
+10 Hygiea is a relatively small asteroid with a diameter of about 5-15 kilometers. It has an average speed of 16.76 kilometers per second and an orbital period of 0.47 years. The asteroid has a relatively high density, likely due to its composition of rock and nickel.
+10 Hygiea location is the 10th planet in the main asteroid belt, 10 Hygiea. It has a semi-major axis of 523951582.33968 kilometres, a surface area of 837080.744 square kilometres, and a temperature of 164 kelvins.
+110 Lydia, a natural satellite, has a periapsis of 377016000000.0 and a mass of 6.7 kilograms.
+440756000.0 kilometers.
+Dodge Coronet, an alternative name for the 1955 Dodge, has a transmission called the 3-speed automatic.
+A-Rosa Luna ( A-Rosa Luna ) is a cruise ship that has a length of 125800 millimetres and was ordered on the 22nd of January 2004.
+A-Rosa Luna is a ship with a displacement of 1850 tonnes, a top speed of 24 knots, and a length of 125800 millimetres.
+AIDA Cruises is located in Germany where the AIDAstella is operated by AIDA Cruises and owned by Costa Crociere.
+AIDAstella is a ship named AIDAstella. It was put into service on March 17th, 2013, and has a length of 253260 millimetres. It was launched on March 16th, 2013.
+The ALCO RS-3 is an American Locomotive Company engine with a four-stroke engine and a length of 17068.8 millimetres.
+ALCO_RS-3 is an American Locomotive Company manufactured diesel-electric locomotive. It is powered by a V12 engine and has a length of 17068.8 millimetres.
+ALCO RS-3 is an American steam locomotive built by the American Locomotive Company (ALCO) in Schenectady, New York. It has a length of 17068.8 millimetres.
+The United States (of the United States) NNS<number=plurality,person=3rd> be in ethnicity of African Americans.
+The United States is a country that is home to various ethnic groups, including Native Americans. The capital of the United States is Washington, D.C., and the leader of this country is Barack Obama. Native Americans are an important ethnic group in the US, and they have their own unique culture and traditions.
+ALV X-1 is a rocket with two stages that has a total of one launch and a diameter of 1.524 metres.
+Abarth 1000 GT Coupé was a sports car with a straight-four engine and a coupé body style. It was produced until 1958.
+Abarth 1000 GT Coupé, a two-door coupé, has a wheelbase of 2160mm and width of 1.55m.
+I'm sorry, I don't understand the task. If you provide me with a query, I can try to answer it.
+Alfa Romeo 164, an Italian automobile, shares a transportation link with Fiat Croma.
+Alfa Romeo 164, an Italian automobile, shares a similar means of transportation to the Lancia Thema. It is also noteworthy to point out that Rome, the capital of Italy, is located in the same country.
+The Alfa Romeo 164 was assembled in the Arese factory, and is related to the Fiat Croma.
+.
+Alhambra is a large palace in Granada, Spain, known for its rich history and architectural marvels. It has a length of 63800 millimetres and a ship beam of 8.3 meters.
+Alhambra tense=present, voice=active, number=null> be a ship called Alhambra, which has a beam of 8.3 m and was launched on 1855-05-31. It is currently wrecked.
+The Bavarian Crisis is written in English. > - Aenir is available in paperback, while Bacon Explosion is a dish from the United States, where Barack Obama is a leader.
+American Motors is the manufacturer of the AMC Matador and the person responsible for the company's operations is Roy D. Chapin Jr. However, the company is no longer in existence as it was eventually acquired and its fate became the Eagle, an automobile. This summary is based on the information provided in the triples and attempts to organize the information in a coherent and meaningful way. It is important to note that the output is just one possible interpretation and may not fully capture all the nuances and complexities of the data.
+Yuzhnoye Design Office is the manufacturer of the Antares rocket, which is comparable to the Delta II rocket.
+Antares rocket is manufactured by the Yuzhnoye Design Office and launched from the Mid-Atlantic Regional Spaceport Launch Pad 0. It functions as a medium expendable launch system.
+< 'Athens International Airport' >.
+Aston Martin is a brand that is associated with luxury. The Aston Martin V8 is assembled in the UK and has a powerful 5.3-liter engine. This car is known for its sleek design and smooth driving experience. It is a popular choice for those who enjoy the finer things in life.
+Aston Martin is a brand that is manufactured in the United Kingdom. The Aston Martin V8 is a popular model that is related to the Aston Martin DBS. The Aston Martin V8 has a 5.3 litres engine.
+< 'Athens International Airport has a runway length of 4000.0 meters. ' >.
+A Bavarian Crisis. One of its leaders is called Barack Obama, who was once the leader of the United States. One of the airports in the United States is named Athens International Airport. It has a runway length of 4000.0, and is known for having a leader, which could be a country, state, or city. A Wizard of Mars was published in the United States, where English is spoken. The book is set in a world where magic exists and is written in the past tense. It might be a work of fiction, but I cannot confirm this. Aenir is available in paperback in the United States, where Barack Obama was once a leader. I am not sure whether Aenir is a person or a place. Bacon Explosion is an invention from the United States. I am not sure what it is, but it is related to bacon, which is a type of meat.
+Atlas II is made in the United States and launched from Cape Canaveral Air Force Station.
+Audi is a manufacturer that produces the Audi A1, a hatchback with a small 1.2L engine.
+The Bacon Explosion comes from the United States, where Barack Obama was once the leader.
+I apologize for any confusion, but I am unable to understand the task you have requested. I can provide a summary of the information that you provided in your query. Based on the triples that you have provided, Caterpillar Inc. is located in Peoria, Illinois, and was founded in California. Would you like me to provide more information on Caterpillar Inc.
+vp <aspect = null, tense = null, voice = null, person = null, number = null> be located in Illinois, where Caterpillar Inc be owned by AIDA Cruises.
+Costa Crociere, an owner of AIDAstella, is located in Genoa.
+Antares rocket is comparable to the Delta II rocket.
+Guiana Space Centre, a launch site located in French Guiana, is headed by the French Guiana government. It is the site from which the Ariane 5, a European launch vehicle, was launched.
+Guiana Space Centre ( LOCATION ) is in Kourou, French Guiana.
+vp 's located in/at Germany.
+The United States is a country that is home to many diverse ethnic groups, including African Americans. It is led by a president and is known for its rich history and culture. The United States is also the birthplace of many influential leaders and thinkers, such as Barack Obama, who was the first African American president.
+Aaron S Daggett is a person who fought in the Battle of Fredericksburg and was awarded the Purple Heart. He was born in Maine.
+Ab_Klink is a member of the Christian Democratic Appeal party.
+Abdul Taib Mahmud, the leader of the Sarawak, was born in that kingdom and succeeded by Abdul Rahman Yakub.
+Abdul Taib Mahmud, the leader of the Barisan Raayat Jati Sarawak party, was born in the Kingdom of Sarawak. He resides in Sarawak.
+Abdulsalami Abubakar was born in Niger State and attended the Technical Institute in Kaduna for his education.
+The lexicalization format is not clear, but I will do my best to answer your query.
+The Bavarian Crisis was written in English. 5. The Bacon Explosion comes from the United States, where Barack Obama once served as a leader.
+Abel Caballero was born in Galicia, Spain.
+Abel Caballero was born in Galicia, Spain.
+Abner W. Sibal is a member of the United States Army.
+Abner W. Sibal be born in Queens, in the United States.
+Adam Holloway, a member of the military branch known as the Grenadier Guards, is a person.
+Adam Holloway, who was born in Faversham, is a member of the Conservative Party in the United Kingdom.
+Adam Koc was born in Congress Poland and fought in the Polish-Soviet War, where Leon Trotsky was a commander.
+Adam Koc tense=present, voice=active, person=3rd, number=null> fight in the polish-soviet war, which is a part of the russian civil war and is commanded by leon trotsky.
+Adonis Georgiadis was born in Athens.
+Adonis Georgiadis, the person, was born in Athens, Greece.
+New_Democracy_(Greece) is a country that is colored blue.
+The Netherlands 's from the country of Netherlands and the leader is named Agnes Kant.
+Netherlands tense=present, voice=active, person=3rd, number=null> be the leader of Netherlands.
+Agnes Kant was born in West Germany.
+Airey Neave tense=present, voice=active, person=3rd, number=singular> have name 'Airey Neave' and 'active years' of 1953-06-30 to 1979-03-30, who tense=past, voice=passive, person=3rd, number=singular> fight in world war two.
+Athens International Airport, United States, Barack Obama, 4000.0, English language, Paperback, United States, Asian Americans, Bacon Explosion .
+Albert B. White was born on September 22, 1856, and passed away on July 3, 1941.
+I apologize, but I am unclear on the instructions.
+<deathPlace, birthPlace> } ```.
+Albert Jennings Fountain born in New York City and passed away in New Mexico.
+Albert Jennings Fountain was born in New York and passed away in the United States.
+Horacio Rodríguez Larreta is the leader of Buenos Aires, where Alberto Teisaire passed away. Buenos Aires is led by a legislature.
+Alberto Teisaire is a Rear Admiral, and his successor is Isaac Rojas.
+Athens International Airport's runway length is 4000.0 meters. > > Athens International Airport is the location of the event.
+Alfred N. Phillips was born in Connecticut and was succeeded by Albert E. Austin.
+Alfred N. Phillips was born in Darien, Connecticut and succeeded by Albert E. Austin.
+Allan Shivers was succeeded by Wilfred R. cousins Jr.
+Burlington, Vermont tense=present, voice=active, person=3rd, number=null> live in/at Vermont where Burlington, Vermont tense=present, voice=passive, person=3rd, number=null> be the leader of ENTITY-4.
+Henry Clay was the leader of the United States Whig Party.
+vp<aspect=simple, tense=past, voice=active, person=3rd, number=singular> lead to United States.
+Albert Jennings Fountain, an American who fought in the American Civil War, was born in the United States, the same country as Abraham Lincoln, who was a commander during the same war.
+Alfred Moore Scales participated in the Battle of Fredericksburg, which was part of the American Civil War. Jefferson Davis was a commander in the American Civil War.
+Doris Bures is the leader of Austria. Alfons Gorbach, whose birth place was County of Tyrol, passed away in Austria.
+Doris Bures is the leader of Austria, and Alfons Gorbach is from there. He was born in Tyrol, a state in Austria.
+Doris Bures is the leader of Austria, the death place of Alfons Gorbach.
+Salem Church is a battle of the American Civil War, which took place at the Salem Church, and was led by Robert E. Lee.
+Ab_Klink is a Dutch national who was born in Stellendam.
+Adam Koc (of Adam Koc ) nationality (of Adam Koc ) is Adam Koc.
+Aaron Bertram is a musician who plays the genre of Ska punk.
+Aaron Deer is an example of psychedelia from Indiana.
+Aaron Turner is an artist who performs in the Electroacoustic music genre and uses his voice as his instrument.
+I apologize for the confusion. I am unsure how to interpret the given examples and instructions.
+Aaron Turner is a musician who plays the electric guitar and performs black metal music. Black metal is a subgenre of death metal music.
+Ace Wilder, whose birth date is July 23rd, 1982, in Stockholm, Sweden, is a solo singer.
+Ace Wilder, born in Sweden on the 23rd of July 1982, is a solo singer.
+Ace Wilder is a solo singer and a songwriter.
+Ace Wilder is a solo singer and songwriter.
+Ahmet Ertegun was a non-performing personnel from United States.
+Ahmet Ertegun is an American musician who comes from an African American ethnic group. He is known for his genre of rock and roll.
+vp tense=present, voice=active, person=3rd, number=null> be of genre Albennie Jones.
+Albennie Jones is an American jazz musician, who's roots are traced back to the African American community. He was born in the United States, where the current leader is Barack Obama. Jazz originated from the blues and is considered to be a highly influential genre in the music scene.
+Aleksandra Kovač, born in Belgrade, Serbia in 1972, is a solo pop singer.
+Aleksandra Kovač, born in 1972 in the Socialist Republic of Serbia, is a solo singer with a background in rhythm and blues.
+If the input is Alex Day is a musician with the genre of acoustic music then the output would be ENTITY-1 is a musician with a genre of ENTITY-2.
+Alex Day is an example of electronic music.
+Alfred Garth Jones (1872 - ) was born in England and passed away in London.
+Montevideo is the capital city of the country of Uruguay. It is led by a politician called Daniel Martínez, and it is the place where Alfredo Zitarrosa passed away.
+Zitarrosa, Alfredo, be the citizen of Uruguay where the leader name is Sebastian Mujica.
+Alison O'Donnell is a folk musician.
+Alison odonnell is an example of Alison O'Donnell which is a kind of Alison O'Donnell that is a folk music artist.
+vp person=3rd, number=null> be located in ( at ) London.
+London is the location of Deram Records.
+Allen Forrest is a solo singer with a background in the genre of acoustic music, and he was born in 1981.
+Allen Forrest, born in Fort Campbell, Kentucky and raised in Dothan, Alabama, is a solo singer with a hip-hop music background.
+Andrew White is a musician who performs alternative rock music, which has its origins in punk rock and has since fused with nu-metal.
+Anders Osborne is a musician who plays rock music.
+Alligator Records 's a book of the type paperback written in English and published in the United States, where Barack Obama is the leader and Asian Americans are an ethnic group.
+Andra, a Romanian solo singer, was born in Romania.
+The singer Andra performs in the R&B genre.
+Andrew Rayel is a trance musician.
+vp music artist tense=present, voice=active, person=3rd, number=null> have a stylistic origin of Ukraine.
+Andrew White, a musician, performs alternative rock music.
+Andrew White, a musician who started his career in 2003, was signed to Universal Records.
+I'm sorry, I'm not sure what you'd like me to do with this prompt.
+Athens International Airport has a runway length of 4000.0. A Wizard of Mars was published in the United States, where English is spoken and Barack Obama is a leader.
+Hip-hop music, which has a stylistic origin in disco, is a derivative of drum and bass music.
+I can try and help you with that. However, I am unsure of what output you would like me to generate based on the information you have provided. The information you have provided appears to be a set of facts about a person and their birth place. I can assume that the output would be a sentence about Alfred Garth Jones being born in Manchester, which is led by the Labour Party in the UK.
+The Bavarian Crisis is written in English. The Aenir book is available in paperback and comes from the United States, where Barack Obama is once a leader. The Bacon Explosion comes from the United States, where Barack Obama was once a leader and is a popular dish.
+the band twilight is a musical artist that plays the electric guitar and is associated with the band Twilight, which performs a music genre called black metal. Black metal is a fusion genre of death metal.
+Albennie Jones is a music artist that performs rhythm and blues music.
+Aaron hunt is a player in SV Werder Bremen and the latter is part of the 3 Liga League.
+I'm sorry, I do not understand your instruction.
+Abel Hernández is a member of the club, Central Español. The manager of the club is Jorge Orosmán da Silva. Abel Hernández used to be in the youth club Peñarol.
+Palermo FC ( U.S. Città di Palermo ) aspect = simple, tense = present, voice = active, person = 3rd, number = null > be managed by aspect = simple, tense = present, voice = active, person = 3rd, number = null > 'm', 'p' > Giuseppe_Iachini. Palermo FC ( Abel Hernández ) aspect = simple, tense = present, voice = active, person = 3rd, number = null > belong to club aspect = simple, tense = present, voice = active, person = 3rd, number = null > ( U.S. Città di Palermo ). Palermo ( U.S. Città di Palermo ) aspect = simple, tense = present, voice = active, person = 3rd, number = null > be a member of DT < form = undefined > Serie A. Giuseppe Iachini ( Peñarol ) aspect = simple, tense = present, voice = active, person = 3rd, number = null > be the youth club of aspect = simple, tense = present, voice = active, person = 3rd, number = null > ( Abel Hernández ).
+Adam McQuaid is a Canadian ice hockey player who was born in 1986 on Prince Edward Island and has a weight of 94.8024 kilograms.
+Adam McQuaid, who is a member of the Boston Bruins, was selected by the Columbus Blue Jackets during the draft. The Bruins' GM is Don Sweeney, and the city where the Jackets are based is Columbus, Ohio.
+Akeem Ayers ( born 10 July 1989 ) is an American football player. He was previously a member of the St. Louis Rams and made his debut for the Tennessee Titans.
+We have received your query and are ready to generate the results based on the given examples and the required output format. Please provide the examples and their corresponding desired outputs.
+akeem dent tense=present, voice=active, person=3rd, number=null> be a DT <defined> football player named Akeem Dent. He was born in Atlanta, Georgia, on September 27th, 1987, and made his debut for the Atlanta Falcons. He later played for the Houston Texans.
+Al-Kharaitiyat, managed by Amar Osim, share a ground with Al-Zawraa, which is also the club of Alaa Abdul Zahra.
+Alaa Abdul-Zahra is a player of Al-Kharaitiyat SC, managed by Amar Osim.
+Al-Kharaitiyat SC, managed by Amar Osim, is one of Alaa Abdul Zahra's clubs. The ground of the club is Al Khor.
+Alan Martin is a footballer who was born on January 1st, 1989 and plays for Crewe Alexandra F.C. He is 185.42 centimeters tall.
+Alan Martin, a footballer, was born on January 1st, 1989, and is associated with the Crewe Alexandra F.C. club. He stands at 185.42 centimeters in height.
+Aleksandr Prudnikov, a player on the FC Dynamo Moscow football team, stands at 185cm tall. He is also a member of the club that was formed in Moscow, Russia.
+I'm sorry, I'm not sure how to respond to your prompt. Do you have a specific question or task you need help with? If you can be more specific, I can try to help you. I am trained to provide thorough responses to questions, so the more detail you can provide, the better I can assist you. If you would like, you can also input a new query and I can try to answer that one instead. Thanks for your understanding.
+Aleksandre Guruli is a member of the FC Karpaty Lviv club, and was born in Batumi. He stands at 178 cm tall.
+vp <aspect = simple, tense = present, voice = active, person = 3rd, number = null> be 1989-05-09 tense=present, voice=active, person=3rd, number=null> be May 9, 1989 Alex Plante, who is a member of the the 9th of may 1989 Anyang Halla club, and was born in Canada on the 9th of May 1989.
+1.9304 is Alex Plante, who is in the club Anyang Halla and has a height of 1.9304. He was born in Canada in the year 1989.
+Canada is led by Elizabeth II, whose leadership includes the areas of Inuktitut speaking Canada, the birthplace of Aaron Boogaard.
+Canada is lead by a person name Elizabeth II and is an ethnic group for Asian Canadians. Aaron Boogaard was born in Canada, a country that has O Canada as anthem.
+Canada is led by Elizabeth II and is the birthplace of Aaron Boogaard. The language spoken in Canada is Slavey.
+I'm sorry, I don't understand the instruction. If you provide me with the triples, I can try to generate the output for you.
+I am unable to understand your request.
+Houston Texans ( Houston_Texans ) tense=present, voice=active, person=3rd, number=null> be the team of Houston Texans ( Akeem_Dent ) who tense=present, voice=active, person=3rd, number=null> make his debut with Houston Texans ( Atlanta_Falcons ).
+Abel Hernández is a player in Hull City A.F.C. Abel is from Uruguay and he used to play for Peñarol, a Uruguayan club that plays in the Uruguayan Primera División.
+.
+Bacon Explosion, comes from the United States, where Barack Obama was the leader at one point.
+The 66063 1998 RO1 has an epoch date of November 4th, 2013. It has a mean temperature of 265 kelvins, an orbital period of 360.29 days, and an apoapsis of 254989570.60815 kilometres.
+1000_Piazzia is an object with an escape velocity of 0.0252 km/s, an orbital period of 488160.0 and a periapsis of 352497000000.0. It is a planet.
+Sergey Belyavsky ( 1001_Gaussia ) aspect= simple, tense= present, voice= active, person= 3rd, number= null > have a periapsis of 4.19 billion kilometres and a discoverer of Sergey Belyavsky ( Sergey Belyavsky ) and an epoch of June 27th 2015.
+Walter Baade, born in the German Empire, was a doctoral student of Allan Sandage and an alumnus of the University of Göttingen.
+Halton Arp born in Preußisch_Oldendorf, where Halton Arp be a doctoral student of Preußisch Oldendorf.
+Walter Baade, who had his Alma Mater at the University of Göttingen, passed away in West Germany. He was the discoverer of 1036 Ganymed, and he had a doctoral student named Halton Arp.
+James Craig Watson, the discoverer of 103 Hera, passed away due to peritonitis in Madison, Wisconsin. He was an alumni of the University of Michigan.
+James Craig Watson, a Canadian national, is the discoverer of 103 Hera. He is from Madison, Wisconsin.
+Athens_International_Airport country Greece Athens_International_Airport runwayLength 15000.0 Greek_language spokenIn Greece Greek_language officialIn Cyprus Cyprus location Asia Asia continent Asia Asia population 4.3 billion 4.3 billion number Barack_Obama leaderName Barack_Obama ethnicity African_American Aenir author Neil_Gaiman Neil_Gaiman fullName Neil_Gaiman name 1634:_The_Bavarian_Crisis author Virginia_Wolff Bacon_Explosion creator Seth_Broudy United_States leader leaderName Barack_Obama United_States of America leader leaderName Joe_Biden > I've provided a translation of the provided triples into a JSON-like structure.
+N. R. Pogson was born in Nottingham and passed away in Chennai. He was the discoverer of 107 Camilla whose periapsis is 479343000.0 kilometres.
+N. R. Pogson, who was born in Nottingham, passed away in Chennai. He was the discoverer of 107 Camilla, which was discovered on March 1st, 2001.
+1089 Tama is an object that revolves around the Sun. It has a periapsis of 288749000000.0 and an orbital period of 1202.846 days. The epoch date for this object is the 26th of November, 2005.
+the 1089 tama is the epoch of the 1089 Tama, which is 2005-11-26. It has an apoapsis of 373513000.0 kilometres, an escape velocity of 0.0068 kilometres per second, and an orbital period of 1202.846 days.
+At the end of 2006, the artificial satellite 1097_Vicia was launched into space with an impressive apoapsis of 511592000.0 kilometres. Weighing only 9.8 kilograms, it gracefully orbits Earth with an orbital period of 135589000.0 seconds.
+it has an epoch date of December 31st, 2006, an escape velocity of 0.0473 kilometers per second, and an orbital period of 139705000.0 seconds. It has a periapsis of 283326000000.0 meters.
+At 10 Hygiea, the epoch occurred on June 27th, 2015 and has an orbital period of 5.57 days. It has a periapsis of 416136000000.0. It used to be called A900 GA.
+1101 Clematis is a celestial body with an epoch date of December 31st, 2006. It has an apoapsis of 520906000.0 kilometres above the surface of the Earth, an orbital period of 183309000.0 seconds, and an escape velocity of 0.02 kilometres per second.
+.
+1101 Clematis is an object that has an epoch date of December 31st 2006, an escape velocity of 0.02 kilometers per second, and an orbital period of 183309000 seconds. The object has a periapsis of 445895000000.
+Athens International Airport is a major hub for Aegean Airlines and Olympic Air, serving millions of passengers annually. It has a runway length of 4000.0 meters and is operated by the Greek Civil Aviation Authority. The airport is located in the town of Spata, which is about thirty kilometers from central Athens, and is easily accessible by car, train, or bus. The airport's three terminals handle both domestic and international flights, and its facilities include duty-free shops, restaurants, and a small museum. I hope this helps! Let me know if you have any other questions.
+DeSoto Custom (to be more precise, its model year ) 's manufactured by DeSoto It is a type of car, and is a successor to DeSoto Firedome.
+AIDAstella is a cruise ship operated by AIDA Cruises and owned by Costa Crociere. Costa Crociere is a company based in Rostock, Germany.
+I can understand you want to generate a specific style of output based on the examples you've provided. However, I need a little more clarity on what you're asking for. In the examples, you've provided a dataset with information about various entities, and you want to generate a natural language summary for each entry. Is that correct? If so, I can create a program that processes each entry and generates a summary based on the provided examples. Would you like me to proceed with this approach? If you have any additional specifications or further examples, please feel free to share them.
+ALCO RS-3 tense=present, voice=active, person=3rd, number=null> be located in greece Greece population 10_772_000 ALCO RS-3 tense=present, voice=passive, person=3rd, number=singular> be 10_772_000. Aenir author Neil_Gaiman Neil Gaiman is the author of Aenir. Neil_Gaiman nationality United_States Neil, an American, is the author of Aenir. Aenir genre Science_Fiction Aenir, a science fiction novel, was written by Neil Gaiman, an American. .
+ALCO RS-3 is a type of diesel electric locomotive built by the American Locomotive Company during 1950-1956. It has a V12 engine and a length of 17068.8 millimetres.
+The company American Locomotive, which is located in the United States, is a transportation business that manufactures and sells a variety of products, including diesel-electric locomotives, passenger trains, and freight trains.
+The ALCO RS-3 is a diesel-electric locomotive built by the Montreal Locomotive Works between May 1950 and August 1956. It has a V12 engine and comes with a diesel-electric transmission.
+The ALCO RS-3 is a diesel-electric locomotive built by Montreal Locomotive Works between May 1950 and August 1956. It has 12 cylinders and a four-stroke engine.
+AMC Matador is an automobile that is assembled in Mexico City and has the alternative name American Motors Matador. It has a station wagon style and its engines are of the AMC V8 type.
+The Matador is a mid-size car that is assembled in Kenosha, Wisconsin and has an alternative name of VAM Classic. Its engine is the AMC straight-6 engine.
+Acura TLX be a type of mid-sized car which is made in Marysville, Ohio and have both front wheel drive and all wheel drive option. The car is powered by Honda K engine.
+Acura be of class luxury vehicle and have a front engine design. It is assembled at Marysville Auto Plant and have a V6 engine.
+Arctech Helsinki Shipyard built the Aleksey Chirikov icebreaker, which is currently in service and has a beam of 21.2 metres.
+Juha Sipila is the leader of Finland where the icebreaker Aleksey Chirikov was built.
+Arctech Helsinki Shipyard built the Aleksey Chirikov icebreaker, which is currently in service. The ship has a beam of 21.2.
+Alfa Romeo 164 is an Italian manufactured automobile. It is related to the vehicles Lancia Thema and Saab 9000. The Alfa Romeo 164 has a straight-four engine and is assembled in Italy.
+The Alfa Romeo 164 is an automobile assembled in Italy and is related to the Fiat Croma. It has a V6 engine.
+Alhambra is a wrecked ship with a length of 63800 millimetres and a ship beam of 8.3 meters.
+Alvis Car and Engineering Company, founded in Coventry, England, manufactured the Alvis Speed 25. The Rover Company acquired the company.
+Alvis Car and Engineering Company, which is located in Coventry, is the manufacturer of the Alvis Speed 25. The Rover Company is the successor to the Alvis Car and Engineering Company.
+Chrysler Corporation manufactured the AMC Matador, and the fate of American Motors, the manufacturer, was taken over by Chrysler.
+.
+American submarine NR-1 was built with a narrow beam of 3.8 meters, a length of 450 meters and a top speed of 8.334. It was launched on 25 January 1969. Is there anything else I can help you with? >.
+The Antares rocket was manufactured by the Yuzhnoye Design Office, which had its final launch at the Mid-Atlantic Regional Spaceport on October 28, 2014.
+Mid-Atlantic Regional Spaceport Launch Pad 0 ( Antares ( rocket ) ) aspect = simple, tense = present, voice = active, person = 3rd, number = null > have a launch site of the launch site of the antares rocket ( Mid-Atlantic Regional Spaceport Launch Pad 0 ) and a manufacturer of September 18, 2013 ( Yuzhnoye Design Office ). The launch date of Antares was on April 21, 2013 ( 2013-04-21 ) and it had its final flight on 2013-09-18.
+I'm sorry, I'm not sure what you would like from me.
+I hope this summary is helpful. Let me know if you have any further questions or if there's anything else I can assist you with.
+Aston Martin Virage is manufactured by Aston Martin. Aston Martin V8 has an engine capacity of 5.3 litres and is succeeded by the Aston Martin Virage, which is also related to the Aston Martin DBS.
+Atlas II is a family of American launch vehicles that were designed to deliver payloads into low earth orbit. The launch vehicles were launched from Cape Canaveral Air Force Station and Vandenberg Air Force Base. The rockets have a diameter of 3.04m and made its final flight on December 5th, 2002.
+Audi A1, a supermini vehicle, is assembled by Audi in Brussels. It is equipped with a 1.2-litre engine.
+Audi, the manufacturer of the Audi A1, has the Audi e-tron as one of its divisions and owns the subsidiary Ducati. The founder of Audi is August Horch.
+Caterpillar Inc. in Illinois location in Illinois.
+AIDAstella is operated by AIDA Cruises and owned by Costa Crociere. Costa Crociere is located in Genoa.
+The answer is Antares (rocket) comparable to the Delta II and launched from the Mid-Atlantic Regional Spaceport Launch Pad 0.
+United States tense=present, voice=active, person=3rd, number=null> be a launch site of the country of the united states which is a country of origin for the Delta II rocket.
+Bacon Explosion is a dish that originated in the United States, under the leadership of Barack Obama.
+I'm sorry, I'm not sure how to respond to your request.
+General Dynamics Electric Boat (American submarine NR-1) tense=present, voice=passive, person=3rd, number=null> have/has General Dynamics Electric Boat (builder) DT <form=undefined> as a location of General Dynamics Electric Boat (General Dynamics Electric Boat) which is a child company of General Dynamics Electric Boat (parent company General Dynamics) and has a beam of 3.8 m.
+Germany is led by a person called Stanislaw Tillich, and the city of Rostock, a part of Germany, is home to the Neptun Werft shipbuilder, which has helped construct the A-Rosa Luna ship.
+The United States, a country that speaks English, is home to various ethnic groups, including African Americans. It is led by leaders and has its capital in Washington, D.C.
+The United States is a country with a diverse population, including several ethnic groups such as African Americans. The capital of the United States is Washington, D.C. and the leader is President Barack Obama. The country is also referred to as the United States of America, and Americans are considered to be the demonym.
+Aaron S Daggett tense=present, voice=active, person=3rd, number=null> be Aaron S Daggett who is also known as Aaron Daggett, who was born in Maine and died in West Roxbury. He fought in the American Civil War and was awarded the Purple Heart.
+Aaron S Daggett was born in Maine and passed away in West Roxbury. He fought in the Battle of the Wilderness and was awarded the Purple Heart.
+Erasmus University Rotterdam is affiliated with the Association of MBAs and is led by a person who is from Netherlands.
+Abdul Taib Mahmud, the leader of the party, Parti Pesaka Bumiputera Bersatu, is from the region of Asajaya in Malaysia. He was born in Miri, but currently resides in Kuching.
+Abdul Taib Mahmud is a member of the Parti Pesaka Bumiputera Bersatu party, who is from the Asajaya region, and was born in the Kingdom of Sarawak, where he resides in Sarawak.
+I am not sure I understood your request.
+Abdul Taib Mahmud's party is Parti Pesaka Bumiputera Bersatu, and he is from Sarawak. Adenan Satem was born in the Japanese occupation of British Borneo and was the successor to Abdul Taib Mahmud.
+Mike Akhigbe, Oladipo Diya, Atiku Abubakar, and Abdusalami Abubakar were all leaders of the Nigerian army.
+Mike Akhigbe, who is also known as Aikhigbe Michael Olufemi, was a Nigerian military officer and politician who served as the de facto Vice President of Nigeria under the military regime of Abdulsalami Abubakar between 1998 and 1999. He was a predecessor to Oladipo Diya, who was also a military officer and politician. On the other hand, Abdusalami Abubakar was succeeded by Al-Amin Daggash, who was the 14th Chairman of the Transitional National Government of Sudan.
+Juan carlos i of spain, Abel Caballero, and Francisco Franco are mentioned in the same sentence.
+Abel Caballero was born in Galicia, Spain.
+Abraham A Ribicoff is a national of the United States, which is the ethnic group of Native Americans in the United States. Abraham was born in New Britain, Connecticut and his spouse is Casey Ribicoff.
+Adam Holloway ( born in Kent and graduate of Magdalene College, Cambridge ) started his career in 2005.
+Adam Koc, a national of Poland, participated in battles of the Polish-Soviet War. The language spoken in Poland is Polish.
+Polish Soviet War is a leader of the conflict that involved the country of Russia and the war was part of a military conflict that involved the death of Adam Koc in New York City.
+Makis Voridis is the successor of Adonis Georgiadis who was born in Athens.
+Makis Voridis is a Greek businessman who was born in Athens, Greece. He is the successor of Adonis Georgiadis.
+Makis Voridis is the successor of Adonis Georgiadis who was born in Athens.
+Socialist Party (Netherlands) is led by Emile Roemer who is a member of the same party. Agnes Kant is a Dutch national and therefore the currency she uses is the Euro.
+the country of mark rutte 's from the country of Netherlands where the leader is Agnes Kant and Agnes Kant is one of them.
+mark rutte ( Mark_Rutte ) tense=present, voice=active, person=3rd, number=singular> be the leader of the Netherlands, where the party is the Socialist Party.
+The Bavarian Crisis was written in English. The Bacon Explosion comes from the United States, where Barack Obama was once a leader.
+- Airey Neave, who was born on March 30, 1979, in Knightsbridge, London, and retired on June 30, 1953, was a politician. - In 1953, he started his career as a politician. - The career of Airey Neave ended on March 30, 1979.
+Airey Neave, born in Knightsbridge, London, was a British soldier who fought in the Battle of France. He was a member of the Royal Air Force and began his career in March of 1974 and retired on March 30th, 1979.
+vp<aspect=simple, tense=present, number=null> be the person tense=present, voice=active, person=3rd, number=null> be a commander of the unit which fought in World War II, where the war had a commander called Chiang Kai-shek.
+Albert B. White was born in Cleveland and passed away in Parkersburg, West Virginia. He was succeeded by William M. O. Dawson.
+William M. O. Dawson.
+I apologize for the confusion caused by the previous response. Based on the provided examples, it seems like you're looking for a way to generate sentences that follow a specific format using information from the provided triples. However, it's challenging to provide a complete response without additional context or guidelines. If you could provide more information about the desired output format or any specific requirements, I'd be happy to assist you further in generating the desired results. Please clarify your goal or provide additional examples to help me understand your intended output format.
+Albert Jennings Fountain was born in New York City and died in Doña Ana County, New Mexico. He fought in the American Civil War.
+Albert Jennings Fountain born in New York and passed away in New Mexico.
+Horacio Rodríguez Larreta is the leader of Buenos Aires, the death place of Alberto Teisaire who is a member of the Justicialist Party.
+Isaac Rojas is the successor of Alberto Teisaire who has the profession of a Rear Admiral.
+Alfred Moore Scales, the leader, was born in Reidsville, North Carolina, and succeeded by Daniel Gould Fowle.
+Alfred N. Phillips ( usually in the US Army ) aspect = simple, tense = present, voice = active, person = 3rd, number = null > fight against DT < form = undefined > the whiskey rebellion. Alfred N. Phillips ( birth place of Alfred N Phillips ) aspect = simple, tense = present, voice = passive, person = 3rd, number = singular > be in Alfred N. Phillips ( Connecticut ).
+Alfred N. Phillips was born in Connecticut and succeeded by Albert E. Austin.
+Alfred N. Phillips was born in Darien, Connecticut and later succeeded by Albert E. Austin.
+Allan Shivers was born in Lufkin, Texas and later succeeded by Price Daniel.
+Allan Shivers is the leader and Wilfred R. Cousins Jr. is the successor.
+I apologize for the confusion. I am unsure how to generate output results based on the given query and examples.
+Daniel Webster is the leader of the Whig Party which is based in the United States, where Alvah Sabin is from the state of Vermont.
+vp tense=past, voice=active, person=3rd, number=null> be commander of the civil war and Aaron S Daggett tense=present, voice=active, person=3rd, number=null> win the battle of gettysburg and Aaron S Daggett tense=present, voice=passive, person=3rd, number=singular> be awarded the purple heart.
+vp tense=present, voice=active, person=3rd, number=singular> be the leader of ( the country of ) Argentina.
+Juan Perón, who was part of the Labour Party in Argentina, had a successor named Isaac Rojas.
+Brian Robertson, the trombonist in the band Suburban Legends, plays a genre of music called Ska punk, which originates from punk rock.
+Aaron Deer is a solo Indie rock singer who originates from Indiana.
+Aaron Turner is an American musician who performs black metal music.
+Aaron Turner comes from Massachusetts, where sludge metal is a genre.
+Abradab is a Polish rapper who was born on November 12th, 1978 in Katowice.
+Ace Wilder is a solo singer from Sweden who was born in 1982.
+Ace Wilder, whose birth date is 23rd July 1982 and place of birth is Stockholm, is a songwriter and solo singer.
+Ace_Wilder, a rap artist, is a Hip-hop musician whose origins are traced back to disco.
+Ace Wilder is a hip-hop artist from Sweden. This genre originates in Disco music and is known for its funky beats.
+Al Anderson was born in Windsor, Connecticut, and started his music career in 1966. He was a member of the rock band NRBQ.
+Al Anderson ( NRBQ band ) is an artist of rock music. Rock music is a genre of music that has bhangra as a music fusion and country music as its stylistic origin.
+The Bavarian Crisis was written in English. } > } ```.
+Aleksandra Kovač, born in the Socialist Republic of Serbia in 1972, is a pop musician.
+Aleksandra Kovač is a solo singer from the United States who began performing in 1990. Her genre of music is rhythm and blues.
+Alfred Garth Jones born in England in 1872 and passed away in London, UK.
+London is led by the European Parliament and the leader's name is Boris Johnson. Alfred Garth Jones was born in Manchester and passed away in London.
+I'm sorry, I don't understand what you are asking. If you provide me with a query, I can help you with it! Otherwise, I am happy to answer any other questions you may have.
+Alison O'Donnell is signed to the record label, Floating World Records.
+London is the location of the record label Deram Records.
+Alison O'Donnell is a jazz musician who plays the autoharp. Jazz originated from folk music and is one of the musical genres of Afrobeat music.
+Alison O'Donnell is a musical artist who performs with the voice, the bodhran, percussion, and the autoharp. She performs jazz music with a fusion of Afrobeat and a stylistic origin in blues.
+vp tense=present, voice=active, person=3rd, number=null> be born in Alabama.
+Anders Osborne is a musician who plays rock music.
+I apologize for the confusion, but I am unable to understand your request. Could you please clarify or provide more context? In order to provide an accurate response, please provide a clear and well-structured query or specific examples so I can assist you effectively.
+Andra (singer) is a singer and a reality television judge. They were born in the year 1986 and had a solo singing background.
+Andra, whose birth name is Andra Stăncioiu, was born in 1986 in Romania. She is a solo singer who performs in the rhythm and blues genre and has made a name for herself in the music industry.
+Pop music is the stylistic origin of trance music.
+Andrew_Rayel be born in Chișinău, Moldova.
+Andrew Rayel was born in Chișinău, Moldova.
+I'm sorry, I am not able to understand the instruction.
+Andrew White, a musician who began his career in 2003, has recorded with B-Unique Records.
+Allen Forrest, born in Fort Campbell, is a musician who has made a name for himself in the genre of hip-hop music, which originates from disco and has drum and bass as one of its derivatives.
+Allen Forrest is a hip-hop musician, who was born in 1981. His musical style originates in disco.
+Alfred Garth Jones was born in Manchester and passed away in London.
+Paraguay, a country led by Juan Afara, is home to the Mestizo ethnic group. The country's language is Spanish.
+Andrew White, a musician, is signed to the B-Unique Records label, which is located in London. His music falls into the alternative rock genre.
+musician be located in London, where Andrew White ( musician ) is signed to the record label Polydor Records. The label is known for its contribution to the fusion genre of alternative rock and nu-metal.
+Al Anderson (from the NRBQ band) is a musician who plays the guitar and is an exponent of rock music. Rock music has a music fusion genre known as bhangra, which has country music as one of its stylistic origins in blues.
+Al Anderson ( NRBQ band ) is a musician who plays rock music, a genre that fuses with bhangra music and originates from the blues.
+.
+Montevideo is the capital city of the country of Uruguay, where Spanish is the spoken language. Daniel Martínez, a politician, is a leader in this country. One of the interesting facts about Montevideo is that it is also the death place of Alfredo Zitarrosa.
+Abel Hernández is a player in the club Central Español, which is part of the Uruguayan Segunda División, and is managed by Jorge Orosmán da Silva. Abel Hernández used to be part of the youth club Peñarol.
+Aleksandr Chumakov ( Aleksandr_Chumakov ) VP be a member of the FC Torpedo Moscow club, which is managed by Valery Petrakov and is part of the Soviet Union national football team. The leader of Russia is Valentina Matviyenko.
+.
+A.C. Milan is managed by Siniša Mihajlović and fields Alessio Romagnoli in the defender position. A.C. Milan, as Alessio's club, competes in Serie A.
+Silvio Berlusconi is the chairman of A.C. Milan, where Alessio Romagnoli plays for the Italy national under-17 football team. Romagnoli currently plays for A.C. Milan, which is managed by Sinisa Mihajlovic.
+Abel Hernández is a player in the club U.S. Città di Palermo, which is managed by Giuseppe Iachini. Abel Hernández is in the youth club of the Central Español, which is a club in the Uruguayan Segunda División league.
+There are no output examples in the provided information.
+Aleksandr Prudnikov, who is a player for FC Spartak Moscow, which is chaired by Sergey Rodionov, and whose ground is in Grozny, is managed by Rashid Rakhimov, who is the manager of FC Terek Grozny.
+Rashid Rakhimov is the manager of FC Terek Grozny which is the club of Aleksandr Prudnikov, who also plays for FC Dynamo Moscow. He also used to play for FC Terek Grozny and is a youth player for FC Spartak Moscow.
+Aleksandr Chumakov, who is a member of the FC Torpedo Moscow club and the Soviet Union's national football team, played in the 2014-15 Russian Premier League under the management of Valery Petrakov.
+Gábor_Kubatov is the chairman of Ferencvárosi_TC where Akeem_Adams plays and Thomas_Doll manages the club. Akeem Adams also plays for United_Petrotrin_F.C. based in Palo Seco.
+Gábor_Kubatov, the chairman of Ferencvárosi TC, is a leader in the club that Akeem Adams plays for. Adams also plays for United Petrotrin F.C., whose ground is called Palo Seco Velodrome and is managed by Thomas Doll.
+5.6 kilograms The object is a satellite that was launched in 1994 and has the following physical characteristics. It is in a low earth orbit with a periapsis of 6155910000000.0 and an apoapsis of 6603633000.0 kilometres. It takes 8788850000.0 seconds to complete one orbit and has a mass of 5.6 kilograms.
+James Craig Watson, a Canadian national, passed away in Madison, Wisconsin.
+James Craig Watson was born in Canada, and has a few things tied to him. He was born in Canada, has the cause of his death as peritonitis, and he is from Madison, Wisconsin. He attended the University of Michigan, and he is the discoverer of 101 Helena.
+Walter Baade, who was born in the German Empire and passed away in Göttingen, was a doctoral student of Allan Sandage and the discoverer of 1036 Ganymed. He had attended the University of Göttingen.
+Walter Baade, who was born in the German Empire and went on to discover 1036 Ganymed, was a doctoral student of Allan Sandage at the University of Göttingen.
+Walter Baade was born in the German Empire, and his doctoral student was Allan Sandage. He is of German nationality, and his alma mater is the University of Göttingen.
+I'm sorry, I do not understand what you are asking for.
+James Craig Watson, a Canadian, is an alumnus of the University of Michigan. He is the discoverer of 103 Hera, which has a periapsis of 3712.4 kilometres.
+I'm sorry, I do not understand your request.
+107 Camilla is an asteroid discovered by C. Woods, with an epoch date of December 31st 2006. It has an orbital period of 2368.05 days, a periapsis of 479343000.0 kilometres, and an apoapsis of 560937000.0 kilometres.
+I'm sorry, I do not understand your request. I am able to generate a summary for the provided data, but I am unable to follow your instructions regarding triple formatting and lexicalization.
+Nottingham tense=unknown, voice=unknown, person=unknown, number=null> be born in Nottingham and die in Chennai, where Chennai tense=present, voice=active, person=3rd, number=null> discover 107 Camilla, which is an object associated with N. R. Pogson which is of nationality England.
+I apologize for the confusion, but I am unable to understand your request. I am unable to process your query as it appears to be incomplete.
+I'm sorry, but I am unable to understand the instruction in the query. I cannot process the request to generate output results without further context or a clear instruction on what to do with the provided input. If you provide a specific prompt or instruction, I'll be happy to assist you to the best of my abilities.
+In the universe, there is a celestial body named 11264 Claudiomaccone with an orbital period of 1513.722 days. It has an epoch date of November 26, 2005, and its periapsis and apoapsis are 296521000 and 475426000 kilometres away from Earth, respectively. The temperature of this celestial body is 173 kelvins.
+Costa Crociere, a parent company of Carnival Corporation & plc, is the owner and operator of AIDAstella which is located in Germany and built by Meyer Werft.
+AIDAstella is a cruise ship operated by AIDA Cruises and built by Meyer Werft. It has a length of 252,260 millimeters, a 32.2-meter beam, and a top speed of 38.892.
+The ALCO RS-3 is a type of locomotive built by the American Locomotive Company from May 1950 to August 1956. It has a four-stroke engine and measures 17,068.8 millimetres in length. It has twelve cylinders.
+ALCO_RS-3 is a train engine with a V12 engine, it was built between May 1950 and August 1956 and has 12 cylinders. It is 17068.8mm long.
+The United States is led by a president and is home to many different ethnic groups, including Native Americans. The capital of the United States is Washington D.C. and the country's national anthem is known as the Star-Spangled Banner.
+The Matador is a mid-sized car manufactured in New Zealand by American Motors. The Matador has an AMC V8 engine and is available in the station wagon body style.
+Alhambra, a building constructed by Samuda Brothers and owned by the P&O company, has a unique power source in the form of Humphrys, Tennant and Dykes.
+.
+American submarine NR-1 is a submarine, and it is called the American submarine NR-1. It was launched on January 25, 1969. It has a length of 45000 millimeters, a width of 3.8 meters, and a draft of 4.6 meters. It can reach a top speed of 8.334.
+A Bavarian Crisis are written in.
+Antares, a rocket manufactured by the Yuzhnoye Design Office, made its maiden flight on October 28, 2014, and subsequently experienced its final flight on July 13, 2014, at the Mid-Atlantic Regional Spaceport Launch Pad 0. It has a diameter of 3.9 meters.
+The Antares rocket was manufactured by the Yuzhnoye Design Office, which had its maiden flight on 28th October 2014. The rocket's final flight took place on 18th September 2013, and its launch site was the Mid-Atlantic Regional Spaceport Launch Pad 0. It has a diameter of 3.9 meters. If you have any further queries or need additional information extracted, feel free to ask.
+Ariane 5 rocket ( Ariane_5 ) is a rocket manufactured by Airbus Defence and Space that had its maiden flight on August 11, 2005, and made its final flight on December 18, 2009. It has a diameter of 5.4 metres and was launched from the Guiana Space Centre.
+Arianespace, a leader in the commercial launch service industry, is located in the city of Courcouronnes, France. The Guiana Space Centre, which serves as the company's headquarters, is found in French Guiana. Arianespace operates the launch site at ELA-3, which is also located at the Guiana Space Centre.
+The Aston Martin V8 is assembled in Newport Pagnell, and is manufactured by Aston Martin. The Aston Martin V8 has an engine capacity of 5.3 litres and is related to the Aston Martin DBS as its successor is the Aston Martin Vantage.
+Aston Martin is a British manufacturer of luxury vehicles. The Aston Martin V8 is one of their sports cars assembled in Newport Pagnell. This two-door Coupé has a 5.3 litres engine and is related to the Aston Martin DBS.
+I'm sorry, I am unable to understand your request.
+Audi is a brand that manufactures automobiles. One of the models they produce is the Audi A1, which is a supermini car that comes in a hatchback body style. This particular model is assembled in Brussels, Belgium and has a 1.2-litre engine with a front-engine and front-wheel-drive layout.
+Audi is a manufacturer that was founded by August Horch, and is a division of Audi e-tron, and has a subsidiary known as Ducati.
+I am not sure how to interpret the instruction to generate output results. I am a helpful chatbot designed to assist users by providing thorough responses. I am unable to complete this request, as it appears to be a prompt for a machine learning model to fill in the blanks. I can only complete requests that are within the scope of my abilities.
+The AIDAluna, a cruise ship, is powered by Caterpillar Inc., which is based in the United States. The United States is led by Barack Obama, and Douglas R. Oberhelman is a key person at Caterpillar Inc. AIDA Cruises is located in Rostock.
+Bacon Explosion is a dish originating in the United States, where Barack Obama previously held office as leader.
+The ship AIDAstella (ENTITY-1) is owned by Costa Crociere (ENTITY-2) and operated by AIDA Cruises (ENTITY-3). Costa Crociere is located in Genoa (ENTITY-4) and is a subsidiary of Carnival Corporation & plc (ENTITY-5).
+I'm sorry, I am unclear what you are asking me to do. I am unable to understand the instruction to provide the output for the given query. I am only able to answer questions that are sufficiently specific and unambiguous. Would you like me to clarify or expand on any of the information that I have already provided? Or would you like me to provide a summary of the examples that you have provided? If so, please let me know what the summary should focus on.
+I apologize for the confusion, but I am unsure what output you are expecting me to generate based on this prompt.
+The Bavarian Crisis was written in English. 5. The Bacon Explosion comes from the United States, where Barack Obama was once the leader. I hope this helps.
+The United States has several ethnic groups, one of which is Native Americans. The language spoken in the United States is English and the capital city is Washington, D.C. The demonym of the United States is Americans.
+Abdul Taib Mahmud, the leader of Asajaya, was born on 21st May 1936 in Miri, Malaysia. He is a member of the Parti Pesaka Bumiputera Bersatu party and he resides in Kuching.
+Abdul Taib Mahmud, the leader of the Parti Pesaka Bumiputera Bersatu party, was born in the Kingdom of Sarawak. His successor is Adenan Satem.
+Nigerian Navy officer Mike Akhigbe was succeeded by Atiku Abubakar.
+Abdulsalami Abubakar, who is also known as General Abubakar, was the successor of Olusegun Obasanjo and a member of the Nigerian Army. In addition, Mike Akhigbe preceded Oladipo Diya in his military career.
+Abraham A Ribicoff was a United States national, who was born in Connecticut and passed away in the same country.
+Abraham A Ribicoff was born in Connecticut and belonged to the Democratic Party in the United States. He passed away in New York City.
+Abraham A. Ribicoff, an American national, was born in Connecticut and passed away in New York. His wife, Casey Ribicoff, also an American national, belongs to the Native American ethnic group.
+Adam Holloway, born in Kent, is a member of the Grenadier Guards and attended Magdalene College, Cambridge. He started his career in 2005.
+Adam Holloway, born in Faversham, Kent, England, is a member of the Conservative Party UK and the Grenadier Guards. He studied at Magdalene College, Cambridge, and began his career in 2005.
+Makis Voridis succeeded Adonis Georgiadis who was in office while Antonis Samaras was the Prime Minister.
+Mark Rutte is the leader of the Netherlands.
+Khadija Arib is the leader of the Netherlands. Agnes Kant, who is from the Netherlands, resides in Doesburg.
+I'm sorry, but I am unable to understand the request. If you provide me with a clear set of instructions, I will do my best to assist you. I am unable to process the incomplete and unclear prompt. If you could please provide me with a complete and clearly written set of instructions, I will be happy to help you.
+Albert B. White was born on September 22, 1856, in the United States. He passed away on July 3, 1941, in Parkersburg, West Virginia.
+Albert B. White was born in Cleveland, and died in Parkersburg, West Virginia. He was married to Agnes Ward White, and his successor was William M. O. Dawson.
+Albert B White was born in Cleveland, and was succeeded by William M O Dawson.
+Albert B. White was born in Cleveland, United States, and was a member of the Republican Party. He was an active politician between the years 1901 and 1905, and his successor was William M. O. Dawson.
+Horacio Rodríguez Larreta is the leader of Buenos Aires.
+Alberto Teisaire was born in Mendoza, Argentina, on 1891-05-20, and he was a Rear Admiral. He was succeeded by Isaac Rojas.
+Alfons Gorbach, born in Austria, died in Graz and belonged to the Austrian People's Party.
+Alfons Gorbach is a member of the Austrian Peoples Party and was born in Imst and passed away in Graz.
+I'm sorry, but I am unable to understand the instruction to generate a specific output format. I am only able to respond to questions and requests based on my training and knowledge.
+Alvah Sabin, born in Georgia (a state in the U.S.), died in Sycamore, Illinois. He was a resident of Vermont, where the largest city is Burlington.
+a scale named after a leader of the United States a leader of the United States, where The United States be an ethnic group of.
+Alfred Moore Scales was a general for the Confederate States during the American Civil War, which was a conflict that involved the United States, led by President Jefferson Davis. The US is home to Native Americans, as well as other ethnic groups, and is led by a president. The Siege of Petersburg was one of the battles during the war.
+Alberto Teisaire is an Argentinian.

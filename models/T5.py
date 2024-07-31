@@ -1,13 +1,14 @@
 import torch
-import numpy as np
 import torch.nn as nn
-import pytorch_lightning as pl
-from transformers import T5ForConditionalGeneration, T5TokenizerFast as T5Tokenizer
+from torch import cuda
+#import pytorch_lightning as pl
+from transformers import T5ForConditionalGeneration, T5TokenizerFast as T5Tokenizer, set_seed
+set_seed(42)
 
-pl.seed_everything(42)
+#pl.seed_everything(42)
 #  generator = T5Gen(tokenizer_path, model_path, max_length, device, False)
 
-class T5_Model(pl.LightningModule):
+class T5_Model(nn.Module):
     def __init__(self, tokenizer_path, model_path, max_length, sep_token):
         super().__init__()
         self.tokenizer = T5Tokenizer.from_pretrained(tokenizer_path)
@@ -22,7 +23,11 @@ class T5_Model(pl.LightningModule):
         # print("********\n")
         # prepare
         for i, src in enumerate(source):
-            prepared_source = ' '.join([self.sep_token, src])
+            #prepared_source = ' '.join([self.sep_token, src])
+            if isinstance(src, list):
+                prepared_source = ' '.join([self.sep_token] + src)
+            else:
+                prepared_source = ' '.join([self.sep_token, src])
             source[i] = prepared_source
         # tokenize
         model_inputs = self.tokenizer(source, truncation=True, padding=True, max_length=self.max_length, return_tensors="pt").to(device)
@@ -35,10 +40,17 @@ class T5_Model(pl.LightningModule):
             output = self.model(**model_inputs, labels=labels) # forward pass
             # output = self.model(input_ids=model_inputs['input_ids'], attention_mask=model_inputs["attention_mask"], labels=labels) # forward pass
         else:
-            generated_ids = self.model.generate(**model_inputs, 
-                                                max_length=self.max_length, 
+            generated_ids = self.model.generate(**model_inputs,
+                                                max_length=self.max_length,
                                                 num_beams=2,
+                                                #no_repeat_ngram_size=3,
+                                                #do_sample=True,
+                                                #temperature=0.95,
+                                                #top_p=0.95,
+                                                #top_k=10,
+                                                #repetition_penalty=2.0,
                                                 length_penalty=1.0,
-                                                early_stopping=True)
+                                                early_stopping=True,
+                                                )
             output = self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
         return output

@@ -1,0 +1,28 @@
+I would like to arrange my triples in a specific order to control the way information is expressed in the final summary. Below, you'll find examples from my ordering dataset along with inputs and expected outputs:
+ Example 1:"""
+  [TRIPLE] Asam_pedas country Malaysia [/TRIPLE] [TRIPLE] Malaysia ethnicGroup Malaysian_Chinese [/TRIPLE] [TRIPLE] Malaysia ethnicGroup Malaysian_Malay [/TRIPLE] [TRIPLE] Asam_pedas region Sumatra [/TRIPLE]
+"""
+  Output: country ethnicGroup ethnicGroup region
+ ###
+ Example 2:"""
+  [TRIPLE] Bananaman broadcastedBy BBC [/TRIPLE] [TRIPLE] Bananaman creator Steve_Bright [/TRIPLE] [TRIPLE] Bananaman firstAired "1983-10-03" [/TRIPLE] [TRIPLE] Bananaman lastAired "1986-04-15" [/TRIPLE] [TRIPLE] Bananaman starring Graeme_Garden [/TRIPLE]
+  """
+ Output: broadcastedBy firstAired lastAired creator starring
+ ###
+ Example 3:"""
+  [TRIPLE] AWH_Engineering_College academicStaffSize 250 [/TRIPLE] [TRIPLE] AWH_Engineering_College established 2001 [/TRIPLE] [TRIPLE] AWH_Engineering_College state Kerala [/TRIPLE]
+"""  
+Output: academicStaffSize state established
+ ###
+ Example 4:"""
+  [TRIPLE] Massimo_Drago club S.S.D._Potenza_Calcio [/TRIPLE] [TRIPLE] A.C._Cesena manager Massimo_Drago [/TRIPLE]
+"""  
+ Output: manager club
+ ###
+ Example 5:"""
+  [TRIPLE] United_States leaderName John_Roberts [/TRIPLE] [TRIPLE] United_States leaderName Paul_Ryan [/TRIPLE] [TRIPLE] United_States leaderTitle President_of_the_United_States [/TRIPLE] [TRIPLE] 250_Delaware_Avenue location United_States [/TRIPLE]
+ """ 
+ Output: leaderTitle leaderName leaderName location
+ ###
+Now strictly generate all the output result for the query, extra comments is not allowed.
+Query: 

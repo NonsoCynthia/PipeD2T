@@ -1,0 +1,1862 @@
+cityServed
+location
+runwayName airport
+location identifier
+cityServed
+cityServed
+Al-Taqaddum_Air_Base feature runway Al-Taqaddum_Air_Base runwayLength 3684
+Alderney_Airport runwayName Alderney_Airport location
+Allama_Iqbal_International_Airport country Pakistan Pakistan capital Islamabad
+airport runway runway_number
+
+
+ANDREWS County /ANDREWS elevation Airport /elevation in metres 973.0 /in metres /elevation
+county owner airport
+runwayLength
+country airport runway
+Antwerp_International_Airport elevationAboveTheSeaLevel_(in_metres) 12.0
+organisation operating
+airport runwaylength
+runwayLength
+location identifier
+runwayName
+owner
+runwayName airport
+language
+region
+Denmark
+country
+country
+Greenville, _Wisconsin isPartOf Grand_Chute,_Wisconsin
+{country language: Iraq Arabic}
+country
+country leaderName leaderTitle location
+leaderName
+regionServed
+largestCity
+country battles location
+transportAircraft
+Aaron_Bertram
+associatedMusicalArtist
+label
+genre
+genre
+background
+birthDate
+country place of birth
+genre
+genre
+birthPlace
+genre
+associatedMusicalArtist associatedMusicalArtist
+background
+country place of birth
+genre
+genre
+genre
+associatedMusicalArtist
+birthPlace
+country deathPlace
+recordLabel
+startYear
+genre
+instrument
+birthDate
+genre
+location
+associatedMusicalArtist
+genre
+label record
+genre
+startYear
+associatedMusicalArtist
+birthPlace
+associatedMusicalArtist
+recordLabel
+region
+instrument
+musicSubgenre
+stylisticOrigin
+stylisticOrigin
+Greater_Manchester isPartOf Manchester
+location
+distributingCompany
+stylisticOrigin
+stylisticOrigin
+country demonym
+country
+backup pilot
+almaMater Buzz_Aldrin
+crewmember Apollo
+Buzz_Aldrin was selected by NASA 1963 NASA is a US government agency
+state
+deathDate
+deathPlace
+status
+chairman
+country birthPlace
+club
+club
+club
+country
+birthPlace
+country
+club
+club
+club
+birthPlace
+team name
+club
+league club
+manager
+position league
+birthPlace
+club
+club
+club
+birthDate
+club
+height
+league
+birthDate
+club
+birthPlace
+club
+club
+club
+club
+birthPlace
+league
+city
+manager
+country
+language
+Canada Slavey_language
+city
+manager
+manager
+chairman
+language
+coach
+coach
+ground
+owner
+city
+city
+location
+architecturalStyle
+location
+architect
+buildingStartDate
+AC_Hotel_Bella_Sky_Copenhagen area numberOfRooms
+architect
+location
+country
+owner
+address
+country leader leaderTitle placeReferenceNumber
+Asilomar Conference Grounds, Julia Morgan
+architecture
+yearOfConstruction
+location
+isPartOf
+leaderName location Buffalo,_New_York location Erie_County,_New_York Erie_County,_New_York location New_York,_United_States New_York,_United_States leaderName Andrew_Cuomo Buffalo,_New_York leaderTitle Mayor Is there anything else I can help you with?
+isPartOf
+leaderName
+leaderName
+leaderName location demonym
+building significant
+location
+region
+New_Netherland location New_York_City is capital
+location isPartOf
+ethnicGroup
+leaderName
+VK8 density VK8_(gramPerCubicCentimetres)
+discoverer
+22.1, 2009, (410777)
+(410777) 2009 FD apoapsis (259776702.47055)
+(66063) 1998 RO1 apoapsis 254989570.60815 kilometres 254989570.60815_(kilometres) is the apoapsis of the 66063 1998 RO1
+epoch
+escapeVelocity (kilometrePerSeconds)
+name formerName
+165.0_(kelvins) maximumTemperature
+apoapsis
+epoch
+101_Helena mass 101_Helena_mass
+1036_Ganymed speed 16.86
+103_Hera
+103_Hera
+107_Camilla absoluteMagnitude
+discoverer
+name formerName
+1202.846_(days)
+1097_Vicia averageSpeed 17.92
+epoch
+rotationPeriod
+discoverer
+periapsis
+16.76_(kilometrePerSeconds)
+periapsis
+epoch
+temperature
+almaMater
+birthPlace
+areaCode city state
+country leaderName leaderTitle location
+leaderTitle
+leaderTitle location
+leaderTitle
+areaTotal
+location county
+location isPartOf
+Angola_Indiana elevationAboveTheSeaLevel 324.0
+areaCode
+county location isPartOf
+Arlington,_Texas
+leader
+areaTotal
+location isPartOf
+elevationAboveTheSeaLevel
+location isPartOf
+areaTotal
+state
+language
+city largest
+country
+countySeat countySeat
+country
+largestCity
+country
+largestCity
+city largest
+leader
+location
+creator
+
+fullName
+creator
+fullName
+birthPlace
+name alternativeName
+John Buscema, Eisner Award
+Karl Kesel nationality United States
+award name
+country nationality
+birthPlace
+ingredient
+ingredient
+ingredient
+region
+region
+region
+ingredient
+region
+served
+country
+Chicharrón ingredient Bandeja_paisa
+region
+servingSize
+variation
+ingredients mainIngredients
+ingredient
+region
+alternativeName
+Taro ingredient Binignit
+Cottage_cheese Bionico
+region.
+class
+currency
+leaderName
+language
+leaderName
+ethnicGroup
+ethnicGroup
+leaderName
+language
+country
+Siomay Peanut_sauce
+ethnicGroup
+leaderName
+alternativeName
+engine
+christeningDate.
+location
+club operator
+christeningDate
+completionDate
+maidenVoyage
+operator AIDACruises
+launchSite
+name alternativeName
+status
+engine
+engine
+layout
+transportation
+transmission
+assembly location
+relatedMeanOfTransportation
+transmission
+builder
+Alhambra size 8.3_m
+status
+Alhambra model year topSpeed
+engine
+modelStartYear model modelStartYear
+'shipDraft 4.6_m'
+finalFlight
+launchSite
+leaderName
+launchSite country
+maidenFlight date
+bodyStyle
+manufacturer
+manufacturer
+finalFlight
+launchSite
+foundedBy
+assembly
+transportationMean related
+location
+location
+transportation relatedMeanOf
+transportationMean related
+country demonym
+leaderName
+leaderName
+founder
+country headquarter
+manufacturer
+leaderTitle anthem
+leaderName leaderName ethnicGroup
+established
+county county
+leaderName
+leaderTitle
+nativeName
+Aaron_S._Daggett
+battles
+birthPlace
+inOfficeWhile
+party
+leader successor
+leaderEndDate
+birthPlace
+birthPlace leaderName
+Abner_W._Sibal activeYearsEndDate 1965-01-03
+deathPlace
+birthPlace
+residence
+almaMater University_of_Adelaide
+birthPlace
+officeWhile
+office_(workedAt, workedAs)
+birthPlace
+birthPlace
+| activeYearsStartDate | | :-------------------- | | 1953-06-30 |
+award
+birthPlace
+militaryRank
+leaderTitle
+leaderName party
+spouse
+
+Alberto_Teisaire, nationality, Argentina
+profession
+deathPlace
+date
+battles
+birthPlace
+office_(workedAt, workedAs)
+activeYearsStartDate
+country militaryBranch
+leader successor
+Alvah_Sabin birthDate
+party
+leaderName commander
+language
+commander
+conflict isPartOf military conflict
+leaderName
+Colin Powell, Gulf War, commander
+predecessor
+almaMater
+leader predecessor
+PERSON PERSON Juan_Perón PERSON ORGANIZATION ORGANIZATION Labour_Party_(Argentina) ORGANIZATION
+leaderName
+leaderTitle battles
+birthPlace leaderName
+manager
+league
+
+ground
+ground
+ground
+numberOfMembers
+ground
+season league
+location
+league
+season
+country
+location
+fullname
+leaderName
+club
+club
+manager club
+region
+leader leader
+club
+club
+club
+club
+club
+club
+club
+club manager
+Sportpark_De_Toekomst tenant Jong_Ajax
+country
+state
+B.M._Reddy president Acharya_Institute_of_Technology
+Kerala location
+municipality neighboring
+capital
+dean name
+numberOfStudents
+ISBN_number
+author
+mediaType
+country
+oclcNumber
+mediaType
+language
+author.
+ISSN number
+author
+mediaType
+ISSN_number
+lccn_number journal
+academicDiscipline journal
+language
+country
+language
+academicDiscipline
+language
+birthPlace
+company parent
+notableWork
+country
+publisher
+ethnicGroup
+leaderTitle
+title precededBy
+organisation runwayLength
+location elevationAboveTheSeaLevel_(in_metres)
+location runwayLength
+state location
+location runwayLength
+location language
+battles operatingOrganisation
+Poaceae class
+runwayLength SurfaceType
+leaderName location
+location runwayLength
+3800, -3.3528
+output: surfaceType elevationAboveTheSeaLevel_ in metres
+cityServed runwayLength
+cityServed runwayLength
+location largestCity
+cityServed runwayLength
+Poaceae runwayLength
+Ashgabat_International_Airport elevationAboveTheSeaLevel_(in_metres) Ashgabat_International_Airport 1st_runway_LengthFeet
+headquarter operatingOrganisation
+country location
+.operatingOrganisation runwayName.
+Port_Authority_of_New_York_and_New_Jersey operating organisation Port_Authority_of_New_York_and_New_Jersey runway length
+location operatingOrganisation
+genre instrument
+origin
+{ band: Twilight }, { genre: Electroacoustic music }
+genre instrument
+associatedMusicalArtist associatedMusicalArtist
+birthDate birthPlace
+birthPlace
+genre stylisticOrigin
+background label
+label birthPlace
+genre musicFusionGenre
+genre stylisticOrigin
+genre stylisticOrigin
+background genre
+genre stylisticOrigin
+genre activeYearsStartYear
+genre stylisticOrigin
+birthPlace birthYear
+genre background
+genre background
+birthPlace deathPlace
+birthPlace deathPlace
+Alfredo_Zitarrosa background Zamba_(artform) genre
+associatedMusicalArtist associatedMusicalArtist Alison_ODonnell
+recordLabel genre
+genre instrument
+background genre
+genre musicSubgenre
+associatedMusicalArtist associatedMusicalArtist Anders_Osborne
+recordLabel genre
+recordLabel genre
+genre activeYearsStartYear
+genre stylisticOrigin
+associatedMusicalArtist associatedMusicalArtist
+associatedMusicalArtist associatedMusicalArtist
+associatedMusicalArtist associatedMusicalArtist
+genre stylisticOrigin
+genre
+location recordLabel
+Alan_Bean birthDate status
+occupation status
+birthPlace birthDate
+birthPlace isPartOf
+birthPlace was_a_crew_member_of
+almaMater status
+club birthPlace
+manager club
+club club
+club national team
+club
+club club
+manager club
+club club
+formerTeam draftPick
+formerTeam draftPick
+birthDate birthYear
+club club
+club club
+club ground
+manager club
+club
+club ground
+club birthDate
+club birthPlace
+manager club
+club club
+club league
+club club
+birthYear birthPlace
+club birthDate
+club league
+leaderName birthPlace
+country birthPlace
+country language
+manager club
+club ground
+club league
+club ground
+floorCount completionDate
+location floorCount
+floorArea floorCount
+location floorCount
+country architect
+location architect
+location architect
+location tenant.
+architect completionDate
+location
+country location
+location architecturalStyle
+location architecturalStyle
+country ethnicGroup
+address floorCount
+address location
+leaderName state
+country location
+location
+location isPartOf
+location isPartOf
+apoapsis escapeVelocity
+'apoapsis minimumTemperature'
+discoverer periapsis
+epoch escapeVelocity
+epoch orbitalPeriod
+epoch rotationPeriod
+deathCause discoverer
+Output apoapsis averageSpeed /Output
+birthPlace discoverer
+discoverer nationality
+deathCause discoverer
+discoverer nationality
+birthPlace discoverer
+formerName epoch
+373513000.0_(kilometres) 179.0_(kelvins)
+epoch periapsis
+109_Felicitas, 523329000.0_(kilometres), 170.0_(kelvins)
+epoch periapsis
+epoch rotationPeriod
+10_Hygiea apoapsis temperature
+epoch formerName
+110_LYDIA, EPOCH, MASS
+epoch orbitalPeriod
+country ethnicGroup
+capital isPartOf
+country leaderTitle
+country isPartOf
+leaderTitle isPartOf
+country isPartOf
+country isPartOf
+areaTotal elevationAboveTheSeaLevel
+areaTotal elevationAboveTheSeaLevel
+country isPartOf
+country isPartOf
+country isPartOf
+country capital
+country isPartOf
+areaTotal populationDensity
+country isPartOf
+country capital
+country capital
+country ethnicGroup
+leaderTitle isPartOf leaderName
+country ethnicGroup
+country language
+country leaderTitle
+Peter_Laird, April_ONeil, nationality
+'broadcastedBy', 'starring'
+broadcastedBy, starring
+birthPlace starring
+starring
+starring
+creator series
+fullName creator
+Marv_Wolfman, Jerry_Ordway
+fullName creator
+country ingredient
+country leaderName
+country language
+country leaderName
+country ingredient
+country region
+country mainIngredients
+country region
+dishVariation
+ingredient mainIngredients
+alternativeName ingredient
+ingredient dishVariation
+country ingredient
+leaderName country
+country ingredient
+dishVariation ingredient
+country ingredient
+family ingredient
+country ingredient
+leaderName country
+country ingredient
+ingredient dishVariation
+country ingredient
+leaderName country
+country mainIngredients
+country demonym
+leaderName country
+country ethnicGroup
+country mainIngredients
+Binignit Banana Sweet_potato
+leaderName country
+region ingredient
+course dishVariation
+leaderName country
+ingredient dishVariation
+shipClass length
+length ordered
+location operator
+location operator
+length topSpeed
+christeningDate length
+builder powerType
+rocketStages diameter
+modelYears assembly
+designer employer
+country length
+assembly relatedMeanOfTransportation
+assembly relatedMeanOfTransportation
+assembly relatedMeanOfTransportation
+locationCity manufacturer
+engine transmission
+engine transmission
+manufacturer successor
+launchSite maidenFlight
+country leaderName
+manufacturer launchSite
+parentCompany manufacturer
+assembly relatedMeanOfTransportation
+manufacturer successor
+relatedMeanOfTransportation successor
+manufacturer successor
+diameter finalFlight
+manufacturer launchSite
+manufacturer division
+manufacturer subsidiary
+manufacturer subsidiary
+keyPerson powerType
+launchSite comparable
+leaderName builder
+builder parentCompany
+owner powerType
+leaderName assembly
+category established
+district nearestCity
+location dedicatedTo
+dedicatedTo nativeName
+battles award
+Aaron_S._Daggett award Aaron_S._Daggett battles
+leader successor deputy
+leaderParty birthPlace
+birthPlace almaMater
+office_(workedAt,_workedAs) birthPlace leaderName leaderTitle
+office_(workedAt,_workedAs) successor
+leader successor activeYearsEndDate
+inOfficeWhile successor
+commander
+leader branch battles
+almaMater birthPlace
+birthPlace residence
+award battles
+birthPlace office
+{ Adonis_Georgiadis: birthPlace }
+birthPlace office
+birthPlace office
+'unit award'
+activeYearsStartDate battles
+commander
+battles birthPlace
+commander battles
+commander
+birthDate deathYear
+profession birthDate
+birthPlace deathPlace
+deathPlace inOfficeWhile
+leaderName party birthPlace
+office_(workedAt,_workedAs) successor
+birthPlace
+birthPlace birthPlace
+office successor
+almaMater successor
+birthPlace office
+leaderTitle battles militaryBranch
+commander
+birthPlace office
+office successor
+birthDate office_(workedAt,_workedAs)
+country currency
+leaderName country
+country deathPlace
+season numberOfMembers
+ground numberOfMembers
+manager placeOfBirth
+manager club
+output
+manager club
+manager club
+ground numberOfMembers
+ground numberOfMembers
+ground league
+manager club
+manager club
+number of members
+ground numberOfMembers
+ground league
+ground tenant
+ground location
+season numberOfMembers
+region ground
+leader leader ground
+manager club
+state nickname
+affiliation city
+city president
+location was given the status
+leaderName state
+author precededBy
+1634: The Ram Rebellion author mediaType
+abbreviation EISSN_number
+author mediaType
+ISBN_number numberOfPages
+author followedBy
+oclcNumber mediaType
+ISBN_number numberOfPages
+publisher parentCompany
+author mediaType
+ISBN_number OCLC_number
+OCLC_number mediaType
+language spokenIn
+ISBN_number mediaType
+publisher founder
+ISBN_number literaryGenre
+ISBN_number OCLC_number
+author followedBy
+academicDiscipline abbreviation
+parentCompany publisher
+country capital
+country capital
+country ethnicGroup
+country ethnicGroup
+country ethnicGroup
+operatingOrganisation runwayLength runwayName
+'Adirondack_Regional_Airport, cityServed, cityServed, runwayLength'
+country isPartOf location
+location operatingOrganisation ICAO_Location_Identifier
+location operatingOrganisation runwayLength
+aircraftFighter battles operatingOrganisation
+aircraftFighter battles operatingOrganisation
+Poaceae, runwayLength, cityServed
+headquarter operatingOrganisation location
+location runwayName runwayLength
+country location elevationAboveTheSeaLevel_(in_metres)
+location runwayLength elevationAboveTheSeaLevel_(in_metres)
+location runwayLength elevationAboveTheSeaLevel_(in_metres)
+location capital
+country demonym location
+'country', 'language', 'Belgium', 'German_language'
+country isPartOf location
+headquarter regionServed operatingOrganisation
+'location country', 'runwayLength location'
+leaderName country cityServed
+leaderParty isPartOf location
+country leaderParty location
+country leaderParty location
+associatedMusicalArtist genre
+country origin
+origin origin genre
+Output: genre associatedMusicalArtist associatedMusicalArtist
+associatedMusicalArtist genre
+Output: associatedMusicalArtist associatedMusicalArtist genre
+genre instrument musicFusionGenre
+genre instrument musicFusionGenre
+associatedMusicalArtist associatedMusicalArtist birthDate
+associatedBand/associatedMusicalArtist origin
+genre stylisticOrigin stylisticOrigin
+leaderName birthPlace birthPlace
+instrument genre associatedMusicalArtist
+genre musicFusionGenre stylisticOrigin
+genre musicFusionGenre stylisticOrigin
+birthPlace genre derivative
+associatedBand/associatedMusicalArtist genre
+associatedBand/associatedMusicalArtist genre associatedBand/associatedMusicalArtist
+associatedMusicalArtist associatedMusicalArtist genre
+genre stylisticOrigin stylisticOrigin
+birthPlace deathPlace birthPlace
+birthPlace deathPlace nationality
+birthPlace deathPlace nationality
+birthPlace deathPlace leaderName
+deathPlace leaderName location
+associatedMusicalArtist associatedMusicalArtist genre
+associatedMusicalArtist associatedMusicalArtist genre
+genre instrument derivative
+genre recordLabel derivative
+background birthPlace genre
+genre background birthPlace
+genre musicFusionGenre stylisticOrigin
+associatedBand associatedMusicalArtist associatedMusicalArtist
+genre label artist
+associatedBand/associatedMusicalArtist genre
+associatedBand artist artist genre
+genre derivative background
+associatedMusicalArtist associatedMusicalArtist genre
+associatedMusicalArtist associatedMusicalArtist genre
+associatedMusicalArtist associatedMusicalArtist genre
+associatedBand musician musician recordLabel
+genre stylisticOrigin associatedBand
+country ethnicGroup birthPlace
+country status nationality birthPlace
+country nationality leaderName birthPlace
+almaMater nationality was_selected_by_NASA
+leaderTitle birthPlace nationality
+leaderTitle deathPlace was_selected_by_NASA almaMater
+leaderName deathPlace
+deathDate deathPlace isPartOf
+bird birthPlace timeInSpace
+club club youthclub
+manager club club
+club club youthclub
+club youthclub club
+club birthPlace club
+club ground
+draftPick draftRound formerTeam
+draftPick draftRound formerTeam
+birthDate birthPlace debutTeam
+club birthPlace club
+club ground club
+club birthDate club
+club ground
+club birthDate birthPlace
+birthDate birthPlace draftTeam
+leaderName deathPlace birthPlace
+club birthDate club
+club birthDate club
+club ground club
+club ground club
+club manager club
+club manager club
+club coach national team
+club birthPlace club
+club height birthPlace
+club height birthPlace
+club coach league
+club coach league
+club ground club
+club youthclub ground
+manager club season
+club manager club
+leaderName deathPlace birthPlace
+manager club club
+club manager
+leaderName isPartOf birthPlace
+city debutTeam formerTeam
+club ground club
+location birthPlace architect
+leaderName location
+location floorCount floorArea
+leaderName location isPartOf
+country floorCount architect
+location architect completionDate
+location tenant floorCount
+architect floorCount tenant
+architect significantBuilding birthPlace
+architect completionDate owner
+location architecturalStyle completionDate
+location architecturalStyle completionDate
+country leaderName location
+country capital currency
+country buildingStartDate tenants
+Julia_Morgan, Riverside_Art_Museum, San_Francisco, Asilomar_Conference_Grounds
+architect birthPlace significantBuilding
+location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location added_to_the_National_Register_of_Historic_Places yearOfConstruction
+location added_to_the_National_Register_of_Historic_Places yearOfConstruction
+leaderName hometown architect
+leaderName architect
+country leaderName location
+leaderName location location
+location keyPerson tenant
+apoapsis escapeVelocity mass
+orbitalPeriod, discoverer, periapsis
+Output
+66391, 1999, KW4, apoapsis, 162164091.8388, kilometres, averageSpeed, 37.16, kilometrePerSeconds, density, 2.0, gramPerCubicCentimetres
+epoch orbitalPeriod periapsis
+epoch periapsis formerName
+101_Helena apoapsis escapeVelocity mass
+almaMater nationality discoverer
+deathPlace discoverer epoch
+deathCause deathPlace discoverer
+epoch orbitalPeriod apoapsis
+103_Hera, apoapsis, 437170000.0_(kilometres); 103_Hera, escapeVelocity, 0.0482_(kilometrePerSeconds); 103_Hera, temperature, 170.0_(kelvins)
+birthPlace discoverer nationality
+epoch formerName orbitalPeriod
+apoapsis epoch periapsis
+epoch periapsis formerName
+epoch orbitalPeriod mass
+epoch orbitalPeriod apoapsis
+10_Hygiea orbitalPeriod averageSpeed apoapsis
+'apoapsis averageSpeed surfaceArea'
+apoapsis surfaceArea temperature
+epoch periapsis mass
+epoch periapsis apoapsis
+country isPartOf ethnicGroup
+Output: leaderTitle areaTotal populationDensity
+country isPartOf ethnicGroup
+country isPartOf ethnicGroup
+country ethnicGroup capital
+areaCode areaTotal UTCOffset
+leaderTitle location
+country isPartOf
+country isPartOf ethnicGroup
+region isPartOf country leaderTitle
+countySeat country countySeat
+country ethnicGroup capital
+areaCode areaTotal populationDensity
+country isPartOf largestCity
+country isPartOf largestCity
+country isPartOf county
+country capital location
+country capital location
+capital isPartOf
+country isPartOf largestCity
+country capital isPartOf
+largestCity language isPartOf
+country isPartOf capital
+country capital location
+country capital
+country isPartOf ethnicGroup
+country isPartOf ethnicGroup
+country ethnicGroup leader
+country ethnicGroup language
+country ethnicGroup language
+creator nationality
+broadcastedBy, lastAired, starring Bananaman, BBC, 1986-04-15 Bananaman, Tim Brooke-Taylor
+starring distributor firstAppearanceInFilm
+starring distributor
+starring distributor
+creator alternativeName creator
+creator alternativeName creator
+creator alternativeName creator
+country region ingredient
+region mainIngredients ingredient
+family ingredient family
+country region ingredient
+country region ingredient
+country mainIngredients region
+country leaderName capital
+country ethnicGroup region
+dishVariation ingredient
+country ethnicGroup leaderName
+leaderName location capital
+dishVariation ingredient
+country ingredient region
+country leaderName currency
+country ingredient region
+course ingredient dishVariation
+course mainIngredients region
+region mainIngredients dishVariation
+country ingredient region
+country ingredient region
+country ingredient region
+leaderName leaderName country
+country mainIngredients ingredient
+country mainIngredients ingredient
+country leaderName region
+country ingredient region
+country ingredient region
+country currency leaderName
+course dishVariation ingredient
+course ingredient dishVariation
+course dishVariation ingredient
+ingredient mainIngredients order
+country course ingredient
+country ingredient region
+country currency leaderName
+leaderName country capital
+country ethnicGroup language
+country leaderName language
+family order
+alternativeName transmission V8_engine
+shipOrdered length shipClass
+shipDisplacement topSpeed length
+location operator owner
+christeningDate shipInService length
+builder engine length
+builder engine length
+builder foundationPlace length
+country demonym ethnicGroup
+country ethnicGroup capital
+rocketStages totalLaunches diameter
+bodyStyle engine productionEndYear
+bodyStyle wheelbase width
+builder shipBeam builder
+assembly relatedMeanOfTransportation capital
+assembly relatedMeanOfTransportation capital
+assembly relatedMeanOfTransportation relatedMeanOfTransportation
+assembly relatedMeanOfTransportation relatedMeanOfTransportation
+length shipBeam shipLaunch
+shipBeam status shipLaunch
+manufacturer foundationPlace engine
+keyPerson manufacturer fate
+country manufacturer comparable
+function launchSite manufacturer
+launchSite manufacturer site
+assembly relatedMeanOfTransportation engine
+assembly relatedMeanOfTransportation engine
+countryOrigin launchSite launchSite
+country ethnicGroup leaderTitle
+countryOrigin launchSite launchSite
+assembly bodyStyle engine
+manufacturer relatedMeanOfTransportation relatedMeanOfTransportation
+location foundationPlace
+location powerType owner
+location operator owner
+countryLaunchSite comparable
+headquarter launchSite site
+location launchSite
+country location locationCity builder
+country demonym ethnicGroup
+country location location county
+county location municipality
+capital location nativeName
+leader legislature location
+leaderName location capital
+battles award birthPlace
+leader party birth place leader name
+birthPlace successor deputy
+birthPlace party residence
+office_(workedAt,_workedAs) birthPlace almaMater
+inOfficeWhile successor militaryBranch
+inOfficeWhile successor militaryBranch
+birthPlace office_
+country birthPlace party
+commander militaryBranch
+birthPlace officeParty
+commander militaryBranch
+birthPlace party
+battles birthPlace commander
+battles isPartOfMilitaryConflict commander
+birthPlace office_(workedAt,_workedAs)
+birthPlace office_(workedAt,_workedAs)
+country colour party leader
+leaderName nationality office_(workedAt,_workedAs)
+leaderName nationality party
+birthPlace office
+activeYearsEndDate activeYearsStartDate battles
+activeYearsEndDate activeYearsStartDate battles
+birthDate dateOfDeath deathYear
+birthPlace successor spouse
+country ethnicGroup birthPlace deathPlace
+birthPlace deathPlace birthPlace
+birthPlace deathPlace birthPlace
+leaderName deathPlace governingBody
+profession successor
+birthPlace deathPlace birthPlace
+birthPlace office successor
+birthPlace office successor
+office successor party
+state largestCity region
+leaderName party birthDate
+leaderName party birthPlace
+leaderName battles birthPlace commander
+battles commander isPartOfMilitaryConflict
+leaderName deathPlace birthPlace
+leaderName deathPlace birthPlace
+leaderName deathPlace deathPlace
+battles isPartOfMilitaryConflict commander
+country birthPlace nationality
+language ethnicGroup nationality
+manager club club
+club manager club club
+league numberOfMembers
+club manager club manager
+chairman numberOfMembers ground
+ground numberOfMembers
+club manager club
+manager club club
+ground numberOfMembers
+manager league champions
+club manager club
+club ground league
+club manager club
+ground leader part
+leader part ground
+club manager club
+country league ground
+manager club club
+club club manager
+club manager club
+manager club club
+country state
+affiliation city numberOfPostgraduateStudents
+state leaderName location
+country ethnicGroup
+country leaderName ethnicGroup
+affiliation established headquarters
+country established city
+author numberOfPages mediaType
+language spokenIn precededBy
+leaderName headquarter
+ISSN number discipline discipline
+ISSN number academicDiscipline
+Output: almaMater editor residence
+ISBN_number author OCLC_number
+author ISBN_number OCLC_number
+country language publisher
+country spokenIn language
+OCLC_number numberOfPages mediaType
+ISSN number LCCN_number abbreviation
+country followedBy language
+author followedBy language
+author numberOfPages mediaType
+ISSN_number LCCN_number abbreviation
+ISSN number abbreviation academicDiscipline
+publisher parentCompany ISSN_number
+affiliation publisher state
+'author', 'followedBy', 'language'
+country language spokenIn
+oclcNumber mediaType numberOfPages
+country spokenIn language
+birthPlace deathPlace author
+publisher ISSN_number
+country ethnicGroup capital
+country ethnicGroup language
+country ethnicGroup capital
+country ethnicGroup leaderName
+country leaderTitle ethnicGroup
+country leaderTitle ethnicGroup
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+'Adirondack Regional Airport', 'cityServed', 'Lake Placid, New York', 'elevationAboveTheSeaLevel_(in_metres)', '507', 'runwayLength', '2003.0', 'Adirondack Regional Airport', 'cityServed', 'Saranac Lake, New York', 'Adirondack Regional Airport', 'elevationAboveTheSeaLevel_(in_metres)', '507', 'runwayLength', '2003.0'
+location operatingOrganisation runwayLength runwayName
+location operatingOrganisation
+location operatingOrganisation runwayLength runwayName
+location operatingOrganisation runwayLength runwayName
+'United States Air Force', 'aircraft', 'fighter', 'United States Air Force', 'attack aircraft', 'Lockheed AC-130', 'United States Air Force', 'battles', 'Invasion of Grenada'
+'Pakistan location operatingOrganisation cityServed country'
+Output: Output AMSTERDAM_AIRPORT_SCHIPHOL, cityServed, ELEVATION_ABOVE_THE_SEA_LEVEL, RUNWAY_LENGTH, RUNWAY_NAME Amsterdam, Amsterdam_Airport_Schiphol, -3.3528, 2014.0, 09/27_Buitenveldertbaan
+Output: amsterdam airport served city elevation runwaylength runwayname
+cityServed, elevationAboveTheSeaLevel_(in_metres), location, runwayLength
+country location capital demonym
+country location capital
+country isPartOf airport location country
+'owner', 'operatingOrganisation', 'elevationAboveTheSeaLevel_(in_metres)', 'runwayLength'
+headquarter hubAirport operatingOrganisation
+'Athens_International_Airport', 'elevationAboveTheSeaLevel_(in_metres)', '94', 'location', 'Athens_International_Airport', 'cityServed', 'Athens', 'runwayLength', 'Athens_International_Airport', 'location', 'Spata'
+cityServed leaderName location
+country leaderName location owner
+leaderName country language
+country leaderName language
+cityServed country isPartOf Saranac_Lake,_New_York United_States Essex_County,_New_York Harrietstown,_New_York
+country leaderName language
+'country', 'leaderName', 'cityServed'
+country leaderName leaderName cityServed location I appreciate your understanding and cooperation. If you have any further questions or need additional assistance, please let me know!
+Poaceae, Monocotyledon, Flowering_plant, Commelinids
+associatedMusicalArtist associatedMusicalArtist band member genre
+origin origin genre
+associatedMusicalArtist associatedMusicalArtist genre instrument
+associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist genre
+genre musicFusionGenre instrument associatedBand/associatedMusicalArtist
+birthDate birthPlace birthYear background
+birthPlace birthDate background
+birthPlace occupation background
+birthPlace occupation background
+background origin origin
+leaderTitle ethnicGroup genre origin
+genre derivative genre rhythmic
+Albennie_Jones birthPlace ethnicGroup genre Jazz stylisticOrigin
+Aleksandra_Kovač birthPlace birthYear genre Aleksandra_Kovač background solo_singer
+birthYear background birthPlace genre
+associatedMusicalArtist associatedMusicalArtist genre
+associatedMusicalArtist associatedMusicalArtist genre
+birthPlace birthYear deathPlace
+country deathPlace leaderName
+birthPlace genre label
+associatedBand/associatedMusicalArtist genre associatedBand/associatedMusicalArtist
+associatedBand/associatedMusicalArtist genre
+recordLabel location recordLabel
+recordLabel location recordLabel
+birthYear background genre
+birthPlace background birthYear genre
+genre musicFusionGenre stylisticOrigin associatedBand
+associatedBand genre associatedBand/associatedMusicalArtist musicalArtist
+genre location recordLabel recordLabel
+birthPlace occupation background
+genre derivative genre origin
+associatedMusicalArtist associatedMusicalArtist genre
+genre stylisticOrigin associatedMusicalArtist associatedMusicalArtist
+Output: musician associatedMusicalArtist associatedMusicalArtist genre
+'recordLabel', 'associatedMusicalArtist', 'associatedMusicalArtist', 'activeYearsStartYear'
+leaderName deathPlace isPartOf
+Banjo genre Country_music Al_Anderson_(NRBQ_band) associatedBand/associatedMusicalArtist The_Wildweeds associatedBand/associatedMusicalArtist NRBQ
+genre stylisticOrigin stylisticOrigin derivative
+birthPlace isPartOf leaderName
+Output: associatedMusicalArtist associatedMusicalArtist genre instrument
+Output genre musicFusionGenre instrument associatedBand/associatedMusicalArtist Type
+country genre origin
+Alan_Bean nationality birthPlace was_selected_by_NASA timeInSpace
+awards higher was_a_ crew_member_ of operator
+country representative crewMembers place
+birthPlace status almaMater was_a_crew_member_of
+birthPlace occupation was_a_crew_member_of was_selected_by
+birthName was_a_crew_member_of operator awards
+birthPlace deathPlace awards
+'deathPlace senators', 'awards higher', 'Alan_Shepard'
+birthPlace deathPlace nationality almaMater
+operator was_a_crew_member_of was_selected_by_occupation
+manager club league
+manager club club youthclub
+club manager youthclub
+manager club league youthclub
+birthDate birthPlace birthYear weight
+club draftTeam generalManager city
+birthDate formerTeam debutTeam birthYear
+Akeem Dent ----- Akeem Dent was born in Atlanta, Georgia, on September 27, 1987. He has played for the Houston Texans and his birth year is also 1987.
+birthDate birthPlace debutTeam formerTeam
+club manager club ground
+club manager club ground
+club manager club ground
+club birthDate height
+club height birthDate
+club height birthDate
+club birthDate height
+club birthPlace height
+birthDate club birthPlace birthYear
+Alex_Plante club height born Canada birthPlace 1989 birthYear
+country anthem leaderName birthPlace language
+leaderName ethnicGroup birthPlace anthem
+country leaderName birthPlace language
+manager club ground club
+manager chairman club season
+city city formerTeam debutTeam
+manager club youthclub league
+buildingStartDate completionDate floorCount location
+country ethnicGroup location
+country governingBody isPartOf location
+110_million_(dollars) location floorArea floorCount
+leaderName location isPartOf country
+location floorCount floorArea completionDate
+location owner isPartOf
+'AC Hotel Bella Sky Copenhagen', 'location', 'architect', 'floorCount', 'tenant'
+county is part of location location governmentType
+country isPartOf location ethnicGroup
+country location isPartOf ethnicGroup
+country location location ethnicGroup
+country location location ethnicGroup
+address location owner completionDate
+leaderName leaderName location country
+location yearOfConstruction ReferenceNumber_in_the_National_Register_of_Historic_Places added_to_the_National_Register_of_Historic_Places
+location ReferenceNumber_in_the_National_Register_of_Historic_Places added_to_the_National_Register_of_Historic_Places yearOfConstruction
+#### Re-ordered to present the information in a more coherent manner - Cyrus Vance Jr. is a leader in Manhattan. - Asser Levy Public Baths is located in New York City, which is part of both Brooklyn and Manhattan. Would you like me to reorder the triples again, following a different pattern?
+leaderName location country isPartOf
+106, 104, 105
+Output: architect birthPlace leaderName location postalCode
+leaderName leaderName country location
+leaderName leaderName country location
+country location location ethnicGroup
+leaderName leaderTitle location capital
+leaderTitle leaderName location
+epoch periapsis apoapsis orbitalPeriod
+ORIGINAL epoch escapeVelocity orbitalPeriod /ORIGINAL ORIGINAL epoch orbitalPeriod /ORIGINAL ORIGINAL apoapsis escapeVelocity /ORIGINAL
+epoch meanTemperature orbitalPeriod apoapsis
+epoch escapeVelocity orbitalPeriod periapsis
+discoverer epoch periapsis formerName
+birthPlace doctoralStudent almaMater discoverer
+birthPlace doctoralStudent discovery placeMater
+'almaMater deathPlace discoverer doctoralStudent'
+deathCause deathPlace discoverer almaMater
+discoverer nationality deathPlace
+deathPlace deathCause discoverer nationality
+birthPlace deathPlace discoverer periapsis
+birthPlace deathPlace discoverer discovered
+epoch periapsis formerName orbitalPeriod
+epoch apoapsis escapeVelocity orbitalPeriod
+epoch apoapsis mass orbitalPeriod
+epoch escapeVelocity orbitalPeriod periapsis
+epoch orbitalPeriod periapsis formerName
+epoch escapeVelocity apoapsis orbitalPeriod
+epoch periapsis formerName orbitalPeriod
+epoch escapeVelocity orbitalPeriod periapsis
+country isPartOf ethnicGroup language
+areaCode areaOfLand areaTotal populationDensity
+country isPartOf countySeat isPartOf
+country ethnicGroup location
+
+location leaderTitle isPartOf language
+areaTotal elevationAboveTheSeaLevel isPartOf populationDensity
+country isPartOf areaTotal
+Output: areaCode areaTotal populationTotal
+areaCode areaTotal populationDensity leaderTitle
+country isPartOf state ethnicGroup
+country state isPartOf ethnicGroup
+country isPartOf capital
+country isPartOf capital
+countySeat isPartOf largestCity county
+state leaderTitle location
+country countySeat isPartOf
+country isPartOf capital
+country largestCity isPartOf language
+country ethnicGroup isPartOf capital
+country capital largestCity isPartOf
+country leaderTitle leader ethnicGroup
+country leaderTitle ethnicGroup
+#### Here is the solution to your prompt: ```json { output: United States, capital, Washington, D.C., country, ethnicGroup, state, isPartOf } ```
+country leaderTitle ethnicGroup
+country ethnicGroup isPartOf language
+country isPartOf ethnicGroup language
+country isPartOf ethnicGroup language
+Output: broadcastedBy locationCity keyPerson product
+'broadcastedBy', 'firstAired', 'creator', 'starring'
+creator series starring
+creator nationality alternativeName
+country region mainIngredients ingredient
+leaderName leaderName capital
+region ingredient mainIngredients country
+region ingredient country mainIngredients
+country leaderName region ethnicGroup
+country ethnicGroup region
+'Asam pedas region', 'Sumatra ethnic group', 'Asam pedas country', 'Sumatra ethnic group',
+'leaderName capital ethnicGroup country'
+leaderName ethnicGroup capital
+country dishVariation ingredient
+country mainIngredients alternativeName
+country course ethnicGroup dishVariation
+country region mainIngredients
+country region mainIngredients ingredient
+country (region) mainIngredients (ingredient) Baked Alaska can be found in Hong Kong and is made up of key ingredients such as meringue, ice cream, sponge cake, and Christmas pudding. It is a dessert that can be found in the United States. Is there anything else I can help you with?
+region ingredient dishVariation
+Bakso region country Bakso mainIngredients ingredient Bakso ingredient Tapioca
+country mainIngredients region
+region country ingredient mainIngredients
+country region mainIngredients ingredient
+leaderName leaderName country
+Batagor country Indonesia Batagor dishVariation Siomay Siomay dishVariation Shumai Shumai ingredient Would you like to reorder the output again?
+country region mainIngredients ingredient
+country course ingredient mainIngredients
+country region mainIngredients
+country region leaderName
+country region mainIngredients
+region ingredient country alternativeName
+region ingredient mainIngredients alternativeName
+Binignit mainIngredients Sweet_potato Sweet_potato division Flowering_plant Binignit ingredient Binignit Sweet_potato order Solanales
+region mainIngredients ingredient country
+country course ingredient region
+Bionico mainIngredients region Bionico ingredient region country ingredient
+country leaderName dishVariation course
+country leaderName region ingredient
+leaderName region ethnicGroup country
+country ethnicGroup language
+country ethnicGroup language
+Dessert course country Binignit country Philippines Philippines language Philippine_English Dessert dishVariation Cookie
+country course dishVariation language
+manufacturer transmission wheelbase
+manufacturer relatedMeanOfTransportation successor
+location operator owner builder
+owner operator length builder
+ALCO_RS-3 buildDate builder powerType engine
+ALCO_RS-3 buildDate builder engine length
+Schenectady,_New_York locationCountry builder ALCO_RS-3
+buildDate builder engine powerType
+'builder', 'cylinderCount', 'buildDate', 'engine'
+bodyStyle engine location alternativeName assembly
+class assembly alternativeName engine
+assembly class engine layout
+assembly class engine layout
+builder status shipBeam
+leaderName builder leaderName
+builder status shipBeam builder
+assembly relatedMeanOfTransportation engine relatedMeanOfTransportation
+assembly relatedMeanOfTransportation relatedMeanOfTransportation engine
+length shipBeam status
+company foundationPlace manufacturer successor
+company foundationPlace manufacturer successor
+fate manufacturer successor
+Output builder shipBeam shipLaunch topSpeed /Output
+American_submarine_NR-1 shipBeam shipLaunch topSpeed length Would you like to make another SPARQL query?
+launchSite finalFlight manufacturer maidenFlight
+launchSite finalFlight maidenFlight manufacturer
+manufacturer assembly successor
+Output: transportation relatedMeanOf transportation
+manufacturer engine successor relatedMeanOfTransportation
+launchSite launchSite diameter finalFlight
+class assembly engine
+manufacturer division subsidiary foundedBy
+location foundationPlace owner powerType
+operator location owner
+countryLaunchSite comparable launchSite country
+countryOrigin launchSite launchSite countryOrigin
+assembly bodyStyle relatedMeanOfTransportation relatedMeanOfTransportation
+assembly bodyStyle relatedMeanOfTransportation relatedMeanOfTransportation
+Output builder locationCity parentCompany shipBeam Output
+leaderName country locationCity builder
+'United States leaderTitle leaderName language ethnicGroup capital', 'Atlas II country capital ethnic group, language, leader'
+country demonym ethnicGroup capital
+category country established state
+leaderTitle leaderName capital location
+capital dedicatedTo location nativeName
+location district established nearestCity
+leaderName location material
+leaderTitle location inaugurationDate designer
+'birthPlace deathPlace battles war award'
+birthPlace deathPlace battles award
+affiliation birthPlace office_(workedAt,_workedAs)
+birthPlace party region residence
+leader party region birthPlace residence
+birthPlace party successor
+birthPlace successor residence party
+predecessor successor inOfficeWhile militaryBranch
+successor inOfficeWhile predecessor
+leaderName inOfficeWhilePrimeMinister inOfficeWhileMonarch predecessor
+birthPlace office_(workedAt,_workedAs) party
+'nationality spouse ethnicGroup birthPlace'
+birthPlace battles almaMater activeYearsStartDate
+country battles country language nationality
+commander deathPlace isPartOfMilitaryConflict
+birthPlace office successor
+birthPlace office successor
+birthPlace office successor
+leaderName party nationality currency
+leaderName party nationality office_(workedAt,_workedAs)
+leaderName leaderName nationality party
+
+birthPlace battles activeYearsEndDate activeYearsStartDate
+activeYearsEndDate activeYearsStartDate birthPlace battles
+battles commander unit
+birthPlace deathPlace successor
+birthPlace successor successor activeYearsEndDate activeYearsStartDate
+Output: birthPlace battles commander language
+birthPlace battles deathPlace
+birthPlace deathPlace birthPlace deathPlace
+leaderName deathPlace leaderName party
+profession office successor
+birthPlace office successor
+battles birthPlace militaryBranch office_workedAt_workedAs
+birthPlace office successor
+birthPlace office successor
+birthPlace office successor
+leader successor office party, leader office party, leader birth place
+state region office_(workedAt,_workedAs) largestCity
+largestCity leaderName party region
+commander battles isPartOfMilitaryConflict award
+country party nationality leaderName inOfficeWhile
+leader party successor birthplace inofficewhile
+'manager club club manager'
+club manager placeOfBirth
+club manager placeOfBirth
+chairman ground league numberOfMembers
+club manager leader
+club manager leaderGround
+ground numberOfMembers season
+ground numberOfMembers season
+club manager club club
+ground league numberOfMembers season
+ground owner tenant
+nickname numberOfMembers season
+club club manager
+league champions ground location
+country league ground location
+country league ground location
+country city ground
+leader leader capital ground
+club club club manager
+country established city
+country city campus affiliation
+country city director
+location technicalCampus sportsGoverningBody
+country city country city isPartOf
+country governmentType leaderName city
+state city leaderName
+country capital anthem ethnicGroup
+country capital leaderName
+author birthPlace precededBy
+author ISBN_number numberOfPages mediaType
+leaderName country publisher
+ISBN_number author mediaType OCLC_number
+author ISBN_number mediaType OCLC_number
+country ethnicGroup language spokenIn
+country ethnicGroup language publisher
+author numberOfPages mediaType ISBN_number
+'Acta_Mathematica_ Hungarica ISSN number, LCCN number, Acta_Mathematica_Hungarica abbreviation, academic discipline
+ISSN number LCCN_number abbreviation academicDiscipline
+ISSN_number publisher abbreviation LCCN_number
+affiliation affiliation publisher state
+'affiliation city state publisher'
+author ISBN_number numberOfPages mediaType
+country ethnicGroup language spokenIn
+country publisher parentCompany firstPublicationYear
+country ethnicGroup language
+country language spokenIn leaderName
+country leaderName ethnicGroup language
+country leaderName language spokenIn
+country leaderName ethnicGroup language
+country isPartOf location leaderName language
+'elevationAboveTheSeaLevel_(in_metres) airport airport runwayLength runwayName ', 'location operatingOrganisation ', ''
+output ICAO_Location_Identifier elevationAboveTheSeaLevel_(in_metres) location operatingOrganisation runwayLength /output
+ORAA, location, operatingOrganisation, runwayLength, runwayName
+'icaoLocationIdentifier location operatingOrganisation runwayLength runwayName'
+'United States Air Force', 'aircraft', 'Fighter', 'General Dynamics F-16 Fighting Falcon', 'United States Air Force', 'attack aircraft', 'Lockheed AC-130', 'United States Air Force', 'battles', '1986 United States bombing of Libya', 'Al Asad Airbase', 'operating organisation', 'United States Air Force', 'United States Air Force', 'transport aircraft', 'Boeing C-17 Globemaster III' The output is a list of the resulting permutations of the provided triples, following the desired ordering of operating organisation then battles and then aircraft etc. Is there anything else I can help you with regarding your information organisation?
+battles attackAircraft operatingOrganisation transportAircraft
+86.0, cityServed, Poaceae, 1st_runway_SurfaceType, runwayLength, runwayName
+location country operatingOrganisation cityServed
+'Allama Iqbal International Airport', 'location', 'cityServed', 'operatingOrganisation', 'runwayLength', 'runwayName'
+'cityServed airport elevationAboveTheSeaLevel_(in_metres) runwayLength '
+'cityServed airport elevationAboveTheSeaLevel_(in_metres) location runwayLength runwayName'
+'cityServed airport elevationAboveTheSeaLevel_(in_metres) location runwayLength runwayName'
+'cityServed country elevationAboveTheSeaLevel_(in_metres) location runwayLength'
+Angola_International_Airport, cityServed, elevationAboveTheSeaLevel_(in_metres), location, runwayLength, runwayName
+'country language leaderName leaderName cityServed'
+'Athens leaderName leaderName country language , Athens cityServed airport'
+'cityServed leaderName location', 'country isPartOf location', 'cityServed country'
+country leaderName leaderName capital
+'location country isPartOf county', 'location ICAO_Location_Identifier country isPartOf state'
+'Adirondack Regional Airport city served city served country', 'Harrietstown New York country is part of city', 'Lake Placid New York is part of New York'
+'Adirondack Regional Airport is served by the cities of Lake Placid and Saranac Lake, both of which are located in Harrietstown, New York, in the United States.'
+'aircraftHelicopter', 'location', 'operatingOrganisation', 'Uttar_Pradesh', 'isPartOf', 'isPartOf'
+leaderName location operatingOrganisation aircraftHelicopter
+leaderName leaderName country cityServed
+Aaron_Bertram associatedMusicalArtist 1 associatedMusicalArtist 2 band 2 bandMember 3 genre 4 stylisticOrigin
+country origin genre background associatedMusicalArtist
+'associatedMusicalArtist associatedMusicalArtist genre origin country'
+Aaron_Turner associatedMusicalArtist associatedMusicalArtist genre origin Lotus_Eaters_(band) Aaron_Turner Twilight_(band) Sludge_metal Massachusetts
+Abradab birthDate birthPlace associatedBand/associatedMusicalArtist Kaliber_44 Abradab Magik_(rapper) Abradab
+birthDate occupation birthPlace birthYear background
+birthDate occupation birthPlace birthYear background
+genre musicSubgenre stylisticOrigin
+genre stylisticOrigin stylisticOrigin birthPlace
+Al_Anderson_(NRBQ_band) birthPlace Al_Anderson_(NRBQ_band) associatedMusicalArtist Al_Anderson_(NRBQ_band) activeYearsStartYear Al_Anderson_(NRBQ_band) genre NRBQ bandName The_Wildweeds associatedMusicalArtist
+Output: genre musicFusionGenre stylisticOrigin associatedBand
+birthPlace occupation origin origin
+birthPlace birthYear genre musicFusionGenre
+'associatedMusicalArtist genre background', 'associatedMusicalArtist genre solo_singer', 'activeYearsStartYear associatedMusicalArtist', 'activeYearsStartYear genre', 'activeYearsStartYear background'
+birthPlace birthYear deathPlace nationality leaderName leaderTitle location
+leaderTitle leaderName birthPlace deathPlace
+birthPlace deathPlace deathPlace leaderTitle
+Alison_ODonnell associatedMusicalArtist Mellow_Candle Alison_ODonnell associatedMusicalArtist Flibbertigibbet Alison_ODonnell genre Folk_music_of_Ireland Alison_ODonnell recordLabel Floating_World_Records Flibbertigibbet musical genre Mellow_Candle band Floating_World_Records label Alison_ODonnell bio.
+recordLabel location recordLabel
+genre instrument musicFusionGenre stylisticOrigin
+genre instrument musicFusionGenre stylisticOrigin
+Allen_Forrest Allen_Forrest birthPlace Fort_Campbell Allen_Forrest birthYear 1981 solo_singer Acoustic_music
+associatedBand/associatedMusicalArtist genre associatedBand/associatedMusicalArtist associatedBand/associatedMusicalArtist
+Output Anders Osborne, the blues musician with associations to Galactic and Tab Benoit, started his career in 1989. /Output
+birthYear occupation background birthPlace singer
+birthPlace occupation background birthYear genre
+associatedMusicalArtist associatedMusicalArtist genre stylisticOrigin Armin_van_Buuren _,_ Bobina _,_ Mark_Sixma _,_ Jonathan_Mendelsohn _,_ Christian_Burns _,_ Jwaydan _,_ Alexander_Popov _,_ Jano _,_ Alexandre_Bergheau _,_ Jonny_Rose _,_ Sylvia_Tosun _,_ Lira_Yin _,_ Alexandra_Badoi _ Andrew_Rayel _ Armin_van_Buuren _ Bobina _ Andrew_Rayel _ Trance_music _ Pop_music _
+leader associatedMusicalArtist associatedMusicalArtist birthPlace genre
+associatedMusicalArtist associatedMusicalArtist birthPlace genre associatedBand genre
+{ associatedMusicalArtist: Christian_Burns, genre: Trance_music, instrument: String_instrument }, { associatedMusicalArtist: Jwaydan_Moyine, associatedBand: John_Digweed }
+Output: associatedMusicalArtist associatedMusicalArtist activeYearsStartYear recordLabel recordLabel
+birthPlace genre stylisticOrigin derivative
+genre stylisticOrigin stylisticOrigin birthYear
+birthPlace deathPlace deathPlace leaderTitle
+leaderName birthPlace deathPlace ethnicGroup language
+'recordLabel location recordLabel musicFusionGenre', 'recordLabel location genre', 'genre location musician', 'musician recordLabel location', 'location musician recordLabel'
+'recordLabel recordLabel location musicGenre musicFusionGenre' , 'recordLabel location musicGenre musician' , 'musician recordLabel location musicGenre'
+'genre instrument musicFusionGenre stylisticOrigin'
+genre musicFusionGenre stylisticOrigin
+associatedMusicalArtist genre instrument musicFusionGenre
+country leaderName deathPlace language
+birthPlace nationality occupation status was_selected_by_NASA
+Alan Shepard awards Apollo 14 operator was a crew member of birth place Distinguished Service Medal ( United States Navy ) Department of Commerce Gold Medal NASA
+birthPlace commander nationality operator was_a_crew_member_of
+birthPlace birthDate occupation nationality was_a_crew_member_of
+occupation was_a_crew_member_of birthPlace nationality operator
+occupation birthPlace status almaMater was_a_crew_member_of
+'backup pilot birth place operated by status was a crew member ', ' NASA Glen Ridge '
+William_Anders birthDate status was_a_crew_member_of Buzz_Aldrin operated_by NASA
+operator deathPlace gemstone senators was_a_crew_member_of
+Alan Shepard birth place nationality death place awards
+occupation dateOfRetirement birthPlace nationality was_a_crew_member_of
+club league manager youthclub
+club deathPlace leaderName manager club
+club manager ground club
+manager position club league
+chairman club currentclub manager
+club league youthclub manager country
+manager club chairman club ground
+club chairman manager ground
+manager club club ground manager youthclub
+club manager club season
+chairman club manager club ground
+chairman club manager club ground
+'location isPartOf country', 'completionDate location'
+'architecturalStyle location buildingStartDate floorArea floorCount'
+
+'leaderName language location tenant foundationPlace'
+'Marriott International foundation place key person, AC Hotel Bella Sky Copenhagen located in country language'
+' Washington, D.C. | country | leader | city | tenant | hotel | language | foundation ', ' Marriott | foundation | place | Lars Løkke Rasmussen | Denmark | AC Hotel Bella Sky | Greenlandic | ', ' AC Hotel Bella Sky | location | Denmark | Marriott | international '
+country leaderName architect significantBuilding
+Addis_Ababa_City_Hall buildingStartDate completionDate currentTenants floorArea height
+country location location country
+country leaderName location isPartOf ethnicGroup
+'owner architect country location tenants'
+leaderName leaderTitle location location
+country leaderName leaderName region state
+country leaderName state capital
+'architect birthPlace significantBuilding significantProject'
+Julia_Morgan, Asilomar_Conference_Grounds, significantBuilding, architect, birthPlace, San_Francisco, Asilomar_State_Beach, Riverside_Art_Museum, Hearst_Castle, significantProject
+Manhattan leaderName location New_York_City country location New_Netherland country
+'Birmingham leaderName architect postalCode governingBody', 'Birmingham leaderName architect postalCode governingBody', 'architect birthPlace', 'Birmingham governingBody', 'birthPlace Birmingham'
+leaderTitle leaderName location capital
+apoapsis epoch mass orbitalPeriod periapsis
+leaderName deathPlace discovered AlmaMater nationality
+James_Craig_Watson deathPlace deathCause James_Craig_Watson stateOfOrigin almaMater 101_Helena discoverer placeOfDeath
+almaMater, Walter_Baade, University_of_Göttingen , birthPlace, Walter_Baade, German_Empire , deathPlace, Walter_Baade, Göttingen , discoverer, Walter_Baade, 1036_Ganymed , doctoralStudent, Walter_Baade, Allan_Sandage
+birthPlace doctoralStudent almaMater discoverer
+birthPlace doctoralStudent nationality almaMater
+leaderName deathPlace nationality discovered AlmaMater
+OUTPUT J. Craig Watson nationality death place - almaMater University of Michigan Canada, Madison, Wisconsin - 103 Hera discoverer - periapsis 371240000.0 (kilometres) /OUTPUT
+107_Camilla, B._Zellner, 2006-12-31, 2368.05_(days), 479343000.0_(kilometres), 560937000.0_(kilometres)
+apoapsis epoch periapsis discoverer orbitalPeriod 560937000.0_ (kilometres) 2006-12-31 479343000.0_ (kilometres) C._Woods 2368.05_ (days)
+epoch discoverer periapsis orbitalPeriod apoapsis
+birthPlace deathPlace discoverer nationality
+epoch apoapsis escapeVelocity formerName orbitalPeriod
+1101_Clematis
+ORIGINAL orbitalPeriod epoch periapsis temperature /ORIGINAL ORIGINAL apoapsis epoch /ORIGINAL ORIGINAL periapsis apoapsis /ORIGINAL ORIGINAL 11264_Claudiomaccone /ORIGINAL
+country demonym ethnicGroup isPartOf leaderTitle
+country isPartOf largestCity ethnicGroup
+country isPartOf state language capital
+'state capital isPartOf country language'
+state capital isPartOf country language
+areaTotal country isPartOf location areaTotal isPartOf populationDensity
+region politicalSubdivision isPartOf state language leaderTitle
+areaCode areaOfLand areaTotal isPartOf populationDensity
+Attica,_Indiana elevationAboveTheSeaLevel isPartOf areaTotal populationDensity Attica,_Indiana isPartOf Logan_Township,_Fountain_County,_Indiana Attica,_Indiana isPartOf United_States
+country ethnicGroup state
+areaTotal isPartOf populationDensity country country isPartOf
+countySeat isPartOf largestCity county language
+countySeat isPartOf largestCity language
+countySeat isPartOf largestCity state language
+country capital county language
+countySeat isPartOf largestCity language
+#### Here is the solution to your query ```json { output_sequence: region, Texas, United_States, capital, Austin, Texas, county, Tarrant, Texas, largest_city, Fort_Worth, Tarrant } ```
+country ethnicGroup capital largestCity isPartOf
+'leaderTitle country demonym isPartOf ethnicGroup capital'
+country demonym ethnicGroup capital isPartOf
+country demonym ethnicGroup isPartOf language
+country ethnicGroup state isPartOf country
+country countySeat isPartOf ethnicGroup country
+country largestCity isPartOf capital country ethnicGroup
+Output
+country demonym ethnicGroup isPartOf language
+country capital ethnicGroup isPartOf leader
+'United_States leaderTitle country demonym ethnicGroup isPartOf'
+creator series starring
+country currency language leaderName region
+country ethnicGroup region capital
+country ethnicGroup region capital
+
+country ethnicGroup leaderName region
+region country mainIngredients mainIngredients
+'leaderName language ethnicGroup capital'
+country dishVariation ingredient mainIngredients
+country leaderName leaderName region
+country region ingredient order
+country leaderName ingredient
+leaderName country dishVariation dishVariation ingredient
+leaderName country dishVariation ingredient
+'dishVariation ingredient country leaderName'
+region country mainIngredients ingredient
+country leaderName region
+leaderName leaderName region country
+region course country mainIngredients ingredient
+country leaderName language dishVariation course
+country course dishVariation region leaderName
+leaderName leaderName region ethnicGroup country
+country leaderName leaderName language capital
+country leaderName leaderName demonym
+leaderName leaderName language capital
+country ethnicGroup region mainIngredients
+'Java leaderName Java ethnicGroup Javanese_people Ayam_penyet region Singapore ', 'Java Ayam_penyet country Singapore leaderName Tony_Tan ', 'Javanese_people Ayam_penyet region Singapore country Java leaderName Tony_Tan '
+country ethnicGroup language
+'country', 'ethnicGroup', 'language', 'leaderName', 'region'
+country leaderName region
+owner, location, operator, parentCompany, builder
+AIDAstella builder AIDAstella length AIDAstella operator AIDAstella shipBeam AIDAstella topSpeed
+ALCO_RS-3 buildDate cylinderCount engine length American_Locomotive_Company builder
+ALCO_RS-3 buildDate cylinderCount engine length American_Locomotive_Company buildDate ALCO_RS-3 ALCO_RS-3 V12_engine 17068.8_(millimetres)
+country demonym ethnicGroup capital anthem
+bodyStyle assembly engine class alternativeName
+Alhambra builder P&O_(company) owner Humphrys,_Tennant_and_Dykes powerType 8.3_m
+fate subsidiary successor keyPerson manufacturer
+'shipLaunch length shipBeam shipDraft topSpeed'
+countryLaunchSite comparable countryOrigin launchSite launchSite associatedRocket
+Output: launchSite diameter finalFlight launchSite maidenFlight manufacturer
+launchSite finalFlight manufacturer maidenFlight diameter
+launchSite manufacturer finalFlight maidenFlight diameter
+locationCity headquarter launchSite operator site
+assembly, engine, manufacturer, relatedMeanOfTransportation, successor
+assembly bodyStyle engine relatedMeanOfTransportation relatedMeanOfTransportation
+manufacturer leaderName location relatedMeanOfTransportation successor
+assembly bodyStyle class engine layout
+manufacturer division subsidiary subsidiary foundedBy
+'location foundationPlace foundationPlace'
+'location', 'foundationPlace', 'keyPerson', 'powerType', 'AIDA_Cruises', 'United_States', 'Douglas_R._Oberhelman', 'Caterpillar_Inc.', 'AIDAluna', 'Rostock'
+'location','keyPerson','foundationPlace', 'Peoria,_Illinois','Douglas_R._Oberhelman','United_States'
+owner location operator owner parentCompany
+Finland leaderName, Finland language, Finland demonym, Finland, Aleksey_Chirikov_(icebreaker) builder
+country locationCity leaderName
+country leaderName locationCity builder
+country demonym ethnicGroup language capital
+category country established location municipality
+category county county county monument location Adams_County,_Pennsylvania 11th_Mississippi_Infantry_Monument
+leaderTitle leaderName capital location dedicatedTo
+leaderName legislature capital location dedicatedTo
+leader leaderTitle location largestCity capital
+birthDate birthPlace party region residence
+leader birthPlace party successor
+inOfficeWhile predecessor successor militaryBranch activeYearsEndDate
+leader successor predecessor inOfficeWhile predecessor successor militaryBranch
+office nationality birthPlace deathPlace
+office nationality deathPlace birthPlace party leaderName
+birthPlace deathPlace ethnicGroup nationality spouse
+birthPlace militaryBranch office_workedAt, workedAs almaMater activeYearsStartDate
+birthPlace militaryBranch party almaMater activeYearsStartDate
+birthPlace inOfficeWhilePrimeMinister successor
+leaderName leaderParty nationality office
+'leaderName leaderName nationality office_(workedAt,_workedAs) residence'
+leaderName leaderName party nationality residence
+birthDate birthYear dateOfDeath deathPlace deathYear
+birthPlace deathPlace successor spouse
+birthPlace office_(workedAt,_workedAs) successor
+birthPlace party successor successor activeYearsStartDate activeYearsEndDate
+leaderName leaderParty inOfficeWhile deathPlace
+birthDate birthPlace profession office successor
+birthPlace deathPlace party leaderName leaderTitle
+birthPlace deathPlace party leaderName leaderTitle
+state deathPlace activeYearsEndDate largestCity region congressionalDistrict
+birthPlace deathPlace state congressionalDistrict largestCity
+country ethnicGroup battle isPartOfMilitaryConflict
+country battles isPartOfMilitaryConflict ethnicGroup commander
+country nationality leaderParty leaderSpouse inOfficeWhile
+club manager club ground leader
+club manager club ground leader
+country league leader language ground
+club manager ground location
+leader leader capital ground language demonym
+leader demonym officialLanguage capital ground
+state city established
+affiliation campus city director numberOfPostgraduateStudents
+country city affiliation president numberOfPostgraduateStudents
+country leaderTitle leaderName affiliation
+state city country established
+state largestCity country leaderName
+country leaderName established city academicStaffSize
+'affiliation city governmentType has_to_its_northeast headquarters'
+'author followedBy language precededBy precededBy'
+affiliation city president publisher
+'United States language spokenIn publisher country', 'ethnicGroup country language', 'A Loyal Character Dancer publisher language'
+country ethnicGroup language publisher
+country ethnicGroup language publisher
+country ethnicGroup capital
+
+leaderName country language ethnicGroup
+leaderName country ethnicGroup language spokenIn
+leaderName leaderName country ethnicGroup precededBy capital
+leaderName ethnicGroup country demonym capital
+country leaderTitle ethnicGroup language
+birthDate birthPlace nationality occupation status timeInSpace
+birthPlace deathPlace awards
+'backup pilot commander' 'birth name' 'was a crew member of' 'date of retirement' 'operator'
+occupation birthPlace almaMater nationality was_a_crew_member_of was_selected_by_NASA
+birthDate backup_pilot birthPlace crew_member_of operator
+occupation nationality birthPlace backup_pilot operator
+birthDate birthPlace occupation was_a_crew_member_of almaMater selected by was born in
+California deathPlace gemstone senators medal(United_States) higher
+occupation birthPlace almaMater nationality was_a_crew_member_of birthPlace retirementDate
+'backup pilot birth place crew members' , 'birth place date of retirement' , 'backup pilot crew members operator' , 'crew members operator' , 'backup pilot was a crew member'
+Apollo_8 backup pilot Apollo_8 crew member William Anders alma mater Apollo 8 operator - William Anders status - was a crew member of Is there anything else I can help you with?
+'country established location category', 'location state', 'category country', 'state location'
+category county county county county location monument
+country leader dedicatedTo designer location material
+leaderName location dedicatedTo designer material nativeName
+
+'country established location academicStaffSize city dean ', 'country established dean ', 'location established academicStaffSize city dean ', 'established location city academicStaffSize dean ', 'location academicStaffSize city country dean '
+state city country affiliation campus
+country established campus city affiliation president
+'affiliation country leaderTitle religion', 'European_University_Association headquarters leaderName religion', 'Denmark country leaderTitle religion', 'School_of_Business_and_Social_Sciences_at_the_Aarhus_University country leaderTitle religion'
+'country leaderName dean city affiliation', 'Denmark Lars_Løkke_Rasmussen Thomas_Pallesen Aarhus European_University_Association'
+country established state leaderName
+country capital ethnicGroup leaderName patronSaint anthem
+country city established leaderName numberOfStudents academicStaffSize
+birthDate birthPlace nationality occupation status was_a_crew_member_of almaMater
+birthDate birthPlace occupation status was_selected_by_NASA birthPlace
+'backup_pilot was_a_crew_member_of occupation commander operator nationality birthPlace' 'Apollo_12 Alan_Bean United_States Wheeler,_Texas Test_pilot NASA'
+Buzz_Aldrin alternativeNames birthDate birthPlace occupation was_a_crew_member_of_Apollo_11 was_selected_by_NASA almaMater Edwin_E._Aldrin,_Jr. (Buzz Aldrin) born 1930-01-20 in Glen Ridge, New Jersey. He graduated from Massachusetts Institute of Technology with a Sc.D. in 1963. He was a fighter pilot and crew member of Apollo 11, selected by NASA in 1963.
+OUTPUT occupation birthDate birthPlace nationality almaMater timeInSpace was_a_crew_member_of -- Buzz_Aldrin 1930-01-20 Glen_Ridge,_New_Jersey United_States Massachusetts_Institute_of_Technology,_Sc.D._1963 52.0 minutes Apollo_11 /OUTPUT
+birthDate awards birthPlace crewMemberOf almaMater nationality status
+birthDate - birthPlace - nationality - was_a_crew_member_of - operated_by - status - selected_by
+Buzz_Aldrin birthPlace nationality backup_pilot was_a_crew_member_of operator Buzz_Aldrin almaMater Apollo_11 Massachusetts_Institute_of_Technology,_Sc.D._1963 United_States
+birthDate birthPlace occupation was_a_crew_member_of status dateOfRetirement nationality
+'backup pilot nationality was a crew member operated crew member birth place'
+'occupation', 'was_a_crew_member_of', 'birthPlace', 'birthDate', 'dateOfRetirement', 'timeInSpace', 'was_selected_by_NASA', ''
+'leaderName capital currency location largestCity inaugurationDate material', 'leaderName location currency largestCity inaugurationDate material', 'leaderName currency location largestCity inaugurationDate', 'currency location largestCity inaugurationDate material leaderName'
+leaderTitle leader leader location material
+country leaderTitle leaderName currency capital largestCity monument inaugurationDate location club manager staff size state ethnic group region broadcastedby first aired last aired creator star
+country established dean city numberOfStudents staffSize leaderTitle
+Output: location country state motto president director established
+has_to_its_northeast has_to_its_west location sportsOffered state was_given_the_status_by
+'country leaderTitle capital ethnicGroup city'
+'country', 'city', 'dean', 'established', 'affiliation', 'leaderName', 'academicStaffSize'
+'affiliation headquarters country leaderTitle leaderName', 'city governmentType', 'school'
+'School_of_Business_and_Social_Sciences_at_the_Aarhus_University affiliation country established LatinName numberOfStudents'

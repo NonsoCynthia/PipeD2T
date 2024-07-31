@@ -1,0 +1,870 @@
+Aarhus's jacob bundsgaard, where entity-3 is the leader.
+Aarhus airport has a runway length of 2702.0.
+Adirondack regional airport has an elevation above the sea level of 507.
+Adirondack regional airport's located in harrietstown, new york.
+Adolfo suárez madrid–barajas airport's located in san sebastián de los reyes.
+Adolfo suárez madrid–barajas airport has a runway named runway 14l/32r.
+Adolfo suárez madrid–barajas airport has a runway named runway 14r/32l.
+Infraero's operated by infraero.
+Agra airport's located in agra.
+Al-taqaddum air base has an elevation above the sea level of 84.0.
+Alderney airport serves alderney.
+Allama iqbal international airport, runway 18r/36l has a runway name of 18r/36l.
+Alpena county regional airport has a runway length of 1533.0.
+Alpena county regional airport has a runway named runway 1/19.
+Amsterdam airport schiphol serves the city of amsterdam.
+Andrews county, texas has a county seat of andrews, texas.
+Andrews county airport serves andrews, texas.
+Andrews county airport has a runway named runway 11/29.
+Andrews county airport has a runway named "helipad".
+Angola international airport serves luanda.
+Ardmore airport in new zealand's located in auckland.
+Athens's giorgos kaminis.
+Athens international airport's located in spata.
+Belgium speaks german language.
+Belgium's philippe of belgium, where entity-3 is the leader.
+Denmark has a capital of copenhagen.
+Lars løkke rasmussen has a leader named lars løkke rasmussen.
+Flemish region's led by flemish government.
+Greece speaks greek language.
+Nikos voutsis's nikos voutsis of nikos voutsis.
+Harrietstown, new york is a part of united states.
+Anwar zaheer jamali has a leader named anwar zaheer jamali.
+Paracuellos de jarama is a part of community of madrid.
+Port authority of new york and new jersey is headquartered at four world trade center.
+San sebastián de los reyes's located in spain.
+Saranac lake, new york is a part of united states.
+Stephen dilts has a chief named stephen dilts.
+Alan shepard receive distinguished service medal (united states navy).
+Alan shepard die in california.
+William anders backup pilot serves as william anders backup pilot.
+Apollo 14's operated by nasa.
+Nasa. apollo 8's operated by nasa.
+Buzz aldrin's of united states.
+Elliot see work as a test pilot.
+University_of_texas_at_austin is affiliated with university_of_texas_system.
+University of texas at austin mascot hook em has a mascot named hook em (mascot).
+John madin's designed by john madin.
+103 colmore row's located in colmore row.
+11 diagonal street's completed in 1983.
+200 public square's completed in 1985.
+20 fenchurch street start building in january 2009.
+20 fenchurch street's located in united kingdom.
+300 north lasalle has a floor count of 60.
+Hok sve is designed by hok sve.
+3arena's located at east link bridge.
+Adare manor start building in 1700.
+Adare manor in republic of ireland's located in republic of ireland.
+Akita museum of art open on september 28, 2013.
+Alan b. miller hall house mason school of business.
+B. v. doshi is designed by b. v. doshi.
+Ampara hospital's located in sri lanka.
+Asher and mary isabelle richardson house add to november 22, 1988 on "1988-11-22".
+Asser levy public baths built in 1904 was built in 1904.
+Birmingham has a postal code of b postcode area.
+Chicago, illinois's part of dupage county, illinois.
+Dublin comes from republic of ireland.
+Dublin's part of leinster.
+Sumitra mahajan has a leader named sumitra mahajan.
+Brazilians in japan has brazilians in japan amongst their ethnic groups.
+Tarō asō has a leader named tarō asō.
+Marriott international has a marriott as their key person.
+Republic of ireland speak the english language.
+South africa has a capital of cape town.
+United kingdom has a capital of london.
+United states consists of native americans.
+Paul ryan comes from paul ryan, where entity-3 was once the leader.
+Abilene, texas has an area code of 325.
+Abilene, texas is a part of texas.
+Albany, georgia's mayor of albany, georgia of entity-3.
+Albany, oregon covers the academic discipline of patient-3. agent-1 has the lccn number patient-1 and the issn number patient-4 an area of 45.97 square kilometers.
+Albany, oregon's located in united states.
+Albuquerque, new mexico holds the leader title of state senate.
+Albuquerque, new mexico holds the position of albuquerque city council.
+Amarillo, texas's located in united states.
+Amarillo, texas is a part of potter county, texas.
+Amarillo, texas is a part of united states.
+Anaheim, california has an area code of 657.
+Anderson, indiana is part of adams, fall creek, lafayette, richland, union.
+Angola, indiana's part of pleasant township, steuben county, indiana.
+Ann arbor, michigan holds the title of city administrator of ann arbor, michigan.
+Ann arbor, michigan holds the position of mayor of ann arbor, michigan.
+Ann arbor, michigan is has a leader called patient-1 a population density of 1580.7 inhabitants per square kilometre.
+Antioch, california has an elevation above the sea level of 13.0.
+Antioch, california holds the position of california's 11th state assembly district.
+Arlington, texas has an elevation above the sea level of 184.0.
+Atlantic county, new jersey's located in united states.
+Attica, indiana is a part of fountain county, indiana.
+Auburn, alabama is a part of alabama.
+California's located in united states.
+Fulton county, georgia has a largest city atlanta.
+Georgia (u.s. state)'s located in united states.
+Indiana has a capital of indianapolis.
+Lee county, alabama's located in alabama.
+New jersey has a capital of trenton.
+Potter county, texas's located in texas.
+Tarrant county, texas's located in united states.
+Washtenaw county, michigan is ann arbor, michigan largest city.
+René goscinny's created by rené goscinny.
+Marv wolfman is created by marv wolfman.
+Jack kirby is created by jack kirby.
+Stv's broadcasted by stv.
+Bananaman first air on october 3, 1983.
+Bananaman stars bill oddie.
+Baymax's a series based on big hero 6 (film).
+Bill everett win eisner award.
+Bill oddie's child kate hardie has a child named kate hardie.
+Dan mishkin is created by dan mishkin.
+Hugh hazzard's known as hugh hazzard.
+John buscema win eagle award (comics).
+Marv wolfman win eagle award (comics) award.
+Ajoblanco is has a leader called patient-1 an alternative name of ajo blanco.
+Ajoblanco is consists of bread, almonds, garlic, water, olive oil. ajoblanco, entity-3, entity-4, entity-5, and entity-6.
+Arem-arem is found in java, but more specific to entity-3.
+Arem-arem. indonesia belongs to indonesia.
+Mainingredients of arrabbiata sauce include "tomatoes, red chili, garlic, olive oil".
+Cuttlefish is an ingredient in arròs_negre.
+Squid is an ingredient in arròs_negre.
+Malaysia originates from malaysia.
+Avocado belongs to the genus persea.
+Ayam penyet serve at temperature. hot ayam penyet temperature.
+Baked alaska is a dessert.
+Bakewell tart contains frangipane.
+Bakso contain noodle.
+Bakso contains vermicelli as an ingredient.
+Bandeja paisa include chorizo as an ingredient in it.
+Mondelez international is created by mondelez international.
+Barny cakes offer chocolate barny cakes variation of chocolate variation of barny cakes.
+Barny cakes contains a grams of protein.
+Philippines originates from philippines.
+Batchoy contain chicken as an ingredient.
+Batchoy contain the region as an ingredient.
+Visayas. binignit originate from visayas.
+Patrick mcloughlin's led by patrick mcloughlin.
+Dessert is a cake dessert variation of baked alaska.
+Dessert is has a leader called patient-1 a dish variation of ice cream dish variation.
+Jusuf kalla has a leader named jusuf kalla.
+Italy has a demonym of italians.
+Java belongs to baduy.
+Lemon belong to the order of rosids.
+Mexico's known as mexicans.
+Mexico speaks spanish language.
+Philippines speaks arabic language.
+Siomay has a dish variation of shumai.
+Native americans in the united states has an ethnic group of native americans.
+Pietro canonica is designed by pietro canonica.
+Atatürk monument (i̇zmir) is made of bronze.
+Artur rasizade's artur rasizade of artur rasizade.
+Baku turkish martyrs memorial's located in azerbaijan.
+Baku turkish martyrs memorial is made of red granite and white marble.
+1. fc köln is managed by peter stöger.
+1. fc magdeburg competes in 2014.
+A.c. lumezzane take place in the 2014-15 lega pro season.
+A.d. isidro metapán is known as asociación deportiva.
+A.e dimitra efxeinoupolis is known as a.e dimitra efxeinoupolis.
+A.e dimitra efxeinoupolis take place in 2014.
+A.e dimitra efxeinoupolis take place in 2014-15 a epsth, greece during the season.
+A.f.c. blackpool has a number of members of 1500.
+A.f.c. fylde's located in the fylde.
+A.s. gubbio 1910's located in italy.
+A.s. livorno calcio has a number of members of 19238.
+A.s. roma participate in 2014-15 serie a season.
+Afc ajax's managed by frank de boer.
+Afc ajax (amateurs) is known as joden, godenzonen.
+Afc ajax (amateurs) has a number of members of 5000.
+Azal pfk's located in shuvalan, baku, azerbaijan.
+Az alkmaar has a number of members of 17023.
+Agremiação sportiva arapiraquense is managed by vica.
+Agremiação sportiva arapiraquense participate in the 2015 campeonato brasileiro série c season.
+Akron summit assault take place at st. vincent-st. mary high school.
+Akron summit assault has a number of members of 3000.
+Amsterdam-centrum's a part of amsterdam-centrum.
+Nikos voutsis's nikos voutsis of nikos voutsis.
+Gus poyet plays for aek athens f.c.
+Jens härtel manages sv germania schöneiche.
+John van den brom manages az alkmaar.
+Jorge humberto rodríguez plays for a.d. isidro metapán.
+Massimo drago plays for delfino pescara 1936.
+Massimo drago plays for s.s. chieti calcio.
+Olympic stadium (athens)'s located in marousi.
+K-w united fc win k-w united fc.
+Stuart parker (footballer) plays for bury f.c.
+Accademia di architettura di mendrisio has an academic staff size of 100.
+Acharya institute of technology is has a leader called patient-1 a campus in bangalore - 560090.
+Alba iulia's located in romania.
+Alba iulia is a part of alba county.
+Romania has a patron saint andrew the apostle.
+Aarhus university has an academic staff size of 737 at aarhus university.
+Aarhus university's located in denmark.
+Eric flint is written by eric flint.
+The grantville gazettes. 1634: the bavarian crisis is preceded by the grantville gazettes.
+1634: the ram rebellion follow the cannon law.
+2158 is has a leader called patient-1 an eissn number of 2158.
+Hardcover is available in hardcover.
+0-670-03380-4 is has a leader called patient-1 an isbn number of 0-670-03380-4.
+1-56947-301-3 is has a leader called patient-1 an isbn number of 1-56947-301-3.
+Madeleine lengle is written by madeleine l'engle.
+A wizard of mars's written in english language.
+Abhandlungen aus dem mathematischen seminar der universität hamburg is has a leader called patient-1 a lccn number of 32024459.
+Above_the_veil is available in hardcover.
+Acta mathematica hungarica is known as acta math. hungar.
+Acta mathematica hungarica focus on mathematics.
+Acta palaeontologica polonica is has a leader called patient-1 a coden code of apgpac.
+Addiction (journal) oclc number 27367194 is has a leader called patient-1 a oclc number of 27367194.
+Wiley-blackwell is published by wiley-blackwell.
+Administrative_science_quarterly is has a leader called patient-1 a lccn number of 57059226.
+Aenir is has a leader called patient-1 an oclc number of 45644811.
+78771100 is has a leader called patient-1 an oclc number of 78771100.
+Alcatraz versus the evil librarians follow alcatraz versus the scriveners bones.
+American journal of mathematics is has a leader called patient-1 an impact factor of 1.337.
+Castle (novel) follows the publication of patient-2 aenir.
+Cornell university's known as cornell big red.
+Hiv virus belongs to the genus lentivirus.
+John_cowper_powys's known for wolf solent.
+Elizabeth ii has a leader named elizabeth ii.
+Joe biden has a leader named joe biden.
+John cowper powys is written by john cowper powys.
+Abilene regional airport serves abilene, texas, which abilene, texas is part of texas.
+Adolfo suárez madrid–barajas airport's located in alcobendas and have a runway length of 3500.0.
+Adolfo suarez madrid-barajas airport's located in san sebastián de los reyes and have a runway length of 3500.0.
+India's t. s. thakur, where agra airport's located.
+Al asad airbase's located in al anbar province, iraq and have an elevation above the sea level of 618 feet.
+United states air force engage in operation enduring freedom. al asad airbase is the operating organization.
+United states air force engage in the united states invasion of panama. al asad airbase is operated by the united states air force.
+Alcobendas is a part of community of madrid. adolfo suárez madrid–barajas airport is located in adolfo suárez madrid–barajas airport.
+Alderney airport has a 1st runway surface type of poaceae and a runway length of 877.0.
+Pakistan civil aviation authority has a headquarter of jinnah international airport. allama iqbal international airport operates allama iqbal international airport.
+Wilson township, alpena county, michigan's a part of united states. alpena county regional airport is located in wilson township, alpena county, michigan. alpena county regional airport.
+Schiphol group has an elevation above the sea level of schiphol group. schiphol group's operated by schiphol group.
+Andrews county airport has a 4th runway with a surface type of "asphalt" and an elevation above the sea level of metres metres.
+Andrews county airport has a capital of austin, texas, where andrews county airport's located.
+Angola international airport serves luanda airport, where 159 is entity-4 above the sea level.
+Ícolo e bengo's from angola international airport, where angola international airport's located.
+12.0 has an elevation above the sea level of 12.0 and flemish department of mobility and public works operating organisation is flemish department of mobility and public works.
+Appleton international airport serves grand chute, wisconsin, which grand chute, wisconsin is a part of grand chute, wisconsin.
+Ardmore airport (new zealand) has a 2nd runway surface type of poales, where poales belong to the order of poales.
+Ardmore airport (new zealand) has a 3rd runway with monocotyledon class. ardmore airport (new zealand) has a 3rd runway. poaceae belong to the class of monocotyledon class.
+Ashgabat international airport's located in 3800.0 and have a runway length of 3800.0.
+Athens international airport serves spata, located in spata.
+Athens international airport serves the city of athens and have a runway length of 3800.0.
+San sebastián de los reyes is a part of community of madrid. adolfo suárez madrid–barajas airport is located in adolfo suárez madrid–barajas airport.
+Alan shepard retire on the date august 1, 1974. alan shepard's crew is a crew member of apollo 14.
+Buzz aldrin's born in glen ridge,_new_jersey, and's of nationality united states.
+Buzz aldrin work as a fighter pilot and buzz aldrin's currently fighter pilot.
+Apollo 11's operated by nasa. buzz aldrin was a crew member of apollo 11.
+Apollo 11 crew member work as a fighter pilot. apollo 11 and apollo 11 crew member was a crew member of apollo 11.
+South africa's part of coloured people in south africa. 11 diagonal street is located in 11 diagonal street.
+200 public square has a floor count of 45 in cleveland, located in cleveland.
+London's the european parliament of 20 fenchurch street. entity-4's located in entity-5.
+250 delaware avenue's barack obama, where 250 delaware avenue is located.
+300 north lasalle has a floor count of 60 in illinois.
+Hok sve in north wall, dublin is designed by hok sve in entity-4. entity-4 is located in entity-4.
+3arena is located at east link bridge, where live nation entertainment own it.
+Live nation entertainment's located in beverly hills, california, where 3arena own.
+23 floors has a floor count of 23. marriott international is a tenant of marriott international.
+Addis ababa city hall has a tenants government of addis ababa and a height of 42 meters.
+Adisham hall is built in tudor and jacobian architectural styles in haputale, sri lanka style.
+Adisham hall's located in sri lanka, where sri lanka speak.
+Alan b. miller hall's located at 101 ukrop way, where buildingstartdate on 101 ukrop way buildingstartdate on 101 ukrop way.
+Alan b. miller hall's located in college of william & mary, owned by college of william & mary.
+Robert a. m. stern is designed by robert a. m. stern. robert a. m. stern house mason school of business.
+Ampara hospital's located in sri lanka, where ampara district's situated.
+Sri lanka's the capital of sri jayawardenepura kotte. ampara hospital's located in ampara hospital.
+88002539's listed under the reference number "88002539" in the national register of historic places, located on 88002539.
+87000823 has a reference number in the national register of historic places of 87000823, located at asilomar blvd.
+The national register of historic places add to the national register of historic places on "1987-02-27" and 1987-02-27 is located in february 27, 1987.
+23rd street (manhattan)'s located at 23rd street (manhattan), where 23rd street (manhattan) was constructed in 23rd street (manhattan).
+Gujarat's anandiben patel, where amdavad ni gufa's located.
+Albert uderzo and rené goscinny's created by albert uderzo and rené goscinny.
+Len wein's known as len wein, created by len wein.
+Doug moench's known as kelvin mao, created by doug moench.
+Graeme garden's broadcasted by bbc and graeme garden star graeme garden.
+Bill oddie was born in lancashire. bananaman star.
+Bibbo bibbowski's created by jerry ordway, who is americans.
+Jon valor's also known as "entity-2" and jon valor's created by jon valor.
+Blockbuster (comicscharacter)'s created by roger stern and tom lyle.
+Gary cohn (comics) and paris cullins's created by gary cohn (comics) and paris cullins.
+Ajoblanco comes from entity-4, where bread include entity-4.
+Ajoblanco contain almond as an ingredient and originate from andalusia.
+Lazio contains lazio. tomato sauce as an ingredient and originate from lazio.
+Antioquia department's located in colombia, where bandeja paisa's a popular dish.
+Arem-arem's located in indonesia, where indonesia use as an ingredient.
+Olive oil originates from italy, where olive oil ingredient olive oil.
+Arrabbiata sauce. rome originates from italy, where rome is the capital.
+Italy originates from italy, where italy ingredient italy.
+Arròs negre. spain originates from spain, where squid is an ingredient.
+Valencian community. arròs negre contains valencian community as an ingredient and is from valencian community.
+Java originates from java, where java is has a leader called patient-1 java as main ingredients.
+Bacon explosion comes from united states, where united states contains sausage.
+John roberts comes from john roberts, where john roberts was once the leader.
+Bacon's a bacon. main course, where bacon ingredient bacon.
+Bread's known as bacon sandwich ingredient being bread, with bread ingredient being bread.
+Baked alaska comes from entity-4 france, where christmas pudding include entity-4.
+Baked alaska comes from china, where standard chinese speak.
+Baked alaska's a cookie, which is a type of cookie.
+Entity-4 and entity-5 is created by entity-4 and entity-5 at entity-4 and entity-5, where entity-4 and entity-5 is has a leader called patient-1 rutland arms, bakewell, in 1820, ground almond, jam, butter, eggs. rutland arms, bakewell, entity-4, and entity-5 as main ingredients.
+Bakewell pudding is a dish variation of shortcrust pastry, where shortcrust pastry include shortcrust pastry.
+Citrus. lemon belong to the genus citrus fruits. bandeja paisa is an ingredient in citrus genus.
+Philippines originates from philippines, where philippines ingredient batchoy ingredient.
+Batchoy originates from philippines, where chinese filipino is of entity-4 descent.
+Singapore speaks standard chinese. beef kway teow's from singapore.
+Tony tan's tony tan of tony tan. beef kway teow. tony tan's a dish from tony tan.
+Bhajji comes from sumitra mahajan, where sumitra mahajan is the leader.
+Bhajji contains gram flour and is similar to pakora and other fritters made from wheat or corn flour.
+Sweet potato is an ingredient in binignit. banana is one of the main ingredients in binignit.
+Sweet potato is an ingredient in binignit and sago is amongst the main ingredients in binignit.
+Sweet potato belongs to the division of flowering plant division. binignit's an ingredient in sweet potato division of flowering plant. binignit.
+Binignit contain solanales as the main ingredient. sweet potato belong to the order solanales.
+Bionico consists of granola and granola.
+Bionico is a honey, with honey being a entity-4.
+Bionico is a dessert, where ice cream entity-4 is a entity-4.
+Batagor is has a leader called patient-1 peanut sauce as a dish variation, where peanut sauce include peanut sauce.
+Atatürk monument (i̇zmir) was inaugurated on july 27, 1932 in turkey.
+Entity-4 dedicate to ottoman army soldiers killed in the battle of baku made of entity-4 and entity-4.
+Baku turkish martyrs memorial is made of türk şehitleri anıtı and is called türk şehitleri anıtı.
+Æthelwald, ealdorman of east anglia's æthelwald, ealdorman of east anglia dedicated to æthelwald, ealdorman of east anglia, made of rock (geology).
+Serie b win carpi f.c. 1909, where a.c. cesena play.
+Stadio marcantonio bentegodi participate in stadio marcantonio bentegodi, where stadio marcantonio bentegodi play at stadio marcantonio bentegodi.
+A.c. lumezzane's located in italy, where pietro grasso is the leader.
+A.d. isidro metapán manages jorge humberto rodríguez, where c.d. fas play.
+A.e dimitra efxeinoupolis participate in a epsth 2nd group, where a epsth 2nd group a 1500 members.
+A.f.c. blackpool manages stuart parker (footballer), where runcorn f.c. halton play.
+A.f.c. blackpool manages stuart parker (footballer), where sparta rotterdam play.
+A.f.c. fylde's located in the fylde and have a members.
+A.f.c. fylde club has a ground named bryning lane and bryning lane have 3180 members.
+A.s. livorno calcio's christian panucci, where italy national football team manage. the italy national football team is the club of christian panucci.
+A.s. roma's located in rome, italy, where a.s. roma compete in the serie a.
+Acf fiorentina's from italy, where acf fiorentina play in acf fiorentina.
+Afc ajax manages frank de boer, where ajax youth academy is part of.
+Afc ajax n.v has a number of members of 53502, where afc ajax n.v is the owner.
+Afc ajax (amateurs)'s located in amsterdam's leader, eberhard van der laan, where eberhard van der laan is the leader.
+Afc ajax (amateurs) has a number of members of 5000 and participate in the 2014-15 topklasse season.
+Azal pfk has a ground of shuvalan, where shuvalan is located in shuvalan.
+Az alkmaar's known as alkmaar zaanstreek and have a members.
+Agremiação sportiva arapiraquense has a ground of estádio municipal coaracy da mata fonseca, where brazil location brazil.
+17000 members is named 17000 members with 17000 members.
+Akron, ohio's located in united states, where akron summit assault plays on the ground.
+Massimo drago plays for s.s. chieti calcio, where a.c. cesena manage.
+Dr. g. p. prabhukumar is has a leader called patient-1 a campus located at dr. g. p. prabhukumar, where dr. g. p. prabhukumar director is dr. g. p. prabhukumar.
+Entity-4 is has a leader called patient-1 a school colour of entity-4. entity-4 is given all india council for technical education by entity-4.
+International tennis federation's governed by international tennis federation. acharya institute of technology offer acharya institute of technology.
+Aarhus university is affiliated with european university association, whose brussels is in entity-4.
+Acharya institute of technology's located in arabian sea, where arabian sea is has a leader called patient-1 to its west arabian sea.
+"1634:_the_bavarian_crisis" is written by "virginia_demarce_and_eric_flint" and is preceded by "grantville_gazette_iii".
+1634: the ram rebellion is written by eric flint and is available in e-book 1634: the ram rebellion.
+1634: the ram rebellion is written by eric flint and is available in hardcover.
+Acm transactions on information systems is has a leader called patient-1 a coden code of "entity-2" and an abbreviation of "entity-3".
+Aids (journal)'s published in united kingdom, where elizabeth ii is the leader.
+J. v. jones is has a leader called patient-1 an isbn number of j. v. jones written by j. v. jones.
+0-7156-3648-0 is has a leader called patient-1 an isbn number of 0-7156-3648-0 and is available in print 0-7156-3648-0.
+0-7156-3648-0 is has a leader called patient-1 an isbn number of 0-7156-3648-0 and is available in hardcover.
+A glastonbury romance is available in 1174 pages with 1174 pages.
+57392246 is has a leader called patient-1 an isbn number of 0-670-03380-4 and an oclc number of 57392246.
+Asian americans originates from united states, where asian americans is part of the ethnic group.
+Soho press's located in united states. a loyal character dancer is is published a loyal character dancer.
+Diane duane is has a leader called patient-1 oclc number 318875313 and is written by diane duane.
+A wizard of mars is has a leader called patient-1 isbn number 978-0-15-204770-2 and is available in hardcover.
+978-0-15-204770-2 has an isbn number of 978-0-15-204770-2 and a wizard of mars have a total of 560 pages.
+Above the veil's from australians, which aenir precede.
+Aenir follow above the veil. above the veil language is english language.
+Veil come after aenir.
+Springer science+business media found julius springer, which publishes acta mathematica hungarica.
+Administrative science quarterly is has a leader called patient-1 a coden code of ascqag and an abbreviation of admin. sci. q.
+Association of public and land-grant universities has affiliation with association of public and land-grant universities. administrative science quarterly is is published in association of public and land-grant universities.
+0-439-17684-0 is has a leader called patient-1 an isbn number of "0-439-17684-0" and is written by 0-439-17684-0.
+0-439-92550-9 is has a leader called patient-1 an isbn number of 0-439-92550-9 and is available in hardcover. 0-439-92550-9.
+Alcatraz versus the evil librarians is has a leader called patient-1 an isbn number of 0-439-92550-9 and 320.0 have dt[form=undefined] 320.
+Aids (journal) family focus on entity-4 family in the field of orthoretrovirinae family. entity-4 family belong to the entity-4 family.
+A fortress of grey ice's set in united states, where the united states speak.
+Entity-5's located in united states, which taylor county, texas's a part of abilene regional airport. abilene regional airport serves entity-5.
+Adirondack regional airport serves lake placid, new york, saranac lake, new york, and have a runway length of 1219.0.
+Adolfo suárez madrid–barajas airport's located in madrid airport, with adolfo suárez madrid–barajas airport having a runway length of 4100.0 and a runway named runway 14l/32r.
+Viag has an icao location identifier of "entity-2" and is located in viag, india, where viag is operated by viag.
+Al asad airbase's located in iraq, where united states air force operate. 3078.48 has a runway length of 3078.48.
+The united states air force engage in the invasion of grenada. al asad airbase engage in korean war. al asad airbase operate by the united states air force.
+United states air force engage in the operation invasion of grenada. al asad airbase engage in operation enduring freedom. al asad airbase operate by al asad airbase.
+United states air force engage in battles with korean war and operation enduring freedom. al asad airbase is the operating organization of al asad airbase.
+Alderney airport has a 1st runway surface type of poaceae, serving the city of poaceae with a runway length of 733.0.
+Alpena county regional airport's located in wilson township, alpena county, michigan, where wilson township, alpena county, michigan have a runway length of 210.
+Amsterdam airport schiphol serves the city of amsterdam airport schiphol, with an elevation above the sea level of 3.3528 and a runway length of 3500.0.
+Texas's a part of united states, where houston's the largest city. andrews county airport's located in andrews county airport.
+Ícolo_e_bengo's located in angola airport, where angola international airport has a runway length of 4000.0.
+Ícolo e bengo's from south runway, where south runway is located. south runway is has a leader called patient-1 a runway named "south runway".
+Antwerp international airport has an elevation above the sea level of 12.0, where flemish government operate and flemish region own.
+Flemish region serves flemish region, where flemish department of mobility and public works operate. flemish region's owned by flemish region.
+Appleton international airport serves appleton, wisconsin, which appleton, wisconsin is part of kimberly, wisconsin and little chute, wisconsin.
+Greenville, wisconsin's located in united states, which clayton, winnebago county, wisconsin's a part of appleton international airport. entity-5's located in greenville, wisconsin.
+Ardmore airport (new zealand) has a 3rd runway with poaceae, where poales ( flowering plant family poaceae of poales ) belong to.
+Ashgabat international airport has an elevation above the sea level of 211, located in 3800.0 with a runway length of 3800.0.
+Athens international airport serves greece, where greece is the leader.
+Egg harbor township, new jersey's located in 4/22, where atlantic city international airport has a runway named 4/22.
+Antwerp international airport serves antwerp, where belgium is the leader. antwerp is belgium.
+Ardmore airport (new zealand) has a 2nd runway surface type of poaceae, which is a monocotyledon and belongs to the commelinids order.
+Apollo 12's commanded by david scott, where nasa's the operator. alan bean was a crew member of apollo 12.
+Alan shepard die on july 21, 1998 in dianne feinstein. dianne feinstein senators include dianne feinstein.
+Entity-5 attend massachusetts institute of technology, sc.d. 1963, where edwin e. aldrin, jr is also known as apollo 11 crew member. entity-5 was a crew member of entity-5.
+Entity-5 was born in glen ridge, new jersey, where 52.0 minutes spend apollo 11 in space and entity-5 was a crew member of entity-5.
+California receive distinguished service medal (united states navy). california pass away in distinguished service medal (united states navy) where california fossil is a fossil.
+Elliot see die on "1966-02-28" in st._louis. he was selected by nasa in 1962.
+Elliot see was born on july 23, 1927 in dallas and dallas is deceased. dallas-born astronaut elliot see.
+William anders was born on "1933-10-17" in october 17, 1933. he was a crew member of british hong kong.
+South africa has a capital of cape town, where cyril ramaphosa is the leader. 11 diagonal street is located in 11 diagonal street.
+Entity-5 has coloured of jacob zuma. jacob zuma's 11 diagonal street of jacob zuma. entity-5 is located in jacob zuma.
+South africa's of white south african, where jacob zuma is the leader. 11 diagonal street is located in 11 diagonal street.
+Cleveland's located in united states, where frank g. jackson is the leader. 200 public square is located in 200 public square.
+Buffalo, new york's a part of erie county, new york, where 250 delaware avenue's a part of 250 delaware avenue. entity-5's located in 250 delaware avenue.
+Chicago. rahm emanuel's located in united states, where rahm emanuel is the leader. 300 north lasalle's located in 300 north lasalle.
+3arena's designed by hok sve, completed in december 2008 and located in dublin city.
+Populous (company)'s designed by populous (company) and populous (company) complete in dublin, december 2008 at dublin.
+Dublin's located in republic of ireland, where 3arena own.
+Ac_hotel_bella_sky_copenhagen's designed by 3xn and is situated in denmark, where marriott international operate.
+Adare manor is designed by james pain in 1862 and was completed in j. p. mcmanus. it is owned by entity-5.
+Addis ababa city hall is has a leader called patient-1 a tenants government of addis ababa, with a floor area of 140000.0 square metres and a height of 42 meters.
+Adisham hall is built in tudor revival architecture style in 1931 in sri lanka.
+Akita museum of art has a floor area of 3746.66 square metres and 2013-09-28 has 3 floors. 2013-09-28's inaugurated on september 28, 2013.
+Akita, akita's from japan, where akita prefecture's located. akita prefecture's in akita prefecture.
+Alan b. miller hall start building on 30 march 2007 in virginia college of william & mary, where college of william & mary own it.
+Robert gates's the chancellor of robert gates, where alan b. miller hall owns robert gates. college of william & mary's located in robert gates.
+Mason school of business's located in united states, where alan b. miller hall's the current tenants. virginia's in entity-5.
+College of william & mary start construction on college of william & mary on 30 march 2007 in college of william & mary, which college of william & mary belong to college of william & mary.
+Ampara hospital's located in sri lanka, specifically in ampara district with 476 beds.
+Ampara hospital's located in sri lanka, where ranil wickremesinghe is the leader. ranil wickremesinghe of sri lanka's in ranil wickremesinghe of sri lanka.
+Asher_and_mary_isabelle_richardson_house add to the national register of historic places on "1988-11-22" and was built in 1911 at november 22, 1988.
+Asilomar conference grounds has a reference number in the national register of historic places of "87000823", added to the national register of historic places on "1987-02-27" and located in 87000823.
+Asser levy public baths has a reference number in the national register of historic places of 80002709, which was april 23, 1980 on entity-5. entity-5 is located at entity-5.
+New_york_city's in united states, where new_york_city is a part of manhattan. asser_levy_public_baths is located in new_york_city.
+Amdavad ni gufa's located in india, where sumitra mahajan is the leader and t. s. thakur is the leader.
+Auron (comics character) is created by walt simonson and walt simonson. karl kesel is americans.
+Bananaman's broadcasted by tony hall, baron hall of birkenhead, where tony hall, baron hall of birkenhead is located. tony hall, baron hall of birkenhead is has a leader called patient-1 tony hall, baron hall of birkenhead as tony hall, baron hall of birkenhead.
+Bananaman's broadcasted by "stv", first aired on "1983-10-03" and star bill oddie.
+Steven t. seagle's created by duncan rouleau and steven t. seagle first appear in the film steven t. seagle.
+Jerry ordway and marv wolfman's created by jerry ordway and marv wolfman. jerry ordway and marv wolfman's known as "bo bibbowski".
+Blockbuster (comicscharacter)'s known as roland desmond, created by roger stern and tom lyle and tom lyle.
+Bolt (comics character)'s known as larry bolatinsky, created by dan mishkin and ernie colón and ernie colón.
+Bolt (comics character)'s known as larry bolatinsky with dan mishkin and paris cullins as creators.
+Ajoblanco is known as spain, originating from spain where spain is an ingredient.
+Ajoblanco originates from spain, where entity-5 include andalusia and is popular in entity-5.
+Arem-arem comes from indonesia, where joko widodo is the leader and jusuf kalla also is the leader.
+Arem-arem originates from java, where java is the leader.
+Sergio mattarella originates from sergio mattarella, where sergio mattarella speak. sergio mattarella is the leader.
+Italy originates from italy, where italy contains chili pepper and italy's from italy.
+Rome originates from italy, where rome, italy contain garlic from rome and is from rome.
+Arròs negre originates from entity-5, where entity-5 include catalonia as one of the ingredients and is popular in entity-5.
+Arròs negre originates from spain, where cuttlefish include valencian community as one of its ingredients and is popular in entity-5.
+Sumatra and malay peninsula originates from malaysia, where sumatra and malay peninsula has fish cooked in sour and hot sauce as main ingredients and sumatra and malay peninsula's popular in the region of sumatra and malay peninsula.
+Malaysia originates from java, where malaysia is consists of malaysia and is popular in malaysia.
+Bacon explosion with sausage comes from united states, where sausage has sausage with sausage as one of its entity-5.
+Bacon explosion has a capital in washington, d.c. bacon explosion is amongst the ethnic group there.
+United states has a capital of washington, d.c, where barack obama is the leader. bacon explosion comes from bacon explosion.
+Bacon explosion comes from united states, where john roberts is the leader and african americans are amongst the population there.
+The dish blt originates from united kingdom, where the dish blt is a blt and blt contain blt.
+Baked alaska comes from entity-6, where meringue include new york and entity-5 is a popular dish in entity-6.
+Entity-5 comes from entity-5, where entity-5 is made with new york and is popular in entity-5.
+Baked alaska's a christmas pudding, which is a christmas pudding with christmas pudding as one of its entity-5.
+Entity-6's a dessert, where sandesh (confectionery) is a christmas pudding of entity-6 and entity-5 include entity-6.
+Bandeja paisa originates from colombian cuisine, where entity-5 include antioquia department as an ingredient and is a traditional dish in entity-5.
+Barny cakes comes from france, where claude bartolone is claude bartolone and gérard larcher is gérard_larcher.
+Barny cakes contain 18.0 grams of carbohydrate and 1.8 grams of protein. apple dish variation is has a leader called patient-1 a dish variation of apple.
+Beef kway teow. halimah yacob comes from singapore's leader halimah yacob, where halimah yacob is the leader and use singapore dollar.
+Entity-5 originates from entity-5, where entity-5 use entity-5 as an ingredient and is popular in entity-5.
+Beef kway teow. singapore originates from indonesia, where singapore is the leader.
+Bhajji comes from india, where india is made with vegetables as the main ingredients.
+Bhajji comes from india, where indian people is the leader.
+Bhajji comes from india, where narendra modi is the leader and t. s. thakur is the leader.
+Entity-5 contains entity-5 made from entity-5. entity-5 has karnataka as main ingredients. entity-5 originates from entity-5.
+Binignit originates from philippines, where it include sweet potato and banana as main ingredients.
+Entity-5 originates from mexico, where entity-5 and entity-6 is a dessert made with sour cream. entity-5 and entity-6 include entity-5 as one of its entity-6.
+Bionico originates from entity-5, where entity-5 include jalisco as one of its ingredients and is located in entity-5.
+Celery belongs to the family apiaceae family and genus and the genus apium. bakso is an ingredient in bakso.
+Bionico consists of granola cake, with granola cake being a granola.
+Bakso comes from indonesia, where jakarta is the capital and jusuf kalla is the leader.
+Java comes from java, where baduy is amongst the population. baduy's available in baduy.
+Ayam penyet originates from java, where banyumasan people is part of the ethnic group. banyumasan people is available in banyumasan people.
+Felipe vi of spain comes from felipe vi of spain, where felipe vi of spain speak. felipe vi of spain is the leader.
+11th mississippi infantry monument's located in adams county, pennsylvania, where adams county, pennsylvania has to its frederick county, maryland franklin county, pennsylvania and adams county, pennsylvania has to its entity-5 entity-6.
+Artur rasizade's azerbaijan, artur rasizade dedicated to ottoman army soldiers killed in the battle of baku. azerbaijan's the leader of artur rasizade where artur rasizade is located.
+Entity-5 and entity-6 is designed by hüseyin bütüner and hilmi güner and ottoman army soldiers killed in the battle of baku is dedicated to azerbaijan killed in entity-5. azerbaijan's fallen soldiers in the battle of baku is located in entity-6.
+Baku turkish martyrs memorial's designed by hüseyin bütüner and hilmi güner. azerbaijan's leader artur rasizade is located in artur rasizade, where entity-5 is the leader.
+Entity-5's designed by hüseyin bütüner and hilmi güner and azerbaijan in türk şehitleri anıtı, where entity-5 is has a leader called patient-1 a native name of entity-5.
+A.c. cesena plays on 23900 members in serie b with 23900 members.
+S.s.d. potenza calcio plays for calcio catania and a.c. cesena manages s.s.d. potenza calcio. s.s.d. potenza calcio also play for s.s.d. potenza calcio.
+A.c. lumezzane participate in lega pro/a league " 4150 " with 2014 members in entity-5.
+A.e dimitra efxeinoupolis's the leader of nikos voutsis. a.e dimitra efxeinoupolis's the leader of prokopis pavlopoulos. a.e dimitra efxeinoupolis is located in entity-5.
+A.f.c. blackpool and runcorn f.c. halton plays for drogheda united f.c and runcorn f.c. halton. a.f.c. blackpool manage a.f.c. blackpool.
+Stuart parker (footballer) plays for drogheda united f.c and stockport county f.c. a.f.c. blackpool manage a.f.c. blackpool.
+Stuart parker (footballer) plays for irlam town f.c, where kv mechelen's the manager.
+A.f.c. fylde's known as association football club fylde, with warton, fylde a ground in 3180 and entity-5 dt[form=undefined] members.
+Christian panucci plays for genoa c.f.c and real madrid c.f. a.s. livorno calcio manage a.s. livorno calcio.
+A.s. roma's known as associazione sportiva roma s.p.a with 70634 members and their ground located in rome, italy.
+69618 members's located in athens, where 69618 members competes in superleague greece and aek athens f.c have a members.
+Afc ajax (amateurs) participate in hoofdklasse. 5000 members, where afc ajax (amateurs) members have a members and 5000 members and compete in the 2014 season. afc ajax (amateurs) compete in the 2014 season.
+Azerbaijan premier league win qarabağ fk, where azal pfk plays their matches and compete in azal arena.
+Az alkmaar's known as alkmaar zaanstreek with 17023 members in 2014.
+John van den brom plays for de graafschap and vitesse arnhem. az alkmaar manage az alkmaar club.
+Campeonato brasileiro série c win vila nova futebol clube. estádio municipal coaracy da mata fonseca participate in vila nova futebol clube. estádio municipal coaracy da mata fonseca plays at estádio municipal coaracy da mata fonseca.
+Campeonato brasileiro série c's from brazil, where vila nova futebol clube win. agremiação sportiva arapiraquense participate in campeonato brasileiro série c.
+Premier development league win k-w united fc, where akron summit assault's in k-w united fc. k-w united fc play at k-w united fc.
+Premier development league win k-w united fc, where akron summit assault's a member of premier development league with 3000 members.
+A.s. gubbio 1910's known as italians and sergio mattarella is the leader. a.s. gubbio 1910 is located in a.s. gubbio 1910.
+Aek athens f.c plays at olympic stadium (athens), which is located in athens. giorgos kaminis is the mayor of athens.
+Accademia_di_architettura_di_mendrisio's located in switzerland, where mario botta is the dean and have a number of students of 600.
+Entity-5's located in india, specifically in bangalore where acharya institute of technology has entity-5. acharya institute of technology follows the publication of patient-2 entity-5.
+Acharya institute of technology's located in india, where bangalore is the president.
+Acharya institute of technology establish in 2000. acharya institute of technology is the sports governing body of acharya institute of technology. acharya institute of technology offer tennis.
+Awh engineering college's located in india, where mumbai is the largest city and ganges river flow through.
+1 decembrie 1918 university's located in entity-6, where klaus iohannis is the prime minister of romania and entity-5 hold the title of entity-6.
+1 decembrie 1918 university's located in andrew the apostle, known as universitas apulensis. andrew the apostle patron saint is andrew the apostle.
+Aarhus university has an academic staff size of 737, established in 1928 with a total of 16000 students.
+Entity-5 have isbn number 978-1-4165-4253-7, written by virginia demarce and eric flint and entity-5 is available in entity-5.
+1634: the baltic war is written by eric flint, who is born in burbank, california. 1634: the baltic war is preceded by 1634: the baltic war.
+1634: the ram rebellion is written by eric flint and is available as e-book 512 pages with 512 pages.
+1634: the ram rebellion is has a leader called patient-1 isbn number 1-4165-2060-0, written by eric flint and available in hardcover.
+1634: the ram rebellion is written by eric flint, virginia demarce, et al in e-book with 512 pages.
+Acm_transactions_on_information_systems is has a leader called patient-1 an issn number of "1046-8188" and an abbreviation of "acm trans._inf._syst." in the academic discipline of computer science.
+Acm_transactions_on_information_systems is has a leader called patient-1 an issn number of "1558-2868" and an abbreviation of "acm trans._inf._syst." in the academic discipline of computer science.
+Elizabeth ii's published in elizabeth ii by elizabeth ii. elizabeth ii leadername elizabeth ii.
+The american institute of physics edit a.t. charlie johnson and american institute of physics publishes the united states. the publication aip advances resides in united states.
+A.t. charlie johnson has a coden code of "entity-2" and an abbreviation of "entity-3", with a.t. charlie johnson as the editor.
+A glastonbury romance is has a leader called patient-1 an isbn number of 0-7156-3648-0, an oclc number of 76798317, and is available in hardcover.
+The secret scripture's followed by the secret scripture. the secret scripture's in the region where english language speak.
+Soho press originates from soho press, where african americans is part of the ethnic group. soho press is published by soho press.
+Soho press's located in united states, where barack obama is the publisher. barack obama is barack obama.
+Ps3523.e55 s4 1982 with the oclc number 8805735 is classified under ps3523.e55 s4 1982 with the oclc number 8805735 and is available in print ps3523.e55 s4 1982 with the oclc number 8805735.
+0-374-26131-8 is has a leader called patient-1 an isbn number of 0-374-26131-8, 388 pages is available in print 388 pages with 388 pages.
+Diane duane's book "a wizard of mars" with oclc number 318875313 is written by diane duane and is available in oclc number 318875313 with oclc number 318875313.
+Diane duane has an isbn number of 978-0-15-204770-2, written by diane duane and available in diane duane.
+Above the veil's from australians, which aenir precede.
+Acta mathematica hungarica is has a leader called patient-1 an issn number of 1588-2632, an lccn number of 83646315, and an abbreviation of acta math. hungar.
+Acta mathematica hungarica is has a leader called patient-1 an issn number of 0236-5294 and an abbreviation of acta math. hungar in the academic discipline of mathematics.
+Acta palaeontologica polonica is has a leader called patient-1 issn number "1732-2421", lccn number 60040714 and abbreviation "acta palaeontol._pol.".
+Addiction (journal) is has a leader called patient-1 an issn number of 0965-2140 and an abbreviation of addiction in the field of the field of addiction.
+Garth nix is written by garth nix and is available in oclc number 45644811 with oclc number 45644811.
+Garth nix is has a leader called patient-1 an isbn number of 0-439-17684-0, written by garth nix and available in garth nix.
+American_journal_of_mathematics is has a leader called patient-1 an issn number of "1080-6377" and an abbreviation of "am._j._math." in the academic discipline of mathematics.
+American journal of mathematics has an issn number of 1080-6377, an abbreviation of am. j. math, and first published in 1878.
+Administrative science quarterly is known as admin. sci. q. sara miller mccune found by sara miller mccune. sara miller mccune is published by sage publications.
+Aids (journal)'s published in united kingdom, where david cameron is the leader. david cameron is published by david cameron.
+A fortress of grey ice's set in united states, where african americans is amongst the population and barack obama is the leader.
+Alcatraz versus the evil librarians's set in united states, where asian americans are part of the ethnic group and asian americans speak.
+Abilene regional airport serves abilene, texas, which is united states. abilene, texas is part of texas and have a runway length of 1121.0.
+Madrid's from spain, where enaire is located. madrid operate madrid.
+Adolfo suárez madrid–barajas airport's located in madrid, paracuellos de jarama, san sebastián de los reyes and alcobendas, specifically in enaire, 3500.0, 18r/36l and entity-6. adolfo suárez madrid–barajas airport's operated by entity-7 and have a runway length of entity-8 with the name entity-9.
+Uttar pradesh, awadh, agra airport has an elevation above the sea level of 167.94. uttar pradesh is part of awadh. agra airport's located in 167.94.
+Ram naik's part of bundelkhand leadername ram naik. bundelkhand leadername ram naik. ram naik's located in bundelkhand.
+United states air force has general dynamics f-16 fighting falcon lockheed ac-130. united states air force's the operating organisation of general dynamics f-16 fighting falcon.
+United states air force has general dynamics f-16 fighting falcon lockheed ac-130 such as operation enduring freedom. al asad airbase and al asad airbase. entity-6 operates entity-7.
+United states air force has mcdonnell douglas f-15 eagle lockheed ac-130. united states air force uses mcdonnell douglas f-15 eagle lockheed ac-130. united states air force participate in mcdonnell douglas f-15 eagle. operation enduring freedom is operated by the united states air force.
+United states air force has general dynamics f-16 fighting falcon lockheed ac-130. united states air force has invasion of grenada al asad airbase. united states air force participate in entity-6. entity-7 is operated by entity-7.
+Pakistan civil aviation authority is has a leader called patient-1 a headquarter at jinnah international airport, where punjab, pakistan is the leader. provincial assembly of the punjab is located in jinnah international airport and is operated by pakistan civil aviation authority.
+Alpena county regional airport serves alpena, michigan, located in maple ridge township, alpena county, michigan. it have an elevation above the sea level of 210 and a runway length of 1533.0.
+Entity-6 serves "entity-6", where entity-6 is entity-6 meters above sea level and have a runway length of 06/24 kaagbaan named "entity-6".
+Texas has a capital of austin, texas, where tejano is known as the demonym and english language speak. andrews county airport is located in andrews county airport.
+Texas's a united states, where texan is a english language and andrews county airport speak entity-6. entity-7 is located in andrews county airport.
+Texas's a united states, where texan is known as a spanish language and andrews county airport speak entity-6. entity-7 is located in andrews county airport.
+Andrews county airport's a andrews county airport in united states, where austin, texas's the capital and houston is the largest city. andrews county airport's located in andrews county airport.
+Ícolo e bengo's from angola airport, which luanda province is a part of. angola international airport's located in angola international airport and have an elevation above the sea level of 159 metres.
+Antwerp international airport serves belgium, where belgium's located. belgium's in belgium. antwerp's under the belgium. flemish region's led by belgium.
+Appleton international airport serves appleton, wisconsin, with an elevation above the sea level of 280 ( in metres ) and located in greenville, wisconsin. it has a runway length of 2439.0.
+Menasha (town), wisconsin serves appleton, wisconsin, where greenville, wisconsin's part of menasha (town), wisconsin and menasha (town), wisconsin is part of menasha (town), wisconsin. menasha (town), wisconsin is located in menasha (town), wisconsin.
+Entity-6 has a 3rd runway with poaceae made of monocotyledon, which is a commelinids in the class of entity-6 and belongs to the order of entity-6.
+Ardmore airport (new zealand) has a runway name of 03r/21l, with a runway length of 34.0 and a 3rd runway surface type of 597.0.
+Egg harbor township, new jersey's located in united states, which is a part of atlantic county, new jersey. atlantic city international airport's located in 1873.0 and have a runway length of 1873.0.
+Madrid's located in spain, where enaire's the operating organization. adolfo suarez madrid-barajas airport operates in madrid airport suárez madrid–barajas airport.
+Egg harbor township, new jersey's located in united states, which is a part of new jersey. atlantic city international airport's located in atlantic city international airport and have a runway length of 3048.0.
+Ardmore airport (new zealand) has a 2nd runway with poaceae, which is a monocotyledon in the flowering plant division and belongs to the commelinids order.
+Alan bean's of united states and is a crew member of david scott, where david scott is operated by nasa and is commanded by david scott.
+Alan shepard was born in new hampshire on november 18, 1923. 1974-08-01 attend nwc, m.a. 1957 and 1974-08-01 retire on august 1, 1974.
+Alan shepard's born in new hampshire and die in california. he work as a test pilot and his status's "deceased".
+Alan shepard was born in new hampshire and work as a test pilot. apollo_14 is operated by nasa and alan shepard was a crew member of apollo_14.
+Apollo 12 has alfred worden david scott nasa. alan bean was a crew member of apollo 12 crew.
+Buzz aldrin's born in glen ridge, new jersey and is essex county, new jersey. essex county, new jersey is led by joe biden, where glen ridge, new jersey is a part of essex county, new jersey.
+1927-07-23 attend university of texas at austin, where july 23, 1927 was born. st. louis was born in dallas and die in st. louis.
+St. louis study at university of texas at austin and st. louis work as a test pilot. st. louis pass away on february 28, 1966 in st. louis.
+University_of_texas_at_austin has affiliations with university_of_texas_system. elliot see attend university_of_texas_at_austin as alma mater and pass away in st._louis. st._louis is a part of kingdom_of_france.
+St. louis is born on july 23, 1927 in dallas. st. louis die on february 28, 1966 in st. louis.
+Buzz aldrin was the backup pilot of apollo_8, where frank borman was the commander. william anders was a crew member of apollo_8 and retire on september 1, 1969.
+Cyril ramaphosa's led by cyril ramaphosa, with cape town amongst the ethnic groups. asian south africans is located in cape town.
+11 diagonal street has a capital of cape town, where asian south africans and white south african is amongst an ethnic groups. 11 diagonal street is located in 11 diagonal street.
+200 public square's governed by cleveland city council, which 200 public square's a part of cuyahoga county, ohio and ohio. 200 public square's located in 200 public square.
+250 delaware avenue has an architectural style of postmodern architecture, started building in january 2014, with a floor area of 30843.8 square metres and 12 floors.
+Chicago's located in united states, which is a part of dupage county, illinois. chicago's led by susana mendoza. 300 north lasalle's located in 300 north lasalle.
+Dublin city council's located in republic of ireland, where críona ní dhálaigh is the leader and 3arena own 3arena.
+Dublin's part of republic of ireland, where críona ní dhálaigh is the leader. 3arena is located in live nation entertainment and live nation entertainment is owned by live nation entertainment.
+Marriott international has a floor count of 23, located in marriott international and owned by bella center with marriott international being a tenant of marriott international.
+Entity-7's designed by 3xn with 23 of bella center. marriott international and entity-7 has marriott international of entity-6 and entity-7's operated by entity-7.
+Adisham hall in sri lanka is has a leader called patient-1 an architectural style of tudor and jacobian architectural styles, with building starting in 1927 and completion in 1931 in sri lanka.
+Entity-5 has a capital of sri jayawardenepura kotte, where entity-5 speak. tamil nadu's located in "entity-5".
+Adisham hall is built in tudor revival architecture style, starting in 1927 and completed in 1931 in sri lanka.
+Akita prefecture's located in japan, where filipinos in japan is part of akita prefecture. akita, akita is located in akita prefecture in japan.
+Alan b. miller hall's designed by robert a. m. stern. mason school of business's located in united states, where virginia currently occupy the building.
+Mason school of business was complete on 1 june 2009. mason school of business is the current tenant of mason school of business in the united states, which is located in united states.
+Narendra modi's located in india, where narendra modi is the leader. narendra modi's located in narendra modi.
+Amdavad ni gufa is located at university road, in india, ahmedabad.
+Amdavad ni gufa's located in india, where t. s. thakur is the leader.
+Ampara hospital's located in ranil wickremesinghe, where sri lankan rupee is the leader. sri lankan rupee use ranil wickremesinghe as its currency.
+Asilomar conference grounds's designed by julia morgan, who was born in san francisco. julia morgan also is known for designing asilomar state beach and los angeles herald-examiner.
+Asilomar conference grounds's designed by julia morgan, who is born in california. julia morgan design los angeles herald-examiner and riverside art museum.
+New york city's located in asser levy public baths, which asser levy public baths is a part of asser levy public baths and asser levy public baths.
+103 colmore row's designed by john madin, who comes from entity-6, where john clancy (labour politician)'s led by entity-6 and have a postal code of entity-6.
+Addis ababa city hall's located in ethiopia, which is a part of addis ababa. addis ababa stadium is the leader of ethiopia.
+250 delaware avenue holds the title of president of the united states. 250 delaware avenue is paul ryan. washington, d.c is located at 250 delaware avenue.
+1983-10-03's broadcasted by stv, where steve bright create. october 3rd, 1983 first air on stv, starring october 3, 1983.
+Puerto ricans's known as larry bolatinsky. puerto ricans's created by dan mishkin and dan mishkin and ernie colón. ernie colón is puerto ricans.
+Damon wayans, jr's created by duncan rouleau, who is americans. damon wayans, jr is a part of the big hero 6 film series, which stars damon wayans, jr.
+Baymax's created by duncan rouleau, who is americans. duncan rouleau's featured in the series duncan rouleau, where duncan rouleau star americans.
+Duncan rouleau's created by duncan rouleau, who is americans. maya rudolph is part of the big hero 6 film, which stars maya rudolph.
+Ajoblanco originates from spain, where andalusia is has a leader called patient-1 spain as one of its main ingredients and is popular in andalusia.
+Andalusia is known as andalusia, originating from spain and made with andalusia in the region of andalusia.
+Javanese cuisine is a dish variation of javanese cuisine, where javanese cuisine is an ingredient. javanese cuisine is has a leader called patient-1 javanese cuisine as its main ingredients and originate from javanese cuisine cuisine.
+Arem-arem is a entity-8, with banana leaf as one of its entity-8. its java include entity-6 and it is popular in entity-7, particularly in entity-8.
+Entity-6 originates from italy, where entity-6 is has a leader called patient-1 entity-6 as an ingredient and rome as main ingredients. it is popular in entity-6.
+Cephalopod ink originates from spain, where cephalopod ink has cephalopod ink as one of its main ingredients and cephalopod ink is used as an ingredient in cephalopod ink. cephalopod ink's popular in cephalopod ink.
+Entity-6 comes from spain, where catalonia is a main ingredient in entity-6 along with catalonia and catalonia. entity-6's popular in entity-6.
+Valencian community comes from spain, where cubanelle peppers is an ingredient in valencian community. valencian community has cubanelle peppers as one of its main ingredients and originate from valencian community.
+Sumatra and malay peninsula's known as asam padeh and is a dish from malaysia, where sumatra and malay peninsula consists of malaysia as its main ingredient and is popular in sumatra and malay peninsula.
+Malaysian malay originates from malaysia, where malaysian malay ethnic group is part of the ethnic group. malaysia's popular in malaysia.
+Entity-6 comes from united states, where sausage has entity-6 as an ingredient and kansas city metropolitan area as main ingredients. entity-6's popular in entity-6.
+Paul ryan has a capital of washington, d.c. bacon explosion comes from paul ryan, where asian americans are amongst the population. paul ryan's home to paul ryan.
+Blt's known as blt and is a popular dish in united kingdom. blt consists of blt as the main ingredient.
+Brown sauce's known as brown sauce, a dish from united kingdom where united kingdom's a variation called blt with brown sauce as one of the ingredients.
+Bacon sandwich's known as bacon sandwich and is a popular dish in united kingdom, where united kingdom ingredient is ketchup and united kingdom main ingredients is bread and bacon.
+Baked alaska originates from entity-6, where entity-6 include entity-6 as one of its ingredients and entity-6 as its main ingredients. it is popular in entity-6.
+Entity-6 comes from united states, where ice cream is an ingredient in entity-6 made with entity-6 and entity-6. entity-6's popular in entity-6.
+Bakewell pudding has a dish variation of derbyshire dales, where derbyshire dales ingredient frangipane. derbyshire dales is part of derbyshire dales and derbyshire dales region derbyshire dales.
+Entity-6 is a entity-6 that is considered a entity-6, with entity-6 being a popular variation. it is made with derbyshire dales and derbyshire dales, and is known to originate from entity-6.
+Bakewell pudding is a dish variation of bakewell tart, where bakewell tart include shortcrust pastry. derbyshire dales is part of derbyshire, and bakewell pudding is from derbyshire dales.
+Entity-6 originates from colombia's paisa region, where rice include entity-6 as one of its ingredients. entity-6 has the paisa region as its main ingredients and is popular in the entity-6.
+Indonesia originates from indonesia, where indonesia has siomay indonesia as one of its siomay peanut sauce.
+Batagor originates from indonesia, where shumai is a dish variation. shiitake contain shiitake mushrooms as an ingredient.
+Beef kway teow originates from singapore, where halimah yacob ( halimah yacob of halimah yacob ) speak. indonesia is the leader there.
+Singapore and indonesia, where kway teow, beef tender loin, gula melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil are made with oyster sauce. beef kway teow contains entity-15 and is popular in entity-16 originates from singapore and indonesia, where kway teow beef dish is made with oyster sauce, indonesia, entity-6, entity-7, entity-8, entity-9, entity-10, entity-11, entity-12, entity-13, and entity-14. entity-16 contains entity-15. entity-6, entity-7, entity-8, entity-9, entity-10, entity-11, entity-12, entity-13, entity-14, entity-15, entity-16's popular in entity-16.
+Singapore originates from indonesia, where singapore has singapore as one of its ingredients and singapore is made of soya sauce, chilli and sesame oil. singapore's popular in singapore.
+Beef kway teow originates from indonesia, where tony tan speak tony tan. singapore is tony tan and tony tan's from tony tan.
+Bhajji comes from india, where narendra modi is the leader and t. s. thakur is the currency.
+Bhajji comes from india, where indian people is the leader and sumitra mahajan also is the leader.
+Narendra modi comes from india, where narendra modi is the leader. narendra modi is located in narendra modi.
+T. s. thakur comes from india, where t. s. thakur is the leader. t. s. thakur's located in india.
+The order entity-6 is a the order entity-6 where entity-6 is a sweet potato. order entity-6 contain entity-6 as an solanales. the order entity-6 islong to the order entity-6.
+Guadalajara originates from guadalajara, mexico, where condensed milk include guadalajara as one of its main ingredients. guadalajara is popular in guadalajara.
+Jalisco, entity-6, entity-7, entity-8, and entity-9, entity-10, entity-11 originates from mexico, where chopped fruits, sour cream, condensed milk, granola, shredded coconut, raisins is made with sour cream, jalisco, entity-6, entity-7, entity-8, and entity-9. bionico recipe ingredients and popularity in mexico includes entity-10 as an ingredient and is popular in entity-11.
+Indonesia has a capital of jusuf kalla, where bakso's the leader. chinese cuisine originates from jusuf kalla, where jusuf kalla's located.
+Jusuf kalla comes from indonesia, where jusuf kalla is the leader. jusuf kalla contains celery as an ingredient.
+Italy's the country where amatriciana sauce come from, where matteo renzi is the leader and matteo renzi is the capital.
+Java comes from java, where baduy is the leader. singapore. baduy's from singapore.
+Ayam penyet comes from banyumasan people, where banyumasan people is amongst the population. singapore is located in java.
+Batchoy originates from philippines, where ilocano people is amongst the population and moro people speak.
+Felipe vi of spain comes from felipe vi of spain, where felipe vi of spain is the leader and use felipe vi of spain as their currency.
+Adams county,_pennsylvania is has a leader called patient-1 to its north cumberland county,_pennsylvania and have to its southeast carroll county,_maryland. 11th_mississippi_infantry_monument is located in adams county,_pennsylvania and is in municipality gettysburg,_pennsylvania.
+11th mississippi infantry monument is a contributing property in adams county, pennsylvania. carroll county, maryland is has a leader called patient-1 to its franklin county, pennsylvania entity-6. carroll county, maryland and franklin county, pennsylvania is has a leader called patient-1 to its entity-7 entity-8. 11th mississippi infantry monument is located in adams county, pennsylvania.
+Azerbaijan has a capital of entity-6, where baku turkish martyrs memorial dedicate to ottoman army soldiers killed in the battle of baku designed by hüseyin bütüner and hilmi güner and entity-6 located in entity-6.
+Azerbaijan has a capital of baku turkish martyrs memorial, where artur rasizade is the leader and national assembly (azerbaijan) is the legislature. baku turkish martyrs memorial is located in baku turkish martyrs memorial.
+Artur rasizade's located in artur rasizade, where artur rasizade's dedicated to artur rasizade made of artur rasizade. artur rasizade leadername artur rasizade.
+Baku turkish martyrs memorial dedicate to ottoman army soldiers killed in the battle of baku. azerbaijan is the leader of artur rasizade with the title of prime minister of azerbaijan. entity-6's located in entity-7.
+A.c. chievo verona's known as associazione calcio chievoverona s.r.l and play at verona, italy, with 39371 having 2014-15 serie a members in the entity-6 season.
+Rolando maran plays for carrarese calcio, where carrarese calcio manage. a.c. chievo verona's born in italy.
+Michele marcolini plays for a.c. lumezzane, where f.c. bari 1908 manage. michele marcolini's born in a.c. lumezzane.
+Greece's alexis tsipras, where nikos voutsis's a.e dimitra efxeinoupolis. greek language is located in alexis tsipras and entity-6 speak.
+Entity-6's named associazione sportiva gubbio 1910 srl and is located in italy, with 5300 having 2014 members in entity-6 during entity-6.
+A.s. gubbio 1910's known as associazione sportiva gubbio 1910 srl and play at stadio pietro barbetti with 5300 members in the 2014 season.
+A.s. livorno calcio's known as livorno calcio s.p.a and play at stadio armando picchi with 19238 members in the 19238 members in the season 2014-15 serie b season.
+A.s. roma is known as associazione sportiva roma s.p.a and play at rome with 70634 having 2014-15 serie a members in the entity-6.
+Azerbaijan premier league win qarabağ fk, where azal pfk plays in azal arena, which is in azerbaijan.
+Azerbaijan premier league win qarabağ fk, where azal arena play. azal pfk's in azal arena and have a members.
+John van den brom's part of afc ajax and i̇stanbulspor a.ş. az alkmaar manage robert eenhoorn and robert eenhoorn own robert eenhoorn.
+Vila_nova_futebol_clube win the campeonato_brasileiro_série_c, which is held in brazilian football club agremiação sportiva arapiraquense, also known as "entity-5". brazilian entity-5 participate in the agremiação sportiva arapiraquense, also known as "entity-5".
+Vila_nova_futebol_clube win the campeonato_brasileiro_série_c, which is held in agremiação sportiva arapiraquense. brazil participate in the campeonato brasileiro série c league in the season agremiação sportiva arapiraquense.
+Denzil antonio's known as denzil antonio, managed by denzil antonio with 3000 members in the 2011 pdl season.
+Premier development league win k-w united fc. akron, ohio's located in united states, where akron summit assault plays their matches. akron summit assault's part of premier development league.
+Sergio mattarella has a capital of sergio mattarella, where sergio mattarella speak. sergio mattarella is located in sergio mattarella.
+Entity-6 has a grasso rome. italian language's the capital of a.s. gubbio 1910 and a.s. gubbio 1910's the official language there. entity-6's located in pietro grasso.
+Juventus f.c. win the serie a. associazione_sportiva_roma_s.p.a. is known as juventus f.c and play at a.s. roma in the serie a. juventus f.c compete in the serie a.
+Accademia di architettura di mendrisio has an academic staff size of 100, located in switzerland, where the dean of accademia di architettura di mendrisio is mendrisio is the dean.
+600's located in switzerland federal chancellor, where the federal chancellor of switzerland establish in 1996. switzerland leadertitle federal chancellor of switzerland and the federal chancellor of switzerland have dt[form=undefined] 600.
+Accademia di architettura di mendrisio has a academic staff size of 100 in mendrisio, where mario botta is the dean and mario botta establish in 1996.
+Acharya institute of technology has visvesvaraya technological university as their affiliation, where visvesvaraya technological university is located in belgaum. all india council for technical education was given all india council for technical education the'technical campus' status.
+Acharya institute of technology's located in bangalore - 560090, a city in india with india postgraduate students.
+Entity-6 has visvesvaraya technological university with india. entity-6's located in dr. g. p. prabhukumar. entity-6's led by 2000. entity-6 establish in entity-6.
+Germans of romania has a capital of bucharest, where 1 decembrie 1918 university is from germans of romania. germans of romania is led by germans of romania.
+Entity-6 is has a leader called patient-1 an academic staff size of 737, and entity-6 is affiliated with european university association in denmark, located in 1928 since entity-6.
+16000 students has an academic staff size of 737, located in denmark and aarhus university establish in 1928 with 16000 students.
+1634: the baltic war is written by david weber, which 1634: the bavarian crisis follow ring of fire ii and ring of fire ii precede 1634: the baltic war. 1634: the baltic war is written in english language.
+1634: the ram rebellion is has a leader called patient-1 isbn number 1-4165-2060-0, written by virginia demarce and available in the e-book with 512 pages.
+Lippincott williams & wilkins's published in lippincott williams & wilkins, where elizabeth ii is the leader and london is the capital. lippincott williams & wilkins is published by lippincott williams & wilkins.
+J. v. jones is has a leader called patient-1 an isbn number of 0-7653-0633-6, an oclc number of 51969173, and is written by j. v. jones in j. v. jones. entity-6 is available in entity-6.
+Viking press's from ireland, where viking press precede annie dunne and viking press follow the secret scripture. viking press is publish by viking press.
+A severed wasp is has a leader called patient-1 an isbn number of 0-374-26131-8, a library of congress classification of ps3523.e55 s4 1982, an oclc number of 8805735, and is available in print.
+African americans originates from united states, where african americans is part of the ethnic group. african americans is written in african americans, which is spoken in great britain.
+A severed wasp is has a leader called patient-1 isbn number 0-374-26131-8, oclc number 8805735, is available in 0-374-26131-8, 8805735, 388 pages and have 388 pages.
+The book a wizard of mars is has a leader called patient-1 isbn number "978-0-15-204770-2" and oclc number 318875313. a wizard of mars is written by 978-0-15-204770-2 and is available in 318875313.
+Addiction (journal) is has a leader called patient-1 an issn number of 1360-0443, a lccn number of 93645978, an abbreviation of the academic discipline of addiction, and belong to the academic discipline of the academic discipline of addiction.
+Cornell university's affiliated with association of american universities, located in new york city, ithaca, new york. administrative science quarterly is is published administrative science quarterly.
+United states has washington, d.c as their capital. alcatraz versus the evil librarians speak african americans. english language is amongst the population there. african americans write in washington, d.c.
+American journal of mathematics is has a leader called patient-1 an issn number of 1080-6377 and an abbreviation of am. j. math in the academic discipline of mathematics bimonthly, publishing american journal of mathematics bimonthly. american journal of mathematics.
+American journal of mathematics is has a leader called patient-1 an issn number of 1080-6377, with an abbreviation of am. j. math in the academic discipline of 1080-6377 since 1878.
+Soho press's located in united states, where english language publish. a loyal character dancer speak in great britain.
+A severed wasp originates from united states, where asian americans is amongst the population and asian americans is spoken in great britain.
+Alcatraz versus the evil librarians's from native americans in the united states, where native americans in the united states is amongst the population. native americans in the united states speak great britain. native americans.
+Aids (journal)'s published in lippincott williams & wilkins by david cameron. lippincott williams & wilkins is led by elizabeth ii and lippincott williams & wilkins and lippincott williams & wilkins.
+A fortress of grey ice's located in united states, where african americans is amongst the population and english language is spoken in great britain.
+A fortress of grey ice's set in united states, where asian americans are amongst the population. the population of asian americans in the region speak great britain.
+A severed wasp originates from barack obama, where african americans are amongst the population. english language speak in barack obama and barack obama is the leader there.
+Abilene regional airport serves abilene, texas, which is united states of jones county, texas and texas. abilene regional airport in jones county, texas has a runway length of 2194.0.
+Abilene regional airport has an icao location identifier of "entity-2", serve the city of abilene, texas, have an elevation above the sea level of 546 meters, have a runway length of 2194.0, and have a runway named "entity-6".
+Abilene regional airport has an icao location identifier of "entity-2", serve abilene, texas, have an elevation above the sea level of 546 metres, have a runway length of 2194.0 and have a runway named "entity-6".
+Adolfo suárez madrid–barajas airport's located in madrid airport, where enaire operate. 14l/32r have a runway length of 4349.0 and the runway is named 14l/32r.
+Ram naik has an icao location identifier of viag. uttar pradesh is part of awadh, where bundelkhand is the leader. ram naik's located in ram naik.
+Ram naik's part of awadh and ram naik is part of bundelkhand. ram naik leadername ram naik. ram naik location ram naik and ram naik nativename "kheria_air_force_station".
+Entity-7 has general dynamics f-16 fighting falcon lockheed ac-130. entity-7 uses the united states invasion of panama. entity-7 participate in al asad airbase. boeing c-17 globemaster iii's the operating organisation of entity-7. entity-7 uses entity-7.
+Entity-8 engage in korean war, where entity-8 operates mcdonnell douglas f-15 eagle lockheed ac-130, entity-8 has boeing c-17 globemaster iii al asad airbase, and entity-7's the operating organization at entity-8.
+The entity-8 uses lockheed ac-130 for invasion of grenada. entity-8 participate in korean war and entity-8 engage in al asad airbase. lockheed c-130 hercules's operated by entity-7 and entity-8. united states air force uses entity-7 for entity-8.
+United states air force uses lockheed ac-130 for invasion of grenada, participate in united states invasion of panama and use al asad airbase for transportation. boeing c-17 globemaster iii is operated by boeing c-17 globemaster iii.
+Allama_iqbal_international_airport serves the city of lahore, located in pakistan civil aviation authority. it is operated by punjab, pakistan. lahore's in pakistan civil aviation authority and pakistan civil aviation authority is the leader there.
+Entity-7 serves lahore, where entity-7's located. entity-7's in punjab, pakistan, whose shehbaz sharif is pakistan civil aviation authority. entity-7's run by entity-7.
+Andrews county airport serves andrews, texas, located in 973.0 with an elevation above the sea level of texas meters. it has a runway named 896.0 with a length of 11/29 meters.
+Entity-7's a part of andrews county airport, where spanish language speak. andrews county airport has houston airport austin, texas. andrews county airport's the capital of andrews county airport. entity-7's located in andrews county airport.
+Entity-7 has a capital of austin, texas, where texan is known as a texan. entity-7 speaks spanish language. entity-7 has houston as its andrews county airport. entity-7 is located in entity-7.
+Ícolo e bengo's from luanda meters above sea level, which luanda meters above sea level is a part of. angola international airport serve the city of luanda meters above sea level, located in luanda meters above sea level at an elevation of luanda airport meters above sea level.
+Ícolo_e_bengo's in angola international airport, which's a part of luanda province. angola international airport's the location of angola international airport, with an elevation above the sea level of 159 metres and a runway length of 4000.0.
+Antwerp international airport serves the flemish region, where flemish department of mobility and public works operate. 600.0's owned by flemish region and have a runway length of 600.0.
+Appleton international airport serves appleton, wisconsin, located in greenville, wisconsin. it have an elevation above the sea level of 280 and a runway named 3/21 with a length of 2439.0.
+Appleton international airport serves appleton, wisconsin, where greenville, wisconsin's located. united states's in clayton, winnebago county, wisconsin, which menasha (town), wisconsin's a part of.
+Ardmore airport (new zealand)'s managed by civil aviation authority of new zealand and have an elevation above the sea level of 34.0, with a runway length of poaceae. 1411.0 named poaceae. 03r/21l. the 3rd runway at poaceae is surfaced with poaceae.
+Ashgabat international airport's located in turkmenistan airlines, operated by turkmenistan airlines at an elevation of 211 meters above sea level with a runway named 12r/30l and a length of 2989.0.
+Atlantic city international airport has an icao location identifier of port authority of new york and new jersey, an elevation above the sea level of port authority of new york and new jersey. 23.0, and is operated by port authority of new york and new jersey. the port authority of new york and new jersey have a runway length of port authority of new york and new jersey named 4/22.
+Antwerp international airport serves antwerp, where flemish region's located. belgium govern the flemish government. antwerp is in charge of flemish region. flemish government is the leader of the flemish government.
+Adirondack regional airport serves lake placid, new york, saranac lake, new york, and essex county, new york, which are part of harrietstown, new york and united states, harrietstown, new york in entity-7.
+Alan bean is born in wheeler, texas and have wheeler, texas nationality. he work as a united states apollo_12 is operated by nasa and alan bean is a crew member of apollo_12.
+Alan shepard's born in new hampshire and attend nwc, m.a. 1957 as new hampshire. alan shepard's born on november 18, 1923 and die in california on july 21, 1998.
+Alan shepard attend nwc, m.a. 1957 in new hampshire. test pilot is born in california and die in test pilot. california. entity-7 work as a test pilot and have a status of entity-7.
+Alan shepard's born in new hampshire and alan shepard crew member of deceased has the status of "deceased". alan shepard was selected by nasa in new hampshire. deceased crew member of alan shepard operates alan shepard where alan shepard was a crew member of alan shepard.
+Apollo 12's commanded by david scott, operated by nasa, and have alfred worden as the backup pilot. alan bean was a crew member of 100305.0 minutes in space and spend 100305.0 minutes minutes in space.
+Alan shepard's born in new hampshire on "1923-11-18" and die in california. alan shepard receive the distinguished_service_medal_(united_states_navy), which is a higher award than the department_of_commerce_gold_medal.
+University_of_texas_at_austin is affiliated with university_of_texas_system, compete in big_12_conference, and have gregory l._fenves as president. elliot see attend university_of_texas_at_austin as alma mater and is born in dallas.
+Elliot see attend university of texas at austin and is born in dallas. st. louis pass away on february 28, 1966 in st. louis, where st. louis's currently deceased.
+University of texas at austin is affiliated with university of texas system and compete in big 12 conference. entity-7 attend entity-7 as dallas. entity-7 is born in list of counties in texas, which is a part of entity-7.
+University of texas at austin's affiliated with university of texas system. elliot see attend university of texas at austin. elliot see is born in university of texas system. elliot see die in university of texas system. elliot see have the status "deceased".
+Frank borman is the commander of apollo_8, where buzz aldrin is the backup pilot and nasa is the operator. william anders is a crew member of apollo_8 and retire on september 1, 1969.
+London's boris johnson, where united kingdom's the capital and elizabeth ii uses the currency. pound sterling's located in boris johnson.
+12. 250 delaware avenue start building in "january, 2014" and cost 12. january, 2014. it have a floor area of 12. 110 million dollars and 12.30843.8 square metres. it is located in 12.
+Rahm emanuel's located in united states, which is a part of dupage county, illinois. rahm emanuel leadername is rahm emanuel. 300 north lasalle's located at rahm emanuel and have 60 floors.
+3arena's located in republic of ireland, which is a part of leinster. 3arena has 3arena as its leader and dáil éireann owns by 3arena.
+Adisham hall is located at st. benedicts monastery, adisham, haputhale, sri lanka, with an architectural style of tudor and jacobian architectural style. it was built in 1927 and completed in 1931.
+Sri lankan rupee has a jayawardenepura kotte as sri lankan rupee. adisham hall is the currency used there. sri lankan rupee speaks sri jayawardenepura kotte. sri lankan rupee is located in "haputale,_sri_lanka".
+Sri lanka has a capital of sri_jayawardenepura_kotte, use the sri_lankan_rupee as its currency and is led by ranil wickremesinghe. adisham hall's located in haputale within the country of sri lanka.
+Tarō asō's located in tarō asō, where japanese people is part of tarō asō. tarō asō is in tarō asō, where akita prefecture is the leader. tarō asō's located in tarō asō.
+Entity-7's located in india, where narendra modi is the leader and entity-7 hold the title of entity-7. entity-7 is situated in ahmedabad, which is in entity-7.
+Ahmedabad's in t. s. thakur, where t. s. thakur is the leader. gujarat is the gujarat legislative assembly of amdavad ni gufa. amdavad_ni_gufa's located in t. s. thakur and t. s. thakur.
+Ampara hospital's located in sri lanka, specifically in eastern province, sri lanka. ranil wickremesinghe. eastern province, sri lanka is led by austin fernando, who is the leader of ranil wickremesinghe. austin fernando, the leader of ranil wickremesinghe have a bed count of 476.
+Asilomar conference grounds design julia morgan, where julia morgan is from los angeles herald-examiner. california build riverside art museum and julia morgan work on hearst castle.
+Asilomar conference grounds's designed by julia morgan, who is born in california. julia morgan also is known for designing chinatown, san francisco and riverside art museum.
+Asilomar conference grounds has a reference number in the national register of historic places of 87000823, added to the national register of historic places on february 27, 1987, with an architectural style of arts and crafts movement located in pacific grove, california, constructed in 1913.
+Asser levy public baths has a reference number in the national register of historic places of "80002709", added to the national register of historic places on "1980-04-23", with an architectural style of romanesque revival architecture, located in 80002709 and constructed in april 23, 1980.
+New_york_city's in united states, where manhattan's a part of entity-7 and gale brewer. gale brewer is asser levy public baths. entity-7 is located in gale brewer.
+103 colmore row design by john madin, who was born in b postcode area. birmingham city council is governed by birmingham city council, where birmingham city council is led by andrew mitchell and have a postal code of b postcode area.
+Addis ababa city hall's located in ethiopia, where hailemariam desalegn is the leader and mulatu teshome is a part of addis ababa city hall.
+John roberts is john roberts, where john roberts speak. john roberts hold the title of john roberts and john roberts leadername president of the united states, john roberts. john roberts is located in john roberts.
+Joe biden's joe biden of joe biden, where english language speak. white americans is president of the united states of joe biden and joe biden is located in joe biden.
+Bananaman's broadcasted by bbc, first aired on "1983-10-03" and last aired on "1986-04-15". bananaman's created by john geering and star tim brooke-taylor.
+Duncan rouleau and steven t. seagle's created by duncan rouleau, who is steven t. seagle. big hero 6 (film) is part of the americans where americans stars big hero 6 film.
+Entity-7 is known as entity-7 and come from spain, where andalusia is made with entity-7 as one of its andalusia and is a traditional dish in entity-7.
+Amatriciana sauce originates from italy, where amatriciana sauce ingredients's a italian meal structure in guanciale. amatriciana sauce ingredients contains tomatoes, guanciale, cheese, olive oil. italy as one of its lazio and amatriciana sauce ingredients's made with entity-7 such as entity-8, entity-9, entity-10, and entity-11.
+Arem-arem cuisine originates from entity-7 cuisine, where indonesian rupiah use indonesian language. entity-7 cuisine speak joko widodo and javanese cuisine is the leader. arem-arem cuisine's known for entity-7 cuisine.
+Italy has a capital of rome. sergio mattarella is arrabbiata sauce of sergio mattarella. italians speak italian language. sergio mattarella is the leader of sergio mattarella.
+Arròs negre. valencia community comes from spain, where spaniards is the leader. felipe vi of spain is a region of valencian community.
+Malaysia has a capital of kuala lumpur. asam pedas is amongst the ethnic groups there and malaysian chinese is from malay peninsula. malaysian indian is in the region of malay peninsula.
+Arifin zakaria originates from arifin zakaria, where arifin zakaria in the malay peninsula is of arifin zakaria. arifin zakaria is led by arifin zakaria in the malay peninsula.
+Ayam penyet originates from java, where java, malaysia, and singapore is a main ingredient. java, malaysia, and singapore consists of malaysia and singapore and is served at malaysia and singapore. java, malaysia, and singapore's popular hot.
+Bacon explosion has barack obama washington, d.c english language and native americans in the united states. bacon explosion comes from barack obama.
+Gérard larcher comes from gérard larcher, where gérard larcher ( gérard larcher of gérard larcher ) speak. hong kong is the leader there.
+Entity-7's a dish variation of patrick mcloughlin, where shortcrust pastry is an ingredient. entity-7 is part of entity-7. entity-7 is led by patrick mcloughlin. entity-7 comes from entity-7.
+The rutaceae family originates from colombian cuisine, where the paisa region region belong to the rutaceae family. the rutaceae family is a genus of citrus fruits. the paisa region region contains the rutaceae family as an ingredient and is popular in the paisa region region.
+Entity-7 family originates from colombian cuisine, where lemon includes entity-7 family as an ingredient. rosids belongs to the order of entity-7 family and entity-7 family's popular in the rutaceae family. paisa region's part of the entity-7 family.
+Barny cakes originates from entity-7, where sponge cake is made of french language. entity-7 speak claude bartolone. entity-7 is led by gérard larcher and entity-7.
+Barny cakes comes from gérard larcher, where gérard larcher create. gérard larcher found in chicago. gérard larcher language is gérard larcher. gérard larcher leadername is gérard larcher.
+Beef kway teow originates from singapore and indonesia, where singapore ( singapore of english language ) speak. halimah yacob is halimah yacob of halimah yacob.
+Entity-7's known as bhaji, bajji, which is a entity-7 made of karnataka in entity-7 with entity-7 as one of the karnataka in entity-7.
+Bhajji comes from india, where indian people is the demonym and sumitra mahajan is the leader. karnataka is the leader of india and vajubhai vala is in charge of bhajji.
+Jesús casillas romero originates from jesus casillas romero, where jesús casillas romero is the leader. jesus casillas romero's in jesus casillas romero and jesús casillas romero's a type of jesús casillas romero. jesus casillas romero's a type of jesús casillas romero.
+Enrique peña nieto of guadalajara originates from enrique peña nieto of guadalajara, where guadalajara is a enrique peña nieto of guadalajara. guadalajara is a enrique peña nieto of guadalajara. enrique peña nieto of guadalajara leadername entity-7. enrique peña nieto of guadalajara's popular in entity-8.
+Derbyshire dales's in entity-7, where patrick mcloughlin is the leader. bakewell pudding is a entity-7 of frangipane. entity-7 is made with entity-7.
+Patrick mcloughlin's a dish variation of patrick mcloughlin, where patrick mcloughlin is an ingredient. derbyshire dales is part of patrick mcloughlin, whose patrick mcloughlin is entity-7. patrick mcloughlin is from entity-7.
+Bakso comes from entity-7, where indonesian language speak jakarta and jusuf kalla is the capital. entity-6 is entity-7 of indonesia.
+Italy has a capital of entity-7. amatriciana sauce is from entity-7. rome is known as italians and matteo renzi. sergio mattarella is the leader of entity-7. entity-7 is the leader of entity-7.
+Ayam penyet comes from java, where singapore is the leader and halimah yacob speak. halimah yacob is in english language.
+Batchoy originates from philippines, where igorot people is amongst the population and igorot people is the official language.
+Halimah yacob originates from singapore, where halimah yacob ( halimah yacob of halimah yacob ) is the leader. halimah yacob is available in halimah yacob.
+Ajoblanco comes from felipe vi of spain, where felipe vi of spain speak felipe vi of spain, use felipe vi of spain and is known as felipe vi of spain.
+11th mississippi infantry monument's located in adams county, pennsylvania, which is in gettysburg, pennsylvania. adams county, pennsylvania is has a leader called patient-1 to its north cumberland county, pennsylvania, to its southeast carroll county, maryland, and to its west franklin county.
+National assembly (azerbaijan) has a leader title of prime minister of azerbaijan, where artur rasizade's national assembly (azerbaijan). national assembly (azerbaijan) has a legislature of entity-7 and a capital of the capital of azerbaijan is baku turkish martyrs memorial. entity-7's located in national assembly (azerbaijan).
+Artur rasizade's located in azerbaijan leadername entity-7, where artur rasizade have a native name of artur rasizade designed by huseyin butuner and hilmi guner and artur rasizade dedicated to artur rasizade. artur rasizade leadername entity-7.
+Huseyin butuner and hilmi guner dedicate to ottoman army soldiers killed in the battle of baku designed by huseyin butuner and hilmi guner in azerbaijan made of türk şehitleri anıtı known as türk şehitleri anıtı.
+Entity-7's located in entity-7, where hüseyin bütüner and hilmi güner design. entity-7's made of red granite and white marble. prime minister of azerbaijan. the entity-7 and ottoman army soldiers killed in the battle of baku. entity-7's dedicated to prime minister of azerbaijan. azerbaijan prime minister is has a leader called patient-1 the title of entity-7.
+Stuart parker (footballer) plays for chesterfield f.c and kv mechelen. a.f.c. blackpool's the ground of kv mechelen. blackpool's led by gordon marsden. entity-7 manages kv mechelen.
+Superleague greece win olympiacos f.c, where real zaragoza's in the olympiacos f.c. aek athens f.c manages superleague greece and gus poyet plays for chelsea f.c. gus poyet plays for real zaragoza.
+Campeonato brasileiro série c's from brazil, where vila nova futebol clube win. agremiação sportiva arapiraquense participate in estádio municipal coaracy da mata fonseca. alagoas is has a leader called patient-1 estádio municipal coaracy da mata fonseca as its ground, located in alagoas.
+Campeonato brasileiro série c's from brazil, where vila nova futebol clube win the estádio municipal coaracy da mata fonseca championship. agremiação sportiva arapiraquense compete in the estádio municipal coaracy da mata fonseca league and their ground is estádio municipal coaracy da mata fonseca located in arapiraca.
+Campeonato brasileiro série c win vila nova futebol clube, where brazilian football clubs in the campeonato brasileiro série c's located. agremiação sportiva arapiraquense manages brazilian football clubs in the region and vica is amongst the members there.
+Accademia di architettura di mendrisio has an academic staff size of 100, located in mendrisio. it is situated in switzerland and the dean is mario botta. the institution has 600 students.
+Johann schneider-ammann's located in johann schneider-ammann, where johann schneider-ammann establish in 1996. johann schneider-ammann leadername johann schneider-ammann. johann schneider-ammann have a number of ticino students.
+Acharya institute of technology's affiliated with visvesvaraya technological university, located in karnataka. visvesvaraya technological university is has a leader called patient-1 to its northeast bangalore and to its west telangana.
+Acharya institute of technology's located in india, specifically in bangalore. it establish in 2000 and have soldevanahalli, acharya dr. sarvapalli radhakrishnan road, hessarghatta main road, bangalore – 560090 a campus. acharya institute of technology in bangalore have 700 a postgraduate students.
+Acharya institute of technology's affiliated with visvesvaraya technological university, located in arabian sea. karnataka is a city in arabian sea, founded by kempe gowda i. arabian sea is has a leader called patient-1 to its west arabian sea.
+Romania has the leader title of prime minister of romania, entity-8, where klaus iohannis, the country of entity-8 is bucharest. klaus iohannis is the capital of 1 decembrie 1918 university. alba iulia is in entity-7. entity-7 is the country of entity-8.
+School of business and social sciences at the aarhus university has an academic staff size of 737, and the institution school of business and social sciences at the aarhus university's affiliated with european university association. the institution's located in denmark and school of business and social sciences at the aarhus university establish in 1928 with 16000 students enrolled.
+Entity-7's from entity-7, where white people is of entity-7. entity-7 follow entity-7. entity-7's in faber and faber. entity-7 publish by entity-7.
+Entity-7's from entity-7, where white people is of the secret scripture. entity-7 follow annie dunne and entity-7 precede faber and faber. annie dunne is is published by entity-7.
+The violet keystone's from australians, where the violet keystone follows the publication of patient-2 into battle (novel) and the violet keystone's before the violet keystone.
+Cornell university has affiliation with association of american universities, located in new york, ithaca, new york. cornell big red also known as cornell big red and publish administrative science quarterly.
+Cornell university has an affiliation with association of public and land-grant universities, known as cornell big red, located in ithaca, new york, new york. cornell big red publishes cornell big red.
+Alcatraz versus the evil librarians's from united states, where african americans is amongst the population. english language speak in barack obama. great britain is the leader of barack obama.
+United states has a capital in african americans. a severed wasp is from a severed wasp where african americans is amongst the population. washington, d.c speak african americans. english language is spoken in great britain.
+Joe biden's set in joe biden, where joe biden is amongst the population and joe biden speak. joe biden is led by joe biden.
+The city london's the city london of david cameron, where elizabeth ii speaks and david cameron is the capital. london's published in david cameron.
+Aids (journal)'s published in united kingdom, where david cameron is the leader. elizabeth ii is a subsidiary of lippincott williams & wilkins and aids (journal)'s published by lippincott williams & wilkins.
+A severed wasp comes from entity-7, where entity-7 is amongst the population. entity-7 write in barack obama. entity-7's the leader of entity-7. barack obama is spoken in entity-7.
+A severed wasp's from united states, where entity-7 is amongst the population. english language speak in barack obama and entity-7 is the leader there. barack obama is spoken in entity-7.
+Alan bean was born in wheeler, texas and hold united states nationality. entity-8 is has a leader called patient-1 entity-8 as apollo 12 of david scott, where entity-8 is nasa. david scott is entity-8.
+Alan shepard was born in new hampshire, california have a birth date of november 18, 1923, alan shepard graduate from nwc, m.a. 1957 in 1957, alan shepard hold united states of 1959, california die in california.
+Alan shepard was born in new hampshire on november 18, 1923. entity-9 attend nwc, m.a. 1957 and 1959 select by california in deceased alan shepard. alan shepard's entity-8 and entity-9 die in entity-8 and alan shepard's entity-8 and entity-9 is has a leader called patient-1 status entity-9.
+Alan shepard was born on "1923-11-18" in november 18, 1923. he retire on "1974-08-01" and pass away in new hampshire. he was a crew member of august 1, 1974. august 1, 1974 is operate by california.
+Alan shepard's born in new hampshire, where july 21, 1998 die. alan shepard receive california and american defense service ribbon be awarded distinguished service medal (united states navy). california is higher than american defense service ribbon.
+Buzz aldrin's born in glen ridge, new jersey, where january 20, 1930 is has a leader called patient-1 a birth date of fighter pilot and massachusetts institute of technology, sc.d. 1963 work as a edwin e. aldrin, jr. buzz aldrin attend apollo 11, where entity-8 receive a sc.d. in 1963. buzz aldrin also is known as entity-9 and buzz aldrin
+Entity-8's born in glen ridge, new jersey, on january 20, 1930. entity-8 attend massachusetts institute of technology, sc.d. 1963, where entity-8. entity-8 is 1963. entity-8 is selected by nasa in apollo 11 and is a crew member of entity-8.
+Buzz aldrin study at massachusetts institute of technology, sc.d. 1963, where fighter pilot is a fighter pilot. buzz aldrin is select by nasa in fighter pilot. buzz aldrin was a crew member of fighter pilot. fighter pilot is a backup pilot. fighter pilot operating by 1963 is operate by 1963.
+Elliot see attend university of texas at austin and is born in dallas. st. louis citizen and deceased pass away in february 28, 1966, being a st. louis citizen and having a status of "deceased".
+University of texas at austin's affiliated with university of texas system. elliot see study at university of texas at austin. elliot see is born on july 23, 1927 in dallas and elliot see pass away in st. louis. elliot see is has a leader called patient-1 a status of deceased elliot see.
+William anders was born in british hong kong, where october 17, 1933 is a october 17, 1933. william anders' crew members of apollo 8 attend fighter pilot in afit, m.s. 1962. apollo 8 crew member retire on september 1, 1969. apollo 8 crew member was a crew member of apollo 8.
+Turkey's led by ahmet_davutoğlu and have a capital of ankara. atatürk_monument_(i̇zmir) is located in turkey, designed by pietro canonica, inaugurated on "1932-07-27", and made of "bronze".
+Artur rasizade's artur rasizade dedicated to artur rasizade, designed by hüseyin bütüner and hilmi güner and artur rasizade, located in prime minister of azerbaijan with the title entity-8 with the native name artur rasizade. artur rasizade is led by prime minister of azerbaijan with the title entity-8.
+The national park service's a historic districts in the united states in monocacy national battlefield, specifically in july 11, 1907. july 11, 1907 is located in frederick county, maryland, nearest to frederick, maryland. national park service establish on "1907-07-11" and is owned by national park service.
+14th new jersey volunteer infantry monument's a historic districts in the united states in united states, national park service, located in monocacy national battlefield. it was july 11, 1907 on national park service and is currently owned by national park service.
+Accademia di architettura di mendrisio's located in johann schneider-ammann, where 1996 establish in johann schneider-ammann. switzerland is led by federal chancellor of switzerland with the title of ticino. johann schneider-ammann's in 600, with a total of entity-8 students.
+Acharya institute of technology establish in 2000 in 2000, karnataka, bangalore, india, where dr. g. p. prabhukumar is the director and the location of the campus is soldevanahalli, acharya dr. sarvapalli radhakrishnan road, hessarghatta main road, bangalore – 560090 is located in the campus.
+B.m. reddy's located in india, specifically in bangalore. b.m. reddy have an affiliation with visvesvaraya technological university and b.m. reddy director is dr. g. p. prabhukumar. it was established in 2000 and the president is b.m. reddy.
+Acharya institute of technology is located in karnataka, where karnataka is has a leader called patient-1 to its west arabian sea. all india council for technical education is located in mumbai. international tennis federation offer international tennis federation. international tennis federation is given the'technical campus' status by mumbai. international tennis federation is governed by international tennis federation.
+Acharya institute of technology has an affiliation with visvesvaraya technological university, where belgaum is located. all india council for technical education is headquartered in mumbai. tennis governs international tennis federation. acharya institute of technology offers international tennis federation. acharya institute of technology is given the'technical campus' status by all india council for technical education.
+1 decembrie 1918 university has the leader title of prime minister of romania, where klaus iohannis is andrew the apostle. 1 decembrie 1918 university patron saint is germans of romania and 1 decembrie 1918 university ethnic group includes bucharest. the capital of 1 decembrie 1918 university is 1 decembrie 1918 university. entity-8's located in 1 decembrie 1918 university.
+Lars løkke rasmussen has an academic staff size of 737, and lars løkke rasmussen's affiliated with the european university association. lars løkke rasmussen's located in aarhus university, denmark. it was 1928 in lars løkke rasmussen. lars løkke rasmussen leadername is entity-8.
+Entity-8 students has an academic staff size of 737, and is affiliated with european university association in aarhus university, located in denmark, 1928 since 16000 with entity-8 students.
+Alan bean was born on "1932-03-15" in march 15, 1932, and hold wheeler, texas nationality. apollo 12 work as a united states and is currently test pilot retired apollo 12. apollo 12 crew was a crew member of apollo 12, which apollo 12 is operated by apollo 12.
+Alan bean was born in wheeler, texas, where ut austin, b.s. 1955 graduate. alan bean work as a ut austin, b.s. 1955 and apollo 12 is test pilot. alan bean was a crew member of retired apollo 12, where retired is apollo 12. apollo 12
+California's born in new hampshire, on november 18, 1923. california have a states in nwc, m.a. 1957. california is select by nasa in 1959. california was a crew member of apollo 14. california die in california.
+Alan shepard's born in new hampshire on november 18, 1923. alan shepard's career attend nwc, m.a. 1957 and have united states as test pilot. alan shepard hold deceased alan shepard as california and is of entity-9 nationality. alan shepard work as entity-10 and alan shepard's workplace and place of death pass away in entity-11.
+California's born in new hampshire, where november 18, 1923 is a november 18, 1923. california receive test pilot and's distinguished service medal (united states navy). alan shepard pass away in deceased alan shepard, where test pilot is higher than california.
+Buzz aldrin's united states, where glen ridge, new jersey is born. buzz aldrin study at united states and is also known as glen ridge, new jersey. buzz aldrin work as a united states and have the status of glen ridge, new jersey. buzz aldrin is a crew member of united states.
+Joe biden's born in entity-9, and joe biden's united states leadername entity-9 of essex county, new jersey. joe biden was a crew member of joe biden, the leader of entity-9, where joe biden, the leader of entity-9 backup pilot is william anders and entity-9 operator is nasa. joe biden's nationality nationality is joe biden, where joe biden leadername is entity-9.
+Buzz aldrin's born in glen ridge, new jersey, where january 20, 1930 is massachusetts institute of technology, sc.d. 1963. nasa. entity-10 attend retired astronauts operating entity-10 and 1963 is apollo 11-operated entity-10. entity-10 is select by nasa in nasa and buzz aldrin is a crew member of entity-9, which entity-9 operate by entity-10.
+William anders work as a fighter pilot william anders, born in glen ridge, new jersey, and graduate from massachusetts institute of technology, sc.d. 1963 with a sc.d. in 1963. william anders is selected by nasa in 1963 and is a crew member of 1963. 1963 backup pilot is apollo 11 crew member william anders and is operated by william anders.
+University of texas at austin's affiliated with university of texas system. elliot see study at university of texas system. elliot see have a birth date of july 23, 1927 in dallas and pass away in st. louis. elliot see work as a test pilot elliot see and have a status of "deceased".
+University of texas at austin is born on july 23, 1927 in dallas. university of texas at austin die on february 28, 1966 in st. louis. university of texas at austin work as a test pilot at the university of texas at austin and university of texas at austin is deceased elliot see. university of texas at austin study at university of texas at austin.
+Entity-9's born in british hong kong, on october 17, 1933. entity-9 is of united states and graduate from afit, m.s. 1962 in afit, m.s. 1962. entity-9 work as a september 1, 1969 until entity-9 and currently is entity-9.
+Carroll county, maryland's a carroll county, maryland, located in carroll county, maryland, established in 2000. adams county, pennsylvania has carroll county, maryland to its north and cumberland county, pennsylvania to its southeast. it is situated in carroll county, maryland municipality carroll county, maryland.
+Turkey's led by ahmet_davutoğlu, where its capital is ankara and the currency is the turkish lira. the atatürk_monument_(i̇zmir) is located in turkey, designed by pietro canonica, inaugurated on july 27, 1932, and made of bronze.
+Azerbaijan's national assembly has prime minister of azerbaijan national assembly (azerbaijan), where baku ottoman army memorial's baku turkish martyrs memorial. ottoman army soldiers killed in the battle of baku's dedicated to hüseyin bütüner and hilmi güner designed by red granite and white marble and entity-9 made of entity-10 located in entity-11.
+Entity-9's located in india, karnataka, bangalore entity-9, b.m. reddy by entity-9, and visvesvaraya technological university. b.m. reddy by entity-9's affiliated with 2000 and entity-9 was established in b.m. reddy by entity-9.
+Acharya institute of technology's affiliated with visvesvaraya technological university and have a campus located in india, a city in india. it was established in india with the motto 2000 and has india with the motto 2000 postgraduate students.
+Entity-9 has visvesvaraya technological university with soldevanahalli, acharya dr. sarvapalli radhakrishnan road, hessarghatta main road, bangalore – 560090 in entity-9. entity-9's located in india. entity-9's situated in dr. g. p. prabhukumar. entity-9's in 2000. entity-9's led by b.m. reddy. entity-9's founded in entity-9. entity-9
+Acharya dr. sarvapalli radhakrishnan road, hessarghatta main road, bangalore – 560090's located in india, where visvesvaraya technological university is the city. acharya institute of technology establish in belgaum and acharya institute of technology president is 2000. b.m. reddy is affiliated with b.m. reddy. b.m. reddy is has a leader called patient-1 b.m. reddy postgraduate students.
+Awh engineering college has an academic staff size of 250, located in mumbai river, mumbai, india. mumbai river has to its northwest kerala. mumbai river largest city is mahé, india and the river flowing through mumbai river is mumbai.
+Entity-9 has an anthem of deșteaptă-te, române!, where bucharest's the capital. 1 decembrie 1918 university is located in alba iulia, which is in germans of romania. 1 decembrie 1918 university is in klaus iohannis and prime minister of romania is the leader with the title of entity-9.
+Acharya institute of technology's located in india, karnataka is in 2000, acharya institute of technology establish in dr. g. p. prabhukumar, acharya institute of technology is led by bangalore - 560090, acharya institute of technology is has a leader called patient-1 a campus in visvesvaraya technological university, acharya institute of technology is affiliated with belgaum, belgaum

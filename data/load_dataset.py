@@ -13,10 +13,6 @@ def set_seed(seed):
     torch.cuda.manual_seed(seed)
     torch.backends.cudnn.deterministic = True
 
-# Example usage:
-# SEED = 42
-# set_seed(SEED)
-
 # Read data from files
 def read_file(path):
     if path.endswith(".json"):
@@ -27,6 +23,7 @@ def read_file(path):
         with open(path, 'r', encoding='utf-8') as file:
             contents = file.read()
             contents = contents.replace('<', '[').replace('>', ']')
+            contents = contents.replace('...','.').replace('..','.')
             lines = [line.strip() for line in contents.split('\n')]
             if lines and lines[-1] == '':
                 return lines[:-1]
@@ -106,7 +103,7 @@ def process_data(file_path):
         entity_str = str(entry['entity'])
         # refex_str = str(entry['refex'])
         refex_str = ' '.join(map(str, entry['refex']))
-        src.append(pre_context_str + ' ' +pos_context_str +' '+ entity_str)
+        src.append(pre_context_str + ' ' +pos_context_str +' ['+ entity_str+']')
         isDate, refex = realize_date(refex_str)
         trg.append(refex_str if not isDate else refex)
 
@@ -151,7 +148,7 @@ def preprocess_data(path, task, model):
 
     # Pipelining Dataset
     if task == "reg":
-        path = "../results"
+        path = "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results"
         dev_ordering = read_file(os.path.join(path, f"ordering/{model}/dev.ordering.mapped"))
         test_ordering = read_file(os.path.join(path, f"ordering/{model}/test.ordering.mapped"))
         test_lexicalization = read_file_map(os.path.join(path, f"{task_suffix}/{model}/{task_suffix}_pipeline_test.txt"))
@@ -176,7 +173,7 @@ def preprocess_data(path, task, model):
             # pipeline_test = pd.DataFrame({"Source": read_file(goto_test)})
 
         else:
-            path = "../results"
+            path = "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results"
             if task == 'sr':
                 goto_dev = os.path.join(path, f"{task_suffix}/{model}/{task_suffix}_pipeline_eval.txt")
                 goto_test = os.path.join(path, f"{task_suffix}/{model}/{task_suffix}_pipeline_test.txt")
@@ -213,9 +210,9 @@ def preprocess_data(path, task, model):
             "pipeline_eval": Dataset.from_pandas(dataset["pipeline_eval"]),
             "pipeline_test": Dataset.from_pandas(dataset["pipeline_test"])
         })
-        []
-    return dataset if model == 'llama2' else dataset_dict
-    # return dataset_dict 
+        #[]
+    #return dataset if model == 'llama2' else dataset_dict
+    return dataset_dict 
 
 
 class CustomDataset(torch.utils.data.Dataset):

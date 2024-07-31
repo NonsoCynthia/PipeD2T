@@ -1,27 +1,21 @@
 import os
 import torch
 import argparse
+import numpy as np
+import torch.nn as nn
 from torch.utils.data import Dataset, DataLoader
 from datasets import load_dataset, DatasetDict, Dataset
 from data.load_dataset import CustomDataset, preprocess_data, read_file, read_dict
 from models.BART import BART_Model
 from models.GPT2 import GPT2_Model
 from models.T5 import T5_Model
+from models.LLAMA import LLAMA_Model
+from models.FALCON import FALCON_Model
 from training import Trainer
-import pytorch_lightning as pl
-import torch.nn as nn
-
+#from training_llama import Trainer_llama
+#import pytorch_lightning as pl
 from transformers import set_seed
 set_seed(42)
-
-pl.seed_everything(42)
-
-def set_seed(seed):
-    np.random.seed(seed)
-    torch.manual_seed(seed)
-    torch.cuda.manual_seed(seed)
-    torch.backends.cudnn.deterministic = True
-
 
 
 if __name__ == '__main__':
@@ -65,30 +59,38 @@ if __name__ == '__main__':
     # Create model
     if 'bart' in tokenizer_path:
         mod = 'bart'
-        write_path = os.path.join(write_path, f"{task}/bart") 
+        write_path = os.path.join(write_path, f"{task}/{mod}") 
         generator = BART_Model(tokenizer_path, model_path, max_length, sep_token=task+":")
     elif 't5' in tokenizer_path:
-        mod = 't5'
-        write_path = os.path.join(write_path, f"{task}/t5")
+        mod = 'flan-t5-large' if 'flan' in tokenizer_path else 't5-large' #if 'base' in tokenizer_path else 'flan-t5-large'
+        write_path = os.path.join(write_path, f"{task}/{mod}")
         generator = T5_Model(tokenizer_path, model_path, max_length, sep_token=task+":")
     elif 'gpt2' in tokenizer_path:
         mod = 'gpt2'
-        write_path = os.path.join(write_path, f"{task}/gpt2")
+        write_path = os.path.join(write_path, f"{task}/{mod}")
         generator = GPT2_Model(tokenizer_path, model_path, max_length, sep_token=task+":")
+    elif 'llama' in tokenizer_path:
+        mod = 'llama'
+        write_path = os.path.join(write_path, f"{task}/{mod}")
+        generator = LLAMA_Model(tokenizer_path, model_path, max_length, sep_token=task+":")
+    elif 'falcon' in tokenizer_path:
+        mod = 'falcon'
+        write_path = os.path.join(write_path, f"{task}/{mod}")
+        generator = FALCON_Model(tokenizer_path, model_path, max_length, sep_token=task+":")
     else:
         raise Exception("Invalid model")
    
     dataset_dict = preprocess_data(data, task, mod)
     train_dataset = CustomDataset(dataset_dict["train"])
-    validation_dataset = dataset_dict["validation"]
+    validation_dataset = CustomDataset(dataset_dict["validation"])
     test_dataset = dataset_dict["test"]
 
     # Create data loader
     trainloader = DataLoader(train_dataset, batch_size=train_batch_size, shuffle=True) #num_workers=10
-
+    #validation_dataset = DataLoader(validation_dataset, batch_size=1, shuffle=False)
     # Create optimizer
     optimizer = torch.optim.AdamW(generator.model.parameters(), lr=learning_rate)
-
+    
     # Trainer settings
     trainer = Trainer(generator, trainloader, validation_dataset, optimizer, epochs, batch_status, write_path, early_stop, verbose)
 

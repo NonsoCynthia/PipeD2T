@@ -1,57 +1,50 @@
 #!/bin/bash
 
-#SBATCH --gres=gpu:a100:1 
+#SBATCH --gres=gpu:a100:1
 #SBATCH -p long
 #SBATCH -J Pipe_g
-#SBATCH --cpus-per-task=10
-#SBATCH --mem=30000
 #SBATCH -t 9-23:59:59
 
-## --nodelist=g120
 
 source /home/cosuji/anaconda3/etc/profile.d/conda.sh
-conda activate webnlg2
+conda activate webnlg
 
 # # Edit this jobs for each model and task
 # # Training the model
-# python3 ../main.py --tokenizer "gpt2" \
-#                 --model_path "gpt2" \
-#                 --task "end2end" \
-#                 --data_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
-#                 --epochs 20 \
-#                 --learning_rate 1e-5 \
-#                 --train_batch_size 2 \
-#                 --early_stop 5 \
-#                 --max_length 300 \
-#                 --write_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results" \
-#                 --verbose \
-#                 --batch_status 16 
-#                 ## --cuda 
+#python3 ../main.py --tokenizer "openai-community/gpt2-large" \
+                 	#--model_path "openai-community/gpt2-large" \
+                 	#--task "end2end" \
+                 	#--data_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
+                 	#--epochs 20 \
+                 	#--learning_rate 5e-5 \
+                 	#--train_batch_size 16 \
+                 	#--early_stop 10 \
+                 	#--max_length 300 \
+                 	#--write_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results" \
+                 	#--verbose \
+                 	#--batch_status 16 
+                 	## --cuda 
 
 # # Making Inferences
-# python3 ../inference.py --tokenizer "gpt2" \
-#                 --model_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results" \
-#                 --task "reg" \
-#                 --data_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
-#                 --batch_size 2 \
-#                 --max_length 300 \
-#                 --verbose \
-#                 --batch_status 16 \
-                #### --cuda 
+python3 ../inference.py --tokenizer "openai-community/gpt2-large" \
+                	--model_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results" \
+                 	--task "reg" \
+                 	--data_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
+                 	--batch_size 16 \
+                 	--max_length 300 \
+                 	--verbose \
+                 	--batch_status 16 \
+                	#### --cuda 
 
 # Mapping the outputs
-# python3 ../mapping.py --previous_data "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
-#                 --pipeline_data "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results" \
-#                 --previous_task "lexicalization" \
-#                 --Gen_model "gpt2"
+#python3 ../mapping.py --previous_data "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
+                 	#--pipeline_data "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results" \
+                 	#--previous_task "lexicalization" \
+                 	#--Gen_model "gpt2"
 
 # Surface Realization
-python3 ../realization.py --model "gpt2" \
-                --task "sr" \
-                --surface_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg/input/sr/surfacevocab.json" \
-                --write_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results"
-                # --data_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
-
-
-
-# #####gpu:rtxa6000:4  gpu:a100:3 #SBATCH --nodelist=g123
+#python3 ../realization.py --model "gpt2" \
+                #--task "sr" \
+                #--surface_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg/input/sr/surfacevocab.json" \
+                #--write_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results" \
+                # --data_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" 

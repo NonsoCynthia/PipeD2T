@@ -1,0 +1,28 @@
+I would like to arrange my triples in a specific lexicalized format to control the way information is expressed in the final summary. Below, you'll find examples from my lexicalization dataset along with inputs and expected outputs:
+ Example 1: """
+  [SNT] [TRIPLE] Athens_International_Airport runwayLength 4000.0 [/TRIPLE] [/SNT]
+  """
+  Output: ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a runway length of ENTITY-2.
+ ###
+ Example 2: """
+  [SNT] [TRIPLE] A_Wizard_of_Mars country United_States [/TRIPLE] [TRIPLE] United_States language English_language [/TRIPLE] [TRIPLE] English_language spokenIn Great_Britain [/TRIPLE] [/SNT] [SNT] [TRIPLE] United_States leaderName Barack_Obama [/TRIPLE] [TRIPLE] United_States ethnicGroup Asian_Americans [/TRIPLE] [/SNT]
+  """
+  Output: ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] publish in ENTITY-2 where ENTITY-3 ( ENTITY-3 of ENTITY-4 ) VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] speak . ENTITY-5 VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be ENTITY-5 of ENTITY-2 and ENTITY-6 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be amongst DT[form=defined] the population there .
+ ###
+ Example 3: """
+  [SNT] [TRIPLE] Aenir mediaType Paperback [/TRIPLE] [/SNT]
+  """
+  Output: ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be available in ENTITY-2.
+ ###
+ Example 4: """
+  [SNT] [TRIPLE] 1634:_The_Bavarian_Crisis language English_language [/TRIPLE] [/SNT]
+  """
+  Output: ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] write in ENTITY-2.
+ ###
+ Example 5: """
+  [SNT] [TRIPLE] Bacon_Explosion country United_States [/TRIPLE] [TRIPLE] United_States leaderName Barack_Obama [/TRIPLE] [/SNT]
+  """
+  Output: ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from ENTITY-2 , where ENTITY-3 VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be once DT[form=defined] the leader .
+ ###
+Now strictly generate all the output result for the query, extra comments is not allowed.
+Query: 

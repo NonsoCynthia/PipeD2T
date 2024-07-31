@@ -1,0 +1,39 @@
+#!/bin/bash
+
+#SBATCH --gres=gpu:a100:1
+#SBATCH -p long
+#SBATCH -J Llm-Mis
+#SBATCH -t 9-23:59:59
+
+source /home/cosuji/anaconda3/etc/profile.d/conda.sh
+conda activate bnb2
+
+llama270_chat="meta-llama/Llama-2-70b-chat-hf"
+falcon40b="tiiuae/falcon-40b-instruct"
+falcon7b="tiiuae/falcon-7b-instruct"
+llama270b="meta-llama/Llama-2-70b-hf"
+#mistral7b="mistralai/Mistral-7B-Instruct-v0.2"
+mistral7b="/home/support/llm/Mistral-7B-Instruct-v0.2"
+llama27b_chat="meta-llama/Llama-2-7b-chat-hf"
+llama38b="/home/support/llm/Meta-Llama-3-8B-Instruct"
+zephyr="HuggingFaceH4/zephyr-7b-gemma-v0.1"
+gemma="google/gemma-7b"
+
+
+# # Edit this jobs for each task
+python3 ../prompt.py --model "$mistral7b" \
+			--model_path "mistral7b" \
+                    	--task "reg" \
+                    	--data_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
+                    	--write_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results"
+
+
+## Mapping the outputs
+#python3 ../mapping.py --previous_data "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
+                	#--pipeline_data "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results" \
+                	#--previous_task "structuring" \
+                	#--Gen_model "mistral7b"
+
+
+
+

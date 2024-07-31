@@ -1,0 +1,971 @@
+## Abilene Regional Airport Abilene Regional Airport is served by the city of Abilene, Texas. ## Abilene, Texas Abilene is a city in the state of Texas, where the leader is Greg Abbott. ## Greg Abbott Greg Abbott is a leader in Texas.
+Adolfo Suárez Madrid–Barajas Airport is located in the cities of Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas.
+a runway called dt 18l/36r 's a runway named as DT '18L/36R' in Adolfo Suárez Madrid–Barajas Airport.
+Afonso Pena International Airport is located in the city of Curitiba, Brazil.
+Afonso Pena International Airport is served by the city of Curitiba.
+Al-Taqaddum Air Base serves the city of Fallujah.
+Al-Taqaddum Air Base's runway has a length of 3684.0.
+Alderney airport person=3rd, number=null> have form=undefined > a runway name of the runway.
+At Allama Iqbal International Airport, the runway length is 3360.12.
+Amsterdam Airport tense=present, voice=active, person=3rd, number=null> be a airport in Amsterdam.
+Amsterdam Airport Schiphol's fifth runway's surface type is asphalt.
+Amsterdam Airport aspect=simple, tense=present, voice=active, person=3rd, number=null > be located in Kaagbaan.
+Andrews County Airport is elevated 973 metres above sea level.
+Andrews County Airport is owned by Andrews County, Texas.
+Andrews County Airport has a runway length of 896.0.
+Angola International Airport is a runway with an asphalt surface.
+Antwerp International Airport is elevated 12 metres above sea level.
+Antwerp_International_Airport be operated by Flemish_Government.
+I can't process your request as it appears to be incomplete.
+518.0 be a runway of Ardmore Airport with a length of 518 meters.
+The Ashgabat International Airport, which is located in Ashgabat, is identified by its ICAO location identifier, UTAA.
+Ashgabat International Airport 's called Ashgabat International Airport The airport has is a runway Ashgabat International Airport Ashgabat International Airport NP<number=null> of Ashgabat International Airport.
+The airport is owned by the South Jersey Transportation Authority.
+vp<1/3,active,3rd,present> be Atlantic City International Airport 's called 13/31 and Atlantic City 's the airport of Atlantic City.
+As an AI model, I am not able to understand your request.
+CURITIBA be a part of SOUTH REGION _ BRAZIL.
+Denmark is the demonym of the Danes.
+Iraq is the country where Fallujah is found.
+Greenville tense=present, voice=active, person=3rd, number=null> belong to/be a part of/be associated with/have a connection to/have an identity/have an origin in/stem from/come from/be based in/be found in/reside in/exist in (ENTITY-2).
+wisconsin NP<definite=no,number=null> Greenville, Wisconsin and wisconsin NP<definite=no,number=null> Grand Chute, Wisconsin are located in the same entity.
+The Arabic language is spoken in Iraq.
+Spain is the country where Madrid is found.
+The United States is a country that contains a variety of different leaders, ethnic groups, languages, and other features. One of its leaders is Barack Obama, who was once the leader of the United States. The United States is the source of the Aenir book, which has a paperback edition and comes from Maple Ridge Township, Alpena County, Michigan. This book, written in English, is available in the United States, a country with a diverse population and the home of the Maple Ridge Township.
+Pakistan is led by Sardar Ayaz Sadri, who is a leader of the country.
+Port Authority of New York and New Jersey, which can be referred to as 'ENTITY-1' is a group of transportation facilities that serve the region of New Jersey, which can be referred to as 'New Jersey', or 'ENTITY-2'.
+Texas NP<definite=indefinite,number=null> Texas where the largest city is called Houston.
+The United States Air Force was involved in the 1986 bombing of Libya, where they were led by the United States, who is led by Barack Obama, and consists of Asian Americans as an ethnic group.
+The United States Air Force uses the Boeing C-17 Globemaster III aircraft.
+Alan_Bean NP <person=3rd,number=singular,possessive=null> be from United_States.
+the astronaut VP be the backup pilot of Apollo 8, where American engineer VP be the astronaut, and ENTITY-3 VP be the American engineer.
+Buzz Aldrin graduated from the Massachusetts Institute of Technology with a doctorate in 1963.
+Buzz Aldrin was a crew member of Apollo 11.
+NASA selected Buzz Aldrin in 1963.
+California is a place that is home to the gemstone Benitoite.
+Elliot See died on February 28th, 1966.
+Elliot_See be dead at St._Louis.
+Elliot See be.
+South Africa is the location of the 11 Diagonal Street.
+250 Delaware Avenue person=3rd, number=null> be located at 250 Delaware Avenue.
+Chicago is the location of 300 North LaSalle.
+The building 320 South Boston was designed by George Winkler.
+The building of the 320 South Boston was built in 1910.
+AC Hotel Bella Sky Copenhagen is a hotel with 814 rooms.
+James Pain and George Richard Pain are the architects of Adare Manor.
+Adisham Hall is located in Haputale.
+The Akita Museum of Art is located in Japan.
+Alan B Miller Hall is owned by the College of William and Mary.
+Amdavad ni Gufa is located at Lalbhai Dalpatbhai Campus near CEPT University and opposite Gujarat University, along University Road.
+Asher and Mary Isabelle Richardson House is a reference number in the national register of historic places with the number 88002539.
+The answer is Asilomar Conference Grounds aspect = simple, tense = present, voice = active, person = 3rd, number = null > design.
+The Asilomar Conference Grounds are an example of the Arts and Crafts architectural movement.
+vp<aspect=simple, tense=present, voice=active, person=3rd> 's built in 1913.
+The Asser Levy Public Baths is located in New York City.
+Buffalo, New York is part of Erie County, New York.
+Buffalo, New York, is led by a person named Byron Brown.
+The County of Limerick is part of the Munster province.
+Dublin is led by Críona Ní Dhálaigh.
+vp<4,8,null,null,null> the country be the leader of Ethiopia.
+India is a country where the demonym is Indian people.
+Julia Morgan was a significant architect in the city of Los Angeles, known for her work on the Los Angeles Herald Examiner building.
+Beverly Hills, California is the location of Live Nation Entertainment.
+Manhattan is a part of New York City.
+New York City is part of New Netherland.
+Pacific Grove is part of California.
+South Africa is a country where the white south Africans are an ethnic group.
+The United Kingdom's leader is Elizabeth the second.
+Albany, Georgia has the area code 229.
+Albany, Oregon is part of the United States.
+Albuquerque, New Mexico is led by a mayor.
+Albuquerque, New Mexico, is led by the New Mexico House of Representatives.
+New Mexico Senate tense=present, voice=active, person=3rd, number=null> be leader of Albuquerque.
+The city of Amarillo, located in the state of Texas, covers a total area of 233.9 square kilometres.
+Randall County is the location of Amarillo, Texas.
+Anderson, Indiana is located in the Richland Township of Madison County, Indiana.
+Indiana NP<definite=indefinite,number=null> Angola,_Indiana which NP<definite=indefinite,number=null> is located at NP<definite=indefinite,number=null> 324 metres above sea level.
+925 tense=present, voice=active, person=3rd, number=null> be located in area code 925.
+Antioch, California is part of Contra Costa County, California.
+Arlington, Texas, has a population density of 1472 inhabitants per square kilometre.
+Kasim Reed is the leader of Atlanta.
+# # ## Atlantic City, New Jersey The city of Atlantic City, New Jersey, is located on the Atlantic Ocean, with a total area of 44.125 square kilometres. ## ## ## ## ## ## ## ## ## ## ## ## Is there anything else you would like to know about Atlantic City? # #.
+New Jersey is a state in the United States where Atlantic City is located.
+Attica, Indiana is located 166 metres above sea level.
+Lee County, Alabama is the location of Auburn, Alabama.
+Auburn location within Auburn, Washington (of which the leader is ENTITY-3) which has a total area of 77.41 km^2.
+Austin, Texas is part of the state of Texas.
+California es un estado en los Estados Unidos.
+DeKalb County, Georgia 's the county of DeKalb and DeKalb County has city Dunwoody.
+The United States is the country of Fulton County, Georgia, where Barack Obama is a leader.
+Madison County is a county in Indiana, where the county seat is Anderson.
+The state of Michigan is located in the United States.
+Michigan is the largest city in Detroit.
+ENTITY-1 tense=present, voice=active, person=3rd, number=null> belong to/be a part of/come from/have a place in/reside in/be found in/be situated in/be located in (ENTITY-2/ENTITY-3/ENTITY-5/ENTITY-6/ENTITY-7) (country/state/region/territory/possession) (United States/California/Orange County).
+Portland is the largest city in Oregon.
+vp<aspect=simple, tense=present, voice=active, person=3rd, number=null> be the country 's the county of Tarrant and Fort Worth its largest city.
+The United States is lead by Barack Obama.
+The United States Capitol is the location of the United States House of Representatives.
+Kevin_Eastman created April_ONeil.
+vp tense=present, voice=passive, person=3rd, number=null> broadcast in BBC.
+vp tense=present, voice=active, person=3rd, number=null> be Benjamin Urich.
+Jerry Ordway created Bibbo Bibowski.
+Bo Bibbowski.
+Bill Oddie was born in Lancashire.
+Jon Valor is an alternative name for the black pirate.
+John Buscema won an Eisner Award.
+Karl Kesel nationality is American.
+Marv Wolfman has won the Kirby Award.
+peter laird 's American named Peter Laird.
+Scott Adsit was born in Northbrook, Illinois.
+pecorino romano ( Amatriciana sauce ) is made from an ingredient ( Pecorino Romano ).
+Arrabbiata sauce contains chili peppers.
+Arros negre is a Spanish dish made with rice, and in this case, the ingredient is white rice.
+This is a difficult prompt to understand, but I will do my best to respond to it. It appears that you are asking me to generate a specific type of English output based on the information you have provided in the prompt. However, your prompt is not well-formed, and it is not clear what you are asking me to do or what output you are expecting. Can you please clarify what you would like me to do with this prompt? I am happy to help you, but I will need more information.
+In Spain, in the region of the Valencian Community, there is a famous dish called Arròs negre, or black rice.
+Singapore is a country where English is spoken and the leader is Halimah Yacob. Ayam penyet is a dish which comes from this region and is available in the Malay language.
+.
+I'm sorry, I'm not sure I understand the task you are asking of me.
+British_Columbia tense=present, voice=active, person=3rd, number=null> be served at temperature.
+Colombia is the country of the Bandeja paisa, which is part of Colombian cuisine.
+Bandeja paisa is a dish made from chicharron.
+vp comes from region Paisa region.
+Barny Cakes is a serving size of 30g.
+The Batagor is a variation of the Shumai dish.
+The Batagor is a dish that originated from Indonesia and is popular in many Asian countries. It is made up of fried fish dumplings with tofu, vegetables, and a peanut sauce. The dish is a popular choice in many Asian restaurants and is often served as an appetizer.
+The batchoy is a Philippine dish made of shrimp.
+Indonesia is the region of the Beef kway teow.
+bajji ( 's called ) ( bajji ) ( Bhaji, bajji ).
+.
+I am unable to understand your request.
+In Jalisco, Bionico is a dessert.
+Chicken is a bird.
+India is the country that uses the Indian rupee as its currency.
+Sumitra Mahajan tense=present, voice=active, person=3rd, number=null> be the leader of Sumitra Mahajan.
+Indonesia speak Indonesian_language.
+Aristóteles Sandoval is the leader of Jalisco.
+.
+Malaysia is a country where the leader is the Malaysian-Malay ethnic group.
+Mexico's leader is Silvano Aureoles Conejo.
+New York is a city where Spanish is spoken.
+The answer is China.
+peanut sauce.
+Sumatra is an entity that is a part of the Malays ( ethnic group ).
+The United Kingdom is lead by David Cameron.
+The monument was established in 2000.
+Adams County, Pennsylvania is located to the southeast of Carroll County, Maryland.
+Azerbaijan is lead by the name of Artur Rasizade.
+Azerbaijan's leader is titled the Prime Minister.
+Azerbaijan 's named as Türk Şehitleri Anıtı.
+Rolando Maran manages in A.C. Chievo Verona.
+Metapán is a team in the Salvadoran Primera División league.
+AFC Blackpool is a football club that is simply known as Blackpool.
+vp<aspect=null,tense=null,voice=null,person=3rd,number=null> be located in the_mechanics be located in The Mechanics called The_Mechanics.
+vp<aspect=,tense=,voice=,person=,number=null> be located in ( at | in ) Blackpool be located in ( at | in ) A.F.C. Blackpool.
+dt<form=undefined> be located in Gubbio.
+a.s._gubbio_1910 NP<definite=indefinite,number=singular> A.S._Gubbio_1910 is a sports club playing in the Italian football league, with 5300 members.
+AEK Athens F.C. is based in Athens, Greece.
+AEK Athens FC season 2014-15.
+AZAL Arena 's located in/at Baku.
+The AZAL PFK is a football club based in the city of Baku, Azerbaijan. It was established in 1937, and it is affiliated with the Azerbaijani Football Association. The club's home ground is the AZAL Arena, which has a capacity of 6,000 people. The club has won the Azerbaijan Premier League title three times, and it has also won the Azerbaijan Cup. The club's colors are blue and red, and the club's nickname is The Blue Wave. The club's president is Tale Heydarov. The AZAL PFK has a fierce rivalry with the Neftchi Baku FK, and the two clubs compete in the Azerbaijan Premier League. The club's fans are known for their passionate support, and they are always cheering on the team, regardless of the outcome of the match. The fans are also known for their commitment to the club, and they are always there to support the team, whether they are playing at home or away. The club's social media presence is also strong, with a significant following on platforms such as Twitter and Instagram. The AZAL PFK is an important part of the football scene in Azerbaijan, and it has a rich history and a dedicated fan base. The club has a bright future ahead of it, and it will continue to be a major force in the Azerbaijan Premier League.
+AZ Alkmaar played in the 2014-15 Eredivisie season.
+Akron, Ohio is located in the United States.
+Akron, Ohio is located in Summit County, Ohio.
+Akron Metro Futbol Club Summit Assault.
+Amsterdam is lead by Eberhard van der Laan.
+Christian_Panucci play for Chelsea_F.C.
+Christian Panucci ( Christian Panucci ) tense=present, voice=active, person=3rd, number=null> belong to/be a member of/be part of INTER( Milan ) and play/be a player for/in the football team/club.
+Frank de Boer is a member of the FC Barcelona club.
+Umbria be the region of Gubbio.
+Italy's leader is Sergio Mattarella.
+Jens Härtel (ENTITY-1) is a member of the FC Sachsen Leipzig football club (ENTITY-2).
+Jorge_Humberto_Rodríguez club FC_Dallas.
+Udinese Calcio is the club of the manager, Luciano Spalletti.
+vp tense=present, voice=active, person=3rd, number=singular> be a member of the club called A.S.D. S.S. Nola 1925.
+the club of atalanta b.c belongs to the club of Atalanta B.C. led by Michele Marcolini.
+Michele Marcolini is a member of the Vicenza Calcio football club.
+Peter Stöger be the coach of 1. FC Köln.
+ENTITY-1 is a member of the club F.C. Bari 1908, where the leader is Rolando Maran.
+Sportpark De Toekomst tense=present, voice=active, person=3rd, number=null> be the home ground of Jong-Ajax.
+St Vincent St Mary High School be a school located in the United States, which is led by St Vincent-St Mary High School.
+The Alba University is located in the state of Alba.
+Acharya Institute of Technology, which is led by B.M. Reddy, is located in Bangalore, India.
+India is the country that has Mahé to its northwest and its leader is Narendra Modi.
+Mendrisio is a municipality in the district of Mendrisio in the canton of Ticino in Switzerland. Meride is a municipality in the district of Mendrisio.
+Bucharest is the capital of Romania.
+Aarhus University 's School of Business and Social Sciences is headed by Thomas Pallesen.
+Aarhus University, which can be found in Denmark, has the School of Business and Social Sciences. The school has a student body of 16,000.
+The Ram Rebellion (1-4165-2060-0).
+The Grantville Gazettes. Eric Flint is a renowned author who has produced numerous works in the science fiction genre. I hope this summary provides a more comprehensive response to your query. Please let me know if you have any additional questions or require further clarification.
+A_Ram_Rebellion, a book written in Print.
+The journal AIDS is from the United Kingdom.
+.
+A_Glastonbury_Romance is a book that is written in English and comes in hardcover.
+I'm sorry, I do not understand your request. If you provide me with a dataset, I can attempt to generate a summary based on that data.
+Diane Duane, the author of A Wizard of Mars is an American writer of science fiction.
+Publication Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg has ISSN number 0025-5858.
+Garth Nix is the author of 'Above the Veil'.
+The book Above the Veil is a print book.
+Acta Palaeontologica Polonica has the ISSN number 0567-7920.
+Addiction ( journal ) have code 93645978 and type journal.
+Addiction ( journal ) be a academic journal of addition.
+The book Aenir is written in English.
+Alcatraz Versus the Evil Librarians comes from the United States, where English is spoken and Barack Obama leads the country.
+Alcatraz is written in English.
+The American Journal of Mathematics has the academic discipline of mathematics.
+Castle is written in English.
+Eric Flint was born in Burbank, California.
+Macmillan_Publishers is the parent company of Farrar, Straus and Giroux.
+John Cowper Powys's notable work is A Glastonbury Romance.
+Soho Press come from the United States, where English is spoken and Barack Obama leads.
+The book 'The Secret Scripture' is published in Faber and Faber, where the book is written in English.
+The United States is a country that is home to various ethnic groups, including Asian Americans. It is led by a president and is known for its diverse culture and rich history. It is also the country where the bacon explosion, a delicious and mouth-watering dish, comes from.
+The United States is a country where English is spoken and is the leader of Barack Obama.
+vp of the query text tense=present, voice=active, person=3rd, number=null> be followed by entity-2.
+Aarhus_Airport has a runway length of 2777.0.
+vp person=3rd, number=null> be located in (the) DT <form=undefined> Madrid region.
+Adolfo Suárez Madrid–Barajas Airport ( i.e. Adolfo Suárez Madrid–Barajas Airport ) is located in Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas. It has a runway length of 3500.0.
+At Agra Airport, located in Uttar Pradesh, there's a lot happening! The airport is a hub of activity, with many flights taking off and landing every day. It's a crucial transportation hub for the region, and it plays an important role in connecting the area with the rest of the country.
+Al-Asad airbase, located in Al-Anbar province, Iraq, is a strategic site for the US military. It is 3090 meters long and is operated by the US Air Force.
+Al-Asad airbase is located in Iraq, where the Arabic language is spoken.
+The United States Air Force (ENTITY-1) was involved in the Invasion of Grenada (ENTITY-2), and Al Asad Airbase (ENTITY-3) is operated by the United States Air Force (ENTITY-1).
+Class Poaceae be of type Monocotyledon.
+Alderney Airport tense=present, voice=active, person=3rd, number=null> have a runway length of DTENTITY-2.
+Pakistan's leader is Anwar Zaheer Jamali. The Allama Iqbal International Airport is located in Pakistan.
+vp 's located in Punjab, Pakistan where the airport has a runway length of 2900.
+I apologize, but I am unable to understand the instruction in the prompt.
+Athens International Airport, with a runway length of 4000, is located in the United States.
+Amsterdam Airport Schiphol ( Amsterdam_Airport_Schiphol ) tense=present, voice=active, person=3rd, number=null > be located in Amsterdam Airport Schiphol ( amsterdam_airport_schiphol ) ( Amsterdam ).
+Amsterdam Airport Schiphol, located in Amsterdam, Netherlands, has a runway length of 3300.0.
+Andrews County Airport is located in Texas, a state that is home to Houston, its largest city.
+Angola International Airport 's located in Angola international airport where Angola International Airport is a city that is served by Angola International Airport, which has a runway length of 3800.
+Ardmore Airport be a airport located in New Zealand where there is a runway with length of 597 meters.
+Ashgabat International Airport, elevated 211 meters above sea level, has a first runway length of 12467 feet.
+.
+Atlantic City International Airport tense=present, voice=active, person=3rd, number=null> be in/at Atlantic City International Airport which is a location of United States that has a leader named ENTITY-4.
+Atlantic City International Airport be the airport of which the operating organisation is the Port Authority of New York and New Jersey and which has a runway name of 4/22.
+The Bavarian Crisis is written in English, which is spoken in Great Britain and the United States, where Asian Americans are an ethnic group. > - Athens International Airport has a runway length of 4000.0 meters. > - A Wizard of Mars was published in the United States, where English is spoken.
+## Infraero and Afonso Pena International Airport Afonso Pena International Airport is operated by Infraero, a Brazilian company based in Brasilia. ## Brasilia Brasilia is the location of Afonso Pena International Airport, which is operated by Infraero. ## Infraero Infraero, a company based in Brasilia, is the operator of Afonso Pena International Airport.
+Alan_Bean be born in 1932-03-15.
+Alan Shepard, who is a test pilot, is deceased.
+Buzz Aldrin, the famous astronaut, was born in Glen Ridge, New Jersey on the 20th of January, 1930. He was a pioneer of space exploration and is known for his role in the Apollo 11 mission. He was the second person to ever walk on the moon.
+Buzz Aldrin born in Glen Ridge, Essex County, New Jersey.
+William Anders, a crew member of Apollo 8, was born in British Hong Kong.
+William Anders, who is retired, graduated from AFIT with an M.S. in 1962.
+vp<aspect=simple, tense=present, number=null> tense=present, voice=active, person=3rd, number=null> have a floor count of 50 and a completion date of 1988.
+.
+62145.3 square metres ( 20 Fenchurch Street ) have is a total floor area of The building located at 20 Fenchurch Street has a total floor area of 62145.3 square meters and a floor count of 34 ( 62145.3 ) and a floor count of 34 ( 34 ).
+vp be located in the united states tense=present, voice=active, person=3rd, number=null> be located in Chicago, Illinois, USA and have is a floor count of sixty.
+The building, 320 south Boston, was designed by architect George Winkler.
+HOK SVE location of HOK SVE at HOK SVE.
+The Dublin 3Arena is a venue designed by the company Populous.
+Marriott International is a tenant of the AC Hotel Bella Sky Copenhagen, which is located in Copenhagen.
+The architect of Adare Manor was George Richard Pain and it was completed in 1862.
+Adare Manor is located in Adare, Ireland.
+Ethiopia's capital city, Addis Ababa, is home to Addis Ababa City Hall, which is located in the city itself.
+Adisham Hall is located in Haputale, Sri Lanka, and is a Tudor Revival architectural building.
+vp<aspect=simple, tense=present, number=null><person=non-3rd> be located in sri lanka tense=present, voice=active, person=3rd, number=null> be located in Sri Lanka.
+Japan is a country that is home to the ethnic group of Brazilians in Japan.
+Akita Museum of Art is a museum located at 1-4-2 Nakadori, and has three floors.
+Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road tense=present, voice=active, person=3rd, number=null> be located at/in Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road.
+Sri Lanka Austin Fernando, is the leader of the Eastern Province in Sri Lanka.
+The Asser Levy Public Baths can be found in New York City, United States.
+Asser Levy Public Baths is located in New York City.
+County Limerick is located in the Munster region of Ireland.
+vp tense=present, voice=active, person=3rd, number=null> be located in ( in | at ) Dublin.
+The United States has a diverse population, including a number of different ethnic groups. One of these groups is African Americans, who have contributed greatly to the culture and history of the country.
+Salem, Oregon is the capital of Oregon.
+the united states house of representatives ( Albuquerque ) be located in ( the United States ) where ( the United States ) be represented by ( the United States House of Representatives ).
+.
+California ( Anaheim, California ) aspect = simple, tense = present, voice = active, person = 3rd, number = null > be a part of DT < form = undefined > California, where DT < form = undefined > United States House of Representatives aspect = simple, tense = present, voice = active, person = 3rd, number = null > have the title DT < form = undefined > United States House of Representatives.
+United States is the country of Orange County California according to the given lexicalized dataset.
+The United States, a country that has the English language as one of its spoken languages, is the location of Adams Township, Madison County, Indiana. English is also spoken in Great Britain. The United States is lead by Barack Obama, who is of Asian descent.
+Antioch is a city located at 13 metres above sea level and it has an area of 75.324 square kilometres.
+Arlington, Texas is 184 metres above sea level and covers an area of 258.2 square kilometres.
+Texas is a country from the United States of America where the leader is called Joe Biden.
+Atlanta is the city that is part of the United States, where English is spoken and Barack Obama is a leader.
+the country of the United States tense=present, voice=active, person=3rd, number=null> be a part of ( be located within ) the country of New Jersey.
+The United States location is in the United States, where the capital is Washington D.C.
+The United States is the country of Atlantic County, New Jersey.
+area of Atlantic City location is in the area of Atlantic City which is of a total area of 44.125 square kilometres. The population density of the area is 1421.2 inhabitants per square kilometre.
+vp be from/in Pierce County, Washington.
+Washington,_D.C. is the capital of the United States.
+Washington, D.C. is the capital of the United States, where Amarillo, Texas is found.
+The United States is a country that has a diverse ethnic group, which includes African Americans. Albuquerque, New Mexico is one of the cities located in the United States.
+Albany, Georgia is part of the United States.
+The United States is a country that has a diverse population, including Native Americans. One of the cities in the United States is Auburn, Alabama.
+Akron tense=present, voice=passive, person=3rd, number=singular> be located in Akron, Ohio.
+The United States, a country that has a leader with the title of President, is the location of Albuquerque, New Mexico.
+vp from the United States tense=present, voice=active, person=3rd, number=null> be from the United States where peter laird is from.
+BBC person=3rd, number=null> be broadcasted by the show (in a show) where BBC (of a show) stars the main character.
+STV be a programme called BANANA -MAN starred by STV and broadcasted by STV .
+Tim Brooke-Taylor DATE-OF-BIRTH was born in the county of Derbyshire, located in the East Midlands region of England.
+The film Big Hero 6 is starred by Alan Tudyk.
+The film Big Hero 6 is starred by Scott Adsit.
+I'm sorry, I am not able to understand the instruction.
+ENTITY-1's full name is Benjamin Urich and they are created by Roger McKenzie ( comic book writer ).
+Bacon Explosion is a dish that originated in the United States, where Barack Obama was once the leader. Please note that the output above is generated based on a very basic template and may not capture all the nuances and relationships described in the original examples. The output can be improved by providing a more detailed template or additional guidance on how to lexicalize the information in the triples.
+Bibbo Bibbowski is a character created by Marv Wolfman with the full name Bo Bibbowski.
+Italy ( which is the country of Italy ) aspect = simple, tense = present, voice = active, person = 3rd, number = null > contain ( have in ) DT < form = undefined > an ingredient of ( which is ) Italy ( the tomato ).
+Jusuf Kalla is the leader of Indonesia.
+italian language (Italy) speak the Italian language, which is also spoken in Spain, where the sauce Arrabbiata originated.
+( Italy ) vp be led by Sergio Mattarella ( Italy ) VP be led by Arrabbiata sauce ( italy ) ( Sergio Mattarella ).
+The sauce Arrabbiata is from Italy and has a main ingredient of chili peppers.
+Spain is the country of origin of Arros negre, which comes from the region of the Valencian Community.
+Asam pedas person=3rd, number=null> be a kind of fish cooked in sour and hot sauce which is made of a main ingredient of fish cooked in sour and hot sauce.
+Indonesia is the country of Ayam penyet.
+The BLT is a variation of the club sandwich.
+Bacon is one of the main ingredients of Bacon Explosion.
+Bacon sandwich is also known by various other names including *Bacon butty*, *bacon sarnie*, *rasher sandwich*, *bacon sanger*, *piece 'n bacon*, *bacon cob*, *bacon barm* and *bacon muffin*. It is a popular food item that is made using bacon as one of its key ingredients.
+Bacon sandwich be a kind of dish called BLT.
+-- -- -- Baked Alaska is a dessert that is popular in France. It is made with a sponge cake as one of its main ingredients. The leader of France is currently Emmanuel Macron. --.
+Manuel Valls is the leader of France.
+I'm sorry, I am unclear on the expected output format. However, based on the triples provided, I can generate a sentence to describe the food Baked Alaska, which is a dessert popular in the United States. It has a key ingredient of Meringue, which is made of egg whites and sugar.
+The Bakewell pudding has a variation called the Bakewell tart, which is a dessert that uses fruit preserves as one of its ingredients.
+Bakso is a food product that contains the Vermicelli ingredient.
+Bakso is a food that is made with celery.
+the dish is a dish that contains the ingredient chicharron.
+Claude Bartolone tense=present, voice=passive, person=3rd, number=singular> be the leader of Claude Bartolone.
+The Batagor is a dish from Indonesia that contains peanut sauce as one of its ingredients.
+The Batagor is a variation of the Siomay, and it contains peanut sauce as one of its ingredients.
+Beef kway teow is a dish that uses palm sugar as an ingredient.
+Halimah Yacob 's the leader of Halimah Yacob.
+Singapore and Indonesia is the country of Beef kway teow and it has a variety of ingredients including kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soy sauce, chilli, and sesame oil.
+India demonym is Indian people.
+India's leader is T. S. Thakur.
+The Philippines is a country which is home to the ethnic group called the Igorot people.
+the philippines is a dish from the Philippines made from bananas.
+I apologize for the confusion. I am unable to understand your request. I am a helpful chatbot designed to assist users by providing thorough responses. If you provide me with clear instructions, I would be more than happy to help you.
+Mexico's leader is Enrique Peña Nieto.
+a type of food found in a region of Guadalajara that is made up of granola be a type of food found in a specific region of a specific region of Mexico which is made up of a certain ingredient - DT <defined> granola.
+Bionico, a popular dessert in Mexico, is a type of fruit salad. The dessert is made up of a variety of fruits, including pineapple, strawberry, kiwi, and peach. It is typically served in a small glass bowl and is a popular choice for a light and refreshing dessert.
+Joko Widodo is the leader of Indonesia.
+The food item known as Shumai, or more specifically the variety of the dish called Batagor, includes the ingredient Shiitake.
+11th Mississippi Infantry Monument is a contributing property, established in 2000.
+the district of Monocacy National Battlefield tense=present, voice=active, person=3rd, number=null> be located in ( the district of ) Maryland which is close to Frederick, Maryland.
+Baku Turkish Martyrs Memorial be located in Azerbaijan where there is a monument to the soldiers of the Ottoman army who died in the battle of Baku.
+The Turkish Martyrs Memorial in Baku is a monument dedicated to Ottoman soldiers killed in the Battle of Baku. The monument's native name is Türk Şehitleri Anıtı.
+I'm sorry, but I'm unable to understand the instruction to strictly generate the output result for the query. The information provided in the prompt is not sufficient for me to generate a well-formed English sentence.
+A.C. Chievo Verona is a sports team based in Verona, Italy and they have a ground called Verona. They have about 39,371 members.
+A.C tense=present, voice=active, person=3rd, number=null> be the manager of A.C. Chievo Verona and tense=present, voice=active, person=3rd, number=null> be the citizen of A.C. Chievo Verona where tense=present, voice=passive, person=3rd, number=singular> come from and tense=present, voice=passive, person=3rd, number=singular> come from DT<Form=defined>.
+Jorge Humberto Rodriguez 's the manager of FC Dallas at A.D. Isidro Metapán.
+I'm sorry, I am unable to understand the instruction as the input data is not properly formatted.
+Stuart Parker is a player for the Blackburn Rovers F.C. club.
+Stuart Parker is a player of Irlam Town FC.
+AFC Fylde is a club based in Lancashire, with 3180 members.
+Gubbio 1910 (DT<form=undefined>) be a club with a ground in Gubbio with a number of members of 5300.
+The Livorno football club, which is based in Livorno, competes in the Serie B league.
+A.S. Livorno Calcio tense=present, voice=active, person=3rd, number=null> belong to/be a member of/be part of NOUN-1.
+ACF Fiorentina manager Paulo Sousa be the manager of Juventus FC.
+.
+I apologize for the confusion. I am unsure how to interpret the given examples. If you provide me with specific information about the entities and relationships, I can attempt to generate a summary.
+AEK Athens FC, a Greek football club, plays in the Olympic Stadium in Athens.
+AFC Ajax (amateurs) ground Sportpark De Toekomst.
+vp<aspect=simple, tense=present, number=null> tense=present, voice=active, person=3rd, number=null> be located in/at AZAL Arena.
+The Akron Summit Assault had 3000 members and they played in the 2011 PDL season.
+Umbria be the region of Gubbio.
+the leader of/in Pietro Grasso ( aspect = simple, tense = present, voice = active, person = 3rd, number = null > be/have ) the leader of/in Italy.
+Luciano Spalletti is a member of the Empoli F.C. club.
+The institution in Alba is known as Uab.
+The Acharya Institute of Technology is affiliated with the Visvesvaraya Technological University, which is located in the city of Belgaum.
+Acharya Institute of Technology, a university based in Bangalore, is led by B.M. Reddy.
+All India Council for Technical Education tense=present, voice=active, person=3rd, number=null> be located in Mumbai.
+Kochi, the leader of Kerala, is the head of state of AWH Engineering College.
+The Bavarian Crisis, preceded by The Grantville Gazettes, was written in English and is available in paperback.
+The Ram Rebellion.
+.
+J.V. Jones is the author of A Fortress of Grey Ice.
+a book with the isbn 0-7653-0633-6 tense=present, voice=active, person=3rd, number=null> be A Fortress of Grey Ice a book with the ISBN number 0-7653-0633-6 and 672 pages long.
+a_searle tense=present, voice=active, person=3rd, number=null> be author of A_Glastonbury_Romance.
+vp<aspect=simple, tense=present, number=null> tense=present, voice=active, person=3rd, number=null> be available in Print and Paperback.
+A Long Long Way is a book with the ISBN number 0-670-03380-4 and 292 pages.
+The book A Long Long Way was published by the publisher Viking Press. The Viking Press is a subsidiary of Penguin Random House.
+Qiu Xiaolong ( A_Loyal_Character_Dancer ) tense=present, voice=active, person=3rd, number=null> be author of A Loyal Character Dancer ( Qiu_Xiaolong ) and Qiu Xiaolong tense=present, voice=active, person=3rd, number=null> have as medium A Loyal Character Dancer ( Print ).
+vp tense=present, voice=active, person=3rd, number=null> be identified by number A Severed Wasp.
+a_severed_wasp tense=present, voice=active, person=3rd, number=null> be called A_Severed_Wasp and have the OCLC number of 8805735. It is a hardcover book.
+The book A Severed Wasp was written in English, a language spoken in Great Britain.
+.
+.
+The Alcatraz Versus the Evil Librarians is a work of fantasy literature, ISBN number 0-439-92550-9.
+Alcatraz Versus the Evil Librarians tense=present, voice=active, person=3rd, number=null> be ISBN number of Alcatraz Versus the Evil Librarians where Alcatraz Versus the Evil Librarians tense=present, voice=active, person=3rd, number=null> be title of Alcatraz Versus the Evil Librarians and 78771100 tense=present, voice=passive, person=3rd, number=null> have OCLC number of ENTITY-4.
+Alcatraz Versus the Scriveners author is Brandon Sanderson.
+The American Journal of Mathematics is a publication that focuses on the mathematical discipline. It is abbreviated as Am. J. Math.
+Johns Hopkins University tense=present, voice=active, person=3rd, number=null> be the parent company of Johns Hopkins University Press.
+The Ram Rebellion originated.
+ENTITY-1 tense=unknown, voice=unknown, person=unknown, number=unknown> be located in/at ENTITY-2.
+The United States is a country with a diverse ethnic population. African Americans are one of the ethnic groups that are an integral part of the country's cultural fabric.
+The United States is home to a number of different ethnic groups, including African Americans.
+The United States is a diverse country with various ethnic groups, including Asian Americans.
+Aarhus Lufthavn A/S is the operating organisation of Aarhus Airport, which has a runway length of 2776.0 and a runway name of 10R/28L.
+Adirondack Regional Airport is the airport in the city of Lake Placid, New York. It has a runway length of 2003.0.
+Paracuellos de Jarama person=3rd, number=null> be located in ( at/on ) Paracuellos de Jarama.
+VIAG The Agra Airport, operated by the Indian Air Force, is located in Uttar Pradesh, with a location identifier of VIAG.
+Al-Asad Airbase, located in Iraq, is operated by the United States Air Force. It has a runway length of 3992.88.
+The United States Air Force, operating from the Al Asad Airbase, fought in the 1986 United States bombing of Libya. One of their aircraft fighters, the McDonnell Douglas F-15 Eagle, was involved in this battle.
+The United States Air Force, also known as the USAF, is a prominent branch of the United States military. It has a rich history and is responsible for the protection of American citizens and interests at home and abroad. The USAF operates advanced fighter jets, such as the McDonnell Douglas F-15 Eagle, which is a highly manoeuvrable aircraft capable of reaching high speeds and altitudes. These fighter jets are critical in defending American airspace and conducting aerial attacks on enemy targets. The USAF has been involved in numerous battles, including the Invasion of Grenada, where its fighter jets played a pivotal role in defeating the enemy forces. In addition to its combat missions, the USAF also conducts search and rescue operations, provides air support for ground forces, and assists in disaster relief efforts. It has a diverse fleet of aircraft, including transports, refuelling planes, and surveillance aircraft, which enable it to carry out a wide range of missions. Headquartered at the Pentagon in Washington, D.C., the USAF has several airbases across the United States and around the world, including the Al Asad Airbase in Iraq. It is a critical component of America's defence infrastructure and continues to evolve to meet the challenges of an ever-changing global security landscape. In summary, the United States Air Force is a versatile and powerful military branch that plays a critical role in defending American interests and values at home and abroad. Its advanced aircraft, skilled pilots, and diverse range of missions make it a vital component of America's global military presence.
+Alderney Airport ( Alderney Airport ) tense=present, voice=active, person=3rd, number=null> have a runway length of 877.0 metres.
+Pakistan Civil Aviation Authority (ENTITY-1) is the operating organisation of Allama Iqbal International Airport (ENTITY-2) which is located in Pakistan (ENTITY-3). The headquarters of Pakistan Civil Aviation Authority is located at Jinnah International Airport (ENTITY-4).
+Allama Iqbal International Airport is located in Punjab, Pakistan and has a runway name of 18L/36R and a length of 2900.0.
+United States is located in Maple Ridge Township, Alpena County, Michigan, United States. It has a leader named Barack Obama, and its ethnic group is the Asian Americans. The country has a language called English and is the location of the Aenir book which comes in paperback form. The United States also has a airport called Alpena County Regional Airport which is at 210 metres above sea level and has a runway length of 4000 metres.
+Andrews County Airport is located in Texas, with an elevation of 973 metres above sea level.
+Andrews County Airport is located in Texas, 973 meters above sea level.
+Andrews County Airport is located in Texas, where the capital is Austin.
+## Andrews County Airport The Andrews County Airport is located in the state of Texas, United States. Tejano is the demonym for Texas. ## Texas The state of Texas is located in the United States, where Barack Obama was once the leader. ## Barack Obama Barack Obama was the leader of the United States, where English is spoken and the population includes Asian Americans. The United States also includes the state of Texas, where the Bacon Explosion food comes from.
+Belgium is a country that speaks German. Antwerp is a city in that country.
+the United States tense=present, voice=active, person=3rd, number=null> be located in/at New Jersey.
+Port Authority is the headquarter of the PORT AUTHORITY OF NEW YORK AND NEW JERSEY, which is an organisation that operates the ATLANTIC CITY INTERNATIONAL AIRPORT and serves the region of NEW JERSEY.
+vp 's located in/at New Jersey.
+Pakistan's Anwar Zaheer Jamali is the leader of the country. Jamali is the leader of the country that contains the city of Lahore.
+I apologize for the confusion, but I am unclear on the expected output format you are requesting. I can however provide you with a summary of the information you have given me about Madrid. The city of Madrid is led by the party Ahora Madrid and is part of the Community of Madrid. The Adolfo Suárez Madrid-Barajas Airport is located in Madrid and is led by the leader of Madrid.
+Adolfo Suárez Madrid–Barajas Airport person=3rd, number=null> be the capital of Madrid where Madrid belongs to the party of Adolfo Suarez.
+San Sebastián de los Reyes is a city in the autonomous community of Madrid, Spain. The city is led by the People's Party of Spain. The Adolfo Suárez Madrid–Barajas Airport is located in San Sebastián de los Reyes.
+Alan Bean was born in Wheeler, Texas and is a retired United States national.
+I'm sorry, but I am unable to understand the instruction to generate output results in a specific lexicalized format. As an AI chatbot, I am designed to provide text-based responses based on patterns and relationships in the data I have been trained on. If you provide me with a specific piece of information, such as a person's name, I can provide relevant details about that person. For example, if you provide me with the name Buzz Aldrin, I can access information about his nationality, birth place, and the name of his country's leader, and generate a response that includes this information. However, without further instructions or a specific task to complete, I am unable to generate output in a specific format or style.
+Buzz Aldrin, who is an American national, graduated from the Massachusetts Institute of Technology in 1963. He was chosen by NASA in the same year.
+.
+I'm sorry, I don't understand your request. Could you please clarify or provide more context? I would be happy to help resolve the issue. If you provide me with the desired output format, I can take a stab at generating a response.
+vp is the leader of st louis tense=present, voice=active, person=3rd, number=null> be the leader of St. Louis.
+Elliot See died on February 28th, 1966 in St. Louis, United States.
+Alan Shepard, a notable figure, was born in New Hampshire, a state that is home to the purple finch.
+103 Colmore Row is designed by architect John Madin.
+Frank G Jackson is the leader of the city where 200 Public Square is located.
+vp tense=present, voice=active, person=3rd, number=null> be located in the United States and have a floor count of twelve and a floor area of 30843.8 square metres.
+Rahm Emanuel is the leader of Chicago, where 300 North LaSalle is located. Chicago is part of DuPage County in the state of Illinois.
+vp 's the architect of George Winkler which has a floor count of 22.
+vp 's located in North Wall Quay.
+Marriott International is the tenant of the AC Hotel Bella Sky in Copenhagen, Denmark. The hotel has 23 floors.
+AC Hotel Bella Sky Copenhagen is a hotel designed by the architect 3XN and it has 23 floors. It is operated by Marriott International.
+Augustus Pugin, the architect of Adare Manor, was born in Bloomsbury, London. His most significant work is the Palace of Westminster.
+### An architect designed Adare Manor. The building was completed in 1862 and J.P. McManus is the owner. Philip Charles Hardwick, an architect, designed Adare Manor, which was completed in 1862 and is owned by J.P. McManus.
+Adisham Hall is located in Haputale and has a Tudor and Jacabian architectural style.
+The Adisham Hall, a building with an architectural style of Tudor and Jacabian, is located in Sri Lanka. It was completed in 1931.
+i.e. Ranil Wickremesinghe i.e. Adisham Hall, is located in Haputale, Sri Lanka, where the leader's name is Ranil Wickremesinghe.
+Sri Jayawardenepura Kotte is the capital of Sri Lanka, where the leader is named Ranil Wickremesinghe. The country's official currency is the Sri Lankan rupee.
+The Mason School of Business, located in the United States, was established on March 30, 2007. Alan B. Miller Hall is a building that is part of the Mason School of Business.
+The Bavarian Crisis was written in English and came from the United States. } ```.
+Julia Morgan, who was born in California, was the architect behind the Asilomar Conference Grounds and the Chinatown in San Francisco.
+Asilomar Conference Grounds, located at Asilomar Blvd., Pacific Grove, California, was added to the National Register of Historic Places on February 27, 1987, with the Reference Number 87000823. .
+1904 The Asser Levy Public Baths is located on Avenue A in Manhattan, and was added to the National Register of Historic Places on April 23, 1980. The baths were built in 1904.
+The Asser Levy Public Baths are located in New York City and were built in the year 1904.
+I'm sorry, I don't understand what you are asking for. I am unable to process the prompt.
+Birmingham tense=present, voice=active, person=3rd, number=null> be located in Birmingham, where Birmingham tense=present, voice=active, person=3rd, number=null> be the leader and Birmingham John Madin tense=present, voice=active, person=3rd, number=null> be the architect, named John Madin.
+Hailemariam Desalegn is the leader of the country where Addis Ababa is located.
+Gujarat ( Anandiben_Patel ) VP be the leader of Gujarat, where Gujarat ( Ahmedabad ) VP be the location of Amdavad_ni_Gufa.
+Marriott International is located in Bethesda, Maryland and has Bill Marriott as a key person. Marriott International is the tenant of the AC Hotel Bella Sky Copenhagen.
+Albany, Georgia is located in Dougherty County, Georgia, in the United States. Asian Americans are an ethnic group in the United States.
+At Albuquerque in New Mexico, there is an entity that is the leader of New Mexico Senate and has an area total of 490.9 (square kilometres) and a population density of 1142.3 (inhabitants per square kilometre).
+vp<aspect=simple, tense=present, voice=active, person=3rd, number=null> be located in/reside in/be found in/be situated in/entity-2 person=3rd, number=null> belong to/be a part of/be located in/reside in/be found in/be situated in/be based in/be situated in/have its headquarters in/be headquartered in/be located at/in/on/at/ENTITY-2, where Georgia and Alpharetta, Georgia 's the same entity and entity-3 be a part of/belong to/be a member of/be associated with/be connected to/be related to/be relevant to/have a connection to/ENTITY-2, an entity which is a part of/belongs to/is a member of/is associated with/is connected to/is related to/is relevant to/has a connection to/ENTITY-5, which is a location of/in/on/at/which is to say/that is to say/as in/for example/ENTITY-3 has as part/include/contain/have/hold/possess/own/be comprised of/be made up of/be constituted of/be formed of/ENTITY-6.
+The United States, a country that is the leader of the Asian Americans, is the location of Alpharetta, Georgia.
+There is a country named United States which is also the location of Alpharetta, Georgia. It is led by a leader and is home to a significant number of Asian Americans. The capital of the United States is Washington, D.C.
+the united states be located in the city of Anaheim, California, in the United States. It has the area code 657 and 714, and the time zone is -7 UTC offset. The total area covered is 131.6 square kilometres.
+The California State Senate is located in the California State Capitol.
+The Lafayette Township is a part of Madison County in the United States.
+The United States is the country of Angola, Indiana, which is part of the Pleasant Township in Steuben County. Asian Americans are one of the ethnic groups in the United States.
+The United States House of Representatives presides over Antioch, California, in Contra Costa County, California.
+vp be the county seat of Tarrant County.
+Atlanta is a city in the United States where an ethnic group called Asian Americans is one of many ethnic groups. The capital of the United States is Washington, D.C.
+Atlanta is a city with a high population density. It is the capital of the United States and is located in the state of Georgia.
+United States ( i.e., Atlantic City ) tense=present, voice=active, person=3rd, number=null> be a part of New Jersey ( i.e., New Jersey ) where new jersey (i.e., Newark ) tense=present, voice=active, person=3rd, number=null> be the largest city of new jersey.
+the United States person=3rd,number=singular> be a part of the country of The United States where the largest city is Atlantic County.
+Alabama is a state in the United States of America.
+Washington is a state in the United States of America, which has its capital in Washington D.C.
+The state of Washington is located in the United States. Olympia is the capital city of Washington.
+Georgia, a state in the U.S., has Atlanta as its capital.
+Madison County ( Madison County, Indiana ) is a part of the United States. It is located in the state of Indiana and its largest city is Anderson.
+New Jersey is a state in the United States. It is led by Barack Obama and is home to a population with multiple ethnic groups. One of its cities, Atlantic City, is known for being a hub for gambling and tourism. It is also the location of the Trenton airport which has a runway length of 4000.0.
+United States 's the largest city in Houston which is located in the United States, where English is spoken and Barack Obama is a leader.
+Attica, Indiana is part of Fountain County, in the United States, where the capital is Washington, D.C.
+vp be from the capital of the United States, Washington DC, which is also the location of Fountain County, Indiana.
+Washington, D.C. is the capital of the United States, where Barack Obama is a leader. Akron, Ohio can be found there. I was unable to parse the input as a full sentence because you haven't provided any information for the subject or verb of the sentence. I have assumed that the subject is Akron, Ohio, and have generated a sentence based on that assumption. Please provide me with more information if this isn't what you intended.
+Akron, Ohio is a city in Summit County, Ohio, where Asian Americans are an ethnic group in the United States.
+The United States, a country that is the leader of Albany, Oregon, has an Asian American ethnic group and is the location of the Benton County.
+United States ( Albuquerque, New Mexico ) aspect = simple, tense = present, voice = active, person = 3rd, number = null > be located in Albuquerque, New Mexico ( United States ), where Albuquerque aspect = simple, tense = present, voice = active, person = 3rd, number = null > have DT < form = undefined > a leader called Albuquerque, New Mexico ( Barack Obama ), and DT < form = undefined > be amongst DT < form = defined > the ethnic group of Albuquerque, New Mexico, which is asian americans ( Asian Americans ).
+Albany, Georgia is in the United States, where English is spoken and African Americans are an ethnic group.
+.
+Albert Uderzo, the creator of Asterix comics, is a French national, René Goscinny.
+Bananaman tv show tense=past, voice=active, person=3rd, number=null> be a TV show called Banana Man that was broadcasted by the BBC and starred Tim Brooke-Taylor. It was last aired on April 15th, 1986.
+Big Hero 6, a film distributed by Walt Disney Studios Motion Pictures, was released and starred by Scott Adsit, with the first appearance of the character Baymax.
+The film Big Hero 6, starring Scott Adsit, was distributed by Walt Disney Studios Motion Pictures.
+The film Big Hero 6 is distributed by Walt Disney Studios Motion Pictures and starred by Ryan Potter.
+Carmine Infantino tense=present, voice=active, person=3rd, number=null> be called DT <form=undefined> Blockbuster and be a comics character. Carmine Infantino tense=present, voice=passive, person=3rd, number=null> be created by Carmine Infantino.
+Dan Mishkin created the comic book character Bolt, whose alternative name is Larry Bolatinsky.
+Ernie Colon is the creator of Ernie Colon ( ```json ernie_colon ``` also known as Larry_Bolatinsky ).
+the region of Lazio, Italy ( Amatriciana sauce ) comes from region (Lazio, Italy) where Guanciale ingredient.
+Arem-arem be a dish of Javanese cuisine and have is a main ingredient of banana leaf.
+Arrabbiata sauce is made from tomatoes.
+Arrabbiata sauce is a food item that is a product of Italy, produced in the region of Rome and contains olive oil as one of its ingredients.
+.
+Malaysia is the country of the asam pedas, a food which comes from the Malay Peninsula and whose main ingredients are fish cooked in a sour and hot sauce.
+arifin zakaria a country, is led by Arifin Zakaria. It is the location of Kuala Lumpur, the capital.
+vp<aspect=simple, tense=present, number=null><ethnic group> be the ethnic group from the region of Malaysia tense=present, voice=active, person=3rd, number=null> be from the region of ( LOC ) Malaysia, where Malaysian Chinese is an ethnic group and ayam penyet comes from there.
+I'm sorry, I do not understand what you would like me to do.
+The United States, lead by Barack Obama, is home to various ethnic groups - one being White Americans.
+John Roberts person=3rd, number=null> be the leader of the leader of the United States where there is a capital in the leader of John Roberts.
+I'm sorry, I am unable to understand your request. If you provide me with a specific question or prompt, I can provide you with a response.
+new york ( Baked Alaska ) be a dish from New York, where the leader is a person who is a resident. The dish is made from sponge cake and is from France.
+The baked alaska is a dessert that is part of the French cuisine and comes from France. The current leader of France is Manuel Valls and they use Euro as their currency.
+United States tense=present, voice=active, person=3rd, number=null> be a dish of United States which is a dessert of christmas pudding that comes from New York. The dish is made up of the ingredient Christmas pudding.
+Athens_International_Airport  runwayLength 4000.0  country Greece  The airport is located in Greece and has a runway length of 4,000.0.
+tense=present, voice=active, person=3rd, number=null> be a dessert called 'ENTITY-2' in the region of 'ENTITY-3' where 'ENTITY-4' come from. 'ENTITY-4' has the ingredients 'ENTITY-5', 'ENTITY-6', 'ENTITY-7', and 'ENTITY-8'.
+the Bakewell pudding is a type of dish found in the Derbyshire Dales region. Its key ingredients are ground almonds, jam, butter, and eggs. One of its variations is called the Bakewell tart.
+Bakso is a traditional Indonesian meat dish made from beef.
+Colombian cuisine comes from the Paisa region, where Bandeja paisa is a popular dish. This dish contains avocados, and is a must-try for anyone visiting this region.
+Colombia is the location of Paisa Region, and Hogao is one of the ingredients of Bandeja paisa.
+Claude Bartolone is the leader of France.
+a food called Philippines tense=present, voice=active, person=3rd, number=null> be a food called a food called batchoy that comes from the Philippines, where the main ingredients are noodles, pork organs, vegetables, chicken, shrimp, and beef.
+a dish is a dish from the Philippines made from a variety of ingredients, including noodles, pork organs, vegetables, chicken, shrimp, and beef.
+Tony Tan is the leader of Singapore, where a dish called 'Beef kway teow' can be found. 'Beef kway teow' is a dish found across Singapore and Indonesia, which are both countries.
+Singapore is the region where Beef Kway Teow is found. Beef Kway Teow is a dish from Indonesia and sesame oil is one of its ingredients.
+a dish a dish, tense=present, voice=active, person=3rd, number=null> is from the region of singapore Singapore, where singapore a type of sauce, is an ingredient.
+India's leader Sumitra Mahajan is a prominent figure in the country's politics, and as such, she has a significant influence on the economic policies of the nation. One of these policies is the use of the Indian rupee as the country's currency. This currency is widely used throughout India and is a symbol of the country's economic strength and pride. The rupee is accepted as a legal tender in India and is used in all transactions, from buying groceries to large-scale investments. The currency is also recognized internationally and is traded on the global market. The use of the Indian rupee is an important part of India's economy and plays a significant role in the country's financial stability and growth.
+a variation of a dessert dish be a variation of a dessert dish, which is called a Binignit in some regions.
+dessert is a type of dessert dish that has sago as one of its ingredients. It is a variation of the cookie.
+1. **Understanding the Format:** The examples you've given provide insights into the desired format for the output. Each example consists of a sentence structure with specific linguistic features (e.g., verb tense, voice, person, number) and placeholder entities represented by tags like `<ENTITY-1>`, `<ENTITY-2>`, etc. Understanding the format and its linguistic characteristics is crucial for generating accurate and coherent responses. 2. **Data Representation:** To handle the query and generate results, a representation of the data is needed. The triples in the examples could be represented in a structured format, such as a JSON or a tabular representation. Each triple might contain information about an entity and its attributes or relationships. 3. **Generating Text:** Once the data is represented in a structured manner, an NLP model can be employed to generate text based on the specified format. The model would take into account the linguistic features and placeholders specified in the format and generate natural language sentences that adhere to the template. 4. **Training and Evaluation:** To ensure accurate and contextually relevant results, the model could be trained on a diverse dataset that includes examples like the ones you've provided. An evaluation metric could be defined to measure the quality of the generated text, taking into account factors like accuracy, coherence, and readability. 5. **Execution:** Once the model is trained and evaluated, it can be used to process new queries. Given the specified format and the data represented in the triples, the model would generate natural language sentences that adhere to the desired structure. It's important to note that the quality of the output heavily depends on the quality of the training data, the representational clarity of the input data, and the suitability of the chosen NLP model for the task at hand. If you have further questions or would like more detailed insights, feel free to provide additional information or specific examples for further clarification.
+the Philippines (to be determined) is a type of food found in the Philippines. It is made using bananas and sweet potatoes. The sweet potatoes are from the order Solanales.
+Mexico is the country where the dessert, Bionico, originated.
+vp<aspect=simple, tense=present, voice=passive, person=non-3rd, number=singular> be from the region of Mexico where they speak Spanish and use the Mexican peso as currency.
+The Mexican peso is the currency of Mexico, where Silvano Aureoles Conejo is a leader.
+Italy ( the region = Italy ) aspect=simple tense=present voice=active person=3rd number=null > be the country of the country of Italy ( Italy = Amatriciana sauce ).
+The Philippines is a country where the Arabic language is spoken and the Igorot people are an ethnic group.
+Singapore's leader is Tony Tan.
+I am unable to understand your request. I am happy to help, but I need to clarify a few things. 1. You have provided a JSON-like string that I am unsure how to interpret. 2. You also provided a prompt that I am unable to understand, as it contains no questions or commands.
+vp<aspect=simple, tense=present, number=null> be located in United States tense=present, voice=active, person=3rd, number=null> be located in Mississippi Infantry Monument located in United States.
+The monument is located in Adams County, Pennsylvania and is part of the Gettysburg municipality.
+Baku Turkish Martyrs Memorial be located in/at Azerbaijan where the capital of Baku is/are Azerbaijan The name of the monument in Azerbaijan is/was Türk Şehitleri Anıtı , which is/was made by/by the hands of/from the country of/in Turkey.
+Bacon Explosion comes from the United States, where Barack Obama was once a leader.
+Ahmet Davutoğlu tense=present, voice=active, person=3rd, number=null> be located in/at Turkey.
+The Bavarian Crisis was written in English. 5. The Bacon Explosion comes from the United States, where Barack Obama was once a leader.
+Massimo Drago is the manager of A.C. Cesena and he is associated with A.S.D Licata 1931.
+A.C. Lumezzane person=3rd,number=null> belong to league = 'Lega_Pro/A' and have a number of members = 4150.
+A.D. Isidro Metapan is managed by Jorge Humberto Rodriguez.
+A.E Dimitra Efxeinoupolis is led by Antonis Milionis and can accommodate 1500 members, Antonis Milionis is the leader of A.E Dimitra Efxeinoupolis which has it's ground in the city of Efxeinoupoli.
+A.F.C. Blackpool tense=present, voice=active, person=3rd, number=null> be a club with a ground in Blackpool and have 1500 members.
+Stuart Parker, a footballer, is a member of the Chesterfield F.C. club.
+Dave Challinor is a member of Colwyn Bay Football Club.
+A.S. Livorno Calcio is a football club based in Livorno, Italy. It was founded in 1909 and has 19238 members.
+Carpi F.C. won Serie B in the year 1909.
+At Chelsea FC, Christian Panucci is a member of the management team.
+AEK Athens FC is a football club based in Greece, where the Super League Greece is a league competition they participate in.
+Chelsea Football Club is managed by Gus Poyet.
+amsterdam-centrum person=3rd, number=null> located in Amsterdam, where the leader is named ' Eberhard van der Laan ' and is part of the district ' Amsterdam-Centrum '.
+Amsterdam is led by Eberhard van der Laan and is situated in the Amsterdam-Noord district. AFC Ajax (amateurs) is based in Amsterdam.
+Jong Ajax club of John van den Brom is Jong Ajax John van den Brom is the manager of AZ Alkmaar.
+vp<aspect=null,tense=null,voice=null,person=null,number=null> be a team in league the ground which is located in the country Brazil and has a ground called Estádio Municipal Coaracy da Mata Fonseca.
+Luciano Spalletti is a member of the Empoli F.C. football club.
+Massimo Drago, who is the manager of A.C. Cesena, is a member of A.S.D Licata 1931.
+Massimo Drago is the manager of A.C. Cesena and plays for A.S.D. S.S. Nola 1925.
+I apologize, but I do not understand your request. If you provide me with a specific query, I will do my best to assist you.
+vp tense=present, voice=active, person=3rd, number=null> be located in ( the state of ) the state of.
+Acharya Institute of Technology, affiliated to the Visvesvaraya Technological University, is located in Bangalore. It has an impressive number of 700 postgraduate students.
+AWH Engineering College tense=present, voice=active, person=3rd, number=null> be a college located in AWH Engineering College.
+vp-simple-present-active-3rd-null-be-a-university-located-in-1-Decembrie-1918-University tense=present, voice=active, person=3rd, number=null> be a university located in.
+Klaus Iohannis is the leader of Romania where the Germans of Romania are an ethnic group.
+The School of Business and Social Sciences at the Aarhus University was established in 1928 and is affiliated with the European University Association. The European University Association has its headquarters in Brussels.
+Aarhus University, established in 1928, is located in Denmark. It is home to the School of Business and Social Sciences, which is a well-known educational institution.
+The Bavarian Crisis, which is available in print.
+The Galileo Affair.
+Alexander L. Wolf is the leader of the Association for Computing Machinery which is based in New York City.
+Athens International Airport is the airport with the longest runway in Athens, Greece. .
+AIDS ( journal ) is a publication that specializes in the field of HIV.
+Charlie Johnson is from the United States and graduated from Stanford University. He is currently an editor of AIP Advances.
+The Bavarian Crisis was written in English. Example 5 provides the country of origin and leader name of the United States during Barack Obama's tenure. The expected output is a sentence in the active voice stating that Barack Obama was once the leader of the United States, the same country that the Bacon Explosion comes from. The query asks for a summary of these examples, and the provided output is meant to fulfill that request.
+A Loyal Character Dancer written by Qiu Xiaolong ( A Loyal Character Dancer ) 's written by A Loyal Character Dancer ( Qiu Xiaolong ).
+Soho Press is a publisher based in the United States. They publish books in the English language, including the book A Loyal Character Dancer.
+The book 'A Severed Wasp', published in the US, is written in English - the same language that is spoken in Great Britain.
+A Severed Wasp is a hardcover book with 388 pages.
+abh._math._semin._univ._hambg 's abbreviated as Abh._Math._Semin._Univ._Hambg.
+english <language> tense=present, voice=active, person=3rd, number=null> come from the language of the book, English.
+Garth Nix wrote the book Aenir, which is followed by the book Above the Veil. The book Aenir is categorized as fiction, while the language of the book Above the Veil is English.
+I understand your requirement to format the output in a specific lexicalized style. However, I need more clarity on the desired output format for each example in your dataset. Could you please provide clear instructions on how you want the output to be structured for each example? It would be best if you could provide a few examples of the desired output format to guide me.
+# Acta Palaeontologica Polonica, abbreviated as Acta Palaeontol. Pol. or Acta Palaeontologica Polonica, has the ISSN number 0567-7920 and an LCCN number of 60040714. ## The ISSN number, 0567-7920, is the international standard serial number assigned to academic journals and magazines and is used to identify them. ## The ISSN number is a numeric code that uniquely identifies a serial publication. ## The LCCN number, 60040714, is the number that the Library of Congress assigns to all books, serials, music, and sound recordings published in the United States. ## It is used to uniquely identify and catalog these publications. ## The LCCN number is a control number that is used to facilitate the acquisition, cataloging, and shelving of publications in libraries. ## The Acta Palaeontologica Polonica is a journal that covers research on all aspects of palaeontology in Poland and other parts of the world. ## The Acta Palaeontologica Polonica publishes original research articles, short communications, reviews, and abstracts of doctoral dissertations. ## The Acta Palaeontologica Polonica is published by the Institute of Paleobiology of the Polish Academy of Sciences. ## The Institute of Paleobiology is a research institute that focuses on the study of the history of life on Earth. ## The Institute of Paleobiology was founded in 1947 and is located in Warsaw, Poland. ## The Acta Palaeontologica Polonica has been published since 1956.
+addiction.
+Bacon Explosion is a dish from the United States, where Barack Obama was once the leader. Based on these examples, it seems like you're looking to generate a sentence describing certain attributes of entities using specific lexicalization patterns.
+New York tense=present, voice=active, person=3rd, number=null> be affiliated with association Association of American Universities and tense=present, voice=active, person=3rd, number=null> publish journal entitled Association of American Universities in which the publisher is Association of American Universities This response is based on the triples provided and forms a sentence that is grammatically and semantically coherent. The output assumes the use of a simplified template for sentence generation.
+Garth Nix wrote the book Aenir. It was followed by Above the Veil, and it is written in English.
+Alcatraz, a series of books, is published in the United States, where English is spoken and where Barack Obama is a leader.
+Alcatraz Versus the Evil Librarians is a hardcover book, with 320 pages.
+Alcatraz Versus the Evil Librarians VP be from the United States, where the language spoken is English, and Alcatraz Versus the Evil Librarians comes from there.
+Shirley, Derbyshire lives from Shirley, Derbyshire to Shirley, Derbyshire.
+SAGE Publications is the publisher of the Administrative Science Quarterly, which has an ISSN number of 0001-8392.
+The United States is a country which has a diverse population, including Native Americans and other ethnic groups, and is led by a president. The capital of the United States is Washington, D.C., where the White House is located.
+Africa ( usually ) VP be a book of genre fantasy and written in English where the population is African Americans ( Africa ).
+United States is a country with a diverse ethnic group, including Asian Americans. It is led by President Barack Obama and its capital city is Washington DC. The capital city is home to many attractions, including the National Mall and the Lincoln Memorial.
+The book, A Wizard of Mars, is from the United States, where Barack Obama was once a leader.
+The United States is a country with a diverse ethnic makeup, including African Americans. It's also worth mentioning that the United States is led by a president, currently being Joe Biden, and is known for its cultural melting pot of various ethnic groups, such as Asian Americans and Latin Americans.
+The United States, a country led by the President, is home to various ethnic groups, including Native Americans. This information is presented in a straightforward, declarative sentence.
+At the Abilene Regional Airport, there is a runway called 17L/35R with a length of 2194.0 meters and an elevation of 546 meters above sea level. It serves the city of Abilene, Texas.
+At the Adirondack Regional Airport, located in Lake Placid, New York, there are two notable features. First, it stands at 507 meters above sea level. Second, it has a runway length of 2003.0.
+## Adolfo Suarez Madrid-Barajas Airport Located in Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas, Adolfo Suárez Madrid-Barajas Airport is operated by ENAIRE. It has a runway length of 3500m and is named 18L/36R. ## Madrid The Spanish capital Madrid is home to the Adolfo Suárez Madrid-Barajas Airport. It is a major transport hub, serving as the location for many international flights. ## ENAIRE The ENAIRE is the operating organisation of Adolfo Suárez Madrid-Barajas Airport. It is responsible for ensuring the smooth running of the airport and providing a safe experience for passengers. ## Adolfo Suárez The former president of Spain, Adolfo Suárez, lends his name to the airport. He was a prominent figure in Spanish politics, having played a key role in the country's transition to democracy. ## Madrid's Other Airports In addition to Adolfo Suárez Madrid-Barajas Airport, Madrid is also served by smaller airports, including Torrejon de Ardoz, Cuatro Vientos and La Morgal. These airports offer a range of services, from domestic flights to private aviation. Is there anything else I can help you with regarding Madrid or Spanish airports? I hope this helps! Let me know if you have any further questions or need any additional information.
+The Indian Air Force is the operating organization of Agra Airport, which is located in India.
+Al Asad Airbase is located in Iraq where the United States Air Force is the operating organization. The name of the runway at the Al Asad Airbase is 08/26 and its length is 3990.0.
+Al-Asad airbase is operated by the United States Air Force and is located in Al-Anbar Province, Iraq. It has a runway length of 3990 and the name 09R/27L.
+The United States Air Force was involved in the invasion of Grenada.
+located in/at Pakistan 's located in/at Pakistan ( a place where a event takes place ).
+Amsterdam Airport Schiphol is served by the city of Amsterdam.
+I am unable to understand the instruction, as there is no clear output expected for this prompt. If you provide a clear instruction, I will try to follow it.
+Andrews County Airport is located in the city of Andrews, Texas and has a runway length of 929.0.
+Texas is a state in the United States. It is the location of Andrews County Airport. The capital of Texas is Austin. The demonym for Texans is Tejano.
+vp tense=present, voice=active, person=3rd, number=null> be located in/at Texas.
+Angola's capital city is located in the province of Luanda.
+flemish region is a large international airport located in the Flemish region of Belgium. It is operated by the Flemish government and is at an elevation of 12 metres above sea level. The airport has a runway length of 600.0 meters.
+Ashgabat is the headquarters of the airlines which has its hub airport in Turkmenbashi and its operating organisation is the Turkmenistan Airlines which is based in Ashgabat International Airport.
+Athens airport is located in Spata, a city in Athens which serves the airport. The airport has a runway length of 3800.0.
+the township of Egg Harbor Township, New Jersey. Is there anything else I can help you with? in the township of Atlantic City New Jersey, where the population is counted by the leader named ENTITY-5.
+Stephen Dilts' organization, the South Jersey Transportation Authority, owns the Egg Harbor Township, New Jersey-based Atlantic City International Airport.
+Charles Michel is the leader of Belgium, where German is spoken and Antwerp is found.
+The entity Antwerp comes from Belgium, where Philippe of Belgium is the leader and French is the spoken language.
+Adirondack Regional Airport tense=present, voice=active, person=3rd, number=null> serve as Adirondack Regional Airport which is a city served by Adirondack Regional Airport, which is located in Harrietstown, United States where the leader is Barack Obama and the population speaks English, the language of the United States where the ethnic group is Asian Americans and which is the country of A Wizard of Mars and Aenir, a paperback available there.
+iraq tense=present, voice=passive, person=3rd, number=singular> be located in Iraq, where the leader is named Fuad Masum and Kurdish is spoken.
+Iraq's leader is Haider al-Abadi, and Fallujah is located in Iraq.
+The Athens International Airport, which is a part of the A bus route in Athens, has a runway length of 3000.0 meters.
+I apologize, but I am unable to understand the instruction. The input text appears to be a series of brackets and does not contain any coherent content.
+Alan Bean was born in Wheeler, Texas, and is an American national. He was selected by NASA in 1963 and spent over 100 hours in space.
+Alan Shepard was awarded the Distinguished Service Medal (US Navy), which is ranked higher than the Department of Commerce Gold Medal. Alan Shepard was a crew member on Apollo 14, which was operated by NASA.
+Chris Patten was a representative of Hong Kong, which was a British colony. Frank Borman was a crew member of Apollo 8, which was a spaceflight mission operated by the United States.
+Buzz Aldrin, born in Glen Ridge, New Jersey, has the status of Retired and graduated from the Massachusetts Institute of Technology with a Sc.D. in 1963. He was a crew member of the Apollo 11 mission.
+The Bavarian Crisis is written in English. A bacon explosion comes from the United States, where Barack Obama was once the leader. Based on the provided information, it seems that there are some errors in the triples you provided. For example, the book A Wizard of Mars is not necessarily about the United States, as it is a fantasy novel, and Barack Obama cannot be the leader of the United States at the same time as the book's publication date. These details should be fixed to generate a more accurate summary.
+Buzz Aldrin, whose birth name is Edwin Eugene Aldrin Jr., was a crew member of Apollo 11 and received 20 awards.
+Alan Shepard was born in New Hampshire and passed away in California. He received the Distinguished Service Medal from the United States Navy.
+I am sorry, I do not understand your request.
+Athens International Airport has a runway length of four thousand and 0 metres.
+NASA was the operator of Apollo 8.
+Birmingham tense=present, voice=active, person=3rd, number=null> be located in Birmingham <ENTITY-2> with tense=present, voice=active, person=3rd, number=null> a floor count of 1976 and tense=present, voice=active, person=3rd, number=null> a building start date of 23 and tense=present, voice=active, person=3rd, number=null> a completion date of Birmingham.
+Africa's Asian population is concentrated in South Africa, which is the location of 11 Diagonal Street.
+Cleveland, which is part of Cuyahoga County in the U.S., is governed by the Cleveland City Council. 200 Public Square, a notable location in Cleveland, is therefore governed by the Cleveland City Council.
+Buffalo, New York, is the location of the 250 Delaware Avenue, which has a total floor area of 30843.8 square meters and 12 floors.
+the United States location is in Chicago, the leader of which is Rahm Emanuel. It is part of Cook County, Illinois, in the United States.
+the building is located in Illinois, US. It was completed in 2009 and has 60 floors. The building has 120770 square meters of floor area.
+vp tense=present, voice=active, person=3rd, number=null> be located in ( at ) Dublin.
+The hotel was designed by 3XN and Marriott International is one of the tenants. It has 23 floors and is located in Copenhagen.
+Adare Manor is located in Adare, County Limerick, in the Republic of Ireland. It is governed by the Limerick City and County Council.
+The museum is located in Akita, Akita Prefecture, Japan. The country has a population that includes groups such as the Brazilians in Japan.
+Akita, Akita, Japan tense=present, voice=active, person=3rd, number=null> be located in, or be found in, Akita, Japan where the leader is one of the leaders of Akita Museum of Art and where Filipinos are an ethnic group in the country.
+If you provide me with the specific lexicalized format you would like to use, I can generate the output results for the query. For example, if you want to format the triples as a simple sentence, such as Athens International Airport has a runway length of 4000.0 meters., I can transform your data accordingly. Please provide the desired format or provide additional information about the output you expect. I'm happy to help you arrange the data in a way that suits your needs.
+The museum is located in Akita, Akita, Japan, where the leader is and the ethnic group is Brazilians in Japan.
+Bacon Explosion is a dish from the United States, where Barack Obama was once the leader. Please note that the examples provided have varying degrees of complexity and may require additional context or clarification for a more precise output. If you have specific requirements or additional details, feel free to provide them, and I'll do my best to generate the desired outputs.
+India's leader, Narendra Modi, comes from a country with a diverse population and a rich cultural heritage. One notable attraction that reflects India's culture and history is Amdavad ni Gufa, located in the state of Gujarat.
+The venue of the event is located in Pacific Grove, California, and is known as Asilomar Conference Grounds. It was built in 1913, and was added to the National Register of Historic Places on February 27th, 1987.
+the baths NP<definite=indef,number=null> Asser Levy Public Baths where Asser Levy Public Baths is located at street address 80002709 NP<definite=indef,number=null> Avenue A ( Manhattan ), where April 23, 1980 is a historic place listed in the national register with reference number 80002709 and was built in 1904.
+I am not sure what you would like me to do here.
+the leader location be in New York City, where the leader is named Gale Brewer.
+Bacon Explosion comes from the United States where Barack Obama was once a leader. } >.
+John Madin tense=present, voice=passive, person=3rd, number=null> be located in/at Birmingham.
+vp <aspect=simple, tense=present, number=null> located in/at Anandiben Patel Gujarat tense=present, voice=active, person=3rd, number=null> be located in/at Gujarat.
+ENTITY-1 person=3rd, number=null> be located in/at Gujarat, India, where the leader is Narendra Modi. This response is constructed by first identifying the main subject (ENTITY-1) of the sentence, which is usually the first triple in the input. Here, it is Amdavad ni Gufa. This entity is then connected to the location in Gujarat, which is the second triple in the input. This is done using the verb 'be located in/at'. Next, we identify the country that Gujarat is a part of, which is India. This information is contained in the third triple in the input. This is important context that helps to disambiguate the location. We then include this information in the final sentence by adding the phrase in India. Finally, we add the name of the leader of India, which is the fourth triple in the input, forming the phrase where the leader is. The final response has a passive voice as per the style of the examples you have provided. It is a third person statement and is in the present tense.
+vp<number=null><aspect=simple, tense=present, voice=passive> be located in be located in Akita Prefecture, Japan where there is an art museum called the Akita Museum of Art. The leader of Japan is not known to most people, but there are reports of people from the country of Brazil living there.
+I can certainly assist you in generating the required outputs based on your provided examples and query. However, I would like to clarify that the task you have provided requires more advanced NLP techniques, specifically for named entity recognition (NER) and relation extraction. This is because the examples you provided seem to involve identifying entities and understanding the relationships between them, which is a complex task that goes beyond simple pattern matching or regular expressions. To accurately generate the desired outputs, I would need a more comprehensive dataset that includes the necessary context and annotations for NER and relation extraction. Alternatively, if you have access to a pre-trained model or framework that can handle such tasks, I can use that to generate the required outputs. In any case, I want to make sure that the results I provide are accurate and meaningful. If you have any further information or guidance on how to approach this task, please let me know, and I'll be glad to assist you further.
+Joe Biden is the leader of the United States. The United States is the location of 250 Delaware Avenue, which is the official residence of the president of the United States.
+Albany, Georgia, is part of the United States, where the leader is Barack Obama and an ethnic group is Native Americans. The United States has English as its national language.
+Albuquerque, New Mexico is a city with a total area of 490.9 square kilometres. It is comprised of 486.2 square kilometres of land and a total population of 1142.3 inhabitants per square kilometre. The city's area code is 505 and 575.
+Fulton County Georgia tense=present, voice=active, person=3rd, number=null> be the county seat of Fulton County which is part of the United States and has a leader named Fulton County.
+1. Martin Luther King Jr., a prominent civil rights activist and leader. 2. Muhammad Ali, a legendary boxer and activist. 3. Thurgood Marshall, the first African American to serve on the Supreme Court. 4. Oprah Winfrey, a renowned media mogul and philanthropist. 5. Michael Jordan, a highly accomplished basketball player considered one of the greatest athletes of all time. These individuals have made a lasting impact on the United States and the world, breaking barriers and inspiring millions. They are a testament to the strength, resilience, and talent of the African American community.
+.
+The California State Assembly is located in the California State Capitol, which is located in Anaheim, California. The leader of the California State Assembly is titled the same. Spanish is spoken in California.
+Anderson, Indiana, USA is located in Anderson, Indiana ( USA ). It is elevated at 268 metres above sea level and has a population density of 523.9 inhabitants per square kilometre.
+vp person=3rd, number=null> be in the location of Indiana.
+Antioch is located in the 925 area code and has a total area of 75.324 square kilometres. The population of this place is 102,372.
+The output is:. Atlantic City is located in New Jersey, United States. It is led by the Mayor of Atlantic City, New Jersey, and has a population density of 1421.2 inhabitants per square kilometre. The area of Atlantic City, New Jersey is 44.125 square kilometres.
+The United States is the country of Lee County, Alabama, which is led by a president. Asian Americans are an ethnic group in the United States, the leader of which is Barack Obama. The state of Alabama is led by a governor.
+Lee County, Alabama, is a part of the United States. The United States has African Americans as an ethnic group.
+vp<aspect=simple, tense=present, voice=passive, number=null, person=3rd> be the capital of ( Pierce County, Washington ) person=3rd> be the capital of ( The United States person=3rd> be the country of ( Washington, D.C. Washington, _D.C. )) Note that the entities are determined based on the provided triples and their relationships. The entities are represented as proper nouns in the output. The output is formulated as a verb phrase with a passive voice and without a specified subject, which is a grammatical requirement for sentences lacking an explicit subject.
+ENTITY-1/ENTITY-2 tense=present, voice=active, person=3rd, number=null> be located in/from DT <form=undefined> Washington state/Washington, where DT <form=defined> Washington is the capital of/is led by ENTITY-3/ENTITY-4/ENTITY-5.
+San Marcos is a county seat of Hays County, Texas, in the United States. Texas is a state in the south of the United States, where the capital city is Austin. The largest city in Texas is Houston, which is located in the southeastern part of the state.
+.
+I am not sure how you want me to generate the output for this query.
+Lafayette Township, Madison County, Indiana is a part of the United States. The capital of the state of Indiana is Indianapolis.
+vp<aspect=simple, tense=present, voice=passive, person=3rd, number=null> be the state in the United States where Houston is located person=3rd,number=null> be the state of Texas, where both Texas has a population over one million, and Texas 's the capital, and Texas is spoken English.
+Albany, Oregon, is located in the United States, where an ethnic group is the African Americans. The United States' capital city is Washington, D.C., and it is also a part of Benton County, Oregon.
+new jersey ( i.e., Washington, D.C. ) is the capital of the United States, where the largest city is New York City. New Jersey, a state in the U.S., is home to the city of Atlantic City.
+Albuquerque, New Mexico, is located in the United States, where the leader is Barack Obama, who is also the president. African Americans are one of the ethnic groups in the United States.
+New Mexico is led by the New Mexico Senate, and Albuquerque, New Mexico is found in the United States, where Asian Americans are an ethnic group.
+Athens International Airport has a runway length of 4,000.0.
+Albuquerque person=3rd,number=null> be the leader of Albuquerque, New Mexico in the United States where Albuquerque comes from the population of the United States where Albuquerque be a member of the ethnic group of Native Americans.
+Albany, Georgia is part of the United States, where English is spoken and Native Americans are an ethnic group.
+1. Angola, Indiana is part of the United States. 2. The United States has Asian Americans as an ethnic group and English as the language. 3. Angola, Indiana is a location. The entity representing the United States is Angola, Indiana (in the US) and the entity representing Angola, Indiana is Angola, Indiana The relationship between the two entities is expressed using a passive voice verb phrase, indicating that Angola, Indiana is a part of the United States. The aspect, tense, and voice of the verb phrase are simple, present, and passive, respectively. The person is 3rd, indicating a generic statement. The output does not express a specific number for the person since the sentence is in the passive voice. The output result follows the lexicalized format of expressing information in a sentence, as requested. However, please note that the output assumes a specific syntactic structure and word order to generate a grammatically correct sentence. The entities and their relationships are not explicitly named to maintain coherence in the output. If you have any specific requirements or need to modify the output, feel free to let me know, and I'll be happy to adjust it accordingly.
+vp<aspect=simple, tense=present, number=null> tense=present, voice=active, person=3rd, number=null> be a part of Pleasant Township, Steuben County, Indiana where there is a population that includes members of the Asian American ethnic group, the language used there is English and the leader is Barack Obama.
+Rona Fairhead broadcasted by BBC in the city of Broadcasting House, where its key person Rona Fairhead is the leader.
+Steve Bright is the creator of the TV show Bananaman which was broadcasted by STV and starred Jill Shilling. The show first aired on October 3rd, 1983.
+I'm not sure I understand your question.
+Bolt ( comics character ) was created by the Puerto Rican national Ernie Colon. Ernie has also used the name Larry Bolatinsky when writing about Bolt.
+It is a type of sauce that is a part of the Italian cuisine, specifically from the region of Lazio. It has four main ingredients, namely tomatoes, guanciale (a type of cured meat), cheese and olive oil.
+the capital of Pietro Grasso person=3rd, number=null> be the capital of the leader of Italy where Pietro Grasso 's the leader of.
+a rice dish from spain is a dish from the region of Catalonia, Spain. It is made with ingredients such as white rice, cuttlefish, squid, cephalopod ink, and cubanelle peppers.
+Spain is the country of origin of Arros negre, a dish from the region of Catalonia. Arros negre is made from a combination of white rice, cuttlefish or squid, cephalopod ink, and cubanelle peppers.
+Spain is a country where the leader is the Parliament of Catalonia and one of its ethnic groups are the Spaniards. Arros negre is a dish from Spain and it is from the region of Catalonia.
+Malaysia is a country which is the region of Sumatra, and Asam pedas is a dish which comes from there. Malaysian Malay is the ethnic group of the country.
+Asam pedas can be found in the region of Sumatra, which is part of Malaysia.
+The Bavarian Crisis was written in English. Bacon_Explosion <ENTITY-1> country United_States leaderName Barack_Obama The Bacon Explosion comes from the United States, under Barack Obama's leadership.
+United States Is there anything else I can help you with? ( United_States ) tense=present, voice=passive, person=3rd, number=singular> have as a leader DT John_Roberts and as an ethnic group N NP <person=3rd, number=plural> Asian_Americans. United_States ( The output referring expression for the provided context is United States ) is the capital of Washington_D.C.
+a sandwich ( a DT <def=defined> sandwich ) consists of ingredient ( ingredient ( ingredient KETCHUP ) ).
+Bacon sandwich is a popular food item in the United Kingdom. It is made up of bread, bacon, and a condiment. Some people call it a bacon butty, bacon sarnie, bacon sanger, piece n bacon, bacon cob, bacon barm, or bacon muffin.
+<subject, relation, object>,. } ``` This format allows me to understand the relationships between the entities in your data. Once I have this input, I can generate a summary that extracts the most important information from the data. If you need help formatting your data, please let me know.
+Athens International Airport is a place that has a runway length of 4000.0. I hope this response is helpful.
+baked alaska ( Baked Alaska ) VP be a dessert from Hong Kong where the leader is the president of France, United States or China and the population speaks English and French. The ingredients are Meringue, ice cream, sponge cake and Christmas pudding.
+United States 's a dessert called The United States.
+The Bakewell pudding is a dessert that originates from the Derbyshire Dales region. It is made with fruit preserves as one of its ingredients and has a variation known as the Bakewell tart.
+I apologize for the confusion. I'm not sure I understand your request. If you provide me with the specific format you'd like to use to organize your triples, I can try to generate a response that matches your requirements. However, without further context or details, it's challenging to provide a precise output.
+Bakso is a dish that comes from Indonesia, where the leader is Joko Widodo. The main ingredients of Bakso are Ground beef, tapioca, noodle, rice vermicelli, beef broth, kailan, celery, salted vegetables and fried shallots.
+I'm sorry, I am unable to understand the instruction. The provided examples are incomplete and are missing the context that the triples refer to. The examples do not provide any input query to generate an output for. To process your request, please provide the complete dataset along with the query or provide further instructions on how to structure the output.
+The Bacon Explosion comes from the United States, where Barack Obama was once the leader.
+France's leader is François Hollande.
+The Batagor, a dish from Indonesia, can be varied by using Siomay, which includes Shiitake as an ingredient.
+The Philippines is a dish from the Philippines, which comes from the region of La Paz in Iloilo City. Its ingredients include noodles, pork, vegetables, chicken, shrimp and beef.
+Bacon Explosion comes from the United States, where Barack Obama once held the leadership position. > > Please note that these outputs are based on the information provided in the examples and the specified lexicalized format. If you have additional context or information, the outputs may vary.
+Beef kway teow is a dish found in Singapore and Indonesia, where it is popular across the nation. It is a noodle dish with a rich and complex flavor profile, including sweet, salty, savory, and spicy notes. The result is a flavorful and satisfying meal that has become a staple in these regions.
+the region of Singapore and Indonesia tense=present, voice=active, person=3rd, number=null> come from the region of the region of Singapore and Indonesia where Beef kway teow is led by Beef kway teow and is known for the dish called Beef Kway Teow.
+The beef kway teow is a dish from Indonesia, but has become popular in Singapore. It is made up of a variety of ingredients, including kway teow, beef tenderloin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soy sauce, chilli, and sesame oil.
+Karnataka, India is a type of food found in Karnataka, India. It is made up of vegetables and is also known as Bhaji or bajji.
+karnataka is a type of food originating in Karnataka, where it is often made with gram flour and vegetables. The dish is also known as Bhaji or Bajji.
+``` a dish containing sago and sweet potatoes is a type of dish that has sago as its main ingredient. It also includes sweet potatoes, which are members of the flowering plant division and belong to the order Solanales. ```.
+Philippines is the country of Binignit, a dessert that comes from the Visayas region and includes coconut milk and sago as primary ingredients.
+Mexico is the country where bionico is a dessert made from granola, and comes from the Jalisco region.
+I'm sorry, I'm not sure what you are asking me to do.
+Mexico is the country of the Bionico, a dessert. The dessert comes from Mexico where the leader is Silvano Aureoles Conejo.
+Jusuf Kalla is a leader in Indonesia, the country that is the region of the Bakso food which uses Tapioca as one of its ingredients.
+I'm sorry, I am not able to understand the instruction. The instruction is not clear to me. I am unable to follow the prompt and generate the output result.
+The Philippines, a country where Philippine Spanish is spoken and led by a leader, has an ethnic group known as Ilocano people.
+The Philippines is a country where the language spoken is Arabic and an ethnic group called the Igorot people are found.
+The provided examples in the query aim to generate specific linguistic expressions or summaries for the given information. The examples consist of subject-newspaper-triple (SNT) structures, where each triple contains a piece of information about a specific entity. The expected output is a natural language sentence that accurately represents the information in the SNT. However, the query does not provide any context or guidance on how to interpret the information, making it challenging to generate meaningful and accurate output without additional context or details.
+In the Philippines, Binignit is a dessert course, and one of its variations is the confectionery known as Sandesh. The language spoken in the Philippines is Philippine English.
+pennsylvania, united states is a contributing property in Pennsylvania, United States. It was established in 2000.
+The Bavarian Crisis was written in English. 5. Bacon Explosion, a dish from the United States, is a creation of Barack Obama's nation.
+The capital of Azerbaijan is Baku, which is the location of the Baku Turkish Martyrs Memorial. This memorial is dedicated to the Ottoman Army soldiers killed in the Battle of Baku and is natively named Türk Şehitleri Anıtı.
+Monocacy National Battlefield is located in Frederick County, Maryland. It is home to the 14th New Jersey Volunteer Infantry Monument, which was established on July 11, 1907. The battlefield is located near Frederick, Maryland.
+Ahmet Davutoğlu is the leader of Turkey, where the Ataturk monument (Izmir) is made of bronze.
+I'm sorry, I'm not sure I understood your request. I can try to do what you asked, but I need more clarity on what you want. In the examples you provided, you seem to be trying to generate a summary of the information in the given triples, but you want to control the way the summary is expressed.
+Jens Härtel be a player of 1. FC Union Berlin.
+I'm not sure I understand your request, but I will attempt to answer your question. From the input, I understand that Rolando Maran is the manager of A.C. Chievo Verona club and was born in Italy. Is there anything specific you would like to know about Rolando Maran or A.C.
+Michele Marcolini, born in Italy, is the manager of A.C. Lumezzane and plays for A.C. Chievo Verona's club. He is a member of the Italian national team.
+the team A.E Dimitra Efxeinoupolis tense=present, voice=active, person=3rd, number=null> be the home ground of the team which has a chairman called Antonis Milionis and a number of members equal to 1500.
+Stuart Parker ( footballer ) is a member of the Stockport County F.C. which is led by the Conservative Party ( UK ).
+Stuart Parker is a player of Stockport County FC.
+A.F.C. Fylde is a football club based in Warton, Fylde, Lancashire, with 3180 members and a 2014 season.
+A.F.C. Fylde is a football club based in the United Kingdom. It has a ground called Bryning Lane and had 3180 members during the 2014 season.
+Inter Milan tense=present, voice=active, number=null> be a player of club Inter Milan.
+AEK Athens F.C. is a Greek football club based in Athens, Greece. The club has 69618 members and its ground is located in Greece. The club plays in the Superleague Greece and they had their 2014 season.
+AFC Ajax's amateur team plays at the Sportpark De Toekomst, which is owned by the AFC Ajax N.V. and is the home ground of Jong Ajax.
+Bacon Explosion is a dish from the United States, where Barack Obama once was the leader. In these examples, the output format is a sentence with the subject-verb-object structure, where the subject represents the main entity of the sentence, the verb is a predicate with its aspects, tense, voice, person, and number, and the object is a description of the triple.
+John van den Brom is a member of AFC Ajax and also manages AZ Alkmaar.
+Vila Nova, a club from Brazil, won the Campeonato Brasileiro Série C league. The club is located in the state of Alagoas, where the Estádio Municipal Coaracy da Mata Fonseca is also located.
+the ground of estadio municipal coaracy da mata fonseca is a league in Brazil where the clubs are playing in the ground of Estádio Municipal Coaracy da Mata Fonseca, which is located in Alagoas.
+Campeonato Brasileiro Série C (ENTITY-1) is a Brazilian football league, which is the competition of Agremiação Sportiva Arapiraquense (ENTITY-2). The Estádio Municipal Coaracy da Mata Fonseca (ENTITY-3), located in Arapiraca (ENTITY-4), is the home stadium of the Agremiação Sportiva Arapiraquense.
+St Vincent-St Mary's High School location is the United States where Barack Obama is the leader. St Vincent-St Mary's High School is located in the city of Akron, Ohio. The Akron Summit Assault's ground is located at St Vincent-St Mary's High School.
+the country be the country of which the leader is Italy and the ground of its national football team is Italy.
+FK Austria Wien, SK Vorwarts Steyr, and FC Admira Wacker Modling.
+vp 's AWH Engineering College a college in the city of Kuttikkattoor in India, which was established in 2001.
+visvesvaraya technological university is affiliated with the Visvesvaraya Technological University, which is located in the city of Belgaum. The Acharya Institute of Technology, with its campus in Bangalore, is in India.
+The director of the Acharya Institute of Technology in Bangalore, India, is Dr. G. P. Prabhukumar.
+The All-India Council for Technical Education is located in Mumbai, Maharashtra, India.
+1. The 1 Decembrie 1918 University is located in the city of Alba Iulia, which is part of Alba County in Romania.
+vp ( _be_a_school ) School of Business and Social Sciences VP be located in ( DT ) School of Business and Social Sciences where Denmark VP ( _be_a_leader ) Aarhus University of ( DT ) Denmark. The query asks for information regarding the School of Business and Social Sciences at Aarhus University. The answer is formulated in the form of a verb phrase (VP) with the correct tense and aspect, and the relationships between the entities are correctly established.
+I'm sorry, but I am unclear on how to interpret the input prompt.
+The 1 Decembrie 1918 University is located in Romania, whose capital is Bucharest. The country's anthem is 'Deșteaptă-te, române!' and one of its ethnic groups are the Germans of Romania.
+Klaus Iohannis is the leader of Romania where Alba Iulia is found.
+.
+I'm sorry, but as an AI chatbot, I cannot output text that looks like a triple store, as I do not have a specific lexicalization dataset. I can, however, summarize the information contained in the provided triples.
+The United Kingdom is led by Elizabeth II and is the country of the journal AIDS.
+The Bacon Explosion comes from the United States, where Barack Obama was once a leader.
+A book written by Qiu Xiaolong 's A book, A Loyal Character Dancer which is a book written by the author Qiu Xiaolong, with the ISBN number 1-56947-301-3 and the OCLC number 49805501.
+Native Americans are one of the ethnic groups in the United States. The English language is spoken in Great Britain, where the leader is not known.
+Soho Press is from the United States, a country with an Asian American ethnic group and the English language.
+the book a wizard of mars is a book written by author Diane Duane with the ISBN number 978-0-15-204770-2. It has 560 pages and is available in hardcover.
+Acta Mathematica Hungarica is abbreviated as Acta Math. Hungar.
+Acta Palaeontologica Polonica is the abbreviated name of a journal called Acta Palaeontologica Polonica, which has the LCCN number 60040714 and can be found in the field of Paleobiology.
+vp.issn:1732-2421 be the abbreviated name of Acta Palaeontologica Polonica, where Acta Palaeontologica Polonica NP<person=3rd,number=null> is the publisher of the ISSN number of Acta Palaeontologica Polonica which is Polish Academy of Sciences and the LCCN number is 60040714.
+association of american universites located in new york (of Cornell University) tense=present, voice=active, person=3rd, number=null> be affiliated with association of American universities located in New York.
+An affiliation of Cornell University is the Association of Public and Land-grant Universities. It is located in the city of Ithaca, in the state of New York. Cornell University is the publisher of Administrative Science Quarterly.
+Garth Nix is the author of the book Aenir, which has a total of 233 pages and is available in paperback.
+Alcatraz Versus the Evil Librarians is a work of fiction from the United States where English is spoken. African Americans are an ethnic group in the U.S.
+The Johns Hopkins University Press is an American publishing company and is a subsidiary of the Johns Hopkins University. The American Journal of Mathematics was first published in 1878 and is affiliated with the American Mathematical Society.
+The United States, a country that is home to a diverse range of ethnic groups, including Asian Americans, is the setting for Alcatraz Versus the Evil Librarians. The country's official language is English, a language also spoken in Great Britain. Alcatraz Versus the Evil Librarians is a work of fiction that comes from the United States, the same country that has seen the leadership of Barack Obama, a community that includes Asian Americans.
+united states (United States) are connected by the relation country, and Barack Obama is the leader of the United States. English is the language spoken in both Great Britain and the United States, which are the locations associated with the book A Wizard of Mars and the language English, respectively.
+The United States which is a book, is written in English, which is spoken in Great Britain. The book is written by the United States, which is led by Barack Obama and has a significant Asian American population. The book A Wizard of Mars is from the United States.
+I'm sorry, I'm not sure how to respond to your query. Your request includes a JSON object with a set of examples, but it seems like it's missing some information. The JSON object should include a field called Triple with a list of strings, but I'm not seeing that in your request.
+The US, led by Barack Obama, is the home of many diverse ethnic groups, one of which is Asian Americans. Also the country's language is English. A book titled A Severed Wasp is from the US.
+Margrethe II is the leader of Denmark, where Tirstrup is found. Tirstrup is part of the Central Denmark Region, and Faroese is one of the languages spoken in Denmark.
+Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas is the location of Adolfo Suárez Madrid–Barajas Airport. It is operated by ENAIRE. Adolfo Suárez Madrid–Barajas Airport's runway name is 14L/32R.
+the airport is located in India, operated by the Indian Air Force and has a runway length of 1818.0.
+Iraq ( i.e. Al Asad Airbase) tense=present, voice=active, person=3rd, number=null> be located in Iraq where the leader of the United States Air Force ( an entity in the US) tense=present, voice=active, person=3rd, number=null> be in charge of the base that has a runway length of 3990 and the runway name of 08/26.
+The United States Air Force operate the Al Asad airbase in Al Anbar Province, Iraq. The airbase has a runway length of 3992.88 and is named 08/26.
+The United States Air Force was involved in the 1986 United States bombing of Libya.
+1. They have used the Lockheed AC-130 aircraft in their attacks. 2. They are responsible for the operations of the Al Asad Airbase. 3. They use the Lockheed C-130 Hercules aircraft for transportation.
+Alderney Airport be a airport of the city served by Alderney_Airport, having a runway length of 733.0 and the name 08/26.
+Allama Iqbal International Airport is located in Pakistan, operated by the Pakistan Civil Aviation Authority and serves the city of Lahore.
+Allama Iqbal International Airport is an airport in Punjab, Pakistan. It is located in the city of Lahore and is operated by the Pakistan Civil Aviation Authority. The airport's runway length is 2900.0 and has a runway name of 18R/36L.
+Alpena County Regional Airport, located in Alpena, Michigan, is 210 metres above sea level and has a runway length of 1533.0.
+The Alpena County Regional Airport is located in Maple Ridge Township, Alpena County, Michigan, and serves the city of Alpena. The airport's runway is 1533.0 in length and named 7/25.
+The airport's runway, named 1/19, has a length of 2744.0 meters and is 210 meters above sea level.
+The Alpena County Regional Airport is located in Wilson Township, Alpena County, Michigan, USA. It is 210 meters above sea level and has a runway length of 1533.0.
+LAD, serves the city of Luanda and is located in Ícolo e Bengo. It is 159 meters above sea level and has a runway named 05L/23R with a length of 3800.0 meters.
+greek language is located in Greece, where the leader is Alexis Tsipras. Athens, which is served by Athens International Airport, is one of the cities where the Greek language is spoken.
+Alexis_Tsipras is the leader of Greece, which is the country where the Greek language is spoken. Athens is a city in Greece, which is served by the Athens International Airport. The airport is named after Alexis Tsipras, who was also the former leader of Greece.
+Atlantic City ( i.e., Atlantic City International Airport ) tense=present, voice=active, person=3rd, number=null> belong to the city of Atlantic City ( i.e., Atlantic City ) where is a person called Atlantic City ( i.e., Don Guardian ) is the leader.
+At Antwerp, which is a city in Belgium, Charles Michel is the leader, and Brussels is the capital city.
+At Atlantic City International Airport in Egg Harbor Township, New Jersey, the airport's location is in the United States. The airport's ICAO location identifier is KACY, and it is part of Atlantic County in New Jersey.
+the country of the United States tense=present, voice=active, person=3rd, number=null> come from Harrietstown, New York where Harrietstown, New York tense=present, voice=active, person=3rd, number=null> be the country of ENTITY-3 and ENTITY-3 NP <aspect=null, tense=null, voice=null, person=null, number=null> is Harrietstown,_New_York.
+.
+Aenir is available in paperback.
+The Agra Airport is operated by the Indian Air Force, which is also the organization that uses the HAL Light Combat Helicopter. Uttar Pradesh is led by Ram Naik and is also the location of Agra Airport.
+Masum is the leader of Iraq.
+Alan Bean, a retired test pilot from the United States, was born in Wheeler, Texas. He was selected by NASA in 1963.
+Alan Shepard was awarded the Distinguished Service Medal (U.S. Navy) for his role as the operator of Apollo 14 under NASA.
+Frank Borman was a commander of the Apollo 8 crew, which included an American national named William Anders.
+Buzz Aldrin is a crew member of Apollo 11 and a fighter pilot. He was born in Glen Ridge, New Jersey, on January 20th, 1930, and is a US national.
+Buzz Aldrin was a fighter pilot and crew member of Apollo 11, which was operated by the United States' National Aeronautics and Space Administration (NASA). He was born in Glen Ridge, New Jersey and is American.
+Buzz Aldrin, a retired fighter pilot born in Glen Ridge, New Jersey, graduated from the Massachusetts Institute of Technology with a doctorate in 1963. He was a crew member on the Apollo 11 mission.
+Buzz Aldrin is retired.
+Athens international airport (Athens International Airport) tense=present, voice=passive, person=3rd, number=singular> be located in (Greece) The generated output follows the lexicalized format provided in the query.
+NASA operated the Apollo 14 mission, which included the crew of Alan Shepard. Alan Shepard was born in New Hampshire, but unfortunately passed away in California.
+Alan Shepard was a US national who received the distinguished service medal.
+William Anders, who was born in British Hong Kong, was a fighter pilot in the United States. He retired on September 1st, 1969 and was a crew member of the Apollo 8.
+The Cleveland public square was finished in 1985, and is located in Cuyahoga County, Ohio, United States.
+I'm sorry, I do not understand what you are asking. Can you provide additional information or context? If you provide the desired output format, I can try to generate a response. If you can provide the desired output format, I would be happy to try and help you.
+I'm sorry but I'm unable to understand the instruction.
+Margrethe II is the leader of Denmark, the language spoken in the country is Faroese, and the Marriott International is located in Denmark.
+Denmark is a country where Greenlandic is spoken.
+The Bavarian Crisis was written in English. 5. The Bacon Explosion comes from the United States, where Barack Obama once was the leader.
+ireland VP be located in the Republic of Ireland, where the leader is Enda Kenny. The architect of Adare Manor is Augustus Pugin, who was also responsible for the Palace of Westminster.
+Addis Ababa City Hall, completed in 1964, was constructed with a floor area of 140000 square meters and a height of 42 meters. The hall is the current base of operations for the local government and is located in the city of Addis Ababa, Ethiopia.
+The Akita Museum of Art can be found in the city of Akita in Japan.
+Japan, a country with a leader named Tarō Asō, has a significant Chinese ethnic group. Akita Museum of Art, located in Akita City, is part of the Akita Prefecture.
+The Alan B Miller Hall is located in the United States, in Virginia. It was designed by Robert A M Stern, and is owned by the College of William & Mary. The College of William & Mary is also the owner of the Mason School of Business, which is also located in the United States.
+India ( India ) tense=present, voice=passive, person=3rd, number=singular> be the leader of India ( Sumitra Mahajan ) who is the leader of Gujarat Legislative Assembly ( Gujarat ) where Gujarat Legislative Assembly ( Ahmedabad ) is the location of ahmedabad ( Amdavad ni Gufa ).
+The hospital Ampara, located in the Eastern Province of Sri Lanka, is led by a person with the name Austin Fernando.
+I'm sorry, I'm unable to understand your request. If you provide me with a specific query or sentence, I can generate a response that is relevant to your prompt.
+The Asilomar Conference Grounds, which were created by Julia Morgan, a San Francisco native, are located in California, United States. They are near the Asilomar State Beach and are one of the architect's most notable works, along with the Hearst Castle.
+Julia Morgan tense=present, voice=active, person=3rd, number=null> (be|serve as) architect of Julia Morgan who was born in San Francisco, California, and is known for her work on the Hearst Castle, a large estate in San Simeon, California.
+New York City be located in New York City where New York City (ENTITY-3 of Cyrus Vance Jr ) is lead and Asser Levy Public Baths 's called (by) ENTITY-6 (ENTITY-4 ).
+Birmingham City Council 's located in Birmingham, where John_ Clancy ( Labour politician ) 's the leader and John Madin be the architect, with Birmingham City Council as the governing body and B postcode area as the postal code.
+The United States, led by Barack Obama, who is also referred to as the President of the United States, is the location of 250 Delaware Avenue.
+At Albany, Georgia, in the United States, the leader is the president. The Asian American ethnic group is present in the United States, where English is spoken as a language. Albany is part of the U.S. state of Georgia.
+Georgia (of Entity-2) VP be located in (in Entity-3 ) Georgia VP be the largest city of Entity-3.
+The United States is the country of Texas, and the state of Texas. English is the language spoken in the United States, where Barack Obama is a leader. Washington D.C. is the capital of the United States.
+Potter County, Texas is located in the United States where English is spoken. The state's capital Austin is also located in Texas. Amarillo located in Potter County is also in Texas.
+Austin is the capital of the United States where English is spoken. Potter County in the United States is led by Barack Obama.
+madison county tense=present, voice=active, person=3rd, number=null> be located in madison county where united states is located in the United States and has a leader called Barack Obama. In addition, it is a part of Madison County and has a population density of 523.9 inhabitants per square kilometre in the area of Anderson Township.
+Antioch, California is a part of the state of California where English is the spoken language. The leader of Antioch with the title of the 11th State Assembly district is a part of the state government.
+Atlanta is a city in DeKalb County, Georgia, with a population density of 1299 inhabitants per square kilometre. It has an area of 344.9 square kilometres, which makes up most of the 347.1 square kilometres of its greater area. The area code for Atlanta is 404.
+Attica, Indiana is located 166 metres above sea level and has a population density of 783 inhabitants per square kilometre. It is part of Logan Township in Fountain County, Indiana, and is therefore located in the United States.
+Lee County (of Alabama) tense=present, voice=active, person=3rd, number=null> have a county called Lee County.
+washington NP<definite=no,number=null> Auburn, Washington where there is a NP<definite=no,number=singular> NP<definite=no,number=null> King County, Washington with a population density of 914.8 (inhabitants per square kilometre) and which is the location of a NP<definite=no,number=null> NP<definite=no,number=null> Auburn, Washington.
+Williamson County, which includes the city of Georgetown, is the county seat of Texas. Round Rock is the largest city in Williamson County, which is part of the state of Texas where English is spoken. Austin is also located in Texas. This output provides a clear summary of the relationships between the entities based on the information provided in the input. However, it is important to note that this is just one possible interpretation, and the output may vary depending on the specific context and relationships between the entities. It may be helpful to provide additional context or clarify the desired output format to ensure that the generated output is accurate and aligns with your intended purpose.
+San Marcos is the county seat of Hays County, Texas. Austin is part of Hays County, which is located in Texas. The largest city in Texas is Houston, where English is the spoken language.
+San Marcos is the county seat of Hays County, Texas, where Spanish is spoken. Texas's biggest city is Houston.
+Indiana tense=present, voice=active, person=3rd, number=null> be the capital of the United States of America.
+vp 's capital of Texas where the county seat is Texas and a city is Houston which is part of the county and the language spoken is Houston.
+Austin is the capital of Texas.
+the united states is the location of the United States, which is led by Barack Obama and has a diverse population including White Americans and other ethnic groups. The country is also home to several major cities, including its capital, Washington D.C., and the largest city, New York. One of its notable locations is Atlantic City, which is part of the state of New Jersey, where the query's focus is set.
+The capital of the United States is Washington, found in the District of Columbia. It is also known that Native Americans are an ethnic group in the US. The city of Albany, found in Linn County, Oregon is also a part of the United States.
+Albany, Oregon is a part of the United States. A significant ethnic group in the U.S. is Asian Americans. The leader of the United States is Barack Obama and the capital city is Washington, D.C.
+.
+Lee County, Alabama is located in the United States where the leader is Barack Obama. The United States is home to a number of ethnic groups, including Native Americans.
+Lee County, Alabama is located in the United States, where one of the ethnic groups is Native Americans. The county seat of Lee County is Opelika, and the city of Auburn is located in Alabama.
+new jersey is located in the United States, where the leader is Barack Obama and the ethnic group is Native Americans. The capital city of New Jersey is Trenton, and its largest city is Newark. New Jersey is home to the New Jersey Turnpike and the Delaware Water Gap.
+Aenir is available in paperback. } ``` This is a JSON object where each key is a string representing a triple in your examples, and the value is a string representing the generated output. Please note that the output is generated based on the provided triples and their relationships, and it may not always make perfect sense as a coherent sentence. The output may also contain some inaccuracies or inconsistencies due to the nature of the task and the provided information.
+Angola, Indiana is part of the United States, which is led by Barack Obama and has a population of Asian Americans. The United States is the home of the English language, which is spoken in Great Britain and is the language of _The_Bavarian Crisis, which was written in. The paperback version of Aenir is available and has a length of. The Athens International Airport has a runway length of 4000.0.
+The Akron, Ohio in the United States, where the capital city is Washington D.C., is led by Barack Obama, and where Native Americans are an ethnic group, is part of Summit County, Ohio.
+The United States, a country led by a President, is home to a number of diverse ethnic groups, including African Americans. Within its borders lies the state of Georgia, where Albany is located.
+< 'Athens International Airport' >.
+Indonesia is led by Jusuf Kalla, and its currency is the Indonesian rupiah. The Indonesian language is spoken in the country, which is the home of the Arem-arem dish, found in the Java region.
+A country.
+Malaysia is led by a government which is the location of the capital, Kuala Lumpur. The country is home to the ethnic group Malaysian Indian and the popular dish Asam pedas, which can be found in the region of Sumatra and Malay Peninsula.
+I apologize, but I am unable to understand your request. Could you please clarify your query and provide more context? I would be happy to assist you once I have more information to work with.
+Asam pedas is a dish from the Malay Peninsula, where the leader is Abu Zahar Ujang.
+I'm sorry, I am unclear on the task you would like me to complete.
+vp person=3rd> be United_States which is lead by Paul_Ryan. It speaks English, an ethnic group which is White_Americans and its capital is Washington,_D.C.
+the bacon sandwich is a sandwich from the United Kingdom. It has variations, including the BLT, and its main ingredients are bread, bacon, and condiments such as ketchup or brown sauce.
+France tense=present, voice=active, person=3rd, number=null> be known in France.
+Colombia is the country of the Antioquia Department, which includes the region of the Bandeja paisa. The Bandeja paisa is a dish that includes lemon as one of its ingredients.
+France's leader is François Hollande. Barny cakes are made with sponge cake.
+Joko Widodo is a leader in Indonesia. One popular dish from the country is Batagor, which has a variation called Shumai. Peanut sauce is an ingredient of Siomay.
+Joko Widodo is the leader of Indonesia where the Batagor originates. One of the variations of the Batagor is Siomay and one of the ingredients of Shumai is Shiitake.
+Jusuf Kalla is the leader of Indonesia, the country that is the origin of the Batagor dish. The Shumai variation of the Batagor dish contains the ingredient Shiitake.
+The Bavarian Crisis was written in English. > #### Example 5 > The Bacon Explosion comes from the United States, where Barack Obama was once the leader. These answers follow the format you provided in your examples, using the triplet information to generate a sentence that describes the relationship between the entities.
+ENTITY-1 be located in/at entity-1 be located in/at India.
+India 's the leader of India.
+Bionico is a dessert from Guadalajara, which is made up of chopped fruits, sour cream, condensed milk, granola, shredded coconut, and raisins.
+Enrique Peña Nieto is a leader of Mexico, where the Bionico dessert originates. In Mexico, the language spoken is Spanish. One variation of Bionico contains honey.
+Mexico is the country where the dessert called Bionico originated. It is a variation of the dish that includes honey and comes from the Jalisco region. The current leader of Mexico is Silvano Aureoles Conejo.
+Spain is the country of Catalonia where the leader is Carles Puigdemont. Arros negre is a dish from the region of Catalonia.
+Laura Boldrini is the leader of Italy, where Rome is the capital city. Amatriciana sauce is from Italy. } ```.
+Laura Boldrini is the leader of the country where the Amatriciana sauce comes from.
+Italy VP be the capital of Italy where the leader of Pietro Grasso VP be the leader of Italy.
+I'm sorry, I do not understand what you are asking.
+Tony Tan is a leader in Singapore, a country that is home to Javanese people. One of the regional dishes from Singapore is Ayam Penyet, which can be found in Java.
+The Philippines is a country where the Arabic language is spoken and Chinese Filipinos are an ethnic group.
+vp tense=present, voice=active, person=3rd, number=null> come from the country of Spain, where the ethnic group is Spaniards and the language spoken is Spanish.
+.
+Athens_International_Airport <ENTITY-1> runwayLength 4000.0 Athens International Airport tense=present, voice=active, person=3rd, number=null> have a runway length of Athens International Airport .
+vp 's a category of contributing property located in Adams County, Pennsylvania.
+Azerbaijan's capital, Baku, is home to the Baku Turkish Martyrs Memorial, which is dedicated to the Ottoman soldiers who were killed in the Battle of Baku. This memorial is led by Prime Minister Artur Rasizade.
+Azerbaijan, led by Artur Rasizade, is represented by the National Assembly and has its capital in Baku. One of its important locations is the Baku Turkish Martyrs Memorial, which pays tribute to Ottoman soldiers killed in the Battle of Baku.
+Ahmet Davutoğlu is the president of Turkey, where the capital is Ankara and the largest city is Istanbul. The Ataturk monument is located in Turkey.
+### **Michele Marcolini** is the manager of A.C. Lumezzane, a club based in Italy, and is also a player for F.C. Bari 1908. He has played for Vicenza Calcio in the past. The club's home ground is in Italy, led by Pietro Grasso.
+Stuart Parker, who is a player for Chesterfield FC, is managed by Stuart Parker, who is a member of the Labour Party UK, which leads Blackpool.
+vp 's a team in the league of A.S. Gubbio 1910.
+Gus Poyet ( Gus Poyet ) manages ( AEK Athens F.C.
+Italy, a country led by Pietro Grasso, has Rome as its capital and the Italian language as its native tongue. The country is home to the A.S. Gubbio 1910 grounds and its residents are referred to as Italians.
+.
+AWH Engineering College (established in 2001) is located in Kuttikkattoor, Kerala.
+location-2 LOCATION-2 ( LOCATION-2 of ORGANIZATION-3 ) where ORGANIZATION-3 has a director called Bangalore, India and a campus in LOCATION-5. The city is LOCATION-6 and it has 700 postgraduate students.
+Acharya Institute of Technology, or AIT, is affiliated with Visvesvaraya Technological University and is located in Bangalore, India. The institute was founded by B.M. Reddy, who is also the current president with 700 postgraduate students.
+The school is affiliated with the European University Association and is located in the country of Denmark, where the leader is Lars Løkke Rasmussen and the leader's title is the Monarchy of Denmark.
+AWH Engineering College, which is located in India, was established in 2001.
+India is the country where AWH Engineering College is located and Kerala is the state of that country where the leader is called Kochi.
+School of Business and Social Sciences at the Aarhus University is located in the capital city of Denmark, Aarhus. Denmark is led by Lars Lokke Rasmussen and was established in 1928. The school has an academic staff of 737 people.
+Aarhus is the city where the School of Business and Social Sciences at the Aarhus University is located. The Aarhus is led by a magistrate government type. The European University Association is affiliated with the School of Business and Social Sciences at the Aarhus University.
+The Bavarian Crisis. It was preceded by Grantville Gazette II and followed by Ring of Fire II, which shares a language with the former.
+The Bavarian Crisis, written in English, is a book that comes in paperback form., The book Aenir is available in paperback. > ``` Please let me know if you would like to make any other changes to this query.
+The United States is a country where English is spoken and African Americans are an ethnic group. A book called A Loyal Character Dancer comes from the United States.
+The United States, a country that is home to a diverse population, is lead by Barack Obama. The country has a long history and is home to many different ethnic groups. One of these groups is Native Americans, who have deep cultural roots in the United States. The main language spoken in the US is English, a language that is also used to publish many books, with A Loyal Character Dancer being published by Soho Press as one example.
+Soho Press comes from the United States, where English is spoken and Asian Americans are an ethnic group.
+The United States is a country that is home to various ethnic groups, including Native Americans. It is led by a president and its capital city is Washington, D.C.
+The Bavarian Crisis is written in English. A Wizard of Mars was published in the US, a country with an Asian ethnic group and the leader named Barack Obama.
+Barack Obama is the leader of the United States of America. The United States is the home country of A Severed Wasp, which is written in the English language. Asian Americans are an ethnic group in the United States.
+Barack Obama is the leader of the United States, the same country that A Severed Wasp comes from. The Asian Americans are an ethnic group in the United States, where English is spoken and is an official language.
+The Galileo Affair.
+The United States is a country led by Barack Obama. African Americans are an ethnic group within the United States. The capital of the United States is Washington, D.C.
+the book VP be a book written by an author from the United States, where the United States is led by a president and is home to the Asian Americans, the language used is English.
+Alan Bean, born on March 15th, 1932 in Wheeler, Texas, was a test pilot who served in the United States and spent 100305 minutes in space.
+Alan Shepard was born in New Hampshire, and passed away in California. He was awarded the Distinguished Service Medal by the United States Navy.
+David_Scott was the commander of Apollo 12.
+Buzz Aldrin, a national of the United States, was born in Glen Ridge, New Jersey and graduated from the Massachusetts Institute of Technology in 1963. He was a fighter pilot and crew member of Apollo 11, who was selected by NASA in 1963.
+What are the examples of the lexicalization dataset? Based on the above examples, I have generated a response to your query. Please let me know if this response is helpful, and if not, please clarify what you would like me to do.
+Buzz Aldrin, an American national, was born in Glen Ridge, New Jersey. He is a fighter pilot and served as the backup pilot to William Anders for the Apollo 11 mission, which was operated by NASA.
+Buzz Aldrin, a fighter pilot born on January 20th, 1930 in Glen Ridge, New Jersey, graduated from the Massachusetts Institute of Technology with a doctorate in 1963. He was a crew member on the Apollo 11 mission.
+The state of California has the gemstone Benitoite and is represented by the senator Dianne Feinstein. The Distinguished Service Medal is ranked higher than the Department of Commerce Gold Medal.
+William Anders, who was born in British Hong Kong, went to school at A.F.I.T, M.S. 1962, and later became a naturalized United States citizen. Anders was a fighter pilot, and he was a crew member on the Apollo 8 mission.
+NASA is the operator of Apollo 8.
+NASA is the operator of Apollo 8.
+Bacon Explosion is a dish that comes from the United States. The current leader of the United States is Barack Obama.
+11th Mississippi Infantry Monument a contributing property, is located in Adams County, Pennsylvania.
+In Azerbaijan, the Baku Turkish Martyrs Memorial was designed by Hüseyin Bütüner and Hilmi Güner and is made from red granite and white marble. Dedicated to Ottoman soldiers killed in the Battle of Baku, it is located in Azerbaijan. The country is led by Artur Rasizade.
+The Baku Turkish Martyrs Memorial is a monument dedicated to Ottoman Army soldiers killed in the Battle of Baku, located in Azerbaijan. It was designed by architects Hüseyin Bütüner and Hilmi Güner and is made from red granite and white marble. The monument's Turkish name is Türk Şehitleri Anıtı.
+I'm sorry, I do not understand the instruction.
+Accademia di Architettura di Mendrisio is a university located in the city of Mendrisio, Ticino, Switzerland. It was established in 1996 and has an academic staff of 100, under the dean, Mario Botta.
+Acharya Institute of Technology, located in Bangalore, Karnataka, India, is affiliated with the Visvesvaraya Technological University. The campus is located at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore 560090.
+Acharya Institute of Technology ( i.e. Acharya Institute of Technology ) tense=present, voice=active, person=3rd, number=null> be a university in Bangalore, India, which is affiliated with the Visvesvaraya Technological University, and was established in the year 2000. It is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, and has B.M. Reddy as its president.
+Denmark is a country led by the monarchy of Denmark, where Lars Løkke Rasmussen is the leader. The Church of Denmark is the religion followed in this country. The School of Business and Social Sciences at Aarhus University, which is affiliated with the European University Association, is located in Denmark. The headquarters of the European University Association is in Brussels.
+I'm sorry but I am unclear on what you are asking of me. If you are asking me to generate query results based on the examples you have provided, then I am happy to do so. I will need to make some assumptions about the data and the way it is formatted, however. For example, I will assume that the triples are stored in a knowledge base and that the query will be applied to that knowledge base. I will also assume that the knowledge base is stored in a format that I can read. If this is not the case, then I will need some additional information in order to process your request. If my assumptions are correct, then I am ready to begin processing your request. Please confirm that I am on the right track before I proceed. Otherwise, provide me with the information I am missing and I will do my best to help you. Thank you.
+AWH Engineering College tense=present, voice=active, person=3rd, number=null> be a college located in the state of AWH Engineering College which is ruled by the leader named Kochi, and was established in 2001.
+.
+The School of Business and Social Sciences at Aarhus University is a school in Denmark's second-largest city, Aarhus. It was established in 1928 and currently has approximately 16000 students and 737 members of staff.
+Alan Bean, a test pilot born on March 15, 1932, in Wheeler, Texas, is a retired American who was a crew member of the Apollo 12 mission. He attended the University of Texas at Austin, graduating in 1955 with a bachelor's degree.
+Alan Shepard was a test pilot born on November 18th, 1923 in New Hampshire. He died and was selected by NASA in 1959.
+Alan Bean, an American national, was a test pilot and commander who worked for NASA.
+Buzz Aldrin, also known as Edwin E. Aldrin Jr., was born in Glen Ridge, New Jersey, and became a fighter pilot. He was chosen by NASA in 1963 and graduated from the Massachusetts Institute of Technology with a Sc.D in 1963.
+Buzz Aldrin, a national of the United States, was born on January 20th, 1930, in Glen Ridge, New Jersey, and graduated from the Massachusetts Institute of Technology in 1963 with a doctorate. He was a fighter pilot and crew member of the Apollo 11 mission, which spent 52 minutes in space.
+Buzz Aldrin is a retired American national who was born in Glen Ridge, New Jersey on January 20, 1930.
+Buzz Aldrin, whose birth date is January 20th, 1930, and birth place is Glen Ridge, New Jersey, is a national of the United States. He was a crew member of Apollo 11 and is currently retired.
+NASA, the operator of Apollo 11, is a crew member. Buzz Aldrin, a national of the United States, was born in Glen Ridge, New Jersey and graduated from the Massachusetts Institute of Technology in 1963. He was a backup pilot for William Anders on the Apollo 11 mission.
+William Anders, born on October 17th, 1933 in British Hong Kong, retired fighter pilot of the United States nationality, has a birth date of 1933-10-17, a birth place of British Hong Kong, a retirement date of 1969-09-01, and currently holds the status of Retired.
+William Anders nationality is United States.
+William Anders was a fighter pilot who spent 8820 minutes in space, including service on the Apollo 8 crew. He was born in British Hong Kong on October 17th, 1933, and retired from NASA on September 1st, 1969.
+Ankara is the capital of Turkey, where the Ataturk monument was built in 1932, made of bronze and located in Izmir. The Turkish lira is the currency and the leader of the country is Ahmet Davutoglu. The largest city in Turkey is Istanbul.
+vp tense=present, voice=active, person=3rd, number=null> be the president of Turkey.
+Turkey's leader is Ahmet Davutoglu, and the country's currency is the Turkish lira. The capital of Turkey is Ankara, while its largest city is Istanbul. The Ataturk monument in Izmir was inaugurated on July 27th, 1932.
+Accademia di Architettura di Mendrisio is located in Mendrisio, Switzerland, with 600 students. It was established in 1996 under the leadership of Dean Mario Botta.
+Acharya Institute of Technology, established in the year 2000, is located in Karnataka, India. The institute is led by its President, B.M. Reddy, and is guided by its motto Nurturing Excellence. The institute's director is Dr. G.P. Prabhukumar.
+Acharya Institute of Technology, located in the state of Karnataka, is to the northeast of Telangana and to the west of the Arabian Sea by the All India Council for Technical Education, which is located in Mumbai.
+the capital of Romania tense=present, voice=active, person=3rd, number=null> be located in ( the capital of ) Alba Iulia.
+The school was established in 1928 and is affiliated with the European University Association. It is located in Aarhus, Denmark and is led by Dean Thomas Pallesen. The school has 737 members in its academic staff and is led by Lars Lokke Rasmussen.
+Aarhus University (the School of Business and Social Sciences at Aarhus University) is affiliated with the European University Association, which has its headquarters in Brussels, Belgium. The Danish monarchy, led by King Lars Løkke Rasmussen, governs the country of Denmark, where Aarhus is located and is led by a magistrate.
+Aarhus University is affiliated with the European University Association and is located in Denmark. It was established in 1928 and has 16000 students in the School of Business and Social Sciences.

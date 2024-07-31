@@ -1,0 +1,29 @@
+I would like to arrange my triples in a specific refering expression generation format to control the way information is expressed in the final summary. You are required to generate a referring expression located at the end of the sentence after the dot that correctly identifies the subject entity based on the provided context.
+Below, you'll find examples along with inputs and expected outputs: 
+ Example 1: """
+Baked_Alaska and Cookie vp[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] consider Dessert. Baked_Alaska vp[aspect=simple,tense=present,voice=active,person=3rd,number=null] originate from vp[aspect=simple,tense=past,voice=active,person=null,number=null] lead France. [Gérard_Larcher]
+  """
+  Output: Gerard Larcher
+  ###
+ Example 2: """
+A Fortress of Grey Ice from United States vp[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] write in English language. English language vp[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be dt[form=defined] the language vp[aspect=simple,tense=past,voice=active,person=null,number=null] speak in Great Britain. dt[form=undefined] a ethnic group in United States vp[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be . [Native Americans in the United States]
+  """
+  Output: Native Americans
+  ###
+ Example 3: """
+Peter Stöger vp[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be dt[form=defined] the manager of 1. FC Köln and vp[aspect=simple,tense=present,voice=active,person=3rd,number=null] play for FC Admira Wacker Mödling . Peter Stöger vp[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] affiliate with SC Wiener Neustadt club and previously vp[aspect=simple,tense=past,voice=active,person=null,number=null] play for. [LASK Linz]
+  """
+  Output: The club LASK Linz
+  ###
+ Example 4: """
+Amsterdam Airport Schiphol vp[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be below sea level , vp[aspect=simple,tense=present,voice=active,person=3rd,number=null] have dt[form=undefined] a runway that vp[aspect=simple,tense=present,voice=active,person=3rd,number=null] be 2014.0 long and vp[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve Amsterdam. [-3.3528]
+  """
+  Output: 3.3528
+  ###
+ Example 5: """
+Batchoy vp[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] eat in where Philippine_English vp[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be dt[form=defined] the official language but Arabic vp[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be also vp[aspect=simple,tense=past,voice=active,person=null,number=null] speak. ethnic groups of vp[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] include Moro_people and Ilocano_people. [Philippines]
+  """
+  Output: The region
+  ###
+Strictly generate the output referring expression at the end of the query texts. Avoid including any additional comments or explanations. Do not dismiss numbers in digits.
+Query: 

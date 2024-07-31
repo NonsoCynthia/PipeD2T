@@ -1,0 +1,2156 @@
+Evaluation of Pipeline Neural Architecture Using Webnlg dataset on LLM's
+Evaluation of pipeline Ordering and Structuring task
+
+Task: ordering
+Set: dev
+Model: t5-large
+Domain: All domains
+Accuracy: 0.66
+--------------------
+
+Task: ordering
+Set: dev
+Model: t5-base
+Domain: All domains
+Accuracy: 0.64
+--------------------
+
+Task: ordering
+Set: dev
+Model: bart
+Domain: All domains
+Accuracy: 0.62
+--------------------
+
+Task: ordering
+Set: dev
+Model: gpt2
+Domain: All domains
+Accuracy: 0.61
+--------------------
+
+Task: ordering
+Set: dev
+Model: gpt-3.5
+Domain: All domains
+Accuracy: 0.29
+--------------------
+
+Task: ordering
+Set: dev
+Model: gpt4_turbo
+Domain: All domains
+Accuracy: 0.32
+--------------------
+
+Task: ordering
+Set: dev
+Model: cohere
+Domain: All domains
+Accuracy: 0.23
+--------------------
+
+Task: ordering
+Set: dev
+Model: t5-large
+Domain: Seen domains
+Accuracy: 0.66
+--------------------
+
+Task: ordering
+Set: dev
+Model: t5-base
+Domain: Seen domains
+Accuracy: 0.64
+--------------------
+
+Task: ordering
+Set: dev
+Model: bart
+Domain: Seen domains
+Accuracy: 0.62
+--------------------
+
+Task: ordering
+Set: dev
+Model: gpt2
+Domain: Seen domains
+Accuracy: 0.61
+--------------------
+
+Task: ordering
+Set: dev
+Model: gpt-3.5
+Domain: Seen domains
+Accuracy: 0.29
+--------------------
+
+Task: ordering
+Set: dev
+Model: gpt4_turbo
+Domain: Seen domains
+Accuracy: 0.32
+--------------------
+
+Task: ordering
+Set: dev
+Model: cohere
+Domain: Seen domains
+Accuracy: 0.23
+--------------------
+
+Task: ordering
+Set: dev
+Model: t5-large
+Domain: Unseen domains
+Accuracy: 0.0
+--------------------
+
+Task: ordering
+Set: dev
+Model: t5-base
+Domain: Unseen domains
+Accuracy: 0.0
+--------------------
+
+Task: ordering
+Set: dev
+Model: bart
+Domain: Unseen domains
+Accuracy: 0.0
+--------------------
+
+Task: ordering
+Set: dev
+Model: gpt2
+Domain: Unseen domains
+Accuracy: 0.0
+--------------------
+
+Task: ordering
+Set: dev
+Model: gpt-3.5
+Domain: Unseen domains
+Accuracy: 0.0
+--------------------
+
+Task: ordering
+Set: dev
+Model: gpt4_turbo
+Domain: Unseen domains
+Accuracy: 0.0
+--------------------
+
+Task: ordering
+Set: dev
+Model: cohere
+Domain: Unseen domains
+Accuracy: 0.0
+--------------------
+
+Task: structuring
+Set: dev
+Model: t5-large
+Domain: All domains
+Accuracy: 0.68
+--------------------
+
+Task: structuring
+Set: dev
+Model: t5-base
+Domain: All domains
+Accuracy: 0.68
+--------------------
+
+Task: structuring
+Set: dev
+Model: bart
+Domain: All domains
+Accuracy: 0.61
+--------------------
+
+Task: structuring
+Set: dev
+Model: gpt2
+Domain: All domains
+Accuracy: 0.67
+--------------------
+
+Task: structuring
+Set: dev
+Model: gpt-3.5
+Domain: All domains
+Accuracy: 0.5
+--------------------
+
+Task: structuring
+Set: dev
+Model: gpt4_turbo
+Domain: All domains
+Accuracy: 0.49
+--------------------
+
+Task: structuring
+Set: dev
+Model: cohere
+Domain: All domains
+Accuracy: 0.2
+--------------------
+
+Task: structuring
+Set: dev
+Model: t5-large
+Domain: Seen domains
+Accuracy: 0.68
+--------------------
+
+Task: structuring
+Set: dev
+Model: t5-base
+Domain: Seen domains
+Accuracy: 0.68
+--------------------
+
+Task: structuring
+Set: dev
+Model: bart
+Domain: Seen domains
+Accuracy: 0.61
+--------------------
+
+Task: structuring
+Set: dev
+Model: gpt2
+Domain: Seen domains
+Accuracy: 0.67
+--------------------
+
+Task: structuring
+Set: dev
+Model: gpt-3.5
+Domain: Seen domains
+Accuracy: 0.5
+--------------------
+
+Task: structuring
+Set: dev
+Model: gpt4_turbo
+Domain: Seen domains
+Accuracy: 0.49
+--------------------
+
+Task: structuring
+Set: dev
+Model: cohere
+Domain: Seen domains
+Accuracy: 0.2
+--------------------
+
+Task: structuring
+Set: dev
+Model: t5-large
+Domain: Unseen domains
+Accuracy: 0.0
+--------------------
+
+Task: structuring
+Set: dev
+Model: t5-base
+Domain: Unseen domains
+Accuracy: 0.0
+--------------------
+
+Task: structuring
+Set: dev
+Model: bart
+Domain: Unseen domains
+Accuracy: 0.0
+--------------------
+
+Task: structuring
+Set: dev
+Model: gpt2
+Domain: Unseen domains
+Accuracy: 0.0
+--------------------
+
+Task: structuring
+Set: dev
+Model: gpt-3.5
+Domain: Unseen domains
+Accuracy: 0.0
+--------------------
+
+Task: structuring
+Set: dev
+Model: gpt4_turbo
+Domain: Unseen domains
+Accuracy: 0.0
+--------------------
+
+Task: structuring
+Set: dev
+Model: cohere
+Domain: Unseen domains
+Accuracy: 0.0
+--------------------
+
+Task: ordering
+Set: test
+Model: t5-large
+Domain: All domains
+Accuracy: 0.55
+--------------------
+
+Task: ordering
+Set: test
+Model: t5-base
+Domain: All domains
+Accuracy: 0.51
+--------------------
+
+Task: ordering
+Set: test
+Model: bart
+Domain: All domains
+Accuracy: 0.49
+--------------------
+
+Task: ordering
+Set: test
+Model: gpt2
+Domain: All domains
+Accuracy: 0.37
+--------------------
+
+Task: ordering
+Set: test
+Model: gpt-3.5
+Domain: All domains
+Accuracy: 0.39
+--------------------
+
+Task: ordering
+Set: test
+Model: gpt4_turbo
+Domain: All domains
+Accuracy: 0.37
+--------------------
+
+Task: ordering
+Set: test
+Model: cohere
+Domain: All domains
+Accuracy: 0.24
+--------------------
+
+Task: ordering
+Set: test
+Model: t5-large
+Domain: Seen domains
+Accuracy: 0.66
+--------------------
+
+Task: ordering
+Set: test
+Model: t5-base
+Domain: Seen domains
+Accuracy: 0.64
+--------------------
+
+Task: ordering
+Set: test
+Model: bart
+Domain: Seen domains
+Accuracy: 0.6
+--------------------
+
+Task: ordering
+Set: test
+Model: gpt2
+Domain: Seen domains
+Accuracy: 0.58
+--------------------
+
+Task: ordering
+Set: test
+Model: gpt-3.5
+Domain: Seen domains
+Accuracy: 0.32
+--------------------
+
+Task: ordering
+Set: test
+Model: gpt4_turbo
+Domain: Seen domains
+Accuracy: 0.33
+--------------------
+
+Task: ordering
+Set: test
+Model: cohere
+Domain: Seen domains
+Accuracy: 0.23
+--------------------
+
+Task: ordering
+Set: test
+Model: t5-large
+Domain: Unseen domains
+Accuracy: 0.43
+--------------------
+
+Task: ordering
+Set: test
+Model: t5-base
+Domain: Unseen domains
+Accuracy: 0.36
+--------------------
+
+Task: ordering
+Set: test
+Model: bart
+Domain: Unseen domains
+Accuracy: 0.36
+--------------------
+
+Task: ordering
+Set: test
+Model: gpt2
+Domain: Unseen domains
+Accuracy: 0.14
+--------------------
+
+Task: ordering
+Set: test
+Model: gpt-3.5
+Domain: Unseen domains
+Accuracy: 0.47
+--------------------
+
+Task: ordering
+Set: test
+Model: gpt4_turbo
+Domain: Unseen domains
+Accuracy: 0.43
+--------------------
+
+Task: ordering
+Set: test
+Model: cohere
+Domain: Unseen domains
+Accuracy: 0.26
+--------------------
+
+Task: structuring
+Set: test
+Model: t5-large
+Domain: All domains
+Accuracy: 0.67
+--------------------
+
+Task: structuring
+Set: test
+Model: t5-base
+Domain: All domains
+Accuracy: 0.65
+--------------------
+
+Task: structuring
+Set: test
+Model: bart
+Domain: All domains
+Accuracy: 0.58
+--------------------
+
+Task: structuring
+Set: test
+Model: gpt2
+Domain: All domains
+Accuracy: 0.44
+--------------------
+
+Task: structuring
+Set: test
+Model: gpt-3.5
+Domain: All domains
+Accuracy: 0.48
+--------------------
+
+Task: structuring
+Set: test
+Model: gpt4_turbo
+Domain: All domains
+Accuracy: 0.46
+--------------------
+
+Task: structuring
+Set: test
+Model: cohere
+Domain: All domains
+Accuracy: 0.16
+--------------------
+
+Task: structuring
+Set: test
+Model: t5-large
+Domain: Seen domains
+Accuracy: 0.69
+--------------------
+
+Task: structuring
+Set: test
+Model: t5-base
+Domain: Seen domains
+Accuracy: 0.68
+--------------------
+
+Task: structuring
+Set: test
+Model: bart
+Domain: Seen domains
+Accuracy: 0.61
+--------------------
+
+Task: structuring
+Set: test
+Model: gpt2
+Domain: Seen domains
+Accuracy: 0.61
+--------------------
+
+Task: structuring
+Set: test
+Model: gpt-3.5
+Domain: Seen domains
+Accuracy: 0.5
+--------------------
+
+Task: structuring
+Set: test
+Model: gpt4_turbo
+Domain: Seen domains
+Accuracy: 0.48
+--------------------
+
+Task: structuring
+Set: test
+Model: cohere
+Domain: Seen domains
+Accuracy: 0.18
+--------------------
+
+Task: structuring
+Set: test
+Model: t5-large
+Domain: Unseen domains
+Accuracy: 0.65
+--------------------
+
+Task: structuring
+Set: test
+Model: t5-base
+Domain: Unseen domains
+Accuracy: 0.63
+--------------------
+
+Task: structuring
+Set: test
+Model: bart
+Domain: Unseen domains
+Accuracy: 0.54
+--------------------
+
+Task: structuring
+Set: test
+Model: gpt2
+Domain: Unseen domains
+Accuracy: 0.25
+--------------------
+
+Task: structuring
+Set: test
+Model: gpt-3.5
+Domain: Unseen domains
+Accuracy: 0.47
+--------------------
+
+Task: structuring
+Set: test
+Model: gpt4_turbo
+Domain: Unseen domains
+Accuracy: 0.43
+--------------------
+
+Task: structuring
+Set: test
+Model: cohere
+Domain: Unseen domains
+Accuracy: 0.14
+--------------------
+
+############################################################
+
+Evaluation of Lexicalization task
+
+Task: Lexicalization
+Set: dev
+Model: t5-large
+Domain: All domains
+Result: 0.46
+--------------------
+
+Task: Lexicalization
+Set: dev
+Model: t5-base
+Domain: All domains
+Result: 0.45
+--------------------
+
+Task: Lexicalization
+Set: dev
+Model: bart
+Domain: All domains
+Result: 0.21
+--------------------
+
+Task: Lexicalization
+Set: dev
+Model: gpt2
+Domain: All domains
+Result: 0.46
+--------------------
+
+Task: Lexicalization
+Set: dev
+Model: gpt-3.5
+Domain: All domains
+Result: 0.3
+--------------------
+
+Task: Lexicalization
+Set: dev
+Model: cohere
+Domain: All domains
+Result: 0.04
+--------------------
+
+Task: Lexicalization
+Set: dev
+Model: t5-large
+Domain: Seen domains
+Result: 0.46
+--------------------
+
+Task: Lexicalization
+Set: dev
+Model: t5-base
+Domain: Seen domains
+Result: 0.45
+--------------------
+
+Task: Lexicalization
+Set: dev
+Model: bart
+Domain: Seen domains
+Result: 0.21
+--------------------
+
+Task: Lexicalization
+Set: dev
+Model: gpt2
+Domain: Seen domains
+Result: 0.46
+--------------------
+
+Task: Lexicalization
+Set: dev
+Model: gpt-3.5
+Domain: Seen domains
+Result: 0.3
+--------------------
+
+Task: Lexicalization
+Set: dev
+Model: cohere
+Domain: Seen domains
+Result: 0.04
+--------------------
+
+Task: Lexicalization
+Set: dev
+Model: t5-large
+Domain: Unseen domains
+Result: 0
+--------------------
+
+Task: Lexicalization
+Set: dev
+Model: t5-base
+Domain: Unseen domains
+Result: 0
+--------------------
+
+Task: Lexicalization
+Set: dev
+Model: bart
+Domain: Unseen domains
+Result: 0
+--------------------
+
+Task: Lexicalization
+Set: dev
+Model: gpt2
+Domain: Unseen domains
+Result: 0
+--------------------
+
+Task: Lexicalization
+Set: dev
+Model: gpt-3.5
+Domain: Unseen domains
+Result: 0
+--------------------
+
+Task: Lexicalization
+Set: dev
+Model: cohere
+Domain: Unseen domains
+Result: 0
+--------------------
+
+Task: Lexicalization
+Set: test
+Model: t5-large
+Domain: All domains
+Result: 0.44
+--------------------
+
+Task: Lexicalization
+Set: test
+Model: t5-base
+Domain: All domains
+Result: 0.43
+--------------------
+
+Task: Lexicalization
+Set: test
+Model: bart
+Domain: All domains
+Result: 0.2
+--------------------
+
+Task: Lexicalization
+Set: test
+Model: gpt2
+Domain: All domains
+Result: 0.41
+--------------------
+
+Task: Lexicalization
+Set: test
+Model: gpt-3.5
+Domain: All domains
+Result: 0.3
+--------------------
+
+Task: Lexicalization
+Set: test
+Model: cohere
+Domain: All domains
+Result: 0.04
+--------------------
+
+Task: Lexicalization
+Set: test
+Model: t5-large
+Domain: Seen domains
+Result: 0.45
+--------------------
+
+Task: Lexicalization
+Set: test
+Model: t5-base
+Domain: Seen domains
+Result: 0.45
+--------------------
+
+Task: Lexicalization
+Set: test
+Model: bart
+Domain: Seen domains
+Result: 0.2
+--------------------
+
+Task: Lexicalization
+Set: test
+Model: gpt2
+Domain: Seen domains
+Result: 0.44
+--------------------
+
+Task: Lexicalization
+Set: test
+Model: gpt-3.5
+Domain: Seen domains
+Result: 0.31
+--------------------
+
+Task: Lexicalization
+Set: test
+Model: cohere
+Domain: Seen domains
+Result: 0.04
+--------------------
+
+Task: Lexicalization
+Set: test
+Model: t5-large
+Domain: Unseen domains
+Result: 0.43
+--------------------
+
+Task: Lexicalization
+Set: test
+Model: t5-base
+Domain: Unseen domains
+Result: 0.41
+--------------------
+
+Task: Lexicalization
+Set: test
+Model: bart
+Domain: Unseen domains
+Result: 0.19
+--------------------
+
+Task: Lexicalization
+Set: test
+Model: gpt2
+Domain: Unseen domains
+Result: 0.37
+--------------------
+
+Task: Lexicalization
+Set: test
+Model: gpt-3.5
+Domain: Unseen domains
+Result: 0.28
+--------------------
+
+Task: Lexicalization
+Set: test
+Model: cohere
+Domain: Unseen domains
+Result: 0.03
+--------------------
+
+############################################################
+
+Evaluation of pipeline reg task
+
+Task: REG
+Set: dev
+Model: t5-large
+Domain: All domains
+Baseline Accuracy: 0.54
+Accuracy: 0.71
+--------------------
+
+Task: REG
+Set: dev
+Model: t5-base
+Domain: All domains
+Baseline Accuracy: 0.54
+Accuracy: 0.73
+--------------------
+
+Task: REG
+Set: dev
+Model: bart
+Domain: All domains
+Baseline Accuracy: 0.54
+Accuracy: 0.65
+--------------------
+
+Task: REG
+Set: dev
+Model: gpt2
+Domain: All domains
+Baseline Accuracy: 0.54
+Accuracy: 0.71
+--------------------
+
+Task: REG
+Set: dev
+Model: gpt-3.5
+Domain: All domains
+Baseline Accuracy: 0.54
+Accuracy: 0.51
+--------------------
+
+Task: REG
+Set: dev
+Model: cohere
+Domain: All domains
+Baseline Accuracy: 0.54
+Accuracy: 0.32
+--------------------
+
+Task: REG
+Set: dev
+Model: t5-large
+Domain: Seen domains
+Baseline Accuracy: 0.54
+Accuracy: 0.71
+--------------------
+
+Task: REG
+Set: dev
+Model: t5-base
+Domain: Seen domains
+Baseline Accuracy: 0.54
+Accuracy: 0.73
+--------------------
+
+Task: REG
+Set: dev
+Model: bart
+Domain: Seen domains
+Baseline Accuracy: 0.54
+Accuracy: 0.65
+--------------------
+
+Task: REG
+Set: dev
+Model: gpt2
+Domain: Seen domains
+Baseline Accuracy: 0.54
+Accuracy: 0.71
+--------------------
+
+Task: REG
+Set: dev
+Model: gpt-3.5
+Domain: Seen domains
+Baseline Accuracy: 0.54
+Accuracy: 0.51
+--------------------
+
+Task: REG
+Set: dev
+Model: cohere
+Domain: Seen domains
+Baseline Accuracy: 0.54
+Accuracy: 0.32
+--------------------
+
+Task: REG
+Set: dev
+Model: t5-large
+Domain: Unseen domains
+Baseline Accuracy: 0
+Accuracy: 0
+--------------------
+
+Task: REG
+Set: dev
+Model: t5-base
+Domain: Unseen domains
+Baseline Accuracy: 0
+Accuracy: 0
+--------------------
+
+Task: REG
+Set: dev
+Model: bart
+Domain: Unseen domains
+Baseline Accuracy: 0
+Accuracy: 0
+--------------------
+
+Task: REG
+Set: dev
+Model: gpt2
+Domain: Unseen domains
+Baseline Accuracy: 0
+Accuracy: 0
+--------------------
+
+Task: REG
+Set: dev
+Model: gpt-3.5
+Domain: Unseen domains
+Baseline Accuracy: 0
+Accuracy: 0
+--------------------
+
+Task: REG
+Set: dev
+Model: cohere
+Domain: Unseen domains
+Baseline Accuracy: 0
+Accuracy: 0
+--------------------
+
+Task: REG
+Set: test
+Model: t5-large
+Domain: All domains
+Baseline Accuracy: 0.51
+Accuracy: 0.65
+--------------------
+
+Task: REG
+Set: test
+Model: t5-base
+Domain: All domains
+Baseline Accuracy: 0.51
+Accuracy: 0.65
+--------------------
+
+Task: REG
+Set: test
+Model: bart
+Domain: All domains
+Baseline Accuracy: 0.51
+Accuracy: 0.56
+--------------------
+
+Task: REG
+Set: test
+Model: gpt2
+Domain: All domains
+Baseline Accuracy: 0.51
+Accuracy: 0.46
+--------------------
+
+Task: REG
+Set: test
+Model: gpt-3.5
+Domain: All domains
+Baseline Accuracy: 0.51
+Accuracy: 0.48
+--------------------
+
+Task: REG
+Set: test
+Model: cohere
+Domain: All domains
+Baseline Accuracy: 0.51
+Accuracy: 0.3
+--------------------
+
+Task: REG
+Set: test
+Model: t5-large
+Domain: Seen domains
+Baseline Accuracy: 0.53
+Accuracy: 0.72
+--------------------
+
+Task: REG
+Set: test
+Model: t5-base
+Domain: Seen domains
+Baseline Accuracy: 0.53
+Accuracy: 0.74
+--------------------
+
+Task: REG
+Set: test
+Model: bart
+Domain: Seen domains
+Baseline Accuracy: 0.53
+Accuracy: 0.66
+--------------------
+
+Task: REG
+Set: test
+Model: gpt2
+Domain: Seen domains
+Baseline Accuracy: 0.53
+Accuracy: 0.7
+--------------------
+
+Task: REG
+Set: test
+Model: gpt-3.5
+Domain: Seen domains
+Baseline Accuracy: 0.53
+Accuracy: 0.5
+--------------------
+
+Task: REG
+Set: test
+Model: cohere
+Domain: Seen domains
+Baseline Accuracy: 0.53
+Accuracy: 0.3
+--------------------
+
+Task: REG
+Set: test
+Model: t5-large
+Domain: Unseen domains
+Baseline Accuracy: 0.5
+Accuracy: 0.59
+--------------------
+
+Task: REG
+Set: test
+Model: t5-base
+Domain: Unseen domains
+Baseline Accuracy: 0.5
+Accuracy: 0.57
+--------------------
+
+Task: REG
+Set: test
+Model: bart
+Domain: Unseen domains
+Baseline Accuracy: 0.5
+Accuracy: 0.46
+--------------------
+
+Task: REG
+Set: test
+Model: gpt2
+Domain: Unseen domains
+Baseline Accuracy: 0.5
+Accuracy: 0.22
+--------------------
+
+Task: REG
+Set: test
+Model: gpt-3.5
+Domain: Unseen domains
+Baseline Accuracy: 0.5
+Accuracy: 0.47
+--------------------
+
+Task: REG
+Set: test
+Model: cohere
+Domain: Unseen domains
+Baseline Accuracy: 0.5
+Accuracy: 0.3
+--------------------
+
+############################################################
+
+Evaluation of Bleu Score for pipeline End2end and Surface Realization task
+
+Task: end2end
+Set: dev
+Model: t5-large
+Domain: All domains
+Result_bleu: 0.55
+--------------------
+
+Task: end2end
+Set: dev
+Model: t5-large
+Domain: Seen domains
+Result_bleu: 0.55
+--------------------
+
+Task: end2end
+Set: dev
+Model: t5-large
+Domain: Unseen domains
+Result_bleu: 0
+--------------------
+
+Task: sr
+Set: dev
+Model: t5-large
+Domain: All domains
+Result_bleu: 0.43
+--------------------
+
+Task: sr
+Set: dev
+Model: t5-large
+Domain: Seen domains
+Result_bleu: 0.43
+--------------------
+
+Task: sr
+Set: dev
+Model: t5-large
+Domain: Unseen domains
+Result_bleu: 0
+--------------------
+
+Task: end2end
+Set: test
+Model: t5-large
+Domain: All domains
+Result_bleu: 0.47
+--------------------
+
+Task: end2end
+Set: test
+Model: t5-large
+Domain: Seen domains
+Result_bleu: 0.52
+--------------------
+
+Task: end2end
+Set: test
+Model: t5-large
+Domain: Unseen domains
+Result_bleu: 0.41
+--------------------
+
+Task: sr
+Set: test
+Model: t5-large
+Domain: All domains
+Result_bleu: 0.36
+--------------------
+
+Task: sr
+Set: test
+Model: t5-large
+Domain: Seen domains
+Result_bleu: 0.4
+--------------------
+
+Task: sr
+Set: test
+Model: t5-large
+Domain: Unseen domains
+Result_bleu: 0.31
+--------------------
+
+Task: end2end
+Set: dev
+Model: t5-base
+Domain: All domains
+Result_bleu: 0.55
+--------------------
+
+Task: end2end
+Set: dev
+Model: t5-base
+Domain: Seen domains
+Result_bleu: 0.55
+--------------------
+
+Task: end2end
+Set: dev
+Model: t5-base
+Domain: Unseen domains
+Result_bleu: 0
+--------------------
+
+Task: sr
+Set: dev
+Model: t5-base
+Domain: All domains
+Result_bleu: 0.48
+--------------------
+
+Task: sr
+Set: dev
+Model: t5-base
+Domain: Seen domains
+Result_bleu: 0.48
+--------------------
+
+Task: sr
+Set: dev
+Model: t5-base
+Domain: Unseen domains
+Result_bleu: 0
+--------------------
+
+Task: end2end
+Set: test
+Model: t5-base
+Domain: All domains
+Result_bleu: 0.46
+--------------------
+
+Task: end2end
+Set: test
+Model: t5-base
+Domain: Seen domains
+Result_bleu: 0.52
+--------------------
+
+Task: end2end
+Set: test
+Model: t5-base
+Domain: Unseen domains
+Result_bleu: 0.38
+--------------------
+
+Task: sr
+Set: test
+Model: t5-base
+Domain: All domains
+Result_bleu: 0.39
+--------------------
+
+Task: sr
+Set: test
+Model: t5-base
+Domain: Seen domains
+Result_bleu: 0.45
+--------------------
+
+Task: sr
+Set: test
+Model: t5-base
+Domain: Unseen domains
+Result_bleu: 0.32
+--------------------
+
+Task: end2end
+Set: dev
+Model: bart
+Domain: All domains
+Result_bleu: 0.53
+--------------------
+
+Task: end2end
+Set: dev
+Model: bart
+Domain: Seen domains
+Result_bleu: 0.53
+--------------------
+
+Task: end2end
+Set: dev
+Model: bart
+Domain: Unseen domains
+Result_bleu: 0
+--------------------
+
+Task: sr
+Set: dev
+Model: bart
+Domain: All domains
+Result_bleu: 0.24
+--------------------
+
+Task: sr
+Set: dev
+Model: bart
+Domain: Seen domains
+Result_bleu: 0.24
+--------------------
+
+Task: sr
+Set: dev
+Model: bart
+Domain: Unseen domains
+Result_bleu: 0
+--------------------
+
+Task: end2end
+Set: test
+Model: bart
+Domain: All domains
+Result_bleu: 0.41
+--------------------
+
+Task: end2end
+Set: test
+Model: bart
+Domain: Seen domains
+Result_bleu: 0.5
+--------------------
+
+Task: end2end
+Set: test
+Model: bart
+Domain: Unseen domains
+Result_bleu: 0.31
+--------------------
+
+Task: sr
+Set: test
+Model: bart
+Domain: All domains
+Result_bleu: 0.19
+--------------------
+
+Task: sr
+Set: test
+Model: bart
+Domain: Seen domains
+Result_bleu: 0.23
+--------------------
+
+Task: sr
+Set: test
+Model: bart
+Domain: Unseen domains
+Result_bleu: 0.13
+--------------------
+
+Task: end2end
+Set: dev
+Model: gpt2
+Domain: All domains
+Result_bleu: 0.51
+--------------------
+
+Task: end2end
+Set: dev
+Model: gpt2
+Domain: Seen domains
+Result_bleu: 0.51
+--------------------
+
+Task: end2end
+Set: dev
+Model: gpt2
+Domain: Unseen domains
+Result_bleu: 0
+--------------------
+
+Task: sr
+Set: dev
+Model: gpt2
+Domain: All domains
+Result_bleu: 0.3
+--------------------
+
+Task: sr
+Set: dev
+Model: gpt2
+Domain: Seen domains
+Result_bleu: 0.3
+--------------------
+
+Task: sr
+Set: dev
+Model: gpt2
+Domain: Unseen domains
+Result_bleu: 0
+--------------------
+
+Task: end2end
+Set: test
+Model: gpt2
+Domain: All domains
+Result_bleu: 0.38
+--------------------
+
+Task: end2end
+Set: test
+Model: gpt2
+Domain: Seen domains
+Result_bleu: 0.49
+--------------------
+
+Task: end2end
+Set: test
+Model: gpt2
+Domain: Unseen domains
+Result_bleu: 0.23
+--------------------
+
+Task: sr
+Set: test
+Model: gpt2
+Domain: All domains
+Result_bleu: 0.19
+--------------------
+
+Task: sr
+Set: test
+Model: gpt2
+Domain: Seen domains
+Result_bleu: 0.29
+--------------------
+
+Task: sr
+Set: test
+Model: gpt2
+Domain: Unseen domains
+Result_bleu: 0.07
+--------------------
+
+Task: end2end
+Set: dev
+Model: gpt-3.5
+Domain: All domains
+Result_bleu: 0.4
+--------------------
+
+Task: end2end
+Set: dev
+Model: gpt-3.5
+Domain: Seen domains
+Result_bleu: 0.4
+--------------------
+
+Task: end2end
+Set: dev
+Model: gpt-3.5
+Domain: Unseen domains
+Result_bleu: 0
+--------------------
+
+Task: sr
+Set: dev
+Model: gpt-3.5
+Domain: All domains
+Result_bleu: 0.21
+--------------------
+
+Task: sr
+Set: dev
+Model: gpt-3.5
+Domain: Seen domains
+Result_bleu: 0.21
+--------------------
+
+Task: sr
+Set: dev
+Model: gpt-3.5
+Domain: Unseen domains
+Result_bleu: 0
+--------------------
+
+Task: end2end
+Set: test
+Model: gpt-3.5
+Domain: All domains
+Result_bleu: 0.4
+--------------------
+
+Task: end2end
+Set: test
+Model: gpt-3.5
+Domain: Seen domains
+Result_bleu: 0.39
+--------------------
+
+Task: end2end
+Set: test
+Model: gpt-3.5
+Domain: Unseen domains
+Result_bleu: 0.41
+--------------------
+
+Task: sr
+Set: test
+Model: gpt-3.5
+Domain: All domains
+Result_bleu: 0.22
+--------------------
+
+Task: sr
+Set: test
+Model: gpt-3.5
+Domain: Seen domains
+Result_bleu: 0.22
+--------------------
+
+Task: sr
+Set: test
+Model: gpt-3.5
+Domain: Unseen domains
+Result_bleu: 0.22
+--------------------
+
+Task: end2end
+Set: dev
+Model: cohere
+Domain: All domains
+Result_bleu: 0.4
+--------------------
+
+Task: end2end
+Set: dev
+Model: cohere
+Domain: Seen domains
+Result_bleu: 0.4
+--------------------
+
+Task: end2end
+Set: dev
+Model: cohere
+Domain: Unseen domains
+Result_bleu: 0
+--------------------
+
+Task: sr
+Set: dev
+Model: cohere
+Domain: All domains
+Result_bleu: 0.23
+--------------------
+
+Task: sr
+Set: dev
+Model: cohere
+Domain: Seen domains
+Result_bleu: 0.23
+--------------------
+
+Task: sr
+Set: dev
+Model: cohere
+Domain: Unseen domains
+Result_bleu: 0
+--------------------
+
+Task: end2end
+Set: test
+Model: cohere
+Domain: All domains
+Result_bleu: 0.4
+--------------------
+
+Task: end2end
+Set: test
+Model: cohere
+Domain: Seen domains
+Result_bleu: 0.39
+--------------------
+
+Task: end2end
+Set: test
+Model: cohere
+Domain: Unseen domains
+Result_bleu: 0.42
+--------------------
+
+Task: sr
+Set: test
+Model: cohere
+Domain: All domains
+Result_bleu: 0.22
+--------------------
+
+Task: sr
+Set: test
+Model: cohere
+Domain: Seen domains
+Result_bleu: 0.21
+--------------------
+
+Task: sr
+Set: test
+Model: cohere
+Domain: Unseen domains
+Result_bleu: 0.22
+--------------------
+
+############################################################
+
+Evaluation of Meteor Score for pipeline End2end and Surface Realization task
+
+Task: end2end
+Set: dev
+Model: t5-large
+Domain: All domains
+Result_Meteor: 0.33
+--------------------
+
+Task: end2end
+Set: dev
+Model: t5-large
+Domain: Seen domains
+Result_Meteor: 0.33
+--------------------
+
+Task: end2end
+Set: dev
+Model: t5-large
+Domain: Unseen domains
+Result_Meteor: 0.0
+--------------------
+
+Task: sr
+Set: dev
+Model: t5-large
+Domain: All domains
+Result_Meteor: 0.29
+--------------------
+
+Task: sr
+Set: dev
+Model: t5-large
+Domain: Seen domains
+Result_Meteor: 0.29
+--------------------
+
+Task: sr
+Set: dev
+Model: t5-large
+Domain: Unseen domains
+Result_Meteor: 0.0
+--------------------
+
+Task: end2end
+Set: test
+Model: t5-large
+Domain: All domains
+Result_Meteor: 0.31
+--------------------
+
+Task: end2end
+Set: test
+Model: t5-large
+Domain: Seen domains
+Result_Meteor: 0.32
+--------------------
+
+Task: end2end
+Set: test
+Model: t5-large
+Domain: Unseen domains
+Result_Meteor: 0.29
+--------------------
+
+Task: sr
+Set: test
+Model: t5-large
+Domain: All domains
+Result_Meteor: 0.26
+--------------------
+
+Task: sr
+Set: test
+Model: t5-large
+Domain: Seen domains
+Result_Meteor: 0.28
+--------------------
+
+Task: sr
+Set: test
+Model: t5-large
+Domain: Unseen domains
+Result_Meteor: 0.25
+--------------------
+
+Task: end2end
+Set: dev
+Model: t5-base
+Domain: All domains
+Result_Meteor: 0.32
+--------------------
+
+Task: end2end
+Set: dev
+Model: t5-base
+Domain: Seen domains
+Result_Meteor: 0.32
+--------------------
+
+Task: end2end
+Set: dev
+Model: t5-base
+Domain: Unseen domains
+Result_Meteor: 0.0
+--------------------
+
+Task: sr
+Set: dev
+Model: t5-base
+Domain: All domains
+Result_Meteor: 0.31
+--------------------
+
+Task: sr
+Set: dev
+Model: t5-base
+Domain: Seen domains
+Result_Meteor: 0.31
+--------------------
+
+Task: sr
+Set: dev
+Model: t5-base
+Domain: Unseen domains
+Result_Meteor: 0.0
+--------------------
+
+Task: end2end
+Set: test
+Model: t5-base
+Domain: All domains
+Result_Meteor: 0.3
+--------------------
+
+Task: end2end
+Set: test
+Model: t5-base
+Domain: Seen domains
+Result_Meteor: 0.32
+--------------------
+
+Task: end2end
+Set: test
+Model: t5-base
+Domain: Unseen domains
+Result_Meteor: 0.28
+--------------------
+
+Task: sr
+Set: test
+Model: t5-base
+Domain: All domains
+Result_Meteor: 0.28
+--------------------
+
+Task: sr
+Set: test
+Model: t5-base
+Domain: Seen domains
+Result_Meteor: 0.3
+--------------------
+
+Task: sr
+Set: test
+Model: t5-base
+Domain: Unseen domains
+Result_Meteor: 0.25
+--------------------
+
+Task: end2end
+Set: dev
+Model: bart
+Domain: All domains
+Result_Meteor: 0.32
+--------------------
+
+Task: end2end
+Set: dev
+Model: bart
+Domain: Seen domains
+Result_Meteor: 0.32
+--------------------
+
+Task: end2end
+Set: dev
+Model: bart
+Domain: Unseen domains
+Result_Meteor: 0.0
+--------------------
+
+Task: sr
+Set: dev
+Model: bart
+Domain: All domains
+Result_Meteor: 0.28
+--------------------
+
+Task: sr
+Set: dev
+Model: bart
+Domain: Seen domains
+Result_Meteor: 0.28
+--------------------
+
+Task: sr
+Set: dev
+Model: bart
+Domain: Unseen domains
+Result_Meteor: 0.0
+--------------------
+
+Task: end2end
+Set: test
+Model: bart
+Domain: All domains
+Result_Meteor: 0.31
+--------------------
+
+Task: end2end
+Set: test
+Model: bart
+Domain: Seen domains
+Result_Meteor: 0.32
+--------------------
+
+Task: end2end
+Set: test
+Model: bart
+Domain: Unseen domains
+Result_Meteor: 0.3
+--------------------
+
+Task: sr
+Set: test
+Model: bart
+Domain: All domains
+Result_Meteor: 0.26
+--------------------
+
+Task: sr
+Set: test
+Model: bart
+Domain: Seen domains
+Result_Meteor: 0.27
+--------------------
+
+Task: sr
+Set: test
+Model: bart
+Domain: Unseen domains
+Result_Meteor: 0.24
+--------------------
+
+Task: end2end
+Set: dev
+Model: gpt2
+Domain: All domains
+Result_Meteor: 0.33
+--------------------
+
+Task: end2end
+Set: dev
+Model: gpt2
+Domain: Seen domains
+Result_Meteor: 0.33
+--------------------
+
+Task: end2end
+Set: dev
+Model: gpt2
+Domain: Unseen domains
+Result_Meteor: 0.0
+--------------------
+
+Task: sr
+Set: dev
+Model: gpt2
+Domain: All domains
+Result_Meteor: 0.23
+--------------------
+
+Task: sr
+Set: dev
+Model: gpt2
+Domain: Seen domains
+Result_Meteor: 0.23
+--------------------
+
+Task: sr
+Set: dev
+Model: gpt2
+Domain: Unseen domains
+Result_Meteor: 0.0
+--------------------
+
+Task: end2end
+Set: test
+Model: gpt2
+Domain: All domains
+Result_Meteor: 0.31
+--------------------
+
+Task: end2end
+Set: test
+Model: gpt2
+Domain: Seen domains
+Result_Meteor: 0.32
+--------------------
+
+Task: end2end
+Set: test
+Model: gpt2
+Domain: Unseen domains
+Result_Meteor: 0.29
+--------------------
+
+Task: sr
+Set: test
+Model: gpt2
+Domain: All domains
+Result_Meteor: 0.19
+--------------------
+
+Task: sr
+Set: test
+Model: gpt2
+Domain: Seen domains
+Result_Meteor: 0.23
+--------------------
+
+Task: sr
+Set: test
+Model: gpt2
+Domain: Unseen domains
+Result_Meteor: 0.13
+--------------------
+
+Task: end2end
+Set: dev
+Model: gpt-3.5
+Domain: All domains
+Result_Meteor: 0.32
+--------------------
+
+Task: end2end
+Set: dev
+Model: gpt-3.5
+Domain: Seen domains
+Result_Meteor: 0.32
+--------------------
+
+Task: end2end
+Set: dev
+Model: gpt-3.5
+Domain: Unseen domains
+Result_Meteor: 0.0
+--------------------
+
+Task: sr
+Set: dev
+Model: gpt-3.5
+Domain: All domains
+Result_Meteor: 0.3
+--------------------
+
+Task: sr
+Set: dev
+Model: gpt-3.5
+Domain: Seen domains
+Result_Meteor: 0.3
+--------------------
+
+Task: sr
+Set: dev
+Model: gpt-3.5
+Domain: Unseen domains
+Result_Meteor: 0.0
+--------------------
+
+Task: end2end
+Set: test
+Model: gpt-3.5
+Domain: All domains
+Result_Meteor: 0.32
+--------------------
+
+Task: end2end
+Set: test
+Model: gpt-3.5
+Domain: Seen domains
+Result_Meteor: 0.32
+--------------------
+
+Task: end2end
+Set: test
+Model: gpt-3.5
+Domain: Unseen domains
+Result_Meteor: 0.31
+--------------------
+
+Task: sr
+Set: test
+Model: gpt-3.5
+Domain: All domains
+Result_Meteor: 0.3
+--------------------
+
+Task: sr
+Set: test
+Model: gpt-3.5
+Domain: Seen domains
+Result_Meteor: 0.31
+--------------------
+
+Task: sr
+Set: test
+Model: gpt-3.5
+Domain: Unseen domains
+Result_Meteor: 0.29
+--------------------
+
+Task: end2end
+Set: dev
+Model: cohere
+Domain: All domains
+Result_Meteor: 0.31
+--------------------
+
+Task: end2end
+Set: dev
+Model: cohere
+Domain: Seen domains
+Result_Meteor: 0.31
+--------------------
+
+Task: end2end
+Set: dev
+Model: cohere
+Domain: Unseen domains
+Result_Meteor: 0.0
+--------------------
+
+Task: sr
+Set: dev
+Model: cohere
+Domain: All domains
+Result_Meteor: 0.28
+--------------------
+
+Task: sr
+Set: dev
+Model: cohere
+Domain: Seen domains
+Result_Meteor: 0.28
+--------------------
+
+Task: sr
+Set: dev
+Model: cohere
+Domain: Unseen domains
+Result_Meteor: 0.0
+--------------------
+
+Task: end2end
+Set: test
+Model: cohere
+Domain: All domains
+Result_Meteor: 0.3
+--------------------
+
+Task: end2end
+Set: test
+Model: cohere
+Domain: Seen domains
+Result_Meteor: 0.31
+--------------------
+
+Task: end2end
+Set: test
+Model: cohere
+Domain: Unseen domains
+Result_Meteor: 0.3
+--------------------
+
+Task: sr
+Set: test
+Model: cohere
+Domain: All domains
+Result_Meteor: 0.28
+--------------------
+
+Task: sr
+Set: test
+Model: cohere
+Domain: Seen domains
+Result_Meteor: 0.28
+--------------------
+
+Task: sr
+Set: test
+Model: cohere
+Domain: Unseen domains
+Result_Meteor: 0.27
+--------------------
+
+############################################################

@@ -1,0 +1,66 @@
+#!/bin/bash
+
+#SBATCH --gres=gpu:a100:1
+#SBATCH -p compute
+#SBATCH -J com
+#SBATCH -t 1-23:59:59
+
+
+source /home/cosuji/anaconda3/etc/profile.d/conda.sh
+conda activate webnlg
+
+
+# List of models for lexicalization
+models=("bart" "cohere" "gpt2" "t5" "flan-t5-large" "gpt-3.5" "gpt4_turbo" "mistral7b" "t5-large", "baseline")
+task="lexicalization"
+source_file="${task}_src_all_domains.txt"
+ref_file="${task}_ref_all_domains.txt"
+#target_file="../results/${task}/${model}/${task}_test.txt"
+
+#source_file="${task}_src_seen_domains.txt"
+#ref_file="${task}_ref_seen_domains.txt"
+#target_file="../results/${task}/${model}/${task}_seen_domains.txt"
+
+#source_file="${task}_src_unseen_domains.txt"
+#ref_file="${task}_ref_unseen_domains.txt"
+#target_file="../results/${task}/${model}/${task}_unseen_domains.txt"
+
+
+# For SR
+#models=("bart" "cohere" "gpt2" "t5" "flan-t5-large" "gpt-3.5" "gpt4_turbo" "mistral7b" "t5-large", "baseline")
+#task="sr"
+#source_file="${task}_src_all_domains.txt"
+#ref_file="${task}_ref_all_domains.txt"
+#target_file="../results/${task}/${model}/${task}_pipeline_eval.txt"
+
+#source_file="${task}_src_seen_domains.txt"
+#ref_file="${task}_ref_seen_domains.txt"
+#target_file="../results/${task}/${model}/${task}_seen_domains.txt"
+
+#source_file="${task}_src_unseen_domains.txt"
+#ref_file="${task}_ref_unseen_domains.txt"
+#target_file="../results/${task}/${model}/${task}_unseen_domains.txt"
+
+# For end2end
+#models=("bart" "cohere" "gpt2" "t5" "flan-t5-large" "gpt-3.5" "gpt4_turbo" "mistral7b" "t5-large" "gpt-3.5_struct" "gpt4_turbo_struct" "mistral7b_struct")
+#task="end2end"
+#source_file="${task}_src_all_domains.txt"
+#ref_file="${task}_ref_all_domains.txt"
+#target_file="../results/${task}/${model}/${task}_pipeline_eval.txt"
+
+#source_file="${task}_src_seen_domains.txt"
+#ref_file="${task}_ref_seen_domains.txt"
+#target_file="../results/${task}/${model}/${task}_seen_domains.txt"
+
+#source_file="${task}_src_unseen_domains.txt"
+#ref_file="${task}_ref_unseen_domains.txt"
+#target_file="../results/${task}/${model}/${task}_unseen_domains.txt"
+
+# Loop through each model and run comet-score
+for model in "${models[@]}"; do
+    #target_file="../results/${task}/${model}/${task}_test.txt" #for lexicalization
+    target_file="../results/${task}/${model}/${task}_all_domains.txt"
+    command="comet-score -s ../results/${task}/${source_file} -t ${target_file} -r ../results/${task}/${ref_file}"
+    echo "Running: ${command}"
+    eval $command
+done

@@ -1,0 +1,644 @@
+state cityServed
+location runwayLength
+location runwayLength
+leaderName location
+location elevationAboveTheSeaLevel_(in_feet)
+battles operatingOrganisation
+battles operatingOrganisation
+location isPartOf
+runwayLength surfaceType
+headquarter operatingOrganisation
+location isPartOf
+[output]: operatingOrganisation  elevationAboveTheSeaLevel_(in_metres)
+[ Andrews_County_Airport 4th runway SurfaceType elevationAboveTheSeaLevel_(in_metres) ]
+location capital
+[Angola_International_Airport, elevationAboveTheSeaLevel_(in_metres), cityServed]
+country location
+[output] operatingOrganisation elevationAboveTheSeaLevel_(in_metres) [/output]
+cityServed isPartOf
+[poales  ][/TRIPLE] [TRIPLE] Ardmore_Airport_(New_Zealand) 2nd_runway_SurfaceType [/TRIPLE]
+[Poaceae class, Ardmore_Airport_(New_Zealand) 3rd_runway_SurfaceType]
+location runwayLength
+cityServed location
+cityServed runwayLength
+location isPartOf
+dateOfRetirement was a crew member of
+country nationality birthplace
+occupation status
+operator was_a_crew_member_of
+occupation was a crew member of
+country location ethnicGroup
+location floorCount
+leaderTitle location
+leaderName location
+location floorCount
+location architect
+location owner.
+location owner
+floorCount tenant.
+[TRIPLE] Addis_Ababa_City_Hall [currentTenants Government_of_Addis_Ababa] [height  42_m [/TRIPLE]
+location architecturalStyle
+country  language
+address buildingStartDate
+location owner.
+architect tenant
+country region
+country capital
+location ReferenceNumber_in_the_National_Register_of_Historic_Places
+location referenceNumber
+added_to_the_National_Register_of_Historic_Places location
+location yearOfConstruction
+leaderName location
+creator
+creator alternativeName
+creator alternativeName
+[   {     "broadcastedBy": "BBC",     "starring": "Graeme Garden"   } ]
+[TRIPLE] Lancashire Bananaman [/TRIPLE]
+creator nationality
+creator alternativeName
+creator
+creator
+country ingredient
+region ingredient
+region ingredient
+country region
+region ingredient
+country ingredient
+country capital
+country ingredient
+country ingredient
+region ingredient
+country mainIngredients
+country ingredient
+country leaderName
+course ingredient
+alternativeName ingredient
+country  ingredient
+country 	language
+course dishVariation
+creator mainIngredients
+dishVariation ingredient
+genus ingredient
+country ingredient
+country  ethnicGroup
+region language
+leaderName region
+leaderName country
+ingredient similarDish
+ingredient mainIngredients
+ingredient mainIngredients
+division ingredient
+[TRIPLE] Binignit [/TRIPLE] [TRIPLE] mainIngredients [/TRIPLE] [TRIPLE] Sweet_potato [/TRIPLE] [TRIPLE] Sweet_potato order [/TRIPLE]
+course ingredient
+course dishVariation
+course dishVariation
+ingredient dishVariation
+location inaugurationDate
+dedicatedTo material
+nativeName material
+dedicatedTo material
+club league champions
+ground league
+leader
+manager club
+league numberOfMembers
+manager club
+manager club
+ground numberOfMembers
+ground numberOfMembers
+manager club
+ground league
+country league
+manager club
+owner numberOfMembers
+leaderName leaderName ground
+season numberOfMembers
+ground location
+fullname numberOfMembers
+ground location
+fullname numberOfMembers
+country ground
+manager club
+campus director
+schoolColour was given the status
+governingBody sportsOffered
+affiliation headquarters
+state location
+author precededBy
+author mediaType
+author mediaType
+CODEN_code abbreviation
+country leaderName
+author ISBN_number
+ISBN_number mediaType
+ISBN_number mediaType
+numberOfPages mediaType
+ISBN_number OCLC_number
+country  ethnicGroup
+country publisher
+author OCLC_number
+ISBN_number mediaType
+ISBN_number numberOfPages
+country precededBy
+language followedBy
+precededBy
+publisher founder
+CODEN_code abbreviation
+affiliation publisher
+author ISBN_number
+ISBN_number mediaType
+ISBN_number numberOfPages
+academicDiscipline family
+country  language
+country cityServed isPartOf
+[['Adirondack Regional Airport', 'served city', 'Lake Placid, New York', 'Saranac Lake, New York', '1219.0']]
+location runwayName runwayLength
+location operatingOrganisation ICAO_Location_Identifier
+location operatingOrganisation runwayLength
+battles operatingOrganisation
+battles operatingOrganisation
+battles operatingOrganisation
+[POaceae runwayLength cityServed]
+[ 'elevationAboveTheSeaLevel_(in_metres) location runwayLength' ]
+[ ['Amsterdam_Airport_Schiphol', 'cityServed', 'Amsterdam', 'elevationAboveTheSeaLevel_(in_metres)', '-3.3528', 'runwayLength', '3500.0'] ]
+country location largestCity
+country location runwayLength
+country location runwayName
+[owner operatingOrganisation elevationAboveTheSeaLevel_(in_metres)]
+cityServed owner operatingOrganisation
+cityServed isPartOf
+country isPartOf location
+division order
+[37.5, elevationAboveTheSeaLevel_(in_metres), 3800.0, location, Ashgabat_International_Airport]
+leaderName country cityServed
+country location runwayName
+leaderName country
+[Poaceae, Monocotyledon, Commelinids]
+commander operator crewMember
+deathPlace deathDate
+almaMater alternativeNames was_a_crew_member_of
+birthPlace timeInSpace was_a_crew_member_of
+[['deathPlace', 'awards', 'Smilodon']]
+deathPlace deathDate was_selected_by_NASA
+birthPlace birthDate status
+birthPlace was_a_crew_member_of birthDate
+leaderName location
+leaderName ethnicGroup location
+leaderName location ethnicGroup
+country leaderName location
+location isPartOf
+leaderName location
+location architect completionDate
+location architect completionDate
+country location owner
+[TRIPLE block] [TRIPLE] architect [/TRIPLE] [TRIPLE] AC Hotel Bella Sky Copenhagen [/TRIPLE] [TRIPLE] 3XN [/TRIPLE] [TRIPLE] location [/TRIPLE] [TRIPLE] AC Hotel Bella Sky Copenhagen [/TRIPLE] [TRIPLE] Denmark [/TRIPLE] [TRIPLE] tenant [/TRIPLE] [TRIPLE] AC Hotel Bella Sky Copenhagen [/TRIPLE] [TRIPLE] Marriott International [/TRIPLE] [TRIPLE block]
+[owner, architect, completionDate]
+[TRIPLE] Addis_Ababa_City_Hall currentTenants floorArea [/TRIPLE] [TRIPLE] Addis_Ababa_City_Hall currentTenants height [/TRIPLE]
+location completionDate architecturalStyle
+[TRIPLE] Akita_Museum_of_Art [floorCount inaugurationDate] [floorArea]
+country location location
+location owner buildingStartDate
+location owner chancellor
+country location
+location owner buildingStartDate
+country region bedCount
+country leaderName state
+location yearOfConstruction
+location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+country isPartOf location
+country leaderName leaderName
+creator nationality
+[ 'broadcastedBy' [ 'keyPerson' [ 'locationCity' ] ] ]
+[TRIPLE] [output] broadcastedBy firstAired starring [/output]
+creator creator firstAppearanceInFilm
+creator fullName
+creator alternativeName creator
+creator alternativeName creator
+creator alternativeName creator
+country alternativeName ingredient
+country region ingredient
+leaderName leaderName country
+country leaderName region
+country leaderName language
+country ingredient region
+country ingredient region
+country ingredient region
+country ingredient region
+country mainIngredients region
+country mainIngredients region
+country mainIngredients
+country ethnicGroup capital
+leaderName capital country
+country  leaderName  ethnicGroup
+country ingredient dishVariation
+country ingredient region
+country ingredient region
+course dishVariation ingredient
+course ingredient dishVariation
+country region ingredient
+leaderName leaderName country
+Barny Cakes: dish variation, carbohydrates, protein
+country currency leaderName
+country ingredient region
+leaderName region country
+country  mainIngredients
+country demonym leaderName
+leaderName leaderName country
+region mainIngredients ingredient
+country mainIngredient mainIngredient
+country course ingredient
+country ingredient region
+genus ingredient
+course ingredient dishVariation
+leaderName capital
+country  ethnicGroup  region
+country ethnicGroup region
+leaderName country language
+county county county monument location
+leader location dedicatedTo
+dedicatedTo designer location
+leaderName location
+location designer nativeName
+ground league numberOfMembers
+club manager club
+league numberOfMembers season
+leader leader location
+manager club club
+manager club club
+manager club club
+ground numberOfMembers
+club manager club
+ground numberOfMembers
+[ 'ground league numberOfMembers' ]
+league numberOfMembers season
+country league champions ground
+fullname numberOfMembers season
+club manager club
+champions ground league
+country champions league
+ground league champions
+league champions numberOfMembers
+leader country ground
+ground location mayor
+country numberOfStudents dean
+country city motto
+country president city
+established sportsOffered
+country largestCity river
+country leaderTitle leaderName
+country latinName patronSaint
+academicStaffSize established numberOfStudents
+author mediaType ISBN_number
+author birthPlace precededBy
+author numberOfPages mediaType
+author ISBN_number mediaType
+author numberOfPages mediaType
+abbreviation academicDiscipline ISSN_number
+output: ISSN_number abbreviation academicDiscipline
+leaderName country publisher
+publisher editor residence
+[ 'editor', 'abbreviation', 'CODEN_code']
+ISBN_number OCLC_number mediaType
+language spokenIn followedBy
+country ethnicGroup publisher
+country leaderName publisher
+Classification OCLC_number mediaType
+ISBN_number numberOfPages mediaType
+OCLC_number author mediaType
+author ISBN_number mediaType
+country precededBy
+ISSN_number LCCN_number abbreviation
+ISSN number discipline abbreviation
+ISSN_number, LCCN_number, abbreviation
+ISSN number abbreviation academicDiscipline
+author mediaType OCLC_number
+author ISBN_number mediaType
+output: ISSN_number discipline abbreviation
+abbreviation firstPublicationYear ISSN_number
+publisher founder abbreviation
+country leaderName publisher
+country  ethnicGroup  leaderName
+country ethnicGroup language
+[ 'cityServed country isPartOf runwayLength' ]
+country location operatingOrganisation locationCity
+location operatingOrganisation runwayLength runwayName
+state location elevation
+state isPartOf leaderName location
+aircraftFighter attackAircraft battles operatingOrganisation
+aircraftFighter attackAircraft battles operatingOrganisation
+aircraftFighter attackAircraft battles operatingOrganisation
+aircraftFighter attackAircraft battles operatingOrganisation
+leaderTitle location operatingOrganisation headquarter
+[['airport', 'elevation', 'city', 'runway'], ['Alpena County Regional Airport', '210', 'Alpena', '1533.0']]
+[Output]: airport elevation runwayName runwayLength cityServed
+
+country demonym language location
+country location demonym language
+country largestCity location
+country elevation location isPartOf
+leaderName jurisdiction country
+[ 'Appleton International Airport cityServed location runwayLength, elevationAboveTheSeaLevel_(in_metres) 280' ]
+[ '  cityServed  location  isPartOf  ' ]
+[Poaceae, Monocotyledon, Commelinids, Poales]
+[Output]: runwayName elevationAboveTheSeaLevel_(in_metres) runwayLength
+[ 'United States is the country of Egg_Harbor_Township, New Jersey. The Atlantic County, New Jersey is the county that Egg_Harbor_Township, New Jersey is part of. In Egg_Harbor_Township, New Jersey, there is the Atlantic City International Airport, which has a runway length of 1873.0.', 'The United States is led by a President and it is the location of 250 Delaware Avenue and the Atlantic County, which includes the township of Egg Harbor.']
+country location operatingOrganisation locationCity
+[ 'location country isPartOf runwayLength' ]
+[Poaceae division, Poaceae order, Poaceae class, Ardmore_Airport_(New_Zealand) 2nd_runway_SurfaceType]
+[ 'commander nationality operator was_a_crew_member_of' ]
+birthDate birthPlace dateOfRetirement almaMater
+occupation deathPlace birthPlace status
+birthPlace occupation operated by was_a_crew_member_of
+commander operator backup_pilot crew_member_of
+leaderName birthPlace isPartOf nationality
+birthDate birthPlace deathPlace
+occupation deathDate deathPlace almaMater
+affiliations deathPlace isPartOf almaMater
+birthPlace deathPlace birthDate deathDate
+commander backup pilot crewmember dateOfRetirement
+leaderName location capital ethnicGroup
+country ethnicGroup location
+[Cuyahoga County, isPartOf, location, governingBody]
+[TRIPLE] architecturalStyle floorArea floorCount buildingStartDate [/TRIPLE]
+[ 'leaderName leaderName location country' ]
+country leaderName location owner
+leaderName location owner
+[ '  [ owner ]  [ location ]  [ tenant ]  [ floorCount ]  ' ]
+architect floorCount owner tenant
+buildingStartDate architecturalStyle location completionDate
+country location capital language
+buildingStartDate completionDate location
+country isPartOf location ethnicGroup
+[ ['architect', 'currentTenants', 'location'], ['country', 'Mason_School_of_Business', 'United_States'] ]
+country completionDate currentTenants location
+leaderName leaderName location country
+[ 'location country location', 'address country location' ]
+country leaderLocation location
+country leaderName state currency
+[Julia_Morgan [significantBuilding architect birthPlace] [significantBuilding] [birthPlace San_Francisco] Asilomar_Conference_Grounds Asilomar_State_Beach Los_Angeles_Herald-Examiner]
+[Julia_Morgan, Asilomar_Conference_Grounds, architect, significantBuilding, birthPlace, California, Los_Angeles_Herald-Examiner, Riverside_Art_Museum]
+country isPartOf location
+[ 'leaderName postalCode architect hometown', 'John_Clancy_(Labour_politician) B_postcode_area John_Madin Birmingham' ]
+country location leaderName isPartOf
+leaderTitle leaderName location capital
+[TRIPLE] [output]: broadcastedBy, firstAired, creator, starring [/TRIPLE] [TRIPLE] "STV" [output]: "broadcastedBy" [/TRIPLE] [TRIPLE] Steve_Bright [output]: "creator" [/TRIPLE] [TRIPLE] "1983-10-03" [output]: "firstAired" [/TRIPLE] [TRIPLE] Tim_Brooke-Taylor [output]: "starring" [/TRIPLE]
+creator nationality
+creator nationality series starring
+creator series starring
+creator series starring
+country region mainIngredients ingredient
+country region ingredient alternativeName
+region ingredient dishVariation mainIngredients
+region course mainIngredients
+country mainIngredients region
+country region mainIngredients ingredient
+country region mainIngredients ingredient
+country, region, mainIngredients, ingredient
+country region alternativeName mainIngredients
+country - ethnicGroup - region
+region country mainIngredients ingredient
+leaderName ethnicGroup capital
+country alternativeName ingredient dishVariation
+country ingredient dishVariation alternativeName
+country alternativeName mainIngredients
+country region mainIngredients ingredient
+country region mainIngredients ingredient
+region ingredient dishVariation [
+region mainIngredients course dishVariation
+region ingredient dishVariation isPartOf
+region ingredients mainIngredients country
+[ TRIPLE] Batagor country of origin [/TRIPLE]  [ TRIPLE]  Siomay is a variation of the Batagor dish [/TRIPLE]  [ TRIPLE]  Peanut sauce is an ingredient of Batagor [/TRIPLE]  [ TRIPLE] Main ingredients of Batagor [/TRIPLE]   Based on the provided examples, the output should follow the "ingredient" "dish variation" "country of origin" format.
+[TRIPLE] Batagor country Indonesia [/TRIPLE] [TRIPLE] Shumai ingredient Batagor [/TRIPLE] [TRIPLE] Batagor dish variation Siomay [/TRIPLE]
+country leaderName language region
+country region ingredient mainIngredients
+country region ingredient mainIngredients
+country region leaderName language
+country leaderName currency
+[ 'country leaderName 1 leaderName 2' ]
+leaderName leaderName region
+country leaderName region
+course ingredient order
+[TRIPLE]  region country ingredient mainIngredients [TRIPLE] Guadalajara Mexico Condensed milk Chopped_Fruits,_Sour_Cream,_Granola,_Shredded_Coconut,_Raisins [/TRIPLE] [TRIPLE]
+country mainIngredients region
+leaderName capital region country
+leaderName country region ingredient
+leaderName leaderName country capital
+leaderName region ethnicGroup country
+country ethnicGroup region leaderName
+country  ethnicGroup  language
+country currency ethnicGroup leaderName
+county municipality location county
+category county county location
+capital dedicatedTo designer location
+leader legislature location capital
+leader dedicatedTo location material
+leaderTitle leaderName location dedicatedTo
+ground numberOfMembers season
+manager club placeOfBirth
+club manager placeOfBirth
+leader leader location
+ground numberOfMembers season
+ground numberOfMembers season
+ground numberOfMembers season
+ground numberOfMembers season
+country champions league ground location
+country league champions ground numberOfMembers
+club manager owner
+champions league country nickname
+country champions league season
+full name manager number of members season
+country league champions ground
+country leader language ground
+leader officialLanguage capital ground
+club ground league champions
+country city dean
+country established leaderTitle numberOfStudents
+Here is the output result for your query, formatted as you requested:  ``` academicStaffSize city dean established ```
+affiliation location city
+city country campus
+country established director
+country leaderName ethnicGroup capital
+country established affiliation
+country established numberOfStudents
+author followedBy language precededBy
+author numberOfPages mediaType ISBN_number
+leaderName capital country publisher
+title author ISBN_number OCLC_number mediaType
+country publisher precededBy followedBy
+ISBN_number mediaType LibraryofCongressClassification OCLC_number
+country ethnicGroup language spokenIn
+ISBN_number numberOfPages mediaType OCLC_number
+author ISBN_number mediaType OCLC_number
+ISSN number LCCN_number abbreviation academicDiscipline
+[ 'affiliation city state' ]
+leaderTitle leaderName ethnicGroup language capital
+ISSN number discipline frequency
+ISSN number academicDiscipline firstPublicationYear abbreviation
+country language spokenIn publisher
+country  ethnicGroup  language  languageSpokenIn
+country ethnicGroup language
+country leaderName leaderName publisher
+country ethnicGroup language
+country ethnicGroup language
+country  leaderName  ethnicGroup  language
+[ 'cityServed country isPartOf runwayLength' ]
+[Output]: airport elevationAboveTheSeaLevel_ cityServed ICAO_Location_Identifier runwayLength runwayName
+[Output]: ICAO_Location_Identifier cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+[ 'elevationAboveTheSeaLevel_(in_metres) location operatingOrganisation runwayLength runwayName' ]
+[ 'location isPartOf leaderName isPartOf ICAO_Location_Identifier' ]
+state isPartOf leaderName location nativeName
+aircraftFighter attackAircraft battles operatingOrganisation transportAircraft
+[ ['United States Air Force', 'aircraft', 'fighter'], ['United States Air Force', 'attack aircraft', 'Lockheed AC-130'], ['United States Air Force', 'battles', 'Korean War'], ['Al Asad Airbase', 'operating organisation', 'United States Air Force'], ['United States Air Force', 'transport aircraft', 'Boeing C-17 Globemaster III'] ]
+battles attackAircraft operatingOrganisation transportAircraft battles Korean_War
+battles attackAircraft operatingOrganisation transportAircraft
+[ 'leaderName country location leaderName cityServed operatingOrganisation' ]
+[ 'country airport operatingOrganisation leaderName cityServed location' ]
+cityServed elevationAboveTheSeaLevel_(in_metres) location runwayLength runwayName
+country language capital largestCity location
+country demonym language largestCity airport location
+country location elevationAboveTheSeaLevel_(in_metres) isPartOf cityServed
+country location elevationAboveTheSeaLevel_(in_metres) isPartOf runwayLength
+[ ['Antwerp_International_Airport', 'Flemish_department_of_Mobility_and_Public_Works', 'Flemish_Region', '600.0'], ['elevationAboveTheSeaLevel_(in_metres)', 'cityServed', 'operatingOrganisation', 'owner'] ]
+[ "Appleton (city) served by Appleton International Airport" ]
+[ 'Appleton_International_Airport location isPartOf country ', 'cityServed airport country ', 'Greenville airport ', 'Greenville, Appleton ', 'Clayton, Menasha (town), Wisconsin, United States' ]
+[ "runwayName runwayLength elevationAboveTheSeaLevel_(in_metres) 3rd_runway_SurfaceType operatingOrganisation" ]
+[ 'elevationAboveTheSeaLevel_(in_metres) location operatingOrganisation runwayLength runwayName' ]
+[Output]: [location ICAO location elevation operatingOrganisation runwayLength runwayName]
+leaderName jurisdiction country leaderName
+[ 'Adirondack Regional Airport cityServed cityServed country', 'Adirondack Regional Airport cityServed Saranac Lake, United States', 'Saranac Lake, New York isPartOf isPartOf country', 'Saranac Lake, New York isPartOf Harrietstown, New York isPartOf Essex County, New York country' ]
+birthPlace occupation nationality operatedBy was_a_crew_member_of
+[TRIPLE] Alan_Shepard birthDate birthPlace [/TRIPLE] [TRIPLE] Alan_Shepard deathDate deathPlace [/TRIPLE] [TRIPLE] Alan_Shepard almaMater "NWC,_M.A. 1957" [/TRIPLE]
+birthPlace deathPlace occupation status -m alum -l
+birthPlace was_a_crew_member_of operator NASA selection status
+commander operator backup pilot crew member was_a_crew_member_of timeInSpace
+birthPlace deathPlace birthDate awards
+affiliation birthPlace compete_in president
+birthPlace deathDate deathPlace status
+affiliations birthPlace compete_in almaMater
+affiliations birthPlace deathPlace status
+commander backup_pilot operator was_a_crew_member_of dateOfRetirement
+leaderName leaderName location currency country
+floorArea location floorCount buildingStartDate cost
+[ 'leaderName leaderName location country' ]
+country isPartOf leaderTitle location owner
+[ 'address' ]
+country capital currency language location
+country capital currency leaderName location
+country leaderName location isPartOf ethnicGroup
+leaderName leaderTitle location country
+leaderName leaderTitle country location location
+country leaderName leaderName state hospital bedCount
+[Julia_Morgan significantBuilding significantBuilding birthPlace architect]
+[ 'architect significantBuilding significantBuilding birthPlace' ]
+[ 'ReferenceNumber_in_the_National_Register_of_Historic_Places  location  yearOfConstruction  added_to_the_National_Register_of_Historic_Places  architecturalStyle', 'Asilomar_Conference_Grounds  Pacific_Grove,_California  1913  1987-02-27  Arts_and_Crafts_movement']
+[Output]:
+[ 'leaderName isPartOf location country', 'Manhattan leaderName New_York isPartOf United_States', 'Asser_Levy_Public_Baths isPartOf New_York_City' ]
+leaderName governingBody postalCode architect
+[ 'Addis Ababa leaderName leaderName country location isPartOf', 'Addis Ababa Mulatu_Teshome Hailemariam_Desalegn Ethiopia Addis_Ababa Addis_Ababa_City_Hall' ]
+leaderTitle leaderName location ethnicGroup language
+leaderTitle leaderName location ethnicGroup language
+```json {     "banana_gearing" : [     "broadcasted_by" ,     "first_aired" ,     "last_aired" ,     "creator" ,     "star" ]  }  ```
+creator series starring
+[TRIPLE] alternativeName country region [/TRIPLE] [TRIPLE] country mainIngredients [/TRIPLE] [TRIPLE] mainIngredients region [/TRIPLE]
+country course region ingredient mainIngredient
+country currency language leaderName region
+country leaderName language demonym capital
+country leaderName region
+
+country ethnicGroup leaderName region
+region country ingredient mainIngredients servingTemperature
+country ethnicGroup capital leaderName language
+[ 'leaderName leaderName country region', 'Gérard_Larcher Carrie_Lam_(politician) France Hong_Kong' ]
+region leaderName isPartOf dishVariation ingredient
+region ingredient country genus
+region ingredient order country
+leaderName leaderName country
+country leaderName language creator foundationPlace
+country leaderName region
+India Karnataka Gram_flour,_vegetables
+country leaderName region
+country course region leaderName
+country course leaderName region
+county leaderName region dishVariation ingredient
+region ingredient dishVariation leaderName
+
+country leaderName leaderName demonym
+[ 'Java Baduy', 'Singapore English_language Halimah_Yacob', 'Ayam_penyet Singapore' ]
+country  ethnicGroup  language  officialLanguage
+country leaderName region
+country currency demonym language leaderName
+county has_to_its county has_to_its county has_to_its monument location
+leaderTitle leaderName capital legislature location
+leaderName location dedicatedTo designer nativeName
+dedicatedTo designer location nativeName
+leaderTitle location dedicatedTo designer material
+club manager club ground manager
+club manager league club
+country league ground location
+country league ground champions
+country league champions manager numberOfMembers
+country city dean numberOfStudents academicStaffSize
+country established location numberOfStudents leaderName
+state city hasToItsEast hasToItsWest affiliation
+country city campus established numberofpostgraduatestudents
+[ 'state city affiliation' ]
+leaderTitle country city capital
+[ 'country established numberOfStudents affiliation', 'academicStaffSize country established numberOfStudents', 'country established School_of_Business_and_Social_Sciences_at_the_Aarhus_University' ]
+country location publisher followedBy ethnicGroup
+country ethnicGroup followedBy precededBy publisher
+[ '  [ [  "country" ]  [  "Above_the_Veil" ]  ]  [ [  "followedBy" ]  [  "Into_Battle" ]  ]  [ [  "precededBy" ]  [  "Aenir" ]  ]  [ [  "precededBy" ]  [  "Castle" ]  ]  ]' ]
+[ 'affiliation city nickname publisher state ' ]
+[ 'affiliation city state nickname publisher' ]
+country  ethnicGroup  language  leader  spokenIn
+country language ethnicGroup capital
+country leaderName ethnicGroup language spokenIn
+country leaderName language capital
+leaderName leaderName country publisher parentCompany
+country  ethnicGroup  language  leaderName  spokenIn
+country leaderName ethnicGroup language spokenIn
+birthPlace commander nationality operator status was_a_crew_member_of
+birthDate birthPlace nationality was_selected_by_NASA birthDate birthPlace nationality
+birthDate birthPlace status was_selected_by_NASA birthDate
+birthDate birthPlace dateOfRetirement deathPlace (operator OR was_a_crew_member_of)
+birthPlace deathDate deathPlace - awards
+birthDate birthPlace occupation alternativeNames almaMater was_a_crew_member_of
+birthDate status birthPlace was_a_crew_member_of was_selected_by_NASA almaMater
+[TRIPLE] Buzz_Aldrin backup pilot [/TRIPLE] [TRIPLE] Buzz_Aldrin NASA [/TRIPLE] [TRIPLE] Buzz_Aldrin was a crew member of Apollo 11 [/TRIPLE] [TRIPLE] Massachusetts Institute of Technology, Sc.D. 1963 alma mater [/TRIPLE] [TRIPLE] Buzz Aldrin occupation [/TRIPLE] Your requested ordering results in the following output: [TRIPLE] almaMater occupation backup pilot [/TRIPLE] [TRIPLE] was_a_crew_member_of NASA [/TRIPLE]
+birthPlace deathDate deathPlace nationality status
+[TRIPLE] Elliot_See birthDate birthPlace status [/TRIPLE] [TRIPLE] Elliot_See almaMater deathPlace [/TRIPLE] [TRIPLE] University_of_Texas_at_Austin affiliations [/TRIPLE]
+birthDate birthPlace occupation was_a_crew_member_of almaMater dateOfRetirement
+country designer location leaderName inaugurationDate material  Atatürk Monument, designed by Pietro Canonica, was inaugurated on July 27, 1932 and is located in Turkey, where the leader's name is Ahmet Davutoğlu. Turkey's capital is Ankara.
+leaderTitle leaderName location dedicatedTo designer
+category district established location nearestCity owningOrganisation
+country district established owningOrganisation category
+country established location numberOfStudents leaderTitle leaderName
+[ 'campus location city state country', 'director established state country', 'director country established state' ]
+[ 'country director established' ]
+state location to west has governingBody sportsOffered
+affiliation city location sportsOffered governingBody was_given_the_status
+[ 'capital leaderTitle ethnicGroup country leaderName patronSaint' ]
+country leaderName established school
+[ 'country established school size students city', 'affiliation academicstaffsize' ]
+birthDate occupation birthPlace nationality operated_by status was_a_crew_member_of
+birthPlace occupation commander operator was_a_crew_member_of almaMater status
+birthDate birthPlace nationality was_a_crew_member_of birthDate deathPlace
+birthDate birthPlace nationality occupation status,  almaMater deathPlace, Alan_Shepard,  NWC, M.A._1957,  New_Hampshire,  United_States,  Test_pilot,  Deceased, California
+birthPlace deathPlace occupation awards status
+occupation alternativeNames birthPlace almaMater nationality leaderTitle was_a_crew_member_of status
+leaderName nationality backup pilot was a crew member of operated by
+birthDate birthPlace operator status was_a_crew_member_of was_selected_by_NASA almaMater
+occupation birthPlace backup_pilot almaMater was_a_crew_member_of was_selected_by_NASA pilot operator
+occupation birthDate birthPlace deathPlace status
+birthPlace deathPlace status occupation birthDate deathDate
+birthDate occupation birthPlace status retireDate  |   | William Anders | |--:|:----------------:| |   | 1933-10-17 | |   | Fighter pilot | |   | British Hong Kong | |   | Retired | |   | 1969-09-01 |
+category country established location municipality
+country 	capital 	currency 	leader 	monument designer 	monument inauguration date 	monument location 	monument material Turkey 	Ankara 	Turkish lira 	Ahmet Davutoğlu 	Atatürk Monument 	Pietro Canonica	 1932-07-27 	Turkey 	Bronze
+leaderTitle country location dedicatedTo designer material
+[ 'country campus city state', 'established affiliation president', 'country city state' ]
+country city campus established motto numberOfPostgraduateStudents affiliation
+[ 'country director established', 'city campus affiliation president' ]
+affiliation city country established campus president
+state city country state
+[ 'leaderTitle country capital leaderName ethnicGroup ', ' anthem city country ' ]
+[ 'country', 'state', 'city', 'campus', 'director', 'established' ]

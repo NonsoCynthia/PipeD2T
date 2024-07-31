@@ -1,0 +1,39 @@
+#!/bin/bash
+
+#SBATCH --gres=gpu:a100:1
+#SBATCH -p compute
+#SBATCH -J com
+#SBATCH -t 1-23:59:59
+
+
+source /home/cosuji/anaconda3/etc/profile.d/conda.sh
+conda activate webnlg
+
+
+# List of models for lexicalization
+#models=("bart" "cohere" "gpt2" "t5" "flan-t5-large" "gpt-3.5" "gpt4_turbo" "mistral7b" "t5-large")
+# File paths
+#source_file="lex_src.txt"
+#ref_file="lex_ref.txt"
+#task="lexicalization"
+
+# For SR
+models=("bart" "cohere" "gpt2" "t5" "flan-t5-large" "gpt-3.5" "gpt4_turbo" "mistral7b" "t5-large")
+task="sr"
+source_file="sr_src.txt"
+ref_file="sr_ref.txt"
+
+# For end2end
+#models=("bart" "cohere" "gpt2" "t5" "flan-t5-large" "gpt-3.5" "gpt4_turbo" "mistral7b" "t5-large" "gpt-3.5_struct" "gpt4_turbo_struct" "mistral7b_struct")
+#task="end2end"
+#source_file="e2e_src.txt"
+#ref_file="e2e_ref.txt"
+
+# Loop through each model and run comet-score
+for model in "${models[@]}"; do
+    #target_file="../results/${task}/${model}/${task}_test.txt" #for lexicalization
+    target_file="../results/${task}/${model}/${task}_pipeline_eval.txt"
+    command="comet-score -s ../results/${task}/${source_file} -t ${target_file} -r ../results/${task}/${ref_file}"
+    echo "Running: ${command}"
+    eval $command
+done

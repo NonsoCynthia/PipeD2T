@@ -1,0 +1,1408 @@
+organisation runwayLength
+location elevationAboveTheSeaLevel_(in_metres)
+location runwayLength
+state location
+location runwayLength
+country location
+battles operatingOrganisation
+class runwaySurfaceType
+runwayLength surfaceType
+leaderName location
+location runwayLength
+[3800, -3.3528]
+[output] [location elevation] [surface type] [first run way] [first run way location] [second run way] [second run way location] [airport name] [airport  country] [airport city] [run way name] [run way length] [run way length feet] [run way surface] [run way elevation] [elevation above sea level] [sea level] [metres] [Amsterdam] [Netherlands] [Schiphol] [Asphalt] [North] [Runway 18R] [3.3528] [18] [1,799] [Amsterdam Airport Schiphol]   Would you like me to arrange the information in a different order?
+cityServed runwayLength
+cityServed runwayLength
+location
+cityServed runwayLength
+runwayLength surfaceType
+[64, 12467, 211]
+headquarter operatingOrganisation
+country location
+airport location operatingOrganisation runwayName
+[['operatingOrganisation', 'runwayLength']]
+location operatingOrganisation
+genre instrument
+origin
+[Twilight (band) Aaron_Turner Electroacoustic_music]
+genre instrument
+associatedMusicalArtist associatedMusicalArtist
+birthDate birthPlace
+birthPlace
+genre stylisticOrigin
+background recordLabel
+label birthPlace record
+genre musicFusionGenre
+genre stylisticOrigin
+genre stylisticOrigin
+genre background
+genre stylisticOrigin
+genre
+genre stylisticOrigin
+birthPlace birthYear
+genre background
+genre background
+birthPlace deathPlace
+birthPlace deathPlace
+background genre
+associatedMusicalArtist associatedMusicalArtist
+recordLabel genre
+genre instrument
+background genre
+genre musicSubgenre
+associatedMusicalArtist associatedMusicalArtist Anders_Osborne
+recordLabel genre
+recordLabel genre
+genre singer
+genre stylisticOrigin
+associatedMusicalArtist associatedMusicalArtist
+associatedMusicalArtist associatedMusicalArtist
+associatedMusicalArtist associatedMusicalArtist
+genre stylisticOrigin
+genre
+location recordLabel
+birthDate status
+occupation status
+birthPlace birthDate
+birthPlace isPartOf
+"""William Anders birth place """
+almaMater status
+club birthPlace
+manager club
+club club
+club club
+club
+club club
+manager club
+club club
+formerTeam draftPick
+formerTeam draftPick
+birthDate birthYear
+club
+club club
+club ground
+manager club
+club
+club ground
+club birthDate
+club birthPlace
+manager club
+club club
+club league
+club club
+birthYear birthPlace
+club birthDate
+club league
+leaderName birthPlace
+country birthPlace
+country language
+manager club
+club ground
+club league
+club ground
+floorCount
+location floorCount
+floorArea floorCount
+location floorCount
+country architect
+location architect
+location architect
+location tenant
+architect  completionDate
+location
+country location
+location architecturalStyle
+location architecturalStyle
+country  ethnicGroup
+address floorCount
+address location
+leaderName state
+country location
+location isPartOf
+location isPartOf
+location isPartOf
+apoapsis escapeVelocity
+[ 'apoapsis minimumTemperature' ]
+discoverer periapsis
+epoch escapeVelocity
+epoch orbitalPeriod
+epoch rotationPeriod
+deathCause discoverer
+[TRIPLE] 1036_Ganymed averageSpeed [/TRIPLE] [TRIPLE] 1036_Ganymed apoapsis [/TRIPLE]
+birthPlace discoverer
+discoverer nationality
+deathCause discoverer
+discoverer nationality
+birthPlace discoverer
+epoch formerName
+[373513000.0_(kilometres) 179.0_(kelvins)]
+epoch periapsis
+[109_Felicitas, 523329000.0_(kilometres), 170.0_(kelvins)]
+epoch periapsis
+epoch rotationPeriod
+[TRIPLE] 10_Hygiea apoapsis temperature [/TRIPLE]
+epoch formerName
+mass epoch
+epoch orbitalPeriod
+country ethnicGroup
+capital isPartOf
+country leaderTitle
+country isPartOf
+leaderTitle isPartOf
+country isPartOf
+country isPartOf
+[Output]: areaTotal elevationAboveTheSeaLevel
+areaTotal elevationAboveTheSeaLevel
+country isPartOf
+country isPartOf
+country isPartOf
+country capital
+country isPartOf
+areaTotal populationDensity
+country isPartOf
+country leaderTitle location isPartOf
+country capital
+country ethnicGroup
+country isPartOf ethnicGroup
+country ethnicGroup
+country language
+country leaderTitle
+leaderName
+[   ['broadcastedBy', 'starring'] ]
+[TRIPLE] "STV" [/TRIPLE] [TRIPLE] [TRIPLE]
+leaderName  leaderName  location  --  manager club  --  state established  --  Tim Brooke-Taylor  --  Bananaman  --  Derbyshire  --  club
+starring
+starring
+creator series
+fullName creator
+creator
+fullName creator
+country ingredient
+leaderName country
+country language
+leaderName country
+country ingredient
+country region
+country mainIngredients
+country region
+dishVariation
+ingredient mainIngredients
+alternativeName ingredient
+ingredient dishVariation
+country ingredient
+country leaderName
+country ingredient
+[TRIPLE] [TRIPLE] [TRIPLE]
+country ingredient
+family ingredient
+country ingredient
+leaderName country
+country ingredient
+ingredient dishVariation
+country ingredient
+country leaderName
+country  mainIngredients
+country demonym
+leaderName country
+country ethnicGroup
+country mainIngredients
+ingredient mainIngredients
+leaderName country
+region ingredient
+course dishVariation
+leaderName country
+ingredient dishVariation
+shipClass length
+length shipOrdered
+location operator
+location operator
+length topSpeed
+christeningDate length
+builder powerType
+rocketStages diameter
+modelYears assembly
+designer employer
+country length
+assembly relatedMeanOfTransportation
+assembly relatedMeanOfTransportation
+assembly relatedMeanOfTransportation
+locationCity manufacturer
+engine transmission
+engine transmission
+manufacturer successor
+launchSite maidenFlight
+country leaderName
+manufacturer launchSite
+manufacturer parentCompany
+assembly relatedMeanOfTransportation
+manufacturer successor
+successor relatedMeanOfTransportation
+manufacturer successor
+[Output] [Atlas_II finalFlight diameter] [/Output]
+manufacturer launchSite
+manufacturer division
+manufacturer subsidiary
+manufacturer subsidiary
+keyPerson powerType
+launchSite comparable
+leaderName builder
+builder parentCompany
+owner powerType
+country leaderName
+category established
+district nearestCity
+location dedicatedTo
+dedicatedTo nativeName
+battles award
+battles award
+leader successor deputy
+birthPlace party
+almaMater birthPlace
+office_(workedAt,_workedAs)  birthPlace
+office successor
+leader successor
+inOfficeWhile successor
+commander  battles
+country militaryBranch battles
+almaMater birthPlace
+birthPlace residence
+award battles
+birthPlace office
+Output: birthPlace
+birthPlace office
+birthPlace office
+unit award
+activeYearsStartDate  battles
+battles commander
+battles birthPlace
+commander
+battles commander
+birthDate deathYear
+profession birthDate Albert_B._White
+birthPlace deathPlace
+deathPlace inOfficeWhile
+birthPlace party
+office_(workedAt,_workedAs) successor
+birthPlace
+birthPlace
+office successor
+almaMater successor
+birthPlace office
+country militaryBranch battles
+commander
+birthPlace office
+office successor
+birthDate office_(workedAt,_workedAs)
+country currency
+leaderName country
+country deathPlace
+season numberOfMembers
+ground numberOfMembers
+manager placeOfBirth
+manager club
+season numberOfMembers
+manager club
+manager club
+ground numberOfMembers
+ground numberOfMembers
+ground league
+manager club
+manager club
+numberOfMembers
+ground numberOfMembers
+ground league
+ground tenant
+ground location
+season numberOfMembers
+region
+leader country ground
+manager club
+state nickname
+affiliation city
+city president
+location was given the status
+leaderName state
+author precededBy
+""" 1634: The Ram Rebellion | Author | Virginia DeMarce | 1634: The Ram Rebellion | Media Type | E-book """
+abbreviation EISSN_number
+author mediaType
+ISBN_number numberOfPages
+author followedBy
+oclcNumber mediaType
+ISBN_number numberOfPages
+publisher parentCompany
+author mediaType
+ISBN_number OCLC_number
+oclcNumber mediaType
+language spokenIn
+ISBN_number mediaType
+publisher founder
+ISBN_number genre
+ISBN_number OCLC_number
+author followedBy
+abbreviation discipline
+[['parentCompany', 'publisher']]
+country capital
+country capital
+country  ethnicGroup
+country  ethnicGroup
+country  ethnicGroup
+[operatingOrganisation runwayLength runwayName]
+[ 'cityServed cityServed runwayLength' ]
+country isPartOf location
+location operatingOrganisation ICAO_Location_Identifier
+location operatingOrganisation runwayLength
+aircraftFighter operatingOrganisation battles
+aircraftFighter battles operatingOrganisation
+[Poaceae runwayLength cityServed]
+headquarter operatingOrganisation location
+location runwayName runwayLength
+country location elevationAboveTheSeaLevel_(in_metres)
+location runwayLength elevationAboveTheSeaLevel_(in_metres)
+location runwayLength elevationAboveTheSeaLevel_(in_metres)
+location capital
+country location demonym
+[['country', 'language'], ['Belgium', 'German_language']]
+country isPartOf location
+headquarter regionServed operatingOrganisation
+[ 'location country runwayLength' ]
+country leaderName cityServed
+leaderParty isPartOf location
+country leaderParty location
+country leaderParty location
+associatedMusicalArtist associatedMusicalArtist genre
+origin
+origin origin United_States
+associatedMusicalArtist associatedMusicalArtist genre
+[START]  [PERSON] Aaron Turner [/PERSON] [MUSICAL_GROUP] Twilight [/MUSICAL_GROUP] [MUSICAL_GROUP] Greymachine [/MUSICAL_GROUP] [GENRE] Drone music [/GENRE]  [START]
+[Output]: musicalArtist genre associatedMusicalArtist
+genre instrument musicFusionGenre
+genre instrument musicFusionGenre
+associatedMusicalArtist associatedMusicalArtist birthDate
+associatedMusicalArtist associatedMusicalArtist origin
+genre stylisticOrigin stylisticOrigin
+leaderName birthPlace birthPlace
+[Output]: instrument associatedMusicalArtist genre
+genre musicFusionGenre stylisticOrigin
+genre stylisticOrigin fusionGenre
+birthPlace genre  derivative
+associatedBand/associatedMusicalArtist genre
+[['associatedMusicalArtist', 'associatedMusicalArtist', 'genre']]
+associatedMusicalArtist associatedMusicalArtist genre
+genre stylisticOrigin stylisticOrigin
+birthPlace deathPlace birthPlace
+birthPlace deathPlace nationality
+birthPlace deathPlace nationality
+birthPlace deathPlace leaderName
+deathPlace leaderName deathPlace
+[TRIPLE] Alison_ODonnell associatedMusicalArtist genre [/TRIPLE]
+[TRIPLE] Alison_ODonnell associatedMusicalArtist [/TRIPLE] [TRIPLE] Alison_ODonnell genre [/TRIPLE] [TRIPLE] Alison_ODonnell associatedBand [/TRIPLE]
+genre instrument derivative
+genre recordLabel derivative
+birthPlace background genre
+background birthPlace genre
+genre musicFusionGenre stylisticOrigin
+associatedMusicalArtist associatedMusicalArtist Anders_Osborne associatedMusicalArtist
+genre musicFusionGenre recordLabel
+associatedMusicalArtist associatedMusicalArtist genre
+associatedBand genre
+genre background
+associatedMusicalArtist associatedMusicalArtist genre
+associatedMusicalArtist associatedMusicalArtist genre
+associatedMusicalArtist associatedMusicalArtist genre
+associatedBand musician musician recordLabel
+genre stylisticOrigin associatedBand
+[TRIPLE] Albennie_Jones birthPlace ethnicGroup [/TRIPLE]
+[ Alan_Bean  ]  [ birthPlace nationality status ]
+country leaderName birthPlace
+almaMater nationality was_selected_by_ NASA
+Elliot_See birthPlace Elliot_See almaMater nationality
+""" [TRIPLE] Elliot_See deathPlace [/TRIPLE] [TRIPLE] Elliot_See was_selected_by_NASA [/TRIPLE] [TRIPLE] Elliot_See almaMater [/TRIPLE] """
+leaderName deathPlace
+deathDate deathPlace isPartOf
+[bird birthPlace timeInSpace ]
+club club youthclub
+manager club club
+club youthclub club
+club youthclub club
+club birthPlace club
+club ground club
+draftPick draftRound formerTeam
+draftPick draftRound formerTeam
+birthPlace birthDate debutTeam
+club birthPlace club
+club club ground
+club birthDate club
+club ground club
+birthDate birthPlace club
+birthDate birthPlace draftTeam
+leaderName birthPlace deathPlace
+club birthDate club
+club birthDate club
+club ground club
+club ground club
+club manager club
+manager club club
+club coach nationalTeam
+club country birthPlace
+[TRIPLE] Alex_Plante  height club birthPlace [/TRIPLE]
+club height birthPlace
+club coach league
+club coach league
+club ground club
+club youthclub ground
+manager club season
+manager club club
+birthPlace deathPlace leaderName
+club manager
+club manager
+leaderName isPartOf birthPlace
+city debutTeam formerTeam
+club ground club
+architect birthPlace location
+leaderName location
+floorArea floorCount location
+leaderName location isPartOf
+country architect floorCount
+location architect completionDate
+location tenant floorCount
+architect floorCount tenant
+architect significantBuilding birthPlace
+architect completionDate owner
+location completionDate architecturalStyle
+location completionDate architecturalStyle
+country leaderName location
+country capital currency
+country buildingStartDate currentTenants
+[Julia_Morgan, Asilomar_Conference_Grounds, Riverside_Art_Museum, San_Francisco]
+[Julia_Morgan, Asilomar_Conference_Grounds, California, significantBuilding, Chinatown,_San_Francisco]
+location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location added_to_the_National_Register_of_Historic_Places yearOfConstruction
+location added_to_the_National_Register_of_Historic_Places yearOfConstruction
+[103 Colmore Row architect ] >> [architect hometown ] >> [leaderName ]
+[103 Colmore Row architect] [birthPlace leaderName]
+country leaderName location
+leaderName location location
+location keyPerson tenant
+mass apoapsis escapeVelocity
+discoverer orbitalPeriod periapsis
+[ 'apoapsis minimumTemperature maximumTemperature' ]
+[66391, 1999, KW4, apoapsis, 162164091.8388, kilometres] [66391, 1999, KW4, averageSpeed, 37.16, kilometrePerSeconds] [66391, 1999, KW4, density, 2.0, gramPerCubicCentimetres]
+epoch orbitalPeriod periapsis
+epoch periapsis formerName
+[TRIPLE] 101_Helena mass escapeVelocity apoapsis [/TRIPLE]
+almaMater nationality discoverer
+deathPlace discoverer epoch
+deathCause deathPlace discoverer
+epoch orbitalPeriod apoapsis
+[103_Hera, apoapsis, 437170000.0_(kilometres), escapeVelocity, 0.0482_(kilometrePerSeconds), temperature, 170.0_(kelvins)]
+birthPlace discoverer nationality
+epoch formerName orbitalPeriod
+epoch periapsis apoapsis
+epoch periapsis formerName
+epoch orbitalPeriod mass
+epoch orbitalPeriod apoapsis
+[OUTPUT]: apoapsis averageSpeed orbitalPeriod
+[TRIPLE] 10_Hygiea apoapsis averageSpeed surfaceArea [/TRIPLE]
+[ 'apoapsis surfaceArea temperature' ]
+epoch periapsis mass
+epoch periapsis apoapsis
+country isPartOf ethnicGroup
+leaderTitle areaTotal populationDensity
+country isPartOf ethnicGroup
+country isPartOf ethnicGroup
+country ethnicGroup capital
+areaCode areaTotal UTCOffset
+location leaderTitle isPartOf
+country isPartOf
+country isPartOf ethnicGroup
+leaderTitle isPartOf
+countySeat country isPartOf
+[ 'leaderTitle country ethnicGroup capital' ]
+areaCode areaTotal populationDensity
+country isPartOf largestCity
+country isPartOf largestCity
+country isPartOf isPartOf
+country capital
+country capital location
+capital county
+country largestCity isPartOf
+country capital isPartOf
+largestCity language isPartOf
+country isPartOf capital
+country capital isPartOf
+country language capital
+country isPartOf ethnicGroup
+country isPartOf ethnicGroup
+country leader ethnicGroup
+country ethnicGroup language
+country ethnicGroup language
+creator nationality
+[TRIPLE] [broadcastedBy] [lastAired] [starring]
+starring distributor firstAppearanceInFilm
+starring distributor
+starring distributor
+creator alternativeName creator
+creator alternativeName creator
+creator alternativeName creator
+country region ingredient
+region ingredient mainIngredients
+family ingredient family
+country region ingredient
+country ingredient region
+country mainIngredients region
+country leaderName capital
+country  ethnicGroup  region
+dishVariation ingredient
+country leaderName ethnicGroup
+leaderName location capital
+dishVariation ingredient
+country ingredient region
+country currency leaderName
+country ingredient region
+course ingredient dishVariation
+region course mainIngredients
+region mainIngredients dishVariation
+country ingredient region
+region country ingredient
+country ingredient region
+leaderName leaderName country
+country mainIngredients ingredient
+country mainIngredients ingredient
+country leaderName region
+country region ingredient
+country ingredient region
+leaderName currency country
+course dishVariation ingredient
+course dishVariation ingredient
+course dishVariation ingredient
+ingredient mainIngredients order
+country course ingredient
+country ingredient region
+country currency leaderName
+leaderName capital country
+country  ethnicGroup  language
+country leaderName language
+family order
+alternativeName transmission engine
+shipOrdered length shipClass
+[TRIPLE] A-Rosa_Luna shipDisplacement length topSpeed [/TRIPLE]
+location operator owner
+[Output] christeningDate shipInService length  [/Output]
+builder length engine
+builder length engine
+builder foundationPlace length
+country demonym ethnicGroup
+country ethnicGroup capital
+rocketStages diameter totalLaunches
+bodyStyle engine productionEndYear
+bodyStyle wheelbase width
+builder shipBeam
+assembly relatedMeanOfTransportation capital
+assembly relatedMeanOfTransportation capital
+assembly relatedMeanOfTransportation relatedMeanOfTransportation
+assembly relatedMeanOfTransportation relatedMeanOfTransportation
+[output]  [output]  length shipBeam shipLaunch  [output]  63800.0_(millimetres) 8.3_m 1855-05-31  [output]
+status shipLaunch shipBeam
+manufacturing place engine
+keyPerson manufacturer fate
+country manufacturer comparable
+function launchSite manufacturer
+manufacturer launchSite launchSite
+assembly relatedMeanOfTransportation engine
+assembly relatedMeanOfTransportation engine
+countryOrigin launchSite launchSite
+leaderTitle country ethnicGroup
+countryOrigin launchSite launchSite
+assembly bodyStyle engine
+manufacturer relatedMeanOfTransportation relatedMeanOfTransportation
+location foundationPlace
+location powerType owner
+location operator owner
+countryLaunchSite comparable
+headquarter launchSite site
+location launchSite site
+country location locationCity builder
+country demonym ethnicGroup
+country location location
+county location municipality
+capital location nativeName
+leader legislature location
+leaderName location capital
+battles award birthPlace
+birthPlace party almaMater
+leaderName leaderName birthPlace
+birthPlace party residence
+office_(workedAt,_workedAs) birthPlace almaMater
+inOfficeWhile successor militaryBranch
+inOfficeWhile successor militaryBranch
+birthPlace office_
+birthPlace party
+commander militaryBranch battles
+birthPlace officeParty
+commander militaryBranch
+birthPlace party
+birthPlace battles commander
+commander isPartOfMilitaryConflict
+birthPlace office_
+birthPlace office_(workedAt,_workedAs)
+[  {   "leaderTitle": "Prime Minister",   "leaderName": "Adonis Georgiadis",   "country": "Greece"  } ]
+leaderName nationality office_(workedAt,_workedAs)
+leaderName nationality politicalParty
+birthPlace office
+activeYearsEndDate activeYearsStartDate  battles
+activeYearsStartDate activeYearsEndDate  battles
+birthDate dateOfDeath deathYear
+leader successor spouse birthplace
+leaderTitle ethnicGroup birthPlace deathPlace
+birthPlace deathPlace birthPlace
+birthPlace deathPlace birthPlace
+leaderName deathPlace governingBody
+profession successor birthPlace
+birthPlace deathPlace birthPlace_2
+birthPlace office successor
+birthPlace office successor
+office successor party
+city region date
+leaderName party birthDate
+leaderName party birthPlace
+leader birthPlace battles
+[TRIPLE] Alfred_Moore_Scales battles [TRIPLE] American_Civil_War [TRIPLE] American_Civil_War commander [TRIPLE] Battle_of_Fredericksburg [TRIPLE]  [/TRIPLE]  [/TRIPLE] [TRIPLE]  [/TRIPLE]
+leaderName deathPlace birthPlace
+leaderName deathPlace birthPlace
+deathPlace leaderName deathPlace
+battles commander isPartOf conflict
+country birthPlace nationality
+[Output]  [ethnicGroup language nationality]
+manager club club
+club manager club club
+league numberOfMembers
+club manager club manager
+chairman numberOfMembers ground
+fullname ground numberOfMembers
+club manager club
+club manager club
+ground numberOfMembers
+club manager league
+club manager club
+club ground league
+club manager club
+ground leader part
+ground leader part
+club manager club
+country league ground
+manager club club
+club manager club
+club club manager
+club club manager
+country state
+affiliation city numberOfPostgraduateStudents
+state leaderName has_to_its_northwest
+country ethnicGroup
+country leaderName ethnicGroup
+affiliation established headquarters
+country established city
+author numberOfPages mediaType
+language spokenIn precededBy
+leaderName headquarter location
+academicDiscipline ISSN_number
+ISSN number academicDiscipline
+[A.T._Charlie_Johnson [leaderTitle ][leaderName ][location] A.T._Charlie_Johnson [editor ][alumni ][country] ]
+ISBN_number author OCLC_number
+author ISBN_number OCLC_number
+country language publisher
+country language spokenIn
+OCLC_number mediaType numberOfPages
+[TRIPLE] [/TRIPLE] [TRIPLE] ISSN_number [/TRIPLE] [TRIPLE] LCCN_number [/TRIPLE] [TRIPLE] abbreviation [/TRIPLE] [TRIPLE] [/TRIPLE]
+country 	followedBy 	language
+[Output] followedBy language [Output] author  [Output]   I was unable to determine a specific order in which you wanted the information to be presented, but this is the best I could generate based on the information provided.   Is there anything else I can help you with?
+author numberOfPages mediaType
+ISSN_number LCCN_number abbreviation
+ISSN number academicDiscipline abbreviation
+publisher parentCompany ISSN_number
+[Output]
+author followedBy language
+country language spokenIn
+oclcNumber mediaType numberOfPages
+country spokenIn language
+birthPlace deathPlace author
+publisher ISSN_number
+country ethnicGroup capital
+country ethnicGroup language
+country ethnicGroup capital
+country ethnicGroup leaderName
+country leaderTitle ethnicGroup
+country leaderTitle ethnicGroup
+[ 'cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName' ]
+cityServed cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength
+[ 'location operatingOrganisation runwayLength runwayName' ]
+location operatingOrganisation location identifier identifier
+location operatingOrganisation runwayLength runwayName
+location operatingOrganisation runwayLength runwayName
+aircraftFighter attackAircraft battles operatingOrganisation
+[ 'airport location country operatingOrganisation runwayLength cityServed' ]
+[output] airport elevation runway length runway name city served [/output]
+[output] cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName [/output]
+cityServed location runwayLength elevationAboveTheSeaLevel_(in_metres)
+country demonym location capital
+country location capital
+country location isPartOf cityServed
+[['elevationAboveTheSeaLevel_(in_metres)','operatingOrganisation','owner','runwayLength']]
+headquarter hubAirport operatingOrganisation
+[ 'Athens cityServed , elevationAboveTheSeaLevel_(in_metres) , location , runwayLength' ]
+[ 'location cityServed country', 'leaderName cityServed country', 'location leaderName cityServed' ]
+country leaderName location owner
+[ ['country', 'language', 'leaderName'], ['Belgium', 'German_language', 'Charles_Michel'], ['cityServed', 'country'], ['Antwerp', 'Belgium'] ]
+[['country', 'leaderName', 'language'], ['Belgium', 'Philippe_of_Belgium', 'French_language']]
+[ 'Adirondack_Regional_Airport cityServed [TRIPLE] Saranac_Lake,_New_York [/TRIPLE] [TRIPLE] Harrietstown,_New_York country [TRIPLE] United_States [/TRIPLE] [TRIPLE] Saranac_Lake,_New_York isPartOf [TRIPLE] Essex_County,_New_York [/TRIPLE] [TRIPLE] Harrietstown,_New_York isPartOf [TRIPLE] Harrietstown,_New_York [/TRIPLE]' ]  This ordering is based on the rules you provided in the examples. I've used the following ordering: [ADIRONDACK REGIONAL AIRPORT, CITIES SERVED, COUNTRY, IS PART OF, IS PART OF (AGAIN)].   Is this the output you expected?
+country leaderName language
+country leaderName language
+country leaderName leaderName location cityServed
+[class division order]
+associatedBand/associatedMusicalArtist band member genre
+background genre origin
+genre instrument associatedBand/associatedMusicalArtist
+associatedMusicalArtist associatedMusicalArtist genre
+genre musicFusionGenre instrument associatedBand/associatedMusicalArtist
+birthDate birthPlace birthYear background
+birthDate birthPlace birthYear background
+birthYear occupation background
+birthPlace occupation background
+background genre origin origin
+[ 'leaderTitle country origin ethnicGroup', 'leaderName ethnicGroup genre', 'ethnicGroup stylisticOrigin genre', 'leaderName country' ]
+genre derivative ethnicGroup leaderTitle location club manager
+country genre origin
+Output: birthYear birthPlace genre background
+output: birthYear background birthPlace genre
+associatedBand/associatedMusicalArtist genre associatedBand/associatedMusicalArtist
+associatedMusicalArtist associatedMusicalArtist genre
+birthPlace birthYear deathPlace
+country deathPlace leaderName
+[TRIPLE] Alfredo_Zitarrosa [background birthPlace recordLabel] [/TRIPLE] [TRIPLE] RCA_Records [label] [/TRIPLE]
+associatedBand/associatedMusicalArtist genre associatedBand/associatedMusicalArtist
+associatedBand/associatedMusicalArtist genre associatedBand/associatedMusicalArtist activeYearsStartYear
+recordLabel location recordLabel
+recordLabel location recordLabel
+[ 'background' ] [ 'birthPlace' ] [ 'birthYear' ] [ 'genre' ]
+birthPlace background birthYear genre
+genre musicFusionGenre stylisticOrigin
+associatedBand artist artist genre
+[ "label location label", "label artist label", "recordLabel artist recordLabel", "recordLabel location recordLabel" ]
+occupation birthPlace background
+genre derivative genre
+associatedMusicalArtist associatedMusicalArtist genre
+genre associatedMusicalArtist associatedMusicalArtist stylisticOrigin
+musician associatedMusicalArtist associatedMusicalArtist genre
+[Output]: musician associatedMusicalArtist associatedMusicalArtist recordLabel
+deathPlace leaderName isPartOf
+genre musicalArtist instrument
+genre stylisticOrigin stylisticOrigin derivative
+birthPlace leaderName isPartOf
+[Output] Aaron_Turner associatedMusicalArtist: Twilight_(band), House_of_Low_Culture Aaron_Turner genre: Post-metal Aaron_Turner instrument: Cello [/Output]  Would you like help with anything else?
+musician music genre associated band instrument
+country genre origin
+birthPlace nationality timeInSpace was_selected_by_NASA
+[Alan Shepard, Apollo 14, Distinguished Service Medal (US Navy), Department of Commerce Gold Medal, NASA]
+leaderName representative birthPlace crewMembers
+birthPlace status almaMater was_a_crew_member_of
+birthPlace occupation was_a_crew_member_of was_selected_by
+birthName was_a_crew_member_of operator
+birthPlace deathPlace awards
+[ 'deathPlace senators', 'awards higher', 'Alan_Shepard' ]
+birthPlace deathPlace nationality almaMater
+[Occupation, Operator, was_a_crew_member_of, was_selected_by_]
+manager club league
+manager club club youthclub
+manager club club youthclub
+manager club league
+birthDate birthPlace birthYear weight
+club draftTeam generalManager city
+birthDate debutTeam formerTeam
+birthDate birthPlace formerTeam
+birthPlace birthDate debutTeam formerTeam
+club manager club ground
+manager club club ground manager
+club manager club ground
+club birthDate height
+club height birthDate
+club birthDate height
+club birthDate height
+club birthPlace height
+birthDate birthPlace club
+[TRIPLE] Alex_Plante club height [/TRIPLE] [TRIPLE] Alex_Plante birthYear birthPlace [/TRIPLE]
+country leaderName anthem birthPlace language
+country leaderName ethnicGroup birthPlace
+leaderName anthem birthPlace language
+club manager ground club
+manager chairman club season
+city city formerTeam debutTeam
+manager club youthclub league
+CompletionDate buildingStartDate location floorCount
+country ethnicGroup location
+country governingBody isPartOf location
+location floorArea floorCount cost
+leaderName location isPartOf country
+location floorCount floorArea completionDate
+location owner isPartOf
+[['AC Hotel Bella Sky Copenhagen', 'architect', '3XN'], ['AC Hotel Bella Sky Copenhagen', 'floorCount', '23'], ['AC Hotel Bella Sky Copenhagen', 'location', 'Copenhagen'], ['AC Hotel Bella Sky Copenhagen', 'tenant', 'Marriott International']]
+governmentType isPartOf location location
+country location isPartOf ethnicGroup
+country location isPartOf ethnicGroup
+country location location, ethnicGroup
+country location location ethnicGroup
+address location owner completionDate
+leaderName leaderName country location
+location yearOfConstruction added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location ReferenceNumber_in_the_National_Register_of_Historic_Places yearOfConstruction
+#### Here is the output of the query: - ```leaderName location isPartOf ```
+country isPartOf leaderName location
+[ 'architect leaderName postalCode' ]
+
+leaderName leaderName location country
+leaderName leaderName country location
+country location location ethnicGroup
+leaderName leaderTitle location capital
+leaderTitle leaderName location
+epoch periapsis apoapsis orbitalPeriod
+[ORIGINAL] [output result] (kilometrePerSeconds) epoch escapeVelocity (kilometres) orbitalPeriod [/ORIGINAL]
+epoch meanTemperature orbitalPeriod apoapsis
+epoch escapeVelocity periapsis orbitalPeriod
+[35151126, 10106874, 6, 4]
+birthPlace doctoralStudent almaMater discoverer
+birthPlace doctoralStudent discovery almaMater
+leaderTitle deathPlace doctoralStudent almaMater
+deathCause deathPlace almaMater discoverer
+[103 Hera apoapsis discoverer deathPlace]
+[ 'deathPlace deathCause discoverer nationality' ]
+birthPlace deathPlace discoverer periapsis
+birthPlace deathPlace discoverer
+epoch formerName orbitalPeriod periapsis
+[TRIPLE] epoch escapeVelocity apoapsis orbitalPeriod [/TRIPLE]
+[TRIPLE] epoch apoapsis mass orbitalPeriod [/TRIPLE]
+epoch escapeVelocity orbitalPeriod periapsis
+epoch orbitalPeriod periapsis formerName
+epoch escapeVelocity apoapsis orbitalPeriod
+epoch formerName periapsis orbitalPeriod
+epoch escapeVelocity periapsis orbitalPeriod
+country isPartOf ethnicGroup language
+areaCode areaOfLand areaTotal populationDensity
+countySeat country isPartOf state
+country ethnicGroup isPartOf capital
+country isPartOf state capital
+state language leaderTitle location
+areaTotal isPartOf populationDensity elevationAboveTheSeaLevel
+[Angola, Indiana isPartOf <location> isPartOf <country> country]
+[Output]: areaCode areaTotal populationTotal
+[TRIPLE] areaCode areaTotal leaderTitle populationDensity [/TRIPLE]
+country isPartOf state ethnicGroup
+country isPartOf state ethnicGroup
+country isPartOf capital
+country isPartOf capital
+countySeat isPartOf largestCity
+state leaderTitle location
+country countySeat isPartOf
+country isPartOf capital
+country isPartOf largestCity language
+country ethnicGroup isPartOf capital
+country largestCity isPartOf capital
+country leaderTitle leader ethnicGroup
+country leaderTitle ethnicGroup
+[ 'Washington_D.C. capital location isPartOf country ethnicGroup' ]
+country leader leaderTitle ethnicGroup
+country ethnicGroup isPartOf language
+[ 'United States, English language, Asian Americans, Angola, Indiana' ]
+country isPartOf ethnicGroup language
+output:  - locationCity keyPerson broadcastedBy  -   Are there any other items you would like me to generate based on this query?
+[TRIPLE] [output]: broadcastedBy, firstAired, creator, starring [/TRIPLE] [TRIPLE] "STV" [output]: broadcastedBy [/TRIPLE] [TRIPLE] Steve_Bright [/TRIPLE] [TRIPLE] "1983-10-03" [output]: firstAired [/TRIPLE] [TRIPLE] Jill_Shilling [/TRIPLE]
+creator series starring
+creator nationality alternativeName
+country region mainIngredients ingredient
+leaderName leaderName capital
+region ingredient mainIngredients country
+region country ingredient mainIngredients
+leaderName region ethnicGroup country
+```json { "Malaysia": { "ethnicGroup": ["Malaysian_Malay", "Malaysian_Chinese"] }, "Asam_pedas": { "region": "Sumatra", "country": "Malaysia" } } ```
+country ethnicGroup region
+leaderName ethnicGroup capital
+country ethnicGroup leaderName capital
+country dishVariation ingredient
+alternativeName country ingredient mainIngredients
+country course ethnicGroup dishVariation
+country region mainIngredients ingredient
+country region mainIngredients ingredient
+country mainIngredients region
+region ingredient dishVariation [
+country mainIngredients region
+country mainIngredients region
+region mainIngredients country
+region mainIngredients country
+leaderName leaderName country
+[ 'dishVariation ingredient', 'dishVariation country', 'ingredient country', 'country dishVariation' ]
+country region mainIngredients ingredient
+country course ingredient mainIngredients
+country region ingredient mainIngredient
+country leaderName language region
+country region mainIngredients ingredient
+country region ingredient
+region ingredient mainIngredients alternativeName
+ingredient mainIngredients order
+region mainIngredients ingredient country
+country course ingredient region
+[TRIPLE]  region country ingredient mainIngredients [/TRIPLE]
+country leaderName course dishVariation
+leaderName country
+leaderName region ethnicGroup country
+country ethnicGroup language
+country ethnicGroup language
+country  course  dishVariation  language
+[TRIPLE] Philippines language [/TRIPLE] [TRIPLE] Binignit country [/TRIPLE] [TRIPLE] Binignit course [/TRIPLE] [TRIPLE] Dessert dishVariation [/TRIPLE]
+manufacturer transmission wheelbase
+manufacturer relatedMeanOfTransportation successor
+location operator owner builder
+owner operator length builder
+builder buildDate powerType
+[TRIPLE] ALCO_RS-3 buildDate builder [/TRIPLE] [TRIPLE] ALCO_RS-3 engine length [/TRIPLE] [TRIPLE] ALCO_RS-3 V12_engine 17068.8_(millimetres) [/TRIPLE]
+country location place builder
+builder buildDate powerType engine
+builder buildDate cylinderCount engine
+bodyStyle engine location alternativeName assembly
+class assembly alternativeName engine
+assembly class engine layout
+assembly class engine layout
+builder status shipBeam
+leaderName builder country demonym
+builder status shipBeam builder
+assembly relatedMeanOfTransportation engine
+assembly relatedMeanOfTransportation relatedMeanOfTransportation engine
+length shipBeam status
+manufacturer foundationPlace successor engine
+company manufacturer successor engine
+fate keyPerson manufacturer successor
+[Output]: builder shipBeam topSpeed
+[TRIPLE] shipBeam length shipLaunch topSpeed [/TRIPLE]
+launchSite finalFlight manufacturer maidenFlight
+launchSite finalFlight manufacturer maidenFlight
+manufacturer assembly successor location capital
+[['relatedMeanOfTransportation', 'engine', 'assembly']]
+manufacturer engine relatedMeanOfTransportation successor
+launchSite launchSite diameter finalFlight
+class assembly engine layout
+manufacturer division subsidiary foundedBy
+location foundationPlace owner powerType
+owner location operator builder
+countryLaunchSite comparable launchSite country
+countryOrigin launchSite launchSite countryOrigin
+assembly bodyStyle relatedMeanOfTransportation relatedMeanOfTransportation
+assembly bodyStyle relatedMeanOfTransportation relatedMeanOfTransportation
+[output] locationCity builder parentCompany [output]
+country leaderName locationCity builder
+leaderTitle leaderName language ethnicGroup country
+country ethnicGroup capital
+category country established state
+leaderTitle leaderName capital location
+capital dedicatedTo location nativeName
+location established district nearestCity
+leaderName location material
+leaderTitle location inaugurationDate designer
+birthPlace deathPlace battles war award
+birthPlace deathPlace battles award
+affiliation birthPlace office_(workedAt,_workedAs)
+leader party leader region residence
+birthPlace region residence party
+birthPlace successor party residence
+birthPlace successor party residence
+predecessor successor militaryBranch inOfficeWhile
+militaryBranch inOfficeWhile successor predecessor
+leaderTitle inOfficeWhilePrimeMinister inOfficeWhileMonarch birthPlace predecessor
+birthPlace office_workedAt party
+[ 'nationality birthPlace spouse ethnicGroup' ]
+birthPlace battles activeYearsStartDate almaMater
+country battles commander language nationality
+commander deathPlace isPartOfMilitaryConflict militaryConflict commander
+birthPlace office successor
+birthPlace office successor
+birthPlace office successor
+leaderName party nationality currency
+leaderName party nationality office_(workedAt,_workedAs)
+leaderName leaderParty leaderParty nationality
+leaderName party nationality
+birthPlace battles activeYearsEndDate activeYearsStartDate
+activeYearsStartDate  activeYearsEndDate  battles  birthPlace
+commander unit battles
+birthPlace deathPlace successor
+birthPlace successor activeYearsEndDate activeYearsStartDate
+leader name location birth place war battles
+birthPlace battles deathPlace
+birthPlace deathPlace birthPlace deathPlace
+leaderName deathPlace party inOfficeWhile
+profession office successor
+birthPlace office successor
+leader branch battles office
+birthPlace office successor
+birthPlace office successor
+birthPlace office successor
+birthPlace party successor
+state office_(workedAt,_workedAs) largestCity congressionalDistrict
+state party leaderName party leaderName region
+[TRIPLE] Aaron_S._Daggett award [/TRIPLE] [TRIPLE] Aaron_S._Daggett battles [/TRIPLE] [TRIPLE] American_Civil_War [/TRIPLE] [TRIPLE] commander [/TRIPLE] [TRIPLE] Robert_E._Lee [/TRIPLE]
+country nationality party leaderName
+birthPlace inOfficeWhile party successor
+club club club manager
+club placeOfBirth manager club
+club manager placeOfBirth
+chairman ground league numberOfMembers
+club manager leader
+club manager ground leader
+ground numberOfMembers season
+ground numberOfMembers season
+club manager club club
+ground league numberOfMembers season
+ground owner tenant
+nickname numberOfMembers season
+club club club manager
+[TRIPLE] [Output: ground league champions location] [/TRIPLE] [TRIPLE] Agremiação_Sportiva_Arapiraquense [/TRIPLE] [TRIPLE] Estádio_Municipal_Coaracy_da_Mata_Fonseca [/TRIPLE] [TRIPLE] Alagoas [/TRIPLE] [TRIPLE] Campeonato_Brasileiro_Série_C [/TRIPLE] [TRIPLE] Vila_Nova_Futebol_Clube [/TRIPLE]
+country league ground location
+country league ground ground location
+country city ground
+leader leader capital ground
+club club club manager
+country established city
+country city campus affiliation
+country city director affiliation
+location sportsGoverningBody was_given_the_status_by
+country capital city
+country governmentType leaderName city
+state leaderName city
+country capital anthem ethnicGroup
+country capital leaderName
+author precededBy precededBy birthPlace
+author numberOfPages mediaType ISBN_number
+country leaderName publisher parentCompany
+ISBN_number OCLC_number author mediaType
+author ISBN_number mediaType OCLC_number
+country  ethnicGroup  language  spokenIn
+country  ethnicGroup  language  publisher
+author ISBN_number mediaType numberOfPages
+Input:
+ISSN number LCCN_number abbreviation academicDiscipline
+ISSN_number publisher abbreviation LCCN_number
+affiliation affiliation publisher state
+
+author ISBN_number numberOfPages mediaType
+country ethnicGroup language spokenIn
+country publicationYear parentCompany publisher
+country ethnicGroup language
+country spokenIn leaderName
+leaderName country ethnicGroup language
+country  language  leaderName  spokenIn
+country leaderName ethnicGroup language
+country isPartOf location leaderName language
+[ 'elevationAboveTheSeaLevel_(in_metres)' , 'location' , 'operatingOrganisation' , 'runwayLength' , 'runwayName' ]
+[ 'icaoLocationIdentifier location elevationAboveTheSeaLevel_(in_metres) operatingOrganisation runwayLength' ]
+[ORAA] [location] [operatingOrganisation] [runwayLength] [runwayName]
+[ 'icaoLocationIdentifier location operatingOrganisation runwayLength runwayName' ]
+[ ['United States Air Force', 'aircraft', 'Fighter', 'General Dynamics F-16 Fighting Falcon'], ['United States Air Force', 'attack aircraft', 'Lockheed AC-130'], ['United States Air Force', 'battles', '1986 United States bombing of Libya'], ['Al Asad Airbase', 'operating organisation', 'United States Air Force'], ['United States Air Force', 'transport aircraft', 'Boeing C-17 Globemaster III'] ]
+battles attackAircraft operatingOrganisation transportAircraft
+[ Poaceae cityServed elevationAboveTheSeaLevel_(in_metres)  ] [ runwayLength runwayName  ]
+[ 'airport location country' , 'airport operatingOrganisation country' , 'airport runwayLength country' , 'airport runwayName country' ]
+[ 'airport location operated runway name' ]
+[ 'cityServed country location runwayLength' ]
+[ "cityServed location runwayLength runwayName" ]
+[ 'cityServed airport elevationAboveTheSeaLevel_(in_metres) location runwayLength runwayName' ]
+[ 'cityServed country elevationAboveTheSeaLevel_(in_metres) location runwayLength' ]
+location elevationAboveTheSeaLevel_(in_metres) cityServed runwayLength runwayName
+country leaderName leaderName language
+[ 'Athens leaderName leaderName country language, Athens cityServed' ]
+[ 'leaderName cityServed location', 'cityServed country isPartOf', '']
+country leaderName leaderName capital
+[ 'location country isPartOf county  ICAO_Location_Identifier' ]
+[ 'Adirondack Regional Airport --> cityServed --> {Lake Placid, Saranac Lake}, --> isPartOf --> {Harrietstown, New York}, --> country --> United States', 'Harrietstown --> isPartOf --> {Saranac Lake, Lake Placid}, --> country --> United States, --> --> Lake Placid --> isPartOf --> New York, --> --> Saranac Lake --> isPartOf --> Harrietstown']
+[ 'Adirondack Regional Airport,  New York, United States', 'Lake Placid, New York, United States', 'Saranac Lake, New York, United States', 'Harrietstown, New York, United States', 'Essex County, New York, United States' ]
+[ 'state aircraft operatingOrganisation isPartOf location' ]
+[ 'state leaderName location operatingOrganisation aircraftHelicopter' ]
+leaderName country language cityServed
+[TRIPLE] Aaron_Bertram associatedMusicalArtist 1 associatedMusicalArtist 2 band 2 bandMember 3 genre 4 stylisticOrigin [/TRIPLE]
+[TRIPLE] Aaron_Deer background genre origin [/TRIPLE] [TRIPLE] Aaron_Deer origin United_States Aaron_Deer associatedBand/associatedMusicalArtist Wee_Giant [/TRIPLE]
+[ 'associatedMusicalArtist associatedMusicalArtist genre origin' ]
+[TRIPLE] Aaron_Turner associatedMusicalArtist associatedMusicalArtist origin genre [/TRIPLE] [TRIPLE] Aaron_Turner associatedMusicalArtist Twilight_(band) [/TRIPLE] [TRIPLE] Twilight_(band) genre  [/TRIPLE] [TRIPLE] Aaron_Turner origin Sludge_metal [/TRIPLE]   I hope this is what you were looking for!
+[['associatedMusicalArtist', 'birthDate', 'birthPlace', 'Abradab']]
+birthDate occupation birthYear birthPlace background
+birthDate occupation birthPlace background
+genre musicSubgenre stylisticOrigin genre
+genre place of birth derivative stylistic origin
+[TRIPLE] birthPlace associatedMusicalArtist genre [TRIPLE] associatedBand birthPlace [TRIPLE] activeYearsStartYear associatedMusicalArtist [TRIPLE] associatedBand/genre ]
+[Output]:  instrument associatedBand genre
+[TRIPLE] Alan_Frew background occupation origin [/TRIPLE] [TRIPLE] Alan_Frew birthPlace origin [/TRIPLE]
+genre musicFusionGenre birthPlace background
+[Output]: associatedMusicalArtist associatedMusicalArtist background genre
+birthPlace birthYear deathPlace nationality
+[ 'deathPlace leaderTitle birthPlace' ]
+birthPlace deathPlace deathPlace leaderTitle
+[TRIPLE] Alison_ODonnell associatedMusicalArtist associatedMusicalArtist genre recordLabel [/TRIPLE] [TRIPLE] Flibbertigibbet [/TRIPLE] [TRIPLE] Mellow_Candle [/TRIPLE] [TRIPLE] Folk_music_of_Ireland [/TRIPLE] [TRIPLE] Floating_World_Records [/TRIPLE]
+recordLabel location recordLabel
+genre instrument musicFusionGenre stylisticOrigin
+genre instrument derivative origin
+birthPlace background birthYear genre
+[['associatedMusicalArtist', 'genre', 'activeYearsStartYear', 'associatedMusicalArtist', '']]
+[Output] Anders Osborne, the blues musician with the associated artists Billy Iuso, Galactic and Tab Benoit, had his career start in 1989. [/Output]
+birthYear background birthPlace genre occupation
+birthYear occupation background birthPlace genre
+artist associatedMusicalArtist associatedMusicalArtist genre genre stylisticOrigin
+leader associatedMusicalArtist birthPlace genre associatedMusicalArtist
+Here is the output result based on the query you provided:  [TRIPLE] birthPlace associatedMusicalArtist genre [/TRIPLE] [TRIPLE] Andrew_Rayel associatedMusicalArtist Bobina [/TRIPLE] [TRIPLE] Andrew_Rayel genre Trance_music [/TRIPLE] [TRIPLE] Andrew_Rayel associatedMusicalArtist Jwaydan_Moyine [/TRIPLE]  This response is based on an ordering of the information that groups the details about the artist's birth, associations, and genre.   Is there anything else I can help you with?
+associatedMusicalArtist associatedMusicalArtist genre instrument
+[Output]: recordLabel associatedMusicalArtist associatedMusicalArtist activeYearsStartYear recordLabel
+birthPlace genre stylisticOrigin stylisticOrigin
+genre stylisticOrigin stylisticOrigin birthYear
+birthPlace deathPlace deathPlace leaderTitle
+leaderName birthPlace deathPlace ethnicGroup language
+[ 'recordLabel genre musicFusionGenre location', 'recordLabel location recordLabel', 'genre musicFusionGenre recordLabel', 'location recordLabel genre', 'musicFusionGenre recordLabel genre' ]
+[ 'recordLabel location recordLabel musicFusionGenre' ]
+genre instrument musicFusionGenre stylisticOrigin
+genre musicFusionGenre stylisticOrigin
+[ "associatedMusicalArtist" ] [ "associatedMusicalArtist"  "genre" ] [ "associatedMusicalArtist"  "genre"  "instrument" ] [ "genre"  "musicFusionGenre" ]
+country leaderName deathPlace language
+birthPlace nationality occupation status was_selected_by_NASA
+[ Alan  Shepard  awards  Apollo 14 operator  was a crew member of ] [ birth place  ] [ Distinguished  Service  Medal  ( United  States Navy )  Department of Commerce Gold Medal  higher ]
+birthPlace was_a_crew_member_of nationality operated commander
+birthPlace occupation nationality birthDate
+occupation was a crew member birth place nationality
+[TRIPLE] Buzz_Aldrin - [TRIPLE] birthPlace [/TRIPLE] [TRIPLE] Glen_Ridge,_New_Jersey [/TRIPLE] [TRIPLE] - [TRIPLE] almaMater [/TRIPLE] [TRIPLE] Massachusetts_Institute_of_Technology,_Sc.D._1963 [/TRIPLE] [TRIPLE] - [TRIPLE] occupation [/TRIPLE] [TRIPLE] Fighter_pilot [/TRIPLE] [TRIPLE] - [TRIPLE] was_a_crew_member_of [/TRIPLE] [TRIPLE] Apollo_11 [/TRIPLE]
+[TRIPLE] William_Anders birthPlace Buzz_Aldrin [/TRIPLE] [TRIPLE] Buzz_Aldrin operated by NASA [/TRIPLE] [TRIPLE] NASA backup_pilot Buzz_Aldrin [/TRIPLE]
+backup pilot birthDate operated backup pilot status was crew member of
+[ [ 'California' ] [ 'gemstone' ] [ 'NASA' ] [ 'California' ] ]
+[ 'birthPlace nationality deathPlace  \n' , 'birthPlace nationality awards  \n' , 'awards higher  \n' , 'department of commerce  \n' ]
+occupation birthPlace dateOfRetirement was_a_crew_member_of nationality
+manager club league youthclub
+club deathPlace leaderName manager
+club manager chairman ground
+club manager position league
+chairman club currentclub manager
+manager club club league
+manager club chairman ground club
+club manager ground chairman
+club ground manager youthclub
+club manager season
+chairman club manager club ground
+club chairman manager club ground
+country isPartOf location
+[‘architecturalStyle location buildingStartDate floorArea floorCount’]
+[ 'leaderName leaderName capital location' ]
+[ 'location leaderName language country tenant foundationPlace' ]
+[['Marriott International', 'key person', 'Bill Marriott'], ['Marriott International', 'location', 'Washington DC'], ['Denmark', 'language', 'Greenlandic'], ['Denmark', 'AC Hotel Bella Sky Copenhagen', 'tenant'], ['AC Hotel Bella Sky Copenhagen', 'Marriott International', 'landlord']]
+[ '  - tenant, foundationPlace, location, leaderName  - location, leaderName, tenant, foundationPlace  - foundationPlace, tenant, leaderName, location  ']
+[ 'architect birthPlace country', 'significantBuilding leaderName' ]
+[34, 25, 30, 32, 31, 28, 29, 26, 27, 22, 23, 24, 35]
+country location address country
+country ethnicGroup isPartOf leaderName location
+[ 'location tenant owner country' ]
+``` country leaderTitle location location  ```
+country leaderName region state
+country leaderName state capital
+[Julia_Morgan [significantBuilding] [significantProject] [birthPlace] [architect] [Asilomar_Conference_Grounds] [Asilomar_State_Beach] [Los_Angeles_Herald-Examiner] [Hearst_Castle]]
+[Julia_Morgan [significantBuilding [Asilomar_State_Beach] [Riverside_Art_Museum] [Hearst_Castle] ], architect [Asilomar_Conference_Grounds] ]
+# [Query]  [New_York_City country United_States, New_York_City isPartOf Manhattan, Manhattan leaderName Cyrus_Vance,_Jr., Asser_Levy_Public_Baths location New_York_City]  # [Output]  [New_York_City, United_States, Cyrus_Vance,_Jr., Asser_Levy_Public_Baths, Manhattan, New_Netherland]   The output is the arrangement of the triples in the order of: country, isPartOf, leaderName, location.   Is there anything else I can help you with?
+[ 'Birmingham leaderName architect postalCode ,  governingBody  birthPlace' ]
+leaderTitle leaderName location capital
+[ORIGINAL] [Output: epoch apoapsis periapsis mass orbitalPeriod]
+leaderTitle deathPlace discoveryPlace discoverer almaMater nationality leaderName
+[TRIPLE] James_Craig_Watson stateOfOrigin deathPlace [/TRIPLE] [TRIPLE] James_Craig_Watson deathCause [/TRIPLE] [TRIPLE] James_Craig_Watson almaMater [/TRIPLE] [TRIPLE] 101_Helena discoverer  [/TRIPLE]
+birthPlace deathPlace almaMater doctoralStudent discoverer
+[ 'birthPlace', 'doctoralStudent', 'discoverer', 'almaMater', 'doctoralStudent', 'almaMater' ]
+birthPlace almaMater doctoralStudent nationality discoverer
+leader title leader name location
+leaderTitle place deathdiscoverer
+[107_Camilla, B._Zellner, 2006-12-31, 2368.05, 479343000.0]
+[107_Camilla, C._Woods, orbitalPeriod, periapsis, apoapsis, epoch]
+[['107_Camilla', 'epoch', 'discoverer'], ['107_Camilla', 'periapsis', 'apoapsis'], ['107_Camilla', 'orbitalPeriod', 'discoverer']]
+birthPlace deathPlace discoverer nationality
+[ 'epoch orbitalPeriod escapeVelocity formerName apoapsis' ]
+[1101 Clematis, 2006-12-31, 0.02, 5.7, 183309000.0]
+[ORIGINAL] orbitalPeriod epoch periapsis temperature  [/ORIGINAL]  [ORIGINAL] apoapsis 475426000.0_kilometres [/ORIGINAL]  [ORIGINAL] 11264_Claudiomaccone [/ORIGINAL]  [ORIGINAL]
+country demonym ethnicGroup isPartOf leaderTitle
+country isPartOf largestCity ethnicGroup
+country isPartOf state language capital
+[ 'state capital isPartOf country language' ]
+state capital isPartOf country language
+[TRIPLE] areaTotal [/TRIPLE] [TRIPLE] areaTotal country [/TRIPLE] [TRIPLE] country areaTotal [/TRIPLE] [TRIPLE] populationDensity country [/TRIPLE]
+state isPartOf isPartOf leaderTitle language location
+[ 'areaLand areaTotal isPartOf populationDensity areaCode' ]
+[ 'areaTotal elevationAboveTheSeaLevel isPartOf populationDensity' ]
+country capital isPartOf state ethnicGroup
+[Auburn, Washington populationDensity isPartOf country location]
+countySeat isPartOf largestCity county language
+countySeat isPartOf largestCity language
+countySeat isPartOf largestCity language
+country capital ispartof county language
+countySeat largestCity isPartOf language
+#### Here is the output for your query:  ``` state largestCity country  ```
+country capital largestCity ethnicGroup isPartOf
+country demonym ethnicGroup capital isPartOf
+[ 'United States capital United States, demonym ethnicGroup isPartOf' ]
+country demonym ethnicGroup isPartOf language
+country ethnicGroup state county
+countySeat country countySeat isPartOf ethnicGroup
+country capital largestCity isPartOf ethnicGroup
+country isPartOf language leaderTitle leader leaderName
+"""  United States leaderName leaderName, Americans country ethnicGroup,  English_language country language,  Angola_Indiana isPartOf state, """
+
+country demonym ethnicGroup isPartOf leaderTitle
+creator series starring
+country currency language leaderName region
+country ethnicGroup region capital
+country ethnicGroup capital region
+
+country ethnicGroup leaderName region
+region mainIngredient mainIngredients country
+leaderName capital ethnicGroup language country
+alternativeName country dishVariation ingredient mainIngredients
+country leaderName leaderName region
+country region ingredient order
+country leaderName
+Here is the output result based on the provided query and the specified output format: [  [ "country" ] [ "dishVariation" ] [ "ingredient" ] [ "leaderName" ]  ]  [  [ "Indonesia" ] [ "Shumai" ] [ "Peanut_sauce" ] [ "Joko_Widodo" ]  ]  [  [ "Indonesia" ] [ "Siomay" ] [ "Peanut_sauce" ] [ "Joko_Widodo" ]  ] ]  The triples have been ordered based on the categories "country", "dish variation", "ingredient", and "leader name".
+[  [ "country" ,  "Batagor" ], [ "dishVariation" ,  "Siomay" ], [ "ingredient" ,  "Shiitake" ], [ "leaderName" ,  "Joko Widodo" ] ]
+country dishVariation ingredient leaderName
+country region mainIngredients ingredient
+leaderName leaderName region country
+leaderName leaderName region country
+country course ingredient mainIngredients region
+country leaderName language course dishVariation
+country course dishVariation region leaderName
+leaderName leaderName region ethnicGroup country
+country leaderleaderName
+country leader leaderName capital
+country leaderName leaderName language capital
+country ethnicGroup region mainIngredients
+[ 'Java, Javanese_people, Ayam_penyet, Singapore, Tony_Tan' ]
+[ 'Philippines, country, Chinese_Filipino, Zamboangans, language, Philippine_Spanish' ]
+country  ethnicGroup  region language leaderName
+country leaderDemonym region
+owner location operator owner parentCompany
+[TRIPLE] builder length topSpeed shipBeam operator [/TRIPLE]
+[TRIPLE] ALCO_RS-3 buildDate cylinderCount engine length [/TRIPLE]
+[TRIPLE] ALCO_RS-3 buildDate cylinderCount engine length [/TRIPLE]
+country ethnicGroup demonym capital
+class assembly bodyStyle alternativeName engine
+[P&O_(company) [location] -- [Alhambra [owner]]  [Alhambra [powerType] ] -- [Humphrys,_Tennant_and_Dykes]  [Alhambra [builder] ] -- [Samuda_Brothers]  [Alhambra [shipBeam] ] -- [8.3_m]   Is there anything I can help you with regarding the dataset?
+fate subsidiary keyPerson manufacturer successor
+[TRIPLE] American_submarine_NR-1 [/TRIPLE]  [TRIPLE] shipBeam [/TRIPLE] [TRIPLE] shipDraft [/TRIPLE] [TRIPLE] shipLaunch [/TRIPLE] [TRIPLE] topSpeed [/TRIPLE]  [TRIPLE] length [/TRIPLE]  [TRIPLE] 45000.0_(millimetres) [/TRIPLE]
+[TRIPLE] comparable countryOrigin [/TRIPLE] [TRIPLE] launchSite launchSite [/TRIPLE] [TRIPLE] associatedRocket rocket [/TRIPLE]
+```json {     "trip": [         {             "item": "Antares_(rocket) manufacturer",             "order": 1         },         {             "item": "Antares_(rocket) maidenFlight",             "order": 2         },         {             "item": "Antares_(rocket) finalFlight",             "order": 3         },         {             "item": "Antares_(rocket) launchSite",             "order": 4         },         {             "item": "Antares_(rocket) diameter",             "order": 5         }     ] } ```
+launchSite manufacturer finalFlight maidenFlight diameter
+launchSite manufacturer finalFlight maidenFlight diameter
+locationCity headquarter launchSite location operator site
+manufacturer relatedMeanOfTransportation successor assembly engine
+bodyStyle engine relatedMeanOfTransportation relatedMeanOfTransportation assembly
+leaderName manufacturer assembly successor relatedMeanOfTransportation
+assembly bodyStyle class engine layout
+manufacturer division subsidiary subsidiary foundedBy
+[ 'location foundationPlace', 'foundationPlace country', 'owner powerType' ]
+[ 'location country keyPerson foundationPlace' ]
+[Output]  | Location | Foundation Place | Key Person | |--|--|--| | Peoria, Illinois | United States | Douglas R. Oberhelman |
+[owner, operator, location, parentCompany, builder]
+[Finland leaderName, Finland language, Finland demonym, Finland, Aleksey_Chirikov_(icebreaker) builder]
+country leaderName locationCity builder
+country locationCity leaderName
+country demonym ethnicGroup capital language
+category contributing property country established location municipality
+category county county county monument location
+leaderTitle capital dedicatedTo leaderName location
+leaderName legislature capital dedicatedTo location
+leader leaderTitle location largestCity capital
+birthDate birthPlace party region residence
+leaderParty predecessor residence successor leaderName
+leader successor predecessor inOfficeWhile vicepresident militarybranch country ethnicgroup
+militaryBranch inOfficeWhileVicePresident predecessor successor
+birthPlace deathPlace nationality office_ workedAt workedAs party
+office  party nationality birthPlace deathPlace
+birthPlace deathPlace ethnicGroup nationality spouse
+birthPlace militaryBranch office_workedAt, workedAs almaMater activeYearsStartDate
+birthPlace almaMater activeYearsStartDate militaryBranch party
+birthPlace inOfficeWhilePrimeMinister successor
+leaderName leaderName nationality office_(workedAt,_workedAs) party
+leaderName leaderName nationality office_(workedAt,_workedAs) residence
+leaderName leaderName nationality residence
+birthDate deathYear
+birthPlace deathPlace successor spouse
+office_(workedAt,_workedAs) birthPlace spouse successor activeYearsEndDate
+birthPlace successor party leaderName leaderTitle activeYearsStartDate activeYearsEndDate
+leaderName leaderTitle deathPlace inOfficeWhile in office death place
+profession office successor
+birthPlace deathPlace party leaderName leaderTitle birthPlace
+birthPlace deathPlace party leaderName leaderTitle
+state deathPlace congressionalDistrict largestCity activeYearsEndDate
+birthPlace deathPlace largestCity state region
+country ethnicGroup battles isPartOfMilitaryConflict commander
+country ethnicGroup battles isPartOfMilitaryConflict commander
+[Alberto_Teisaire: nationality, inOfficeWhilePresident, Juan_Perón: party, Eva_Perón, Spanish_language] [Argentina: language, Juan_Perón: inOfficeWhilePresident, Labour_Party_(Argentina), Eva_Perón] [Alberto_Teisaire: inOfficeWhilePresident, nationality, Juan_Perón, Spanish_language]
+club manager club ground leader
+manager club club ground leader
+leader leader league ground
+[ 'club manager club' ]
+[ 'leader name capital language demonym ground' ]
+
+state city established
+[TRIPLE] director campus city affiliation numberOfPostgraduateStudents [/TRIPLE]
+country city affiliation president numberOfPostgraduateStudents
+country leaderTitle leaderName
+country city state established
+country leaderName largestCity state
+country leaderName established school
+[ 'affiliation headquarters city governmentType  has_to_its_northeast' ]
+[output]
+affiliation city president publisher
+country ethnicGroup language publisher
+country language ethnicGroup publisher
+country ethnicGroup language publisher
+country ethnicGroup capital
+[ 'followedBy followedBy precededBy country precededBy' ]
+leaderName country language ethnicGroup spokenIn
+country  ethnicGroup  language  leaderName  spokenIn
+country ethnicGroup leaderName precededBy
+country demonym ethnicGroup leaderName capital
+country  leaderTitle  ethnicGroup  language
+birthPlace nationality occupation status timeInSpace
+[ Alan  Shepard  awards  birthPlace  deathPlace  ]  [ Apollo_14 operator  was_a_crew_member_of  ]  [ Distinguished_Service_Medal_(United_States_Navy)  higher  Department_of_Commerce_Gold_Medal  ]   [      ]   [      ]   [      ]   [ Alan  Shepard      ]   [      ]   [      ]   [      ]   [      ]  Is there anything else I can help you with?
+[ 'backup pilot commander was crew member of Apollo 12 operated by NASA , Alan Bean retired in 1981 , his birth name was Alan Lavern Bean' ]
+birthPlace nationality occupation  was_a_crew_member_of  was_selected_by_NASA  almaMater
+birthDate birthPlace backup_pilot crew_member_of almaMater operator
+[ 'backup pilot occupation nationality birthplace country was a crew member of Apollo 11 ' ]
+birthDate birthPlace occupation was_a_crew_member_of was_selected_by_NASA almaMater
+[ 'deathPlace gemstone', 'awards deathPlace', 'distinguishedServiceMedal higher', 'state senators', 'California state' ]
+occupation birthPlace almaMater dateOfRetirement nationality was_a_crew_member_of
+[ 'backup pilot was a crew member birth place crew members date of retirement operator ](* Buzz Aldrin) [/TRIPLE] [TRIPLE] Apollo 8 [/TRIPLE]  [TRIPLE]  British Hong Kong [/TRIPLE] [TRIPLE] 1969-09-01 [/TRIPLE]' ]
+[Output] backup pilot crewMembers operator status was_a_crew_member_of [/Output]
+country location established category
+category county county county county location monument [
+leader country capital dedicatedTo designer location material
+leaderName location dedicatedTo designer material nativeName
+[ 'United States Historic districts district location', 'state Historic districts established', 'country Historic districts category', 'state location' ]
+
+[ 'state city country affiliation campus' ]
+country established campus city affiliation president
+country leaderTitle religion headquarters
+[ 'country leaderName dean city affiliation' ]
+country established state leaderName
+[ 'country capital leaderName patronSaint ethnicGroup anthem ', '  Romania Bucharest Klaus_Iohannis Andrew_the_Apostle Germans_of_Romania Deșteaptă-te,_române!  ' ]
+Here is the output for your query, based on the examples you provided:  ```bash [TRIPLE] Lars_Løkke_Rasmussen country [/TRIPLE] [TRIPLE] Denmark [/TRIPLE] [TRIPLE] School_of_Business_and_Social_Sciences_at_the_Aarhus_University city [/TRIPLE] [TRIPLE] Aarhus [/TRIPLE] [TRIPLE] School_of_Business_and_Social_Sciences_at_the_Aarhus_University numberOfStudents [/TRIPLE] [TRIPLE] 16000 [/TRIPLE] [TRIPLE] School_of_Business_and_Social_Sciences_at_the_Aarhus_University established [/TRIPLE] [TRIPLE] 1928 [/TRIPLE] ```  The ordering you are looking for is: country  >  city  >  numberOfStudents  >  established  >  academicStaffSize.   Is there anything else I can help you with?
+birthDate birthPlace nationality occupation status was_a_crew_member_of almaMater
+birthDate birthPlace status occupation was_selected_by_NASA deathPlace almaMater
+[ 'backup_pilot' 'birthPlace' 'commander' 'nationality' 'occupation' 'operator' 'was_a_crew_member_of']
+birthDate birthPlace occupation alternativeNames was_a_crew_member_of was_selected_by_NASA almaMater
+birthDate occupation birthPlace nationality almaMater timeInSpace crewMemberOf birthPlace
+birthDate birthPlace nationality status was_a_crew_member_of almaMater awards
+birthDate birthPlace nationality operated_by operated_status was_a_crew_member_of was_selected_by
+almaMater birthPlace crew member nationality operator backup pilot birthPlace status
+birthDate birthPlace nationality occupation status was_a_crew_member_of  Apollo: 8
+[ 'backup pilot nationality was a crew member of birth place crew members operator ](Buzz Aldrin, United States, Apollo 8, NASA, British Hong Kong) [/TRIPLE] [ 'crew members date of retirement was born in birth place operated by ](Frank Borman, 1969-09-01, British Hong Kong, Apollo 8, NASA) [/TRIPLE] [ 'was a member of operator from ](William Anders, Apollo 8, NASA) [/TRIPLE]' ]
+[ 'occupation birthDate birthPlace was_a_crew_member_of NASA selection_date timeInSpace dateOfRetirement' ]
+country 	leader 	capital 	currency 	largestCity 	inaugurationDate 	location 	material Turkey	Ahmet_Davutoğlu	Ankara	Turkish_lira	Istanbul	1932-07-27	Turkey	Bronze
+country leader leaderTitle  ```
+country  leaderTitle  leader  capital  currency  largestCity  monument inauguration date  location Turkey President of Turkey Ahmet Davutoğlu Ankara Turkish lira Istanbul Atatürk Monument (İzmir)  1932-07-27  Turkey
+
+country state city established director motto president
+state location to has of its in nation of the sports Governing body, from the
+[ 'leaderTitle country capital city ethnicGroup anthem leaderName ', 'Klaus_Iohannis Deșteaptă-te,_române! Bucharest Germans_of_Romania 1_Decembrie_1918_University ', 'Deși_te_române!_Romania_capital_Bucharest_ethnic_group_Germans_Klaus_Iohannis_1_Decembrie_1918_University  ]
+country leaderName established city affiliation academicStaffSize dean
+[ 'affiliation, city, country, leaderTitle, leaderName, governmentType' ]
+[ 'School_of_Business_and_Social_Sciences_at_the_Aarhus_University affiliation country established LatinName dean numberOfStudents', 'European_University_Association Aarhus Denmark 1928 Universitas_Aarhusiensis 16000', 'city ]

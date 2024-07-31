@@ -2,14 +2,16 @@ import os
 import json
 import torch
 import argparse
-import pytorch_lightning as pl
+#import pytorch_lightning as pl
 from torch.utils.data import Dataset, DataLoader
 from datasets import load_dataset, DatasetDict, Dataset
 from data.load_dataset import CustomDataset, preprocess_data, realize_date
 from models.BART import BART_Model
 from models.GPT2 import GPT2_Model
 from models.T5 import T5_Model
-from torchmetrics.classification import StatScores
+from models.LLAMA import LLAMA_Model
+from models.FALCON import FALCON_Model
+#from torchmetrics.classification import StatScores
 import nltk
 from nltk.translate.bleu_score import corpus_bleu, SmoothingFunction
 from mapping import entity_mapping, prcs_entry, delist, split_triples
@@ -41,7 +43,12 @@ class Inferencer:
 
             # Predict
             output = self.model([source])
-            result['pred'] = output[0].strip()
+            #result['pred'] = output[0].strip().replace('\n', ' ')
+            if self.task == "reg":
+                feedback = output[0].strip().replace('\n',' ').replace('[','').replace(']','')
+                result['pred'] = feedback[:-1] if feedback.endswith('.') and len(feedback) > 1 else feedback
+            else:
+                result['pred'] = output[0].strip().replace('\n',' ')
 
 
             # Display evaluation progress
@@ -65,17 +72,21 @@ class Inferencer:
         path = os.path.join(self.write_dir, f'{self.task}.json')
         json.dump(results, open(path, 'w'), separators=(',', ':'), sort_keys=True, indent=4)
        
-        if targets is not None:
-            hyps, refs = [], []
-            for i, row in enumerate(results):
-                hyps.append(nltk.word_tokenize(row['pred']))
-                refs.append([nltk.word_tokenize(ref) for ref in row['refs']])
+        #if targets is not None:
+            #hyps, refs = [], []
+            #for i, row in enumerate(results):
+                #try:
+                    #hyps.append(nltk.word_tokenize(row['pred']))
+                    #print(i, ' '.join([nltk.word_tokenize(ref) for ref in row['refs']]))
+                    #refs.append(' '.join([nltk.word_tokenize(ref) for ref in row['refs']]))
+                #except Exception as e:
+                    #print(f"Error processing row['refs']: {e}")
 
-            chencherry = SmoothingFunction()
-            bleu = corpus_bleu(refs, hyps, smoothing_function=chencherry.method3)
-            print(f'BLEU: {bleu}')
-
-            return bleu
+            #print(len(hyps), len(refs))
+            #chencherry = SmoothingFunction()
+            #bleu = corpus_bleu(refs, hyps, smoothing_function=chencherry.method3)
+            #print(f'BLEU: {bleu}')
+            #return bleu
 
     def evaluate_reg(self):
         self.model.model.eval()
@@ -112,8 +123,9 @@ class Inferencer:
                                 else:
                                     pos_context.append(clean_token.lower())
                             go_in = (delist(pre_context) + ' ' + delist(pos_context) + '. ' + entity).strip()
-                            candidates = self.model([go_in])
-                            refex = candidates[0].strip()
+                            candidates = self.model([go_in])[0].strip().replace('\n', ' ').replace('[','').replace(']','')
+                            candidates = candidates[:-1] if candidates.endswith('.') and len(candidates) > 1 else candidates
+                            refex = candidates
                     entry[i] = refex
                     pre_context.append(entity)
                 else:
@@ -161,20 +173,29 @@ if __name__ == '__main__':
     # Create model
     if 'bart' in tokenizer_path:
         mod = 'bart'
-        model_path = os.path.join(model_path, f"{task}/bart/model")
-        write_path = os.path.join(write_path, "bart") 
+        model_path = os.path.join(model_path, f"{task}/{mod}/model")
+        write_path = os.path.join(write_path, mod) 
         generator = BART_Model(tokenizer_path, model_path, max_length, sep_token="<"+task+">")
     elif 't5' in tokenizer_path:
-        mod = 't5'
-        # /home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results/ordering/t5/model
-        model_path = os.path.join(model_path, f"{task}/t5/model")
-        write_path = os.path.join(write_path, "t5") 
+        mod = 'flan-t5-large' if 'flan' in tokenizer_path else 't5-large'
+        model_path = os.path.join(model_path, f"{task}/{mod}/model")
+        write_path = os.path.join(write_path, mod) 
         generator = T5_Model(tokenizer_path, model_path, max_length, sep_token=task+":")
     elif 'gpt2' in tokenizer_path:
         mod = 'gpt2'
-        model_path = os.path.join(model_path, f"{task}/gpt2/model")
-        write_path = os.path.join(write_path, "gpt2") 
+        model_path = os.path.join(model_path, f"{task}/{mod}/model")
+        write_path = os.path.join(write_path, mod) 
         generator = GPT2_Model(tokenizer_path, model_path, max_length, sep_token=task+":")
+    elif 'falcon' in tokenizer_path:
+        mod = 'falcon'
+        model_path = os.path.join(model_path, f"{task}/{mod}/model")
+        write_path = os.path.join(write_path, mod)
+        generator = FALCON_Model(tokenizer_path, model_path, max_length, sep_token=task+":")
+    elif 'llama' in tokenizer_path:
+        mod = 'llama'
+        model_path = os.path.join(model_path, f"{task}/{mod}/model")
+        write_path = os.path.join(write_path, mod)
+        generator = LLAMA_Model(tokenizer_path, model_path, max_length, sep_token=task+":")
     else:
         raise Exception("Invalid model")
 
@@ -192,6 +213,7 @@ if __name__ == '__main__':
     }
 
     for dataset_name, dataset in evaluation.items():
+        #dataset = DataLoader(CustomDataset(dataset), batch_size=1, shuffle=False)
         inf = Inferencer(generator, dataset, dataset_name, batch_status, write_path, verbose)
         print(f"Evaluating {mod} {dataset_name} dataset:")
         if task == "reg" and dataset_name not in [f"{task}_dev", f"{task}_test"]:

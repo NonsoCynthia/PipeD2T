@@ -1,0 +1,870 @@
+Aarhus is a city in Denmark, with its leader being Jacob Bundsgaard.
+Aarhus Airport in Denmark has a runway length of 2702 meters.
+The Adirondack Regional Airport is located at an elevation of 507 meters above sea level.
+The Adirondack Regional Airport is located in Harrietstown, New York.
+Adolfo Suárez Madrid–Barajas Airport is located at San Sebastián de los Reyes.
+The Adolfo Suárez Madrid–Barajas Airport in Spain has a runway named "14L32R".
+The Adolfo Suárez Madrid–Barajas Airport in Spain has a runway named "14R32L".
+The Afonso Pena International Airport operates under Infraero.
+Agra Airport is located in Agra.
+Al-Taqaddum_Air_Base elevationAboveTheSeaLevel_(in_metres) 84.0
+Alderney is a city served by Alderney Airport.
+The Allama Iqbal International Airport in Pakistan has a runway named "18R36L".
+Alpena_County_Regional_Airport runwayLength 1533 meters
+The Alpena County Regional Airport in the United States has a runway named "119".
+Amsterdam_Airport_Schiphol is located in the city of Amsterdam, which is in the Netherlands.
+Andrews_County,_Texas located_in Texas
+Andrews,_Texas state Texas
+Andrews_County_Airport location Maryland
+Andrews County Airport has a helipad as one of its runways.
+Angola_International_Airport cityServed Luanda
+Ardmore Airport is located in Auckland, New Zealand.
+The current mayor of Athens is Giorgos Kaminis.
+Athens_International_Airport location Spata
+Belgium language French_language
+The current leader of Belgium is Philippe of Belgium.
+Denmark's capital city is Copenhagen.
+Denmark is a country with Lars Løkke Rasmussen as its leader.
+The Flemish Region is led by the Flemish Government.
+Greece is a country whose official language is Greek.
+The current leader of Greece is Nikos Voutsis.
+Harrietstown, New York is a part of the United States.
+Pakistan leaderName Anwar_Zaheer_Jamali
+Paracuellos de Jarama is a part of the Community of Madrid.
+The Port Authority of New York and New Jersey has its headquarters at the Four World Trade Center.
+San_Sebastián_de_los_Reyes country Spain
+Saranac Lake, New York is a part of the United States.
+The chief of the South Jersey Transportation Authority is named Stephen Dilts.
+Alan Shepard was awarded the Distinguished Service Medal by the United States Navy.
+Alan Shepard passed away in California.
+Apollo_11 backup_pilot William_Anders nationality American
+The Apollo 14 mission was operated by NASA.
+Apollo_8 missionYear 1968
+Buzz Aldrin is a national of the United States.
+Earllott See is a test pilot.
+The University of Texas at Austin is a part of the University of Texas System.
+The University of Texas at Austin has "Hook 'em" as its mascot.
+103_Colmore_Row architect John_Madin
+The location 103 Colmore Row is situated on Colmore Row.
+11_Diagonal_Street completionDate 1983
+200 Public Square was completed in 1985.
+The 20 Fenchurch Street building began construction in January 2009.
+The location of 20 Fenchurch Street is in the United Kingdom.
+The building 300 North LaSalle has a total of 60 floors.
+The 3Arena is an architectural project designed by the firm HOK_SVE.
+The 3Arena is located near the East Link Bridge.
+Adare_Manor buildingStartDate "1700"
+Adare Manor is located in the Republic of Ireland.
+The Akita Museum of Art was inaugurated on September 28, 2013.
+The current tenants of Alan B. Miller Hall are the Mason School of Business.
+Amdavad_ni_Gufa architect B.V. Doshi
+Ampara_Hospital country Sri_Lanka
+The Asher and Mary Isabelle Richardson House was added to the National Register of Historic Places on November 22, 1988.
+The Asser Levy Public Baths were constructed in the year 1904.
+Birmingham belongs to postal code area B
+Chicago is a part of DuPage County, which is located in Illinois.
+Dublin is located in the Republic of Ireland.
+Dublin is a part of the province of Leinster.
+India leaderName Sumitra_Mahajan
+Japan population 126_million
+Japan leaderName Tarō_Asō
+Marriott_International keyPerson Bill_Marriott
+The Republic of Ireland primarily uses the English language.
+This information is incorrect. The capital city of South Africa is actually Pretoria, not Cape Town. Therefore, I cannot generate a text based on the provided incorrect triple. Please double-check your data before providing it as input.
+The capital city of the United Kingdom is London.
+The United States is a country with Native Americans as one of its ethnic groups.
+The United States is a country with Paul Ryan as its leader.
+Abilene, Texas has an area code of 325.
+Abilene, Texas is a part of the larger state of Texas.
+The mayor leads the city of Albany, Georgia in the United States.
+The city of Albany in Oregon covers an area of approximately 45.97 square kilometers.
+Albany is a city located in the United States.
+In New Mexico, Albuquerque is the city with a leader holding the title of "State Senate."
+In New Mexico, United States, Albuquerque is the city with a local governing body known as the Albuquerque City Council.
+Amarillo,_Texas country United_States
+Amarillo,_Texas isPartOf Potter_County,_Texas
+Amarillo,_Texas isPartOf United_States
+Anaheim, California has an area code of 657.
+Anderson, Indiana is part of the metropolitan area consisting of Adams, Fall Creek, Lafayette, Richland, and Union.
+Angola, Indiana is a part of Pleasant Township, located in Steuben County, Indiana.
+In Michigan, United States, Ann Arbor holds the title of "City Administrator" for its leadership.
+In Ann Arbor, Michigan, the leader holds the title of Mayor.
+Ann Arbor, Michigan has a population density of approximately 1,580.7 inhabitants per square kilometer.
+Antioch, California has an elevation above sea level of 13.0 meters.
+Antioch, California is part of California's 11th State Assembly district.
+Arlington, Texas is a city with an elevation above sea level of 184.0 meters.
+Atlantic County, located in the United States, is a part of the country.
+The town of Attica is a part of Fountain County in the state of Indiana, United States.
+Auburn, Alabama is a part of the US state of Alabama.
+California is a part of the United States.
+Fulton County, Georgia's largest city is Atlanta.
+Georgia_(U.S._state) country United_States
+Indiana's capital city is Indianapolis.
+Lee County is a part of the state of Alabama in the United States.
+The capital city of New Jersey is Trenton.
+Potter County is located in the U.S. state of Texas.
+Tarrant County, Texas is located in the United States.
+Washtenaw_County,_Michigan largestCity Ann_Arbor,_Michigan
+The comics character Asterix was created by René Goscinny.
+Auron_(comicsCharacter) genre Science_Fiction
+Balder_(comicsCharacter) creator Jack_Kirby
+The fictional character Bananaman is broadcasted by STV.
+The animated series "Bananaman" was first aired on October 3, 1983.
+Bananaman is a television series featuring Bill Oddie as the title character.
+Big_Hero_6_(film) genre Animation
+Bill_Everett award Eisner_Award
+Bill_Oddie is the father of Kate_Hardie.
+The comic book character Bolt was created by Dan Mishkin.
+Bozo_the_Iron_Man fullName "Hugh Hazzard"
+John_Buscema award Eagle_Award_(comics) year 1976
+Marv Wolfman has been awarded the Eagle Award in the field of comics.
+Ajoblanco is also known as Ajo blanco.
+Ajoblanco is a dish made with the main ingredients of bread, almonds, garlic, water, and olive oil.
+The Arem-arem culture is primarily found in the region that is nationwide in Indonesia but more specifically in Java.
+The region Arem-arem is located in Indonesia.
+Arrabbiata sauce is made with tomatoes, red chili, garlic, and olive oil as its main ingredients.
+Arròs negre is a Spanish dish made with cuttlefish as one of its main ingredients.
+Arròs negre is a Spanish dish that includes squid as one of its ingredients.
+Asam Pedas is a location in Malaysia.
+The avocado belongs to the Persea genus.
+The Indonesian dish Ayam penyet is served at a hot temperature.
+Baked Alaska is a dessert.
+Bakewell tart contains Frangipane as one of its ingredients.
+Bakso foodType Indonesian_street_food
+Bakso is an Indonesian dish made with vermicelli as one of its main ingredients.
+Bandeja_paisa dishType Colombian_cuisine
+Barny_Cakes creator Mondelez_International
+Barny Cakes come in a chocolate variation.
+Each Barny Cakes serving contains approximately 1.8 grams of protein.
+Batchoy is a dish that originates from the Philippines.
+Batchoy is a dish that includes chicken as one of its main ingredients.
+Batchoy is a Filipino dish that contains vegetables as one of its ingredients.
+The Binignit region is located in the Visayas area.
+The English county of Derbyshire Dales is led by Patrick McLoughlin.
+Cake is a type of dessert dish variation.
+Ice cream is a type of dessert dish variation.
+Indonesia is a country with Jusuf Kalla as its leader.
+Italy demonym Italians
+Java is an ethnic group identified as the Baduy.
+Lemon belongs to the Rosids plant order.
+Mexico capital Mexico_City
+Mexico is a country with the Spanish language.
+Philippines language Filipino_language
+Siomay is a variation of the Chinese dim sum dish Shumai.
+The United States is a country with Native Americans as one of its ethnic groups.
+Atatürk_Monument_(İzmir) designer Pietro_Canonica
+The Atatürk Monument in Izmir, Turkey, is made of bronze material.
+Azerbaijan is a country with Artur Rasizade as its leader.
+The Baku Turkish Martyrs Memorial is located in Azerbaijan.
+The Baku Turkish Martyrs Memorial is made of red granite and white marble.
+Peter Stöger manages 1. FC Köln.
+In the year 2014, 1. FC Magdeburg participated in a season.
+A.C. Lumezzane participated in the 2014–15 Lega Pro season.
+The football club A.D. Isidro Metapán is also known as "Asociación Deportiva."
+The full name of A.E_Dimitra_Efxeinoupolis is "A.E_Dimitra_Efxeinoupolis".
+A.E_Dimitra_Efxeinoupolis year 2014
+The A.E. Dimitra Efxeinoupolis football team competed in the Greek league during the 2014-15 season.
+A.F.C. Blackpool has approximately 1500 members.
+A.F.C. Fylde is a football club that plays its home matches at The Fylde.
+The A.S. Gubbio 1910 ground is located in Italy.
+A.S. Livorno Calcio has a membership of approximately 19,238 individuals.
+A.S._Roma team_name A_S_Roma
+Dutch football club AFC Ajax is managed by Frank de Boer.
+The amateur team AFC Ajax holds the nickname "Joden, Godenzonen," which translates to "God's Children" in English.
+AFC_Ajax_(amateurs) location Netherlands
+AZAL_PFK location Shuvalan, Baku, Azerbaijan
+AZ_Alkmaar numberOfMembers 17023
+Agremiação_Sportiva_Arapiraquense manager Vica
+In the 2015 Campeonato Brasileiro Série C, Agremiação Sportiva Arapiraquense participated in the season.
+The Akron Summit Assault took place at St. Vincent–St. Mary High School.
+Akron_Summit_Assault is_a Nonprofit_organization
+Amsterdam is a part of Amsterdam-Centrum.
+The current leader of Greece is Nikos Voutsis.
+Gus_Poyet nationality Uruguayan
+Jens Härtel is a member of SV Germania Schöneiche.
+John_van_den_Brom playsFor AZ_Alkmaar
+Jorge Humberto Rodríguez is a football player who plays for the club A.D. Isidro Metapán.
+Massimo Drago is a football player who has played for Delfino Pescara 1936.
+Massimo Drago is a football player who currently plays for S.S. Chieti Calcio.
+The Olympic Stadium in Athens is located in Marousi, Greece.
+K-W United FC is the champion team of the Premier Development League.
+Stuart Parker is a footballer who has played for Bury F.C.
+Accademia_di_Architettura_di_Mendrisio academicStaffSize 100
+The Acharya Institute of Technology is located at "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
+Alba_Iulia country Romania
+Alba_Iulia is a part of Alba_County.
+Romania's patron saint is Saint Andrew the Apostle.
+The School of Business and Social Sciences at Aarhus University has an academic staff size of 737.
+The School of Business and Social Sciences at Aarhus University is located in Denmark.
+The book "1634: The Bavarian Crisis" was authored by Eric Flint.
+The Bavarian Crisis was preceded by The Grantville Gazettes in 1634.
+The Ram Rebellion occurred before The Cannon Law in 1634 and 1635, respectively.
+The scientific journal "AIP Advances" has an Electronic Identity-Based Serial Number (EISSN) of 2158.
+A_Fortress_of_Grey_Ice format Hardcover TRIPLE  A_Fortress_of_Grey_Ice genre Science_Fiction
+The book "A Long Way" has an ISBN number of 0-670-03380-4.
+The book "A Loyal Character Dancer" has an ISBN number of "1-56947-301-3".
+A_Severed_Wasp author Madeleine L'Engle
+A Wizard of Mars is written in the English language.
+The publication "Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg" has a Library of Congress Control Number (LCCN) of 32024459.
+Above the Veil is a hardcover media type publication.
+The mathematical journal "Acta Mathematica Hungarica" is commonly abbreviated as "Acta Math. Hungar." in academic literature.
+Acta Mathematica Hungarica is an academic discipline that falls under the field of Mathematics.
+The scientific journal "Acta Palaeontologica Polonica" has the CODEN code "APGPAC".
+The journal "Addiction" has an OCLC number of 27367194.
+The scientific journal "Addiction" is published by Wiley-Blackwell.
+The Administrative Science Quarterly has a Library of Congress Control Number (LCCN) of 57059226.
+The OCLC number for the work "Aenir" is 45644811.
+The book "Alcatraz Versus the Evil Librarians" has an OCLC number of 7877110.
+The books "Alcatraz vs. the Evil Librarians" and "Alcatraz vs. the Scrivener's Bones" are two titles in a series.
+The American Journal of Mathematics has an impact factor of 1.337.
+In the literary world, Castle is a novel that is followed by another work titled Aenir.
+Cornell University is commonly referred to as "Cornell Big Red."
+The HIV virus belongs to the Lentivirus genus.
+John_Cowper_Powys notableWork Wolf_Solent
+The United Kingdom is a country with Queen Elizabeth II as its leader.
+The United States is currently led by President Joe Biden.
+Wolf_Solent book_title Wolf_Solent
+Abilene, Texas is a part of the larger state of Texas in the United States. Abilene, Texas is served by Abilene Regional Airport.
+Adolfo_Suárez_Madrid–Barajas_Airport is located in Alcobendas and has a runway length of 3500 meters.
+Adolfo_Suárez_Madrid–Barajas_Airport location San_Sebastián_de_los_Reyes
+T.S. Thakur is the leader of India. Agra Airport is located in India.
+The Al Asad Airbase is located in Al Anbar Province, Iraq.
+The Al Asad Airbase operates under the United States Air Force, which has been involved in battles such as Operation Enduring Freedom.
+The Al Asad Airbase is operated by the United States Air Force, which participated in the United States invasion of Panama.
+Alcobendas is a part of the Community of Madrid in Spain. Notable landmarks in Alcobendas include Adolfo Suárez Madrid–Barajas Airport.
+The first runway surface type at Alderney Airport is Poaceae, and its length is 877 meters.
+The Allama Iqbal International Airport is operated by the Pakistan Civil Aviation Authority. The headquarters of the Pakistan Civil Aviation Authority is located at Jinnah International Airport.
+Wilson Township, located in Alpena County, Michigan, is a part of the United States. Alpena County Regional Airport is situated within this township.
+Amsterdam_Airport_Schiphol is operated by Schiphol_Group.
+Andrews_County_Airport location Maryland
+The capital city of Texas is Austin. Andrews County Airport is located in the state of Texas.
+Angola_International_Airport cityServed Luanda
+The country of Angola is home to the Ícolo e Bengo province, where the Angola International Airport is located.
+The Antwerp International Airport is operated by the Flemish department of Mobility and Public Works.
+Appleton_International_Airport cityServed Appleton,_Wisconsin
+The Poaceae family, also known as grasses, belongs to the Poales order.
+The third runway at Ardmore Airport in New Zealand is surfaced with Poaceae, which is a type of monocotyledon plant.
+Ashgabat International Airport is located in Ashgabat and has a runway length of 3800 meters.
+Athens_International_Airport cityServed Athens TRIPLE Athens_International_Airport location Spata
+The city served by Athens International Airport is Athens. The airport has a runway length of 3800 meters.
+San Sebastian de los Reyes is a part of the Community of Madrid. Adolfo Suarez Madrid-Barajas Airport is located in San Sebastian de los Reyes.
+Alan Shepard retired on August 1, 1974.
+American astronaut Buzz Aldrin was born in Glen Ridge, New Jersey. He is a national of the United States.
+Buzz Aldrin was a fighter pilot but is now retired.
+Apollo_11 operator NASA
+Buzz Aldrin is a fighter pilot who was a crew member of the historic Apollo 11 mission.
+The Coloured ethnic group is present in South Africa, and 11 Diagonal Street is a location within the country.
+The 200 Public Square in Cleveland has a floor count of 45.
+The European Parliament is the legislative branch of the European Union and London is one of its major locations, specifically home to 20 Fenchurch Street.
+United_States leaderName Barack_Obama
+The building 300 North LaSalle in Illinois has a total of 60 floors.
+The 3Arena in Dublin, Ireland, was designed by the architectural firm HOK_SVE.
+The 3Arena is located near the East Link Bridge, and it is owned by Live Nation Entertainment.
+The 3Arena is owned by Live Nation Entertainment, which is based in Beverly Hills, California.
+The AC Hotel Bella Sky in Copenhagen, Denmark is operated by Marriott International and has a total of 23 floors.
+The Government of Addis Ababa currently occupies the Addis Ababa City Hall, which stands at a height of 42 meters.
+The architectural style of Adisham Hall is Tudor and Jacobean, and it is located in Haputale, Sri Lanka.
+Adisham_Hall country Sri_Lanka
+Alan B. Miller Hall is located at the address "101 Ukrop Way" and was built in 2007.
+Alan B. Miller Hall is owned by the College of William & Mary and is located in Williamsburg, Virginia.
+Alan_B._Miller_Hall architect Robert_A._M._Stern
+The Ampara Hospital is located in Sri Lanka and serves the Ampara District.
+Sri Lanka's capital city is Sri Jayawardenepura Kotte.
+The Asher and Mary Isabelle Richardson House is located along U.S. Route 83.
+The Asilomar Conference Grounds are located on Asilomar Blvd., Pacific Grove, California.
+The Asilomar Conference Grounds are located in Pacific Grove, California.
+The Asser Levy Public Baths are located on 23rd Street in Manhattan and were constructed in 1904.
+The leader of Gujarat is Anandiben Patel, and Amdavad ni Gufa is located in the same region.
+I apologize for the mistake in my previous response. The creator of the comics character Asterix is actually René Goscinny, not Albert Uderzo. Here's the corrected output:
+"Aurakles" alternativeName "Aurakles"
+Ballistic_(comicsCharacter) creator Doug_Moench
+The British Broadcasting Corporation (BBC) produced a television series called Bananaman, which stars Graeme Garden.
+Bill Oddie was born in Lancashire and is known for starring in the animated series "Bananaman."
+Bibbo_Bibbowski creator Jerry_Ordway
+The alternative name for the Black Pirate is "Jon Valor," and he was created by Sheldon Moldoff.
+The character Blockbuster in comics was created by both Roger Stern and Tom Lyle.
+Bolt, a comics character, was created by Gary Cohn.
+Ajoblanco is a dish originating from Spain, made with bread as one of its main ingredients.
+Ajoblanco is a dish made with almonds and is a traditional specialty from the Andalusia region.
+Amatriciana_sauce origin Italy
+Antioquia Department is located in Colombia. Bandeja Paisa is a region within the Antioquia Department.
+The Arem-arem dish uses banana leaves as an ingredient and originates from the region of Indonesia.
+Arrabbiata sauce is a traditional Italian dish originating from the country Italy. One of its main ingredients is olive oil.
+The capital city of Italy is Rome. Arrabbiata sauce is also an Italian dish.
+Arrabbiata sauce is a spicy Italian condiment made primarily from tomatoes. It hails from Italy.
+Arròs negre is a dish originating from Spain. It is made with squid as one of its main ingredients.
+Arròs negre is a dish made with cuttlefish as an ingredient and originates from the Valencian Community.
+The Indonesian dish Ayam penyet originates from the Java region. Its main ingredients consist of chicken that is either squeezed or smashed and fried, served with sambal.
+The Bacon Explosion is a dish originating from the United States. It is made with sausage as an ingredient.
+John Roberts is the leader of the United States. Bacon Explosion is a dish originating from the United States.
+The Bacon Explosion is a main course dish that features bacon as one of its primary ingredients.
+The bacon sandwich goes by several alternative names including "bacon butty," "bacon sarnie," "rasher sandwich," "bacon sanger," "piece n bacon," "bacon cob," "bacon barm," and "bacon muffin." It is typically made with bread as its main ingredient.
+Baked Alaska is a dessert that can originate from France, the United States, or China. It is made with an ingredient called Christmas pudding.
+Baked_Alaska country United_States
+Baked Alaska is a dessert dish, while a cookie is a type of dessert dish variation.
+The Bakewell Pudding was created at the Rutland Arms in Bakewell around 1820. Its main ingredients include ground almond, jam, butter, and eggs.
+The Bakewell pudding variation known as a Bakewell tart is made using shortcrust pastry as one of its main ingredients.
+Plantains Fried_pork Chorizo Sausage Fried_egg Avocado Lemon
+Batchoy is a dish from Philippines TRIPLE Batchoy mainIngredient Shrimp
+Batchoy is a dish that originates from the Philippines, where the ethnic group of Chinese Filipinos are prevalent. The Philippines is a country located in Southeast Asia.
+The language spoken in Singapore is Standard Chinese. Beef kway teow is a popular dish in the region of Singapore.
+In Singapore, the leader is named Tony Tan, and Beef Kway Teow is a popular regional dish.
+Bhajji is a person from India. The leader of India is Sumitra Mahajan.
+Bhajji madeFrom Gram_flour
+Binignit ingredient Sweet_potato
+The Filipino dish Binignit contains sweet potato as one of its ingredients, while its main ingredients also include sago.
+The sweet potato is a type of flowering plant. It is also used as an ingredient in various dishes, such as binignit.
+The dish Binignit primarily consists of sweet potato, which belongs to the Solanaceae family.
+The ingredient for the Bionico dish is granola, and it falls under the dessert course.
+The Bionico dish comes in a honey variation and is categorized as a dessert.
+The Bionico course is a type of dessert. Specifically, it is a variation of ice cream.
+The Batagor dish is a variation of Siomay, which is typically served with a peanut sauce.
+The Atatürk Monument is located in Turkey and was inaugurated on July 27, 1932.
+The Baku Turkish Martyrs Memorial in Azerbaijan is dedicated to the Ottoman Army soldiers who were killed in the Battle of Baku. It is made of red granite and white marble.
+The Baku Turkish Martyrs Memorial is made of red granite and white marble, and it is also known as "Türk Şehitleri Anıtı" in its native name.
+The Dead Man's Plack is a rock monument dedicated to Æthelwald, Ealdorman of East Anglia.
+A.C. Cesena is a football club that participates in the Italian second division, Serie B. The champions of this league during a past season were Carpi F.C. 1909.
+A.C. Chievo Verona is an Italian football club that participates in the Serie A league. Their home ground is Stadio Marcantonio Bentegodi.
+The town of A.C. Lumezzane is located on the ground of Italy. The current leader of Italy is Pietro Grasso.
+Jorge Humberto Rodríguez manages A.D. Isidro Metapán. He previously managed C.D. FAS.
+The team A.E. Dimitra Efxeinoupolis is a part of the A_EPSTH_2nd_GROUP league and has 1500 members.
+A.F.C. Blackpool's manager is Stuart Parker, who previously played for Runcorn F.C. Halton.
+A.F.C. Blackpool's manager is Stuart Parker, who previously played for Sparta Rotterdam.
+A.F.C. Fylde has a membership of 3180 and plays its home games at The Fylde.
+A.F.C. Fylde is a football club with a membership of 3180. Their home ground is located at Bryning Lane.
+Christian Panucci manages A.S. Livorno Calcio, and he has previously managed the Italy national football team.
+A.S._Roma location "Rome, Italy"
+Serie A is a league in Italy where ACF Fiorentina is a participating team.
+Frank_de_Boer manager AFC_Ajax
+The Dutch professional football club AFC Ajax has approximately 53,502 members and is owned by AFC Ajax N.V.
+AFC_Ajax_(amateurs) ground Amsterdam
+The amateur team AFC Ajax has approximately 5000 members and participates in the Topklasse league during the 2014-15 season.
+AZAL_PFK sport Football
+The Dutch football club AZ Alkmaar, also known as Alkmaar Zaanstreek, has a membership of 17,023 individuals.
+The Estádio Municipal Coaracy da Mata Fonseca is located in Brazil. Arapiraquense plays its home games at this stadium.
+The soccer club Agremiação Sportiva Arapiraquense, with a full name of "Agremiação Sportiva Arapiraquense," has approximately 17,000 members.
+Akron, Ohio is a city located in the United States. Notable events in Akron include the Akron Summit Assault, which also took place there.
+Massimo Drago manages A.C. Cesena, while he is also the manager of S.S. Chieti Calcio.
+The Acharya Institute of Technology is located at "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090." In Bangalore, India. Its director is Dr. G.P. Prabhukumar.
+The Acharya Institute of Technology's official school colors are blue, white, and orange.
+The International Tennis Federation is the governing body for tennis. The Acharya Institute of Technology offers tennis as one of the sports.
+The School of Business and Social Sciences at Aarhus University is affiliated with the European University Association. The European University Association is headquartered in Brussels.
+Karnataka is a state in India that borders the Arabian Sea to its west. The Acharya Institute of Technology is located in this state.
+The book "1634: The Bavarian Crisis" was authored by Virginia DeMarce and Eric Flint. It is a sequel to the book "Grantville Gazette III".
+The novel "1632: The Ram Rebellion" was authored by Eric Flint and is available in e-book format.
+The novel "1632: The Ram Rebellion" was authored by Eric Flint and published in hardcover format.
+The publication "ACM Transactions on Information Systems" is commonly abbreviated as "ACM_Trans._Inf._Syst." in academic and professional contexts.
+The scientific journal AIDS is published in the United Kingdom. The monarch of the United Kingdom is Queen Elizabeth II.
+A_Fortress_of_Grey_Ice writtenBy J.V. Jones
+The book "A Glastonbury Romance" has an ISBN number of "0-7156-3648-0" and is a print media type.
+The book "A Glastonbury Romance" has an ISBN number of "0-7156-3648-0" and is published in hardcover format.
+The work "A Glastonbury Romance" is a print media publication with a total of 1174 pages.
+Eiffel_Tower height '324_meters'
+The character "A Loyal Character Dancer" hails from the United States, which is a country with a significant population of Asian Americans as an ethnic group.
+The book "A Loyal Character Dancer" is published by Soho Press, which is a publishing company based in the United States.
+The book "A Wizard of Mars" by Diane Duane has an OCLC number of 318875313.
+The media type of "A Wizard of Mars" is hardcover.
+The novel "A Wizard of Mars" contains 560 pages.
+The country of Australians is not mentioned in the provided triples. However, "Above the Veil" is preceded by "Aenir" in one of the triples.
+In the triples provided, "Aenir" follows "Above_the_Veil," and "Above_the_Veil" uses the English language.
+The work "Above the Veil" precedes "Aenir" in some context. However, it is important to note that "Aenir" itself precedes "Castle" (a novel) in another sequence. The relationships between these entities are not explicitly stated in the provided triples.
+Julius Springer founded Springer Science+Business Media, the publisher of Acta Mathematica Hungarica.
+The Administrative Science Quarterly has a CODEN code of "ASCQAG" and is also abbreviated as "Admin. Sci. Q." in some contexts.
+The Administrative Science Quarterly is published by Cornell University, which is affiliated with the Association of Public and Land-grant Universities.
+Aenir is a work by author Garth Nix.
+The media type of "Alcatraz Versus the Evil Librarians" is hardcover.
+The book "Alcatraz Versus the Evil Librarians" contains 320 pages.
+The academic discipline related to AIDS is HIV, which is a member of the Orthoretrovirinae family.
+A Fortress of Grey Ice is located in the United States, where the predominant language is English.
+Abilene_Regional_Airport cityServed Abilene,_Texas
+The city served by Adirondack Regional Airport is Lake Placid, New York. The airport has a runway length of 1219 meters.
+Adolfo_Suárez_Madrid–Barajas_Airport is located in Madrid and has a runway length of 4100 meters and runway name "14L32R".
+The Indian Air Force operates Agra Airport, which is located in India.
+The Al Asad Airbase is located in Iraq and is operated by the United States Air Force. Its runway length is 3078.48 meters.
+The United States Air Force participated in the Invasion of Grenada. Al Asad Airbase is an operating organization under the United States Air Force.
+The United States Air Force participated in the Invasion of Grenada. Al Asad Airbase is an operating base for the United States Air Force.
+The United States Air Force participated in the Korean War. Al Asad Airbase is an operating organization under the United States Air Force.
+Alderney is a city served by Alderney Airport, which has a runway length of 733.0 meters and a surface type of Poaceae (grass).
+The Alpena County Regional Airport is located in Wilson Township, Alpena County, Michigan. Its runway length is 1533.0 meters.
+Amsterdam is the city served by Amsterdam Airport Schiphol, which has a runway length of 3500 meters.
+Texas is a country within the United States, with its largest city being Houston. Andrews County Airport is located in this state.
+The country of Angola is home to the Ícolo e Bengo region, where Angola International Airport is located. The airport features a runway length of 4000 meters.
+The country of Angola is home to the Ícolo e Bengo region, where Angola International Airport is located. The airport's South Runway is a notable feature.
+The Flemish Region owns Antwerp International Airport, and it is operated by the Flemish Government.
+Antwerp_International_Airport cityServed Antwerp
+Appleton_International_Airport cityServed Appleton,_Wisconsin
+Greenville, Wisconsin is a part of Clayton, Winnebago County, in the United States. Appleton International Airport is located in Greenville.
+The Poaceae order belongs to the division of Flowering Plants.
+Ashgabat International Airport is located in Ashgabat and has a runway length of 3800 meters.
+Athens International Airport serves the city of Athens, which is located in Greece. The current leader of Greece is Alexis Tsipras.
+Egg Harbor Township, New Jersey, is a part of the United States where Atlantic City International Airport is located. The airport's runway is identified as "422".
+Antwerp International Airport is located in Antwerp, Belgium. The country is led by Philippe of Belgium.
+The Poaceae order belongs to the Monocotyledon class within the plant kingdom.
+Apollo_12 commander David_Scott
+Alan Shepard died on July 21, 1998, in California. California is represented in the U.S. Senate by Dianne Feinstein.
+Buzz Aldrin, also known as Edwin E. Aldrin, Jr., received his Sc.D. from the Massachusetts Institute of Technology in 1963. He is renowned for being a crew member of the historic Apollo 11 mission.
+Buzz_Aldrin birthPlace Glen_Ridge,_New_Jersey TRIPLE Buzz_Aldrin timeInSpace "52.0"(minutes)
+Alan Shepard passed away in California and received the Distinguished Service Medal (United States Navy) as an award.
+Elliot_See died on February 28, 1966, in St. Louis. He was selected by NASA in 1962.
+Elliot See was born on July 23, 1927, in Dallas. He is no longer alive.
+William_Anders was born on October 17, 1933, in British Hong Kong. He was a crew member of Apollo 8.
+The capital city of South Africa is Cape Town, and its current leader is Cyril Ramaphosa. One notable location in South Africa is 11 Diagonal Street.
+The ethnic group in South Africa is referred to as Coloured, and the current leader of South Africa is Jacob Zuma.
+South_Africa ethnicGroup White_South_Africans
+The mayor of Cleveland is Frank G. Jackson, and 200 Public Square is a location within the city.
+Buffalo, New York is a part of Erie County, New York. The location of 250 Delaware Avenue is in Buffalo, New York.
+Chicago is a city in the United States, with Rahm Emanuel serving as its leader. One notable location within the city is 300 North LaSalle.
+The architect of 3Arena in Dublin is HOK_SVE. The venue was completed in December 2008.
+The 3Arena in Dublin was designed by the company Populous and was completed in December 2008.
+Dublin is the capital city of the Republic of Ireland and is home to the 3Arena, a popular entertainment venue owned by Live Nation Entertainment.
+The AC Hotel Bella Sky in Copenhagen, Denmark was designed by the architectural firm 3XN. It is located in Denmark and is tenanted by Marriott International.
+Adare_Manor architect James_Pain
+The current tenants of Addis Ababa City Hall are the Government of Addis Ababa. The building has a floor area of 140,000 square meters and stands at a height of 42 meters.
+The architectural style of Adisham Hall is Tudor Revival architecture. It is located in Sri Lanka and was completed in 1931.
+The Akita Museum of Art has a floor area of 3746.66 square meters and consists of three floors. It was inaugurated on September 28, 2013.
+Akita, Akita is a city in Japan. The Akita Museum of Art is located there.
+Alan B. Miller Hall is owned by the College of William & Mary and is located in Virginia. It began operation on March 30, 2007.
+Alan B. Miller Hall is owned by the College of William & Mary and is located in the state of Virginia. The current chancellor of the College of William & Mary is Robert Gates.
+The Mason School of Business is located in the United States, specifically at Alan B. Miller Hall in Virginia. The current tenants of Alan B. Miller Hall are the Mason School of Business.
+The College of William & Mary owns Alan B. Miller Hall, which is located in Williamsburg, Virginia. Alan B. Miller Hall began construction on March 30, 2007.
+Ampara_Hospital bedCount 476
+The Ampara Hospital is located in Sri Lanka, a country with Ranil Wickremesinghe as its leader. It is situated in the Eastern Province of Sri Lanka.
+The Asher and Mary Isabelle Richardson House was added to the National Register of Historic Places on November 22, 1988. It was constructed in 1911 and is located along U.S. Route 83.
+The Asilomar Conference Grounds, located in Pacific Grove, California, were added to the National Register of Historic Places on February 27, 1987 (Reference Number: 87000823).
+The Asser Levy Public Baths, located at Asser Levy Place and East 23rd Street, were added to the National Register of Historic Places on April 23, 1980, with the reference number 80002709.
+New York City, a part of the United States, is home to Asser Levy Public Baths.
+Amdavad ni Gufa is located in India. The current leaders of India are Sumitra Mahajan and T.S. Thakur.
+Auron_(comicsCharacter) creator Karl_Kesel
+The fictional character Bananaman was broadcasted by the BBC. The BBC is headed by Tony Hall, Baron Hall of Birkenhead.
+The character Bananaman was first aired on STV on October 3, 1983, and features Bill Oddie as the lead actor.
+Duncan_Rouleau creator Baymax
+Bibbo_Bibbowski creator Jerry_Ordway
+Blockbuster_(comicsCharacter) creator Roger_Stern
+Dan Mishkin created the comics character Bolt, also known as Larry Bolatinsky.
+Dan Mishkin created the comics character Bolt, who is also known by the alternative name Larry Bolatinsky.
+The dish known as Ajoblanco also goes by the alternative name "Ajo blanco." It is a traditional Spanish dish made with bread as one of its primary ingredients.
+Ajoblanco is a dish that originates from the Andalusia region in Spain. It is made primarily with water.
+Indonesia leaderName Joko_Widodo
+The Arem-arem people are indigenous to a region that is nationwide in Indonesia but more specifically located in Java. The current leader of Indonesia is Jusuf Kalla.
+The Italian language is spoken in Italy, which is led by President Sergio Mattarella. Arrabbiata sauce is also an Italian culinary specialty.
+Arrabbiata sauce is a traditional Italian dish originating from the Rome region. Its main ingredient is chili pepper.
+Arrabbiata sauce is a traditional Italian dish that hails from the Rome region. Its key ingredient is garlic.
+Arròs negre is a traditional Spanish dish that originates from the Catalonia region. It is made with squid as one of its main ingredients. Spain is the country where this dish is popular.
+Arròs negre is a traditional Spanish dish that originates from the Valencian Community. Its main ingredients include cuttlefish.
+The place called Asam Pedas is located in Malaysia and is part of the regions Sumatra and the Malay Peninsula.
+The Indonesian dish Ayam penyet originates from the Java region in Malaysia. Its main ingredients include squeezed or smashed fried chicken served with sambal.
+The Bacon Explosion is a dish originating from the United States. Its main ingredients include bacon and sausage.
+Washington, D.C. is the capital city of the United States. The country is also home to the Bacon Explosion and a significant population of Native Americans.
+During Barack Obama's leadership of the United States, the country was also known for the famous food item, the Bacon Explosion. The capital city of the United States is Washington, D.C.
+The Bacon Explosion is a dish originating from the United States. The United States is a country with African Americans as one of its ethnic groups and John Roberts as its leader.
+The bacon sandwich is a food item from the United Kingdom. It can be prepared as a BLT (Bacon, Lettuce, and Tomato) sandwich, and it often includes condiments as an ingredient.
+Baked Alaska is a dessert originating from France, specifically in the region of New York. Its main ingredient is meringue.
+Baked_Alaska is_a dessert
+Baked Alaska is a dessert dish made with the ingredient Christmas pudding. It belongs to the dessert course and is sometimes compared to cookie dishes in terms of texture and flavor.
+Baked Alaska is a dessert made with the ingredient Christmas pudding. Another popular dessert dish variation is Sandesh, a confectionery item.
+The dish Bandeja Paisa is a traditional Colombian cuisine. It is made with kidney beans and hails from the Antioquia Department in Colombia.
+Barny_Cakes country France TRIPLE France leaderName Claude_Bartolone
+Each Barny Cake contains approximately 18.0 grams of carbohydrates, 1.8 grams of protein, and comes in an apple flavor variation.
+Beef kway teow is a dish originating from Singapore, which uses the Singapore dollar as its currency. The current leader of Singapore is Halimah Yacob.
+Beef kway teow is a dish commonly found in both Singapore and Indonesia. In Indonesia, it is prepared with oyster sauce as one of its key ingredients.
+The Indonesian dish Beef Kway Teow is popular in the region of Singapore.
+Bhajji is a dish originating from India, made primarily of gram flour. The main ingredients also include various vegetables.
+T.S. Thakur is the leader of India, which is a country with the demonym "Indian people." Bhajji is also a country.
+Bhajji is a person from India. India is a country with leaders Narendra Modi and T.S. Thakur.
+Bhajji ingredient Gram_flour
+The country of Binignit is the Philippines, and it is made primarily of sweet potato and bananas as its main ingredients.
+Bionico is a dish originating from Mexico. It is a dessert course and includes sour cream as an ingredient.
+The town of Bionico is located in the region of Jalisco, Mexico. It is known for producing a product made from raisins.
+The celery plant belongs to the Apium genus and the Apiaceae family. It is used as an ingredient in various dishes, including Indonesian bakso.
+Cake is a type of dessert dish variation. Bionico, another dessert, contains granola as an ingredient.
+The capital city of Indonesia is Jakarta, and its leader is Jusuf Kalla. Bakso is a type of food originating from Indonesia.
+The Indonesian dish Ayam penyet originates from the Java region and is associated with the ethnic group of Baduy. It is popular in the country of Singapore.
+The dish Ayam penyet originates from the Java region in Indonesia, where the ethnic group known as the Banyumasan people reside.
+Arròs negre is a dish originating from Spain, a country with the capital city Madrid and the leader Felipe VI of Spain. The official language of Spain is Spanish.
+Adams County, Pennsylvania, is located to the southwest of Frederick County, Maryland. The 11th Mississippi Infantry Monument is situated in Adams County. To its west lies Franklin County, Pennsylvania.
+The Baku Turkish Martyrs Memorial in Azerbaijan is dedicated to the Ottoman Army soldiers who were killed in the Battle of Baku.
+The Baku Turkish Martyrs Memorial in Azerbaijan is dedicated to the Ottoman Army soldiers who were killed in the Battle of Baku. The memorial was designed by Huseyin Butuner and Hilmi Gurer.
+The Baku Turkish Martyrs Memorial in Azerbaijan was designed by Huseyin Butuner and Hilmi Gune. The current leader of Azerbaijan is Artur Rasizade.
+The Baku Turkish Martyrs Memorial, designed by Huseyin Butuner and Hilmi Gurer, is located in Azerbaijan and is also known as the "Türk Şehitleri Anıtı." SNT
+A.C. Cesena is an Italian football club that currently plays in Serie B with 23,900 members. Their home ground is named Cesena.
+Massimo Drago manages A.C. Cesena, and he previously managed Calcio Catania.
+A.C. Lumezzane is a football club that plays in the Lega ProA league, which has 4150 members and participated in the 2014 season.
+The Greek leader is currently Prokopis Pavlopoulos. The ancient site A.E. Dimitra Efxeinoupolis is located in Greece.
+Stuart_Parker_(footballer) was the manager of A.F.C. Blackpool. He previously managed Drogheda United F.C. and Runcorn F.C. Halton.
+Stuart_Parker_(footballer) was the manager of A.F.C. Blackpool. He previously managed Drogheda United F.C. and Stockport County F.C.
+Stuart_Parker_(footballer) is the manager of A.F.C. Blackpool. He previously managed Irlam Town F.C. and KV Mechelen.
+Association Football Club Fylde, commonly known as A.F.C. Fylde, is a football club based at Warton, Fylde, with a membership of 3180.
+Christian Panucci currently manages A.S. Livorno Calcio, but he previously managed Genoa C.F.C. and Real Madrid C.F. in his career.
+The soccer team Associazione Sportiva Roma, commonly known as A.S. Roma, is headquartered in Rome, Italy and has approximately 70,634 members. Its full name is "Associazione Sportiva Roma S.p.A."
+AEK Athens FC is a football club that participates in the Superleague Greece. They have approximately 69,618 members and their home ground is located in Athens.
+The amateur team AFC Ajax participates in the Hoofdklasse league and has approximately 5000 members.
+AZAL_PFK is a football team that participates in the Azerbaijan Premier League, which is the top professional football league in Azerbaijan. Qarabağ FK is the current champion of this league. AZAL_PFK plays its home games at AZAL_Arena.
+The football club Alkmaar Zaanstreek, commonly known as AZ Alkmaar, has a full name of "Alkmaar_Zaanstreek." They have 17,023 members and participated in the football season of 2014.
+John_van_den_Brom manages AZ Alkmaar
+Agremiação Sportiva Arapiraquense is a Brazilian football club that competes in the Campeonato Brasileiro Série C league. The champions of this league are Vila Nova Futebol Clube. Arapiraquense's home ground is Estádio Municipal Coaracy da Mata Fonseca.
+The Campeonato Brasileiro Série C is a football league in Brazil. Arapiraquense is a team that participates in this league. Vila Nova Futebol Clube won the championship of Campeonato Brasileiro Série C. Brazil is the country where these events take place.
+The Akron Summit Assault soccer team plays in the Premier Development League. K-W United FC is the current champion of this league. The Akron Summit Assault plays its home games at St. Vincent–St. Mary High School.
+K-W United FC is the champion team in the Premier Development League. Akron Summit Assault is also a team in this league and has a membership of 3000 members.
+Italians are the demonym for people from Italy. A.S. Gubbio 1910 was grounded in Italy. The current leader of Italy is Sergio Mattarella.
+The Olympic Stadium in Athens is located in the city and serves as the ground for AEK Athens F.C. The current mayor of Athens is Giorgos Kaminis.
+The Accademia di Architettura di Mendrisio is located in Switzerland. Its dean is Mario Botta and it has a student population of 600.
+The Acharya Institute of Technology is located in Bangalore, India. Its motto is "Nurturing Excellence."
+The Acharya Institute of Technology is located in Bangalore, India. Its president is B.M. Reddy.
+The Acharya Institute of Technology was established in the year 2000. Tennis is one of the sports offered at the institute. The International Tennis Federation is the governing body for tennis sports.
+The AWH Engineering College is located in India, which has Mumbai as its largest city and the Ganges as one of its major rivers.
+The leader of Romania is Klaus Iohannis, who holds the title of Prime Minister of Romania. The 1 Decembrie 1918 University is located in Romania.
+The 1 Decembrie 1918 University is located in Romania and its latin name is Universitas Apulensis. The patron saint of Romania is Saint Andrew the Apostle.
+The School of Business and Social Sciences at Aarhus University in Denmark has an academic staff size of 737 and was established in 1928. It currently has approximately 16,000 students.
+The book "1634: The Bavarian Crisis" by Virginia DeMarce and Eric Flint has an ISBN number of "978-1-4165-4253-7" and is available in print format.
+The novel "1634: The Bavarian Crisis" was authored by Eric Flint, who was born in Burbank, California. It is a sequel to the novel "1634: The Baltic War."
+The book "1634: The Ram Rebellion" was authored by Eric Flint and is available as an e-book. It contains approximately 512 pages.
+The book "1634: The Ram Rebellion" by Eric Flint is available in hardcover format with an ISBN number of "1-4165-2060-0".
+The book "1634: The Ram Rebellion" was authored by Eric Flint, Virginia DeMarce, and others. It is available in e-book format and contains 512 pages.
+The journal "ACM Transactions on Information Systems" has an ISSN number of "1046-8188" and focuses on the academic discipline of computer science. Its abbreviated name is "ACM_Trans.Inf.Syst."
+The publication "ACM Transactions on Information Systems" has an ISSN number of "1558-2868" and focuses on the academic discipline of computer science. Its abbreviated name is "ACM_Trans.Inf.Syst."
+The scientific journal "AIDS" is published by Lippincott Williams & Wilkins, which is based in the United Kingdom. The monarch of the UK is Queen Elizabeth II.
+The scientific journal "AIP Advances" is published by the American Institute of Physics. Its editor is A.T. Charlie Johnson, who resides in the United States.
+The scientific journal "AIP Advances" has the CODEN code "AAIDBI". It is edited by A.T. Charlie Johnson and is commonly abbreviated as "AIP_Adv."
+The book "A Glastonbury Romance" has an ISBN number of "0-7156-3648-0" and is published in hardcover format. Its OCLC number is 76798317.
+The books "A Long Long Way" and "The Secret Scripture" are written in the English language, which is predominantly spoken in Great Britain.
+In the United States, which is home to a significant population of African Americans, there is a country named A_Loyal_Character_Dancer. This country is published by Soho Press.
+The book "A Loyal Character Lost" by Dancer is published by Soho Press, which is a publishing company based in the United States.
+The book "A Severed Wasp" with the OCLC number 8805735 is a print publication classified under "PS3523.E55_S4_1982" by the Library of Congress.
+The book "A Severed Wasp" has an ISBN number of "0-374-26131-8" and is a print media with 388 pages.
+The book "A Wizard of Mars" by Diane Duane holds the OCLC number 318875313 and is published in hardcover format.
+The novel "A Wizard of Mars" by Diane Duane has an ISBN number of 978-0-15-204770-2 and is published in hardcover format.
+The country of Australians is not mentioned in the provided triples. The triples only indicate that "Above the Veil" is preceded by "Aenir," which in turn is preceded by "Castle" in a novel.
+The mathematical journal Acta Mathematica Hungarica has an ISSN number of "1588-2632" and is commonly abbreviated as "Acta_Math._Hungar."
+The mathematical journal Acta Mathematica Hungarica has an ISSN number of "0236-5294" and focuses on the academic discipline of mathematics. Its abbreviated name is "Acta_Math._Hungar."
+The scientific journal Acta Palaeontologica Polonica has an ISSN number of "1732-2421" and is abbreviated as "Acta_Palaeontol._Pol." It also holds a Library of Congress Control Number (LCCN) of 60040714.
+The academic discipline associated with the journal "Addiction" is addiction studies. The ISSN number for this journal is "0965-2140".
+The book "Aenir" by Garth Nix has an OCLC number of 45644811 and is classified as a print media type.
+The book "Aenir" by Garth Nix has an ISBN number of "0-439-17684-0" and is a print media type.
+The American Journal of Mathematics is a mathematics academic discipline publication with an ISSN number of "1080-6377". It is commonly abbreviated as "Am. J. Math.".
+The American Journal of Mathematics, with an ISSN number of "1080-6377," was first published in the year 1878 and is commonly abbreviated as "Am. J. Math."
+The academic journal "Administrative Science Quarterly" is abbreviated as "Admin. Sci. Q." and is published by SAGE Publications. SAGE Publications was founded by Sara Miller McCune.
+The United Kingdom is led by David Cameron, and the country is also home to the scientific journal "AIDS," which is published by Lippincott Williams & Wilkins.
+A_Fortress_of_Grey_Ice is a site located in the United States. The United States is a country with African Americans as one of its ethnic groups and Barack Obama as its former leader.
+The country where Alcatraz Versus the Evil Librarians takes place is the United States. Asian Americans are an ethnic group in the U.S.
+The city of Abilene, Texas, in the United States, is served by Abilene Regional Airport. Abilene is a part of the larger state of Texas. The airport has a runway length of 1121.0 meters.
+The city of Alcobendas is located in Spain. It is home to Adolfo Suárez Madrid–Barajas Airport, which operates under the management of ENAIRE and serves as the primary international airport for Madrid.
+Adolfo Suárez Madrid–Barajas Airport is located in Madrid, Paracuellos de Jarama, San Sebastián de los Reyes, and Alcobendas. It is operated by ENAIRE and has a runway length of 3500 meters with the runway name 18R36L.
+Agra Airport is located in Uttar Pradesh, which is a part of the historical region of Awadh.
+Uttar Pradesh is a region that is part of Awadh. Its leader is Ram Naik. Agra Airport is located within Uttar Pradesh.
+The Al Asad Airbase is operated by the United States Air Force, which has a history of battles, including the 1986 United States bombing of Libya. The United States Air Force utilizes various aircraft such as the General Dynamics F-16 Fighting Falcon for fighter operations and the Lockheed AC-130 for attack purposes.
+The Al Asad Airbase operates under the United States Air Force (USAF), which has been involved in operations such as Operation Enduring Freedom. The USAF uses various aircraft, including the Lockheed AC-130 and the General Dynamics F-16 Fighting Falcon.
+The Al Asad Airbase operates under the United States Air Force (USAF), which has been involved in operations such as Operation Enduring Freedom. The USAF uses various aircraft, including the Lockheed AC-130 for attack missions and the McDonnell Douglas F-15 Eagle for fighter roles.
+The Al Asad Airbase operates under the United States Air Force (USAF), which has a history of battles including the Invasion of Grenada. The USAF also utilizes various aircraft such as the Lockheed AC-130 and the General Dynamics F-16 Fighting Falcon.
+The Allama Iqbal International Airport is operated by the Pakistan Civil Aviation Authority and is located in Punjab, Pakistan. The Provincial Assembly of the Punjab is the governing body of Punjab, while the headquarters of the Pakistan Civil Aviation Authority is located at Jinnah International Airport.
+The city served by Alpena County Regional Airport is Alpena, Michigan. The airport is located in Maple Ridge Township, Alpena County. Its runway length is 1533.0 meters.
+Amsterdam is served by Amsterdam Airport Schiphol, which has a runway length of 2014 meters and is named "0624_Kaagbaan".
+The capital city of Texas is Austin, and its people are referred to as Tejano. The language spoken in Texas is English. Andrews County Airport is located in this state.
+The United States, of which Texas is a part, has a capital of Washington and its people are called Texans. The language spoken in Texas is English. Andrews County Airport is located in Texas.
+The United States has a capital city of Washington and the country of Texas speaks the Spanish language. Texans are the demonym for residents of Texas, where Andrews County Airport is located.
+Texas is a state in the United States with Austin as its capital and Houston as its largest city.
+The country of Angola is home to the region of Ícolo e Bengo. This region is part of Luanda Province and is also the location of Angola's international airport.
+Antwerp_International_Airport cityServed Antwerp
+Appleton, Wisconsin is served by Appleton International Airport, which is located in Greenville, Wisconsin. The airport has a runway length of 2439 meters.
+Appleton, Wisconsin is home to Appleton International Airport, which serves the city. Greenville, Wisconsin is a part of Dale, Wisconsin. Appleton International Airport is located in Greenville, Wisconsin.
+The third runway at Ardmore Airport in New Zealand is surfaced with Poaceae, which is a type of monocotyledon plant.
+Ardmore Airport in New Zealand has a runway named "03R21L" with a length of 597 meters and an elevation above sea level of 34 meters.
+Egg Harbor Township, New Jersey is a part of Atlantic County, New Jersey, in the United States. Atlantic City International Airport, which has a runway length of 1873 meters, is located in Egg Harbor Township.
+Madrid is the capital city of Spain. Adolfo Suárez Madrid–Barajas Airport, which serves Madrid, is located in the areas of Paracuellos de Jarama, San Sebastián de los Reyes, and Alcobendas, and is operated by ENAIRE.
+Egg Harbor Township, New Jersey is a part of the state of New Jersey in the United States. Atlantic City International Airport is located within Egg Harbor Township.
+The Poaceae order belongs to the Monocotyledon class within the plant kingdom.
+Apollo_12 commander David_Scott is a nationality American
+Alan Shepard attended NWC and graduated with an M.A. in 1957. He was born on November 18, 1923, in New Hampshire, and retired on August 1, 1974.
+Alan Shepard, born in New Hampshire, was a test pilot who became the first American in space. He was later deceased and passed away in California.
+Alan Shepard was born in New Hampshire and was a test pilot. He was a crew member of Apollo 14.
+During the Apollo 12 mission, Alfred Worden served as the backup pilot, while David Scott commanded the mission.
+Buzz Aldrin was born in Glen Ridge, New Jersey, which is part of Essex County. He is a United States national, and the current leader of the United States is Joe Biden.
+Elliot_See almaMater University_of_Texas_at_Austin
+Elliot_See almaMater University_of_Texas_at_Austin
+The University of Texas at Austin is a part of the University of Texas System in the United States. St. Louis is a part of the Kingdom of France.
+Elliot_See birthDate "1927-07-23"
+Apollo_8 backup_pilot Buzz_Aldrin
+South_Africa capital Cape_Town TRIPLE 11_Diagonal_Street location Cape_Town
+South_Africa capital Cape_Town TRIPLE 11_Diagonal_Street location South_Africa
+Cleveland is a part of Cuyahoga County, Ohio. The 200 Public Square is a significant location within Cleveland, and the city is governed by the Cleveland City Council.
+The building located at 250 Delaware Avenue is designed in the postmodern architectural style and was started in January 2014. It covers a floor area of 30,843.8 square meters and has a total of 12 floors.
+Chicago is a city in the United States, specifically in DuPage County, Illinois. The current leader of Chicago is Susana Mendoza, and one notable building in the city is located at 300 North LaSalle.
+Dublin is the capital city of the Republic of Ireland, with Críona Ní Dhálaigh serving as its leader. The 3Arena, a popular entertainment venue, is located in Dublin and is owned by Live Nation Entertainment.
+Dublin is a part of the Republic of Ireland, and its leader is Críona Ní Dhálaigh. The 3Arena, a popular entertainment venue, is located in Dublin and is owned by Live Nation Entertainment.
+The AC Hotel Bella Sky in Copenhagen, Denmark, is owned by Bella Center and managed by Marriott International. It has a total of 23 floors.
+The AC Hotel Bella Sky in Copenhagen was designed by the architectural firm 3XN. It is owned by Bella Center and operated by Marriott International with a total of 23 floors.
+The architectural style of Adisham Hall is Tudor and Jacobean. It is located in Sri Lanka and was started to be built in 1927, with completion in 1931.
+Sri_Lanka capital Sri_Jayawardenepura_Kotte
+Adisham Hall is a Tudor Revival architecture building located in Sri Lanka. It began construction in 1927 and was completed in 1931.
+Akita Prefecture is a part of Japan, and Akita City, specifically Akita, is located within this prefecture. The Akita Museum of Art is situated in Akita City. Japan is home to various ethnic groups, including Filipinos in Japan.
+Alan_B._Miller_Hall architect Robert_A._M._Stern
+Alan B. Miller Hall was completed on 1st June 2009 and is located in Virginia. It is currently tenanted by the Mason School of Business at the University of Virginia in the United States.
+Amdavad ni Gufa is a location in India. India is a country with leaders Narendra Modi and Sumitra Mahajan.
+Amdavad_ni_Gufa address "Lalbhai_Dalpatbhai_Campus,_near_CEPT_University,_opp._Gujarat_University,_University_Road"
+Amdavad_ni_Gufa is a structure located in the city of Ahmedabad, India. The current leader of India is Narendra Modi (T.S. Thakur was a former chief minister of Gujarat).
+The Ampara Hospital is located in Sri Lanka, a country with the currency being the Sri Lankan rupee and its leader being Ranil Wickremesinghe. This hospital is situated in the Eastern Province of Sri Lanka.
+The architect of Asilomar Conference Grounds is Julia Morgan. She was born in San Francisco. One of her significant buildings is Asilomar State Beach.
+The Asilomar Conference Grounds were designed by the architect Julia Morgan. Morgan was born in California and is known for designing significant buildings such as the Los Angeles Herald-Examiner and the Riverside Art Museum.
+New York City, a part of the United States, is home to Asser Levy Public Baths.
+The 103 Colmore Row building was designed by the British architect John Madin. John Madin hails from Birmingham, which has the postal code B postcode_area. The current leader of Birmingham is John Clancy (Labour politician).
+The Addis Ababa City Hall is located in Addis Ababa, Ethiopia. Ethiopia is a country with Mulatu Teshome as its leader. Addis Ababa is also the location of Addis Ababa Stadium.
+The United States is a country with Washington, D.C. as its capital. The President of the United States is currently Paul Ryan, and his office is located at 250 Delaware Avenue.
+The character Bananaman was first broadcasted on STV in 1983. It was created by Steve Bright and features Tim Brooke-Taylor as one of its stars.
+Bolt_(comicsCharacter) creator Dan_Mishkin
+American Duncan Rouleau is the creator of Baymax, a character from the Big Hero 6 film series.
+Duncan_Rouleau nationality Americans TRIPLE Duncan_Rouleau creator Baymax
+American citizen Duncan Rouleau is the creator of Baymax, a character from the Big Hero 6 film series.
+Ajoblanco is a dish originating from the Andalusia region in Spain. It is made primarily from bread, almonds, garlic, water, and olive oil.
+The dish Ajoblanco, also known as "Ajo Blanco," is a traditional Spanish dish. It hails from the Andalusia region and is made with water as one of its main ingredients.
+The Indonesian dish Arem-arem is a variation of Lemper, which is typically wrapped in banana leaves and consists of compressed rice cooked in banana leaf with various vegetable or minced meat fillings. This dish is a part of Javanese cuisine.
+The dish called Arem-arem is made using banana leaves as an ingredient. Its main ingredients include compressed rice cooked in banana leaf with vegetable or minced meat fillings. This dish is popular in the Java region of Indonesia and is considered a main course.
+Arrabbiata sauce is a traditional Italian dish originating from the Rome region. Its main ingredients include tomatoes, red chili, garlic, and olive oil. This spicy sauce hails from Italy.
+Arròs negre is a traditional Spanish rice dish originating from the Catalonia region. It is made with white rice, cuttlefish or squid, cephalopod ink, and cubanelle peppers. This dish belongs to Spain.
+Arròs negre is a traditional Spanish dish that originates from the Catalonia region. Its main ingredients include white rice, cuttlefish or squid, cephalopod ink, and cubanelle peppers. It is a popular dish in Spain.
+Arròs negre is a traditional Spanish dish that originates from the Valencian Community. Its main ingredients include white rice, cuttlefish or squid, and cubanelle peppers, along with cephalopod ink. It is a popular dish in Spain.
+The dish called Asam Pedas is a Malaysian delicacy that can be found in the regions of Sumatra and the Malay Peninsula. It consists of fish cooked in a sour and hot sauce. The country where this dish originates is Malaysia, with alternative name "Asam padeh".
+Asam Pedas is a location in Malaysia, specifically in the region of Sumatra. The majority ethnic group in Malaysia is the Malaysian Malay.
+The Bacon Explosion is a dish originating from the United States, specifically the Kansas City metropolitan area. Its main ingredients include bacon and sausage.
+The United States is a country with Paul Ryan as its leader. Bacon Explosion is a dish originating from the United States. Asian Americans are an ethnic group in the U.S.
+In the United Kingdom, a bacon sandwich is a popular dish with various alternative names such as "bacon butty," "bacon sarnie," "rasher sandwich," "bacon sanger," "piece n bacon," "bacon cob," "bacon barm," and "bacon muffin." It consists of cooked bacon between two slices of bread.
+In the United Kingdom, a bacon sandwich is a popular dish with various alternative names such as "bacon butty," "bacon sarnie," "rasher sandwich," "bacon sanger," "piece n bacon," "bacon cob," "bacon barm," and "bacon muffin." It consists of cooked bacon between two slices of bread, often accompanied by brown sauce.
+The bacon sandwich, also known as a bacon butty, bacon sarnie, rashers sandwich, bacon sanger, piece n bacon, bacon cob, bacon barm, or bacon muffin, is a popular food item in the United Kingdom. It consists mainly of bread and bacon, with a condiment such as ketchup or brown sauce.
+Baked Alaska is a dessert that can originate from France, the United States, or China. Its main ingredients include meringue, ice cream, sponge cake, or Christmas pudding. Specifically, it contains meringue.
+Baked Alaska is a dessert originating from the United States. It is often served in regions such as Paris, New York, or Hong Kong. The main ingredients of Baked Alaska include ice cream, meringue, and either sponge cake or Christmas pudding.
+The Bakewell pudding has a variation called the Bakewell tart. This dessert contains frangipane as an ingredient and is a popular dish in the Derbyshire Dales region.
+Bakewell_pudding is a dessert originating from the Derbyshire Dales in England. Its main ingredients include ground almond, jam, butter, and eggs. It is often prepared in the form of a Bakewell tart.
+The Bakewell pudding has a variation called Bakewell tart. The main ingredient for making a Bakewell tart is shortcrust pastry. Bakewell tart is a popular dessert originating from the Derbyshire Dales, which is a part of Derbyshire.
+The traditional Colombian dish called Bandeja Paisa is a part of Colombian cuisine. It is made with rice as one of its main ingredients and is originated from the Paisa region.
+The Indonesian dish Batagor consists of fried fish dumplings, tofu, and vegetables served in a savory peanut sauce. Batagor originates from the country of Indonesia.
+The Batagor dish is a variation of Shumai and comes from the country of Indonesia. Shumai is typically made with shiitake as one of its ingredients.
+The dish Beef kway teow is a popular food item in Singapore, which is a country in Southeast Asia with the official language being Standard Chinese. The current leader of Singapore is Halimah Yacob. Beef kway teow also originates from the Indonesian region.
+Beef kway teow is a dish that is popular in both Singapore and Indonesia. In Indonesian cuisine, it is made with oyster sauce as an ingredient. The main ingredients for beef kway teow include rice noodles (kway teow), beef tender loin, gula Melaka, sliced dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli, and sesame oil.
+Beef kway teow is a dish originating from Indonesia but is also popular in the region of Singapore. Its main ingredients include rice noodles (kway teow), beef tender loin, gula Melaka, sliced dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli, and sesame oil. However, it is important to note that the country of origin for this dish is Indonesia.
+Beef kway teow is a dish that is popular in both Singapore and Indonesia. In Singapore, the leader is Tony Tan.
+Narendra Modi is the leader of India, which is a country in South Asia. Its currency is the Indian rupee.
+India leaderName Sumitra_Mahajan
+Bhajji is a person who hails from India, where the current leader is Narendra Modi. Bhajji is originally from the region of Karnataka.
+T.S. Thakur is the leader of India, where Bhajji is also located in the region of Karnataka.
+Cookies type Dessert
+Bionico is a Mexican dish originating from the region of Guadalajara. Its main ingredients include chopped fruits, sour cream, condensed milk, granola, shredded coconut, and raisins.
+The Bionico brand comes from Mexico and is a regional product from Jalisco. Its main ingredients include sour cream, chopped fruits, condensed milk, granola, shredded coconut, and raisins.
+The capital city of Indonesia is Jakarta, and its leader is Jusuf Kalla. Bakso is a type of food that originates from the Chinese cuisine and is popular in the Indonesian region.
+Bakso is a food originating from Indonesia, where the current leader is Jusuf Kalla. Each piece of bakso contains celery as an ingredient.
+I apologize for the mistake in my previous response. The current leader of Italy is Sergio Mattarella, not Matteo Renzi. Here's the corrected output:
+The Indonesian dish Ayam penyet originates from the Java region and is associated with the ethnic group known as the Baduy. This dish is now popular in the country of Singapore, where its leader is Halimah Yacob.
+The Indonesian dish Ayam penyet originates from the Java region and is associated with the Banyumasan people. Java is the country where this ethnic group resides. Ayam penyet is now popular in the city-state of Singapore, which is led by Tony Tan.
+Batchoy is a dish that originates from the Philippines, where the predominant ethnic group is the Ilocano people. The language spoken in the Philippines includes Philippine Spanish.
+Arròs negre is a traditional Spanish rice dish. Spain is a country with the ethnic group of Spaniards, and its leader is Felipe VI of Spain. The currency used in Spain is the Euro.
+The Adams County in Pennsylvania is located to the north of Cumberland County. The 11th Mississippi Infantry Monument is situated in Adams County. To the southeast of Adams County lies Carroll County in Maryland.
+Adams County, Pennsylvania is located to the west of Franklin County, Pennsylvania. The 11th Mississippi Infantry Monument is a contributing property located in Adams County.
+The capital city of Azerbaijan is Baku, where the Baku Turkish Martyrs Memorial is located. This memorial is dedicated to the Ottoman Army soldiers who were killed in the Battle of Baku. The memorial was designed by Huseyn Butuner and Hilmi Gurer.
+The capital city of Azerbaijan is Baku, and its leader is Artur Rasizade. The Baku Turkish Martyrs Memorial is located within Azerbaijan.
+The Baku Turkish Martyrs Memorial in Azerbaijan is dedicated to the Ottoman Army soldiers who were killed in the Battle of Baku. The memorial is made of red granite and white marble and is currently located in Azerbaijan. The leader of Azerbaijan is Artur Rasizade.
+The Prime Minister of Azerbaijan is Artur Rasizade. The Baku Turkish Martyrs Memorial is located in Azerbaijan and is dedicated to the Ottoman Army soldiers killed in the Battle of Baku.
+Associazione Calcio Chievo Verona, also known as A.C. Chievo Verona, is an Italian football club based in Verona with a full name of "Associazione Calcio ChievoVerona S.r.l." Their home ground is located in Verona, Italy. They have a membership base of approximately 39,371 members and competed in the 2014-15 Serie A season.
+Rolando_Maran manager A.C._Chievo_Verona
+A.C. Lumezzane is managed by Michele Marcolini, who was born in Italy and currently manages F.C. Bari 1908.
+The Greek language is spoken in Greece, where the current leader is Alexis Tsipras. The ancient site of A.E. Dimitra Efxeinoupolis is also located in Greece.
+A.S. Gubbio 1910, also known as Associazione Sportiva Gubbio 1910 Srl, is an Italian football club with a membership of approximately 5,300 people. They play their home games in Italy and participated in the football league during the 2014 season.
+In 2014, Associazione Sportiva Gubbio 1910, also known as A.S. Gubbio 1910 Srl, played their home games at Stadio Pietro Barbetti with a membership of approximately 5,300 individuals.
+Livorno Calcio, also known as A.S. Livorno Calcio S.p.A., plays its home games at Stadio Armando Picchi. The football club has approximately 19,238 members and participated in the 2014-15 Serie B season.
+A.S. Roma, also known as "Associazione Sportiva Roma S.p.A.", is an Italian football club based in Rome. They have approximately 70,634 members and played in the 2014-15 Serie A season. Their home ground is located in Rome.
+AZAL_PFK team AZAL
+The Azerbaijan Premier League (AZAL_PFK) is the top football league in Azerbaijan, with Qarabağ FK being the current champions. AZAL_PFK plays its home games at AZAL_Arena and has a membership of approximately 3500 people.
+John van den Brom manages AZ Alkmaar, while Robert Eenhoorn is the owner. Van den Brom previously managed AFC Ajax.
+The Campeonato Brasileiro Série C is a football league held in Brazil. Arapiraquense, also known as "Asa Gigante," is a team participating in this league. Vila Nova Futebol Clube won the championship title for this league.
+Vila Nova Futebol Clube is the champion of the Campeonato Brasileiro Série C tournament held in Brazil. Arapiraquense is another football club that also participates in the same league during the 2015 season of Campeonato Brasileiro Série C.
+Akron_Summit_Assault manager Denzil_Antonio
+The Akron Summit Assault soccer team plays in the Premier Development League, and their home ground is located in Akron, Ohio, which is a city in the United States. The champions of the Premier Development League are K-W United FC.
+The capital city of Italy is Rome, and the language spoken there is Italian. The current leader of Italy is Sergio Mattarella. A.S. Gubbio 1910 is a football ground located in Italy.
+The capital city of Italy is Rome, and the official language is Italian. The leader of Italy is Pietro Grasso, and A.S. Gubbio 1910 played their grounds in Italy.
+A.S. Roma is an Italian football club, also known as "Associazione Sportiva Roma S.p.A.", that plays in Serie A, the top league in Italian football. Their home ground is Stadio Olimpico. The current champions of the league are Juventus F.C.
+The Accademia di Architettura di Mendrisio, located in Mendrisio, Switzerland, is an academic institution with a staff size of 100. It is situated in the country of Switzerland. The dean of the academy is Mario Botta.
+The Accademia di Architettura di Mendrisio is a university located in Switzerland. It was established in 1996 and currently has around 600 students. The Federal Chancellor of Switzerland is the head of government in the country.
+The Accademia di Architettura di Mendrisio is a university located in Mendrisio, Switzerland. It was established in 1996 and has an academic staff size of 100. The dean of the university is Mario Botta.
+The Acharya Institute of Technology is affiliated with Visvesvaraya Technological University, which is located in Belgaum. The All India Council for Technical Education is headquartered in Mumbai.
+The Acharya Institute of Technology is located in Bangalore, India. It has approximately 700 postgraduate students and its campus is situated on Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Soldevanahalli.
+The Acharya Institute of Technology is affiliated with Visvesvaraya Technological University and is located in India. The institute was established in the year 2000 and is currently directed by Dr. G.P. Prabhukumar.
+The capital city of Romania is Bucharest. The 1 December 1918 University is located in this country. Romania is home to the ethnic group of Germans of Romania. The current leader of Romania is Klaus Iohannis.
+The School of Business and Social Sciences at the Aarhus University in Denmark has an academic staff size of 737. It was established in 1928 and is affiliated with the European University Association. Denmark's capital is Copenhagen.
+The School of Business and Social Sciences at the Aarhus University in Denmark was established in 1928 and currently has an academic staff size of 737. The university has a total student population of 16,000.
+The novel "1634: The Baltic War" by David Weber is followed by "Ring of Fire II". This work is written in the English language and is preceded by "1634: The Bavarian Crisis".
+The book "1634: The Ram Rebellion" by Virginia DeMarce has an ISBN number of "1-4165-2060-0" and is available as an e-book. It contains 512 pages.
+The United Kingdom is a country with Queen Elizabeth II as its monarch. AIDS is a scientific journal published in the United Kingdom by Lippincott Williams & Wilkins.
+The book "A Fortress of Grey Ice" by J.V. Jones has an ISBN number of 0-7653-0633-6 and an OCLC number of 51969173. It is a print media type.
+The novel "A Long Long Way" is published by Viking Press and is preceded by "Annie Dunne" and followed by "The Secret Scripture". It is a work of fiction originating from Ireland.
+The novel "A Severed Wasp" by Brian Evenson has an ISBN number of "0-374-26131-8", is classified under "PS3523.E55_S4_1982" in the Library of Congress system, and has an OCLC number of 8805735. It is a print media type.
+The short story "A Severed Wasp" is set in the United States, a country with a significant population of African Americans and an official language of English. English is also spoken in Great Britain.
+The novel "A Severed Wasp" by Polly Shulman has an ISBN number of 0-374-26131-8 and an OCLC number of 8805735. It is a hardcover book with 388 pages.
+The science fiction novel "A Wizard of Mars" by Diane Duane has an ISBN number of 978-0-15-204770-2 and an OCLC number of 318875313. It is published in hardcover format.
+The scientific journal "Addiction" has an ISSN number of "1360-0443", an LCCN number of "93645978", and is commonly abbreviated as "Addiction". It focuses on the academic discipline of addiction.
+The Administrative Science Quarterly is published by Cornell University, which is located in Ithaca, New York, and is a member of the Association of American Universities. Cornell University is situated in the state of New York in the United States.
+Washington, D.C. is the capital city of the United States. The United States is also home to various ethnic groups, including African Americans. Alcatraz Versus the Evil Librarians is a book written in the English language.
+The American Journal of Mathematics is a bimonthly academic journal in the field of mathematics with an ISSN number of "1080-6377". It is often abbreviated as "Am. J. Math.".
+The American Journal of Mathematics is a mathematics academic discipline publication with an ISSN number of "1080-6377". It was first published in the year 1878.
+Soho Press is a publishing company based in the United States, where the language spoken is English. A Loyal Character Dancer is a book published by Soho Press. English is also the language spoken in Great Britain.
+The A Severed Wasp is a work of art from the United States, where the predominant ethnic group is Asian Americans. The English language, which is also spoken in Great Britain, is the official language of the United States.
+The novel "Alcatraz Versus the Evil Librarians" is set in the United States, a country with a significant population of Native Americans. The official language of the United States is English, which is also spoken in Great Britain.
+The scientific journal "AIDS" is published in the United Kingdom, where the current leader is David Cameron. The publisher of the journal is Lippincott Williams & Wilkins.
+A Fortress of Grey Ice is located in the United States, where the predominant ethnic group is African Americans. The English language, which is spoken at A Fortress of Grey Ice, is also the official language of the United States and is widely spoken in Great Britain.
+A Fortress of Grey Ice is located in the United States, where the predominant ethnic group is Asian Americans. The United States has the English language as its official language, which is also spoken in Great Britain.
+The United States is a country with African Americans as one of its ethnic groups. Its official language is English, and Barack Obama was once its leader.
+The city of Abilene, Texas, in the United States, is served by Abilene Regional Airport. Abilene is also a part of Jones County and the state of Texas. The airport has a runway length of 2194.0 meters.
+The city of Abilene, Texas is served by Abilene Regional Airport, which has a runway length of 2194.0 meters and a runway name of "17L35R".
+The city of Abilene, Texas is served by Abilene Regional Airport, which has a runway length of 2194.0 meters and a runway name of "17R35L".
+The Adolfo Suárez Madrid-Barajas Airport in Madrid, Spain operates under ENAIRE and has a runway named "14L32R" with a length of 4,349 meters (14,268 feet).
+Agra Airport is located in Uttar Pradesh, which is a part of the historical region of Awadh.
+Uttar Pradesh is a region that is part of Awadh. Its leader is Ram Naik. Agra Airport, also known as Kheria Air Force Station, is located within Uttar Pradesh.
+Al Asad Airbase is operated by the United States Air Force, which participated in the invasion of Panama. The United States Air Force uses the General Dynamics F-16 Fighting Falcon as one of its fighter aircraft.
+The Al Asad Airbase operates under the United States Air Force (USAF), which has a rich history including participation in the Korean War. The USAF uses various aircraft such as the McDonnell Douglas F-15 Eagle fighter and the Boeing C-17 Globemaster III transport aircraft.
+The United States Air Force participated in the Invasion of Grenada. Al Asad Airbase is an operating organization under the United States Air Force.
+The Al Asad Airbase is operated by the United States Air Force, which has also been involved in military operations such as the invasion of Grenada and the invasion of Panama. The United States Air Force utilizes various aircraft types, including transport aircraft like the Boeing C-17 Globemaster III and attack aircraft like the Lockheed AC-130.
+The city of Lahore is served by Allama Iqbal International Airport, which is located in Punjab, Pakistan. The airport is operated by the Pakistan Civil Aviation Authority. Pakistan is the country where Lahore is located, and its leader is Anwar Zaheer Jamali.
+The city served by Allama Iqbal International Airport is Lahore, which is located in Punjab, Pakistan. Lahore is a city in Pakistan, where the current leader is Shehbaz Sharif. Allama Iqbal International Airport is operated by the Pakistan Civil Aviation Authority.
+The city served by Andrews County Airport is Andrews, Texas, and it is located within the state of Texas. The airport features a runway named "1129".
+Texas is a state in the United States with Austin as its capital and the largest city being Houston. The language spoken in Texas is Spanish. The Andrews County Airport is located in this state.
+The capital city of Texas is Austin, and its people are called Texans. The language spoken in Texas is Spanish. Andrews County Airport is located in Texas.
+Angola_International_Airport cityServed Luanda
+The country of Angola is home to the region of Ícolo e Bengo. Luanda Province includes this region. Angola's international airport is located in Ícolo e Bengo and features a runway length of 4000 meters.
+The city served by Antwerp International Airport is Antwerp, and it is owned by the Flemish Region with the Flemish department of Mobility and Public Works operating it. The airport has a runway length of 600 meters.
+Appleton, Wisconsin is served by Appleton International Airport, which is located in Greenville, Wisconsin. The airport has a runway length of 2439 meters (approximately 8,000 feet) and its runway name is "321".
+Appleton, Wisconsin's Appleton International Airport serves the city. Greenville, Wisconsin, which is part of Clayton, Winnebago County, and Menasha, is located in the United States.
+The Civil Aviation Authority of New Zealand operates Ardmore Airport in New Zealand. This airport has a runway named "03R21L" with a length of 1411 meters and an elevation above sea level of 34 meters.
+Ashgabat International Airport, located in Ashgabat, operates under Turkmenistan Airlines. Its runway, identified as "12R30L," measures 2989.0 meters in length.
+KACY is the ICAO location identifier for Atlantic City International Airport. The airport is operated by the Port Authority of New York and New Jersey and has a runway named 422 with a length of 1873 meters and an elevation above sea level of 23 meters.
+Antwerp International Airport serves the city of Antwerp, which is part of the Flemish Region in Belgium. The Flemish Region is governed by the Flemish Government, and Belgium is led by Charles Michel.
+Adirondack_Regional_Airport cityServed Lake_Placid,_New_York
+Alan Bean was born in Wheeler, Texas, and is a United States citizen. He was a test pilot and was a crew member of Apollo 12.
+Alan Shepard graduated from NWC with an M.A. in 1957. He was born on November 18, 1923, in New Hampshire. He passed away on July 21, 1998, in California.
+Alan Shepard attended NWC and graduated with an M.A. in 1957. He was born in New Hampshire, became a test pilot, and later passed away in California.
+Alan Shepard was born in New Hampshire and was selected by NASA in 1959. He was a crew member of the Apollo 14 mission and is now deceased.
+Apollo 12's backup pilot was Alfred Worden, with commander David Scott leading the mission. Astronaut Alan Bean spent a total of 100,305 minutes in space.
+Alan Shepard was born on November 18, 1923, in New Hampshire. He died in California. Alan Shepard received the Distinguished Service Medal (United States Navy).
+The University of Texas at Austin is a part of the University of Texas System. Elliot See attended the University of Texas at Austin and was born in Dallas. The university competes in the Big 12 Conference and is currently presided over by Gregory L. Fenves.
+Elliot_See almaMater University_of_Texas_at_Austin
+The University of Texas at Austin is a part of the University of Texas System. Elliot See attended the University of Texas at Austin and was born in Dallas, which is a part of a list of counties in Texas. The University of Texas at Austin competes in the Big 12 Conference.
+The University of Texas at Austin is a part of the University of Texas System. Elliot See, who was born in Dallas and died in St. Louis, attended the University of Texas at Austin. Elliot See is deceased.
+Buzz Aldrin was the backup pilot for the Apollo 8 mission. William Anders was also a crew member of this mission. Frank Borman commanded the Apollo 8 mission, and William Anders retired on September 1, 1969.
+The capital city of the United Kingdom is London, and its currency is the pound sterling. Boris Johnson is the leader of London, while Queen Elizabeth II is the monarch of the United Kingdom. 20 Fenchurch Street is a location within the United Kingdom.
+The building located at 250 Delaware Avenue in Buffalo, New York, has a cost of 110 million dollars, 12 floors, a floor area of 30,843.8 square meters, and was started in January 2014.
+Chicago is a city in the United States and is part of DuPage County, Illinois. Its leader is Rahm Emanuel, and 300 North LaSalle is a building in Chicago with 60 floors.
+Dublin is the capital city of the Republic of Ireland and is a part of the province of Leinster. The legislative branch of the Irish government is represented by Dáil Éireann. The 3Arena, a popular entertainment venue, is located in Dublin and is owned by Live Nation Entertainment.
+The address of Adisham Hall is "St. Benedicts Monastery, Adisham, Haputhale, Sri Lanka." It is located in Sri Lanka and is characterized by Tudor and Jacabian architectural styles. The construction of Adisham Hall began in 1927 and was completed in 1931.
+The capital of Sri Lanka is Sri Jayawardenepura Kotte. Adisham Hall is located in Haputale, Sri Lanka. The country of Sri Lanka uses the Sri Lankan rupee as its currency and the Tamil language is spoken there. Sri Lanka's capital is Sri Jayawardenepura Kotte.
+The capital of Sri Lanka is Sri Jayawardenepura Kotte, and the country itself is located in Sri Lanka. The leader of Sri Lanka is Ranil Wickremesinghe, and Adisham Hall is a location in Haputale, Sri Lanka.
+The Akita Museum of Art is located in Akita, Akita Prefecture, Japan. Japan is a country with the Japanese people as its ethnic group, and its current leader is Tarō Asō.
+Amdavad ni Gufa is a structure located in Ahmedabad, India, which is part of the Indian state of Gujarat. The Gujarat Legislative Assembly is the legislative branch of the government for the state of Gujarat.
+Ahmedabad is a city in India, where the Gujarat Legislative Assembly holds its leadership. Notable landmarks in Ahmedabad include Amdavad ni Gufa.
+The Ampara Hospital in Sri Lanka has a bed count of 476 and is located in the Eastern Province, which is governed by Austin Fernando. Sri Lanka, the country in which this province is situated, is led by Ranil Wickremesinghe.
+Asilomar_Conference_Grounds architect Julia_Morgan
+Asilomar_Conference_Grounds architect Julia_Morgan
+The Asilomar Conference Grounds, located in Pacific Grove, California, were added to the National Register of Historic Places on February 27, 1987. They were constructed in 1913 and are architecturally styled in the Arts and Crafts movement. The reference number for this site in the National Register is 87000823.
+The Asser Levy Public Baths, located on 23rd Street in Manhattan, were added to the National Register of Historic Places on April 23, 1980. This Romanesque Revival architecture style building was constructed in 1904 and holds the reference number 80002709 in the National Register.
+New York City is a part of both New York and the United States. It is also a part of the borough of Manhattan, which is led by Gale Brewer. The Asser Levy Public Baths are located in New York City.
+The building at 103 Colmore Row was designed by the British architect John Madin, who was born in Birmingham. Birmingham is governed by the Birmingham City Council and its current leader is Andrew Mitchell. The postal code for this area is B postcode area.
+The capital city of Ethiopia is Addis Ababa. The leader of Ethiopia is Hailemariam Desalegn. The Addis Ababa City Hall is located in Addis Ababa, and Addis Ababa is also the location of Addis Ababa Stadium.
+The United States is a country with the President of the United States as its leader, currently held by John Roberts. 250 Delaware Avenue is a location within the United States, and African Americans are an ethnic group in the country.
+The United States is a country led by the President of the United States, currently Joe Biden. The White House, located at 1600 Pennsylvania Avenue NW in Washington, D.C., serves as the official residence and workplace of the President. The United States is inhabited by various ethnic groups, including White Americans.
+The British Broadcasting Corporation (BBC) produced a television series called Bananaman, which first aired on October 3, 1983, and last aired on April 15, 1986. The show was created by John Geering and starred Tim Brooke-Taylor.
+Duncan Rouleau is an American nationality creator of Baymax, a character from the Big Hero 6 film. Scott Adsit is one of the stars of the same film.
+Ajoblanco, also known as "Ajo blanco," is a traditional Spanish dish originating from the Andalusia region. Its main ingredients include bread, almonds, garlic, water, and olive oil. Ajoblanco is a country in Spain.
+The Amatriciana sauce is a traditional Italian dish originating from the Lazio region. It is a part of the Italian meal structure and is made with tomatoes, guanciale, cheese, and olive oil.
+The country of Indonesia, which is home to the Arem-arem region, uses the Indonesian rupiah as its currency. The official language of Indonesia is Indonesian, and its leader is Joko Widodo. The Arem-arem region is known for its Javanese cuisine.
+Rome is the capital city of Italy.
+Arròs negre is a traditional Spanish dish originating from the Valencian Community. Spain is a country with Felipe VI as its current monarch.
+Asam Pedas is a location in Malaysia, specifically on the Malay Peninsula. The country has a significant population of Malaysian Chinese ethnicity and its capital city is Kuala Lumpur.
+The town of Asam Pedas is located in Malaysia, specifically on the Malay Peninsula. The Malaysian Chinese are an ethnic group in Malaysia, and the current leader of Malaysia is Arifin Zakaria.
+The Indonesian dish Ayam penyet originates from the Java region and can also be found nationwide, as well as in Malaysia and Singapore. It consists of hot, fried chicken that is either squeezed or smashed and served with sambal.
+United_States leaderName Barack_Obama
+Baked_Alaska is_a dessert
+The Bakewell pudding is a variation of the dessert known as a Bakewell tart. This dessert hails from the region of Derbyshire Dales, which is part of Derbyshire and is currently led by Patrick McLoughlin. The Bakewell tart is made with shortcrust pastry as one of its main ingredients.
+The traditional Colombian dish called Bandeja Paisa is a part of the Colombian cuisine and is originated from the Paisa region.
+The Bandeja Paisa is a traditional dish originating from the Paisa Region in Colombian cuisine.
+Barny_Cakes country France
+Barny Cakes are a product of France, created by Mondelez International. The French language is spoken in France, and its leader is Gérard Larcher.
+Beef kway teow is a dish that is popular in both Singapore and Indonesia. In Singapore, the current leader is Halimah Yacob and the official language is English.
+In India, Bhajji, also known as "Bhaji, bajji," is a popular vegetarian dish made primarily from gram flour and vegetables. This delicacy hails from the region of Karnataka.
+India leaderName Sumitra_Mahajan
+The Bionico research institute is located in the region of Jalisco, Mexico. The leader of Jalisco is Jesús Casillas Romero. The Bionico institute offers a course related to desserts, specifically cake. Mexico is the country where this institute is situated.
+The Bionico research center is located in the region of Guadalajara, Mexico. Mexico's current leader is Enrique Peña Nieto. The Bionico course is a dessert, specifically a type of cake.
+Derbyshire_Dales leaderName Patrick_McLoughlin
+The Bakewell tart is a dessert made with frangipane and is a variation of the traditional Bakewell pudding. This dessert comes from the region of Derbyshire Dales, which is located in Derbyshire and is led by Patrick McLoughlin.
+The capital city of Indonesia is Jakarta, and the Indonesian language is spoken there. Indonesia itself is a country in Southeast Asia with Jusuf Kalla serving as its leader. Another notable fact is that Bakso, a popular Indonesian food, originates from this region.
+Rome capital Italy
+The dish Ayam penyet originates from the Java region in Indonesia, where the ethnic group known as the Baduy reside. Ayam penyet is now popular in the region of Singapore, which is governed by President Halimah Yacob, uses the English language, and is an independent city-state country.
+The Philippines is a country where the Igorote people are an ethnic group and Arabic is one of the languages spoken. The official language of the Philippines is Philippine English. Batchoy is a dish that originates from the Philippines.
+Beef kway teow is a popular dish in Singapore, which is a country where the official language is English. The current leaders of Singapore are Halimah Yacob and Tony Tan. Beef kway teow can be found nationwide in both Singapore and Indonesia.
+Ajoblanco is a dish that originates from Spain, a country that uses the Euro as its currency and is home to the ethnic group of Spaniards. The Spanish language is spoken there, and the country is currently led by Felipe VI of Spain.
+Adams County, Pennsylvania is located to the north of Cumberland County, Pennsylvania, and to its southeast is Carroll County, Maryland.
+The capital city of Azerbaijan is Baku, and its leader is Artur Rasizade who holds the title of Prime Minister of Azerbaijan. The Baku Turkish Martyrs Memorial is located within this country.
+The Baku Turkish Martyrs Memorial in Azerbaijan is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. It was designed by Hüseyin Bütüner and Hilmi Güner. The current leader of Azerbaijan is Artur Rasizade, and the memorial is also known as the "Türk Şehitleri Anıtı" in its native name.
+The Baku Turkish Martyrs Memorial in Azerbaijan is made of red granite and white marble. It is also known as "Türk Şehitleri Anıtı" and was designed by Hüseyin Bütüner and Hilmi Güner. The memorial is dedicated to Ottoman Army soldiers who were killed in the Battle of Baku.
+The Baku Turkish Martyrs Memorial in Azerbaijan is dedicated to the Ottoman Army soldiers who were killed in the Battle of Baku. The memorial was designed by Huseyin Butuner and Hilmi Gune. The leader of Azerbaijan holds the title of Prime Minister, and the memorial is made of red granite and white marble.
+Stuart_Parker_(footballer) role manager
+Gus Poyet currently manages AEK Athens FC in the Superleague Greece. Previously, he managed Chelsea FC and Real Zaragoza.
+Agremiação Sportiva Arapiraquense is a Brazilian football club that participates in the Campeonato Brasileiro Série C league. Brazil is the country where this league is held. Agremiação Sportiva Arapiraquense plays its home games at Estádio Municipal Coaracy da Mata Fonseca, which is located in Alagoas. The most recent champions of the Campeonato Brasileiro Série C were Vila Nova Futebol Clube.
+The Brazilian football club Agremiação Sportiva Arapiraquense competes in the Campeonato Brasileiro Série C league. Brazil is the country where this league is held, and Vila Nova Futebol Clube is the team that has won the championship title. Arapiraca is the location of Estádio Municipal Coaracy da Mata Fonseca, which is the ground where Agremiação Sportiva Arapiraquense plays its home matches.
+The Campeonato Brasileiro Série C championship title was won by Vila Nova Futebol Clube in Brazil. Arapiraquense is another team that participates in the same league, and they are managed by Vica. Vila Nova has approximately 17,000 members.
+The Accademia di Architettura di Mendrisio in Switzerland, with a staff size of 100, is located in the city of Mendrisio. It is a renowned academic institution in the country, with a dean named Mario Botta and a student population of 600.
+The Accademia di Architettura di Mendrisio is a renowned architecture academy located in Ticino, Switzerland. It was established in 1996 and currently has around 600 students. Switzerland is a country in Europe, with its leader being Johann Schneider-Ammann.
+The Acharya Institute of Technology is affiliated with Visvesvaraya Technological University and is located in Bangalore, Karnataka. Karnataka is a state in India that borders Telangana to its northeast and the Arabian Sea to its west.
+The Acharya Institute of Technology is located in Bangalore, India. It was established in the year 2000 and has approximately 700 postgraduate students. Its campus is situated on Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Soldevanahalli, Bangalore – 560090.
+The Acharya Institute of Technology is affiliated with Visvesvaraya Technological University and is located in Bangalore. Bangalore was founded by Kempe Gowda I. Karnataka, the state where Bangalore is located, has the Arabian Sea to its west.
+The capital city of Romania is Bucharest. The 1 December 1918 University is located in Alba Iulia, which is also a city in Romania. Romania is a country with its leader being Klaus Iohannis, who holds the title of Prime Minister of Romania.
+The School of Business and Social Sciences at the Aarhus University in Denmark was established in 1928 and has an academic staff size of 737. The university has a total student population of 16,000.
+A Long Long Way is a novel set in Ireland, which is a country located in Europe and is inhabited mainly by White people. The novel follows the storyline of A Long Long Way and is published by Faber and Faber.
+The novel "A Long Long Way" is set in Ireland, where the population is predominantly made up of white people. It is preceded by the novel "Annie Dunne" and followed by "The Secret Scripture." The publisher for "The Secret Scripture" is Faber and Faber.
+The novel "Into Battle" follows "Above the Veil," which is an Australian work preceded by "Aenir."
+The Administrative Science Quarterly is published by Cornell University, which is located in Ithaca, New York, and is a member of the Association of American Universities. Cornell University is also known as "Cornell Big Red." Cornell University is situated in the state of New York.
+The Administrative Science Quarterly is published by Cornell University, which is located in Ithaca, New York, in the state of New York. Cornell University is a member of the Association of Public and Land-grant Universities and is commonly referred to as "Cornell Big Red."
+The country referred to in the first triple is the United States. African Americans are an ethnic group in the United States. Alcatraz Versus the Evil Librarians is a book written in the English language, which is also spoken in Great Britain. Barack Obama was the leader of the United States during this time.
+The capital city of the United States is Washington, D.C. The country of A Severe Wasp is also the United States. African Americans are an ethnic group in the U.S., and English is both the language of the United States and the language spoken in Great Britain.
+The country associated with Alcatraz Versus the Evil Librarians is the United States. People of African descent are an ethnic group in the United States, and the English language, which is spoken in the United States, is also spoken in Great Britain.
+The United Kingdom is a country with Queen Elizabeth II as its monarch and English language. Its capital city is London. Contrary to the earlier statement, the leader of the United Kingdom is actually Queen Elizabeth II, not David Cameron. The journal "AIDS" is published in the United Kingdom.
+The scientific journal AIDS is published in the United Kingdom, where the current leader is David Cameron. The publisher of the journal is Lippincott Williams & Wilkins.
+The work of art titled "A Severed Wasp" is from the United States, a country with a significant population of Native Americans and an official language of English.
+The short story "A Severed Wasp" is set in the United States, which is home to various ethnic groups including Native Americans. The official language of the United States is English and its leader at the time the story was published was Barack Obama.
+Alan Bean was born in Wheeler, Texas, and holds American nationality. He retired from his career and was a crew member of the Apollo 12 mission, with David Scott serving as its commander.
+Alan Shepard was born on November 18, 1923, in New Hampshire. He graduated from the Naval War College with an M.A. in 1957. Shepard was selected by NASA in 1959. He was born in the United States and passed away in California.
+Alan Shepard graduated from NWC with an M.A. in 1957. He was born on November 18, 1923, in New Hampshire, and passed away in California. Alan Shepard was selected by NASA in 1959. He was born on November 18, 1923, in New Hampshire, and graduated from NWC with an M.A. in 1957. He was selected by NASA in 1959. Alan Shepard was born on November 18, 1923, in New Hampshire. He graduated from NWC with an M.A. in 1957 and was selected by NASA in 1959. Alan Shepard was born in New Hampshire on November 18, 1923. He graduated from NWC with an M.A. in 1957 and was selected by NASA in 1959. Alan Shepard (born November 18, 1923, in New Hampshire) graduated from NWC with an M.A. in 1957 and was selected by NASA in 1959.
+Alan Shepard was born on November 18, 1923, in New Hampshire. He died in California and retired on August 1, 1974. Alan Shepard was a crew member of Apollo 14.
+Alan Shepard, born in New Hampshire, was awarded the Distinguished Service Medal (United States Navy). He died on July 21, 1998, in California. The Distinguished Service Medal is a military decoration that can be awarded to members of the United States Armed Forces who distinguish themselves by exceptionally meritorious conduct in the line of duty. Alan Shepard also received the Distinguished Service Medal, but this particular award is ranked lower than the Department of Commerce Gold Medal. Additionally, he was awarded the American Defense Service ribbon. Alan Shepard was a renowned astronaut who became the first American in space on May 5, 1959.
+Buzz Aldrin, born on January 20, 1930, in Glen Ridge, New Jersey, earned his Sc.D. from the Massachusetts Institute of Technology in 1963. He was a fighter pilot before becoming a crew member of the historic Apollo 11 mission. Alternative names for Buzz Aldrin include Edwin E. Aldrin, Jr.
+Buzz Aldrin, born on January 20, 1930, in Glen Ridge, New Jersey, earned his Sc.D. from the Massachusetts Institute of Technology in 1963. He was selected by NASA in 1963 and was a crew member of the historic Apollo 11 mission. Currently, he is retired.
+Buzz Aldrin is a former fighter pilot who was selected by NASA in 1963. He holds a Sc.D. from the Massachusetts Institute of Technology (MIT), class of 1963. Aldrin gained fame as a crew member of the historic Apollo 11 mission.
+Elliot See attended the University of Texas at Austin for his education. He was born in Dallas and died on February 28, 1966, in St. Louis. Elliot See was a United States citizen and is now deceased.
+The University of Texas at Austin is a part of the University of Texas System. Elliot See, who was born in Dallas in 1927, attended the University of Texas at Austin and later died in St. Louis.
+William Anders attended the Air Force Institute of Technology with an M.S. degree in 1962. He was born in British Hong Kong on October 17, 1933, and retired from the military on September 1, 1969. He was a fighter pilot and was a crew member of Apollo 8.
+The capital city of Turkey is Ankara, and it is currently led by Ahmet Davutoğlu. The Atatürk Monument in Izmir, Turkey, is a bronze structure designed by Pietro Canonica and was inaugurated on July 27, 1932. Turkey is a country located in Asia and Europe, with Ankara as its capital and Istanbul as its largest city. The leader of Turkey is Ahmet Davutoğlu, and the currency is the Turkish lira.
+Artur Rasizade is the Prime Minister of Azerbaijan. The Baku Turkish Martyrs Memorial, also known as "Türk Şehitleri Anıtı," is located in Azerbaijan. It was dedicated to the Ottoman Army soldiers killed in the Battle of Baku. The memorial was designed by Hüseyin Bütüner and Hilmi Güner.
+The 14th New Jersey Volunteer Infantry Monument is categorized as a historic district in the United States and is located at Monocacy National Battlefield in Frederick County, Maryland. The nearest city is Frederick, Maryland. The monument was established on July 11, 1907, and is currently managed by the National Park Service.
+The 14th New Jersey Volunteer Infantry Monument is a historic district located in the United States, specifically at Monocacy National Battlefield. It was established on July 11, 1907, and is currently managed by the National Park Service.
+The Accademia di Architettura di Mendrisio is a renowned architecture school located in Ticino, Switzerland. It was established in 1996 and currently has around 600 students. Switzerland is a country in Europe with Federal Chancellor Johann Schneider-Ammann as its leader.
+The Acharya Institute of Technology is located in Bangalore, India. It was established in 2000 and is currently directed by Dr. G.P. Prabhakumar. The campus is situated on Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, in Soldevanahalli.
+The Acharya Institute of Technology is affiliated with Visvesvaraya Technological University and is located in Bangalore, India. It was established in the year 2000 and is currently directed by Dr. G.P. Prabhukumar, with B.M. Reddy serving as its president.
+The Acharya Institute of Technology is located in Karnataka, which has the Arabian Sea to its west. The All India Council for Technical Education is situated in Mumbai and the Acharya Institute of Technology offers tennis as a sport.
+The Acharya Institute of Technology is affiliated with Visvesvaraya Technological University, which is located in Belgaum. The All India Council for Technical Education is headquartered in Mumbai. The Acharya Institute also offers tennis as a sport, and the International Tennis Federation governs tennis as a sport.
+The capital city of Romania is Bucharest. The 1 Decembrie 1918 University is located in this country. Romania is home to various ethnic groups, including the Germans of Romania. The current leader of Romania is Klaus Iohannis, who holds the title of Prime Minister of Romania. Saint Andrew the Apostle is the patron saint of Romania.
+The School of Business and Social Sciences at Aarhus University in Denmark has an academic staff size of 737. It was established in 1928 and is located in the city of Aarhus. The university is affiliated with the European University Association. Denmark is a country led by Prime Minister Lars Løkke Rasmussen.
+The School of Business and Social Sciences at Aarhus University in Denmark was established in 1928 and is located in the city of Aarhus. It is a part of the European University Association and has an academic staff size of 737. The university has approximately 16,000 students.
+Alan Bean was born on March 15, 1932, in Wheeler, Texas. He holds American nationality and was a test pilot before retiring. Alan Bean was born on March 15, 1932, in Wheeler, Texas. He was a test pilot before becoming an astronaut and retiring. He was born in the United States and was a test pilot before joining NASA and retiring. Alan Bean was born on March 15, 1932, in Wheeler, Texas. He was a test pilot before becoming an astronaut for NASA and retiring. Alan Bean was born on March 15, 1932, in Wheeler, Texas. He was a test pilot before working for NASA as an astronaut and retiring. Alan Bean was born on March 15, 1932, in Wheeler, Texas. He began his career as a test pilot before joining NASA and retiring as an astronaut. Alan Bean was born on March 15, 1932, in Wheeler, Texas. He started out as a test pilot before becoming an astronaut for NASA and retiring. Alan Bean was born on March 15, 1932, in Wheeler, Texas. He initially worked as a test pilot before joining NASA and retiring as an astron
+Alan Bean attended the University of Texas at Austin and earned his B.S. degree there in 1955. He was born in Wheeler, Texas, and worked as a test pilot before retiring. Alan Bean was a crew member of Apollo 12.
+Alan Shepard was born on November 18, 1923, in New Hampshire. He graduated from the Naval War College with an M.A. in 1957. Shepard was selected by NASA in 1959 and was a crew member of Apollo 14. He was born in the United States and passed away in California.
+Alan Shepard, born on November 18, 1923, in New Hampshire, attended NWC and graduated with an M.A. in 1957. He was a test pilot and a national of the United States. Alan Shepard passed away in California.
+Alan Shepard, born on November 18, 1923, in New Hampshire, was a test pilot who received the Distinguished Service Medal from the United States Navy. He was later awarded the Department of Commerce Gold Medal. Shepard passed away in California. He is most famously known for becoming the first American in space on February 20, 1961.
+Buzz Aldrin, a retired American astronaut born in Glen Ridge, New Jersey, holds a Sc.D. degree from the Massachusetts Institute of Technology, awarded in 1963. He is a national of the United States and gained fame as a fighter pilot before becoming a crew member of the historic Apollo 11 mission. His alternative names include "Edwin E. Aldrin, Jr."
+William Anders was the backup pilot for Apollo 11. Buzz Aldrin was born in Glen Ridge, New Jersey, which is part of Essex County. Buzz Aldrin is a United States astronaut and crew member of Apollo 11. The United States is currently led by President Joe Biden.
+Buzz Aldrin, born on January 20, 1930, in Glen Ridge, New Jersey, received his Sc.D. from the Massachusetts Institute of Technology in 1963. He was selected by NASA in 1963 and was a crew member of Apollo 11, making him one of the first men to walk on the moon. He is now retired.
+Buzz Aldrin, born in Glen Ridge, New Jersey, graduated from Massachusetts Institute of Technology with a Sc.D. in 1963. In 1963, he was selected by NASA and became a crew member of Apollo 11, making him a fighter pilot and astronaut.
+The University of Texas at Austin is a part of the University of Texas System. Elliot See was born on July 23, 1927, in Dallas. He was a test pilot and unfortunately, he is no longer alive.
+Elliot See was born on July 23, 1927, in Dallas. He attended the University of Texas at Austin as his alma mater and went on to become a test pilot. Elliot See died on February 28, 1966, in St. Louis.
+William_Anders was born on October 17, 1933, in British Hong Kong. He attended the Air Force Institute of Technology (AFIT) and graduated with an M.S. degree in 1962. William_Anders served as a fighter pilot and retired on September 1, 1969.
+The 11th Mississippi Infantry Monument is a contributing property located in Gettysburg, Pennsylvania, in Adams County. It is a category of contributing property and is situated in the United States, specifically in Adams County, which borders Cumberland County, Pennsylvania, to the north and Carroll County, Maryland, to the southeast. The monument was established in the year 2000.
+The capital city of Turkey is Ankara, and it is home to the Atatürk Monument, which was designed by Pietro Canonica and inaugurated on July 27, 1932. The monument, made of bronze, is located in Turkey, which is led by Ahmet Davutoğlu and has a currency called the Turkish lira.
+The capital city of Azerbaijan is Baku. The Prime Minister of Azerbaijan holds the highest political office in the country. The National Assembly is the legislative body of Azerbaijan. The Baku Turkish Martyrs Memorial, located in Azerbaijan, is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. The memorial is made of red granite and white marble and was designed by Huseyin Butuner and Hilmi Gurer.
+The Acharya Institute of Technology is affiliated with Visvesvaraya Technological University and is located in the city of Bangalore, in the state of Karnataka, India. It was established in the year 2000 and is currently presided over by B.M. Reddy. The country where this institute is situated is India.
+The Acharya Institute of Technology is a technological university affiliated with Visvesvaraya Technological University, located in India. It was established in 2000 and is situated in Bangalore at the address "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090." The institute's motto is "Nurturing Excellence," and it has approximately 700 postgraduate students.
+The Acharya Institute of Technology is affiliated with Visvesvaraya Technological University and is located in India, specifically in the city of Bangalore at the address "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090." It was established in the year 2000 and is currently headed by Dr. G.P. Prabhukumar as the director and B.M. Reddy as the president.
+The Acharya Institute of Technology is affiliated with Visvesvaraya Technological University and is located in India. It was established in 2000 and has around 700 postgraduate students. The president of the institute is B.M. Reddy and its campus is situated at "Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
+The AWH Engineering College in Kerala, India has an academic staff size of 250.
+The national anthem of Romania is "Deșteaptă-te, române!" Romania's capital city is Bucharest, and one of its notable universities, 1 Decembrie 1918 University, is located in Alba Iulia. Romania is a country with a diverse population, including the Germans of Romania. The current president of Romania is Klaus Iohannis, who holds the title of Prime Minister of Romania.
+The Acharya Institute of Technology is affiliated with Visvesvaraya Technological University and is located in India, specifically at Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. The university city is Belgaum. The director of the institute is Dr. G.P. Prabhukumar and it was established in the year 2000. It is situated in the state of Karnataka.

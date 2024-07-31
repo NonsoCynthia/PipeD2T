@@ -9,7 +9,8 @@ def ord_tags(text):
     for punctuation in s_to_remove:
         text = text.replace(punctuation, '')  
     # Remove extra spaces
-    text = re.sub(r'\s+', ' ', text)
+    text = re.sub(r'\s+', ' ', text)  
+    text = text.split('#newline#')[0]
     return text.strip()
 
 def struct_tags(contents):
@@ -58,7 +59,7 @@ def lex_tags(contents):
         'ENTIER-':'ENTITY-', 'ENTRY-':'ENTITY-', 'ENTIENT-':'ENTITY-', 'ENTITY CITITY': 'ENTITY',
         ' ia ':' is a ', 'active andperson':'active, person',
         ' [':'[', '.[':'[','[ ':'[', ' ]':']', 'ENTITY- ':'ENTITY-',
-        'PATIENT':'ENTITY',
+        'PATIENT':'ENTITY',"<":"", ">":"", "#":"",
         }
     xcontents = contents
     for old, new in replacements.items():
@@ -71,15 +72,14 @@ def lex_tags(contents):
     pattern3 = r'\b(ENT[A-Z]\w+)-(\d+)\b'
     xcontents = re.sub(pattern3, r'ENTITY-\2', xcontents, flags=re.IGNORECASE)
     xcontents = xcontents.replace("'", " '")
-    # return xcontents
-    # Extract the relevant part of the text
-    text = xcontents.split(": ")[1].strip()
-    # Split the text into sentences
-    sentences = text.split(". ")
-    # Remove the last sentence if it ends with a question mark
+    #return xcontents
+    # Splitting text into sentences
+    if ": " in xcontents:
+        xcontents = xcontents.split(": ")[-1]
+    sentences = xcontents.split(". ")
     if sentences[-1].endswith("?"):
-        sentences.pop()
-    # Reconstruct the text with a period at the end of each sentence
+        sentences.pop()  # Remove the last sentence if it ends with a question mark
+    # Reconstructing the text
     summary = ". ".join(sentences)
     return summary.strip()
     

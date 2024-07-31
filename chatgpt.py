@@ -6,8 +6,9 @@ import random
 from dotenv import load_dotenv, find_dotenv
 from data.load_dataset import CustomDataset, preprocess_data, realize_date, read_file
 from mapping import entity_mapping, prcs_entry, delist, split_triples
-from openai import OpenAI
+#from openai import OpenAI
 from aixplain.factories import ModelFactory
+from instruction import *
 
 _ = load_dotenv(find_dotenv())  # read local .env file
 #client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
@@ -30,6 +31,28 @@ def write_file(write_path, result, mode='w'):
     with open(write_path, mode) as f:
         f.write(result)
 
+def extract_middle_text(triple_string, task):
+    if task in ["ordering", "structuring"]:
+        tr = triple_string.replace("[TRIPLE]", '').strip()
+        g  = tr.split("[/TRIPLE]")
+        pred = []
+        for i in g:
+            # Split the triple into a list of words
+            words = i.strip().split()
+            print(words)
+            if len(words) >= 2:
+                # Extract the middle text if there are at least two words
+                b = words[1]
+                pred.append(b)
+        # Return the list of middle texts if there is more than one
+        if len(pred) == 1:
+            return pred[0] if task == "ordering" else f"[SNT] {pred[0]} [/SNT]"
+        else:
+            return None
+    else:
+        return None
+
+
 class Inferencer:
     def __init__(self, model, parameters, examples, task, dataset, dataset_name, write_path):
         self.model = model
@@ -44,27 +67,33 @@ class Inferencer:
         path = os.path.join(self.write_path, f'{self.dataset_name}.txt')
         feedback = []
         for i, item in enumerate(self.dataset):
-            prompt = f"{self.examples}\"\"\"{item['Source']}\"\"\" \nOutput:"
-            if "gpt" in self.write_path:
-                data = [{"role": "user", "content": prompt}]
-                result = self.model.run(data, parameters=self.parameters)
-                while 'data' not in result:
-                    print(f"No 'data' key found in the result for dataset '{self.dataset_name}', item {i}. Retrying...")
-                    result = self.model.run(data, parameters=self.parameters)
-                if self.task == "reg":
-                    result = result['data'].strip().replace('\n',' ').replace('[','').replace(']','').replace("#","")
-                    result = result[:-1] if result.endswith('.') and len(result) > 1 else result
-                else:
-                    result = result['data'].strip().replace('\n',' ')                       
+            #i += 1315
+            one_triple = extract_middle_text(item['Source'], self.task)
+            if one_triple: #Print out the triples if it is only one 
+                result = one_triple
             else:
-                result = self.model.run(prompt)
-                while 'data' not in result:
-                    print(f"No 'data' key found in the result for dataset '{self.dataset_name}', item {i}. Retrying...")
+                prompt = f"{self.examples}\"\"\"{item['Source']}\"\"\" \nOutput:"
+                #prompt = instruct_templates('gpt', item['Source'], 'struct2sr', pipeline=True) 
+                if "gpt" in self.write_path:
+                    data = [{"role": "user", "content": prompt}]
+                    result = self.model.run(data, parameters=self.parameters)
+                    while 'data' not in result:
+                        print(f"No 'data' key found in the result for dataset '{self.dataset_name}', item {i}. Retrying...")
+                        result = self.model.run(data, parameters=self.parameters)
+                    if self.task == "reg":
+                        result = result['data'].strip().replace('\n',' ').replace('[','').replace(']','').replace("#","")
+                        result = result[:-1] if result.endswith('.') and len(result) > 1 else result
+                    else:
+                        result = result['data'].strip().replace('\n',' ')                       
+                else:
                     result = self.model.run(prompt)
-                result = result['data'].replace('\n', ' ').strip()#.split("Output:")[-1].split('\n')[0].strip()            
+                    while 'data' not in result:
+                        print(f"No 'data' key found in the result for dataset '{self.dataset_name}', item {i}. Retrying...")
+                        result = self.model.run(prompt)
+                    result = result['data'].replace('\n', ' ').strip()#.split("Output:")[-1].split('\n')[0].strip()            
             print(f"Input {i}: {result}")
             feedback.append(result)
-        write_file(path, '\n'.join(feedback), mode='w')  # Write your result into a file
+        write_file(path, '\n'.join(feedback), mode='a')  # Write your result into a file
         print(f'{self.dataset_name}.txt Ended!!!!', "\n")
 
     def evaluate_reg(self):
@@ -144,7 +173,8 @@ if __name__ == '__main__':
     task = args.task
     data = args.data_path
     model_path = args.model_path #"gpt-3.5"
-    write_path = os.path.join(f"{args.write_path}", f"{args.task}", f"{args.model_path}")
+    write_path = os.path.join(f"{args.write_path}", f"{args.task}", f"{args.model_path}") #gpt4/3_struct
+    #write_path = os.path.join(f"{args.write_path}", "sr", f"{args.model_path}")
 
     # Create result directory if it doesn't exist.
     if not os.path.exists(write_path):
@@ -193,10 +223,10 @@ if __name__ == '__main__':
     
     ## Import the validation datasets
     evaluation = {
-        f"{task}_dev": dataset_dict["validation"],
+        #f"{task}_dev": dataset_dict["validation"],
         f"{task}_test": dataset_dict["test"],
-        f"{task}_pipeline_eval": dataset_dict["pipeline_eval"],
-        f"{task}_pipeline_test": dataset_dict["pipeline_test"]
+        #f"{task}_pipeline_eval": dataset_dict["pipeline_eval"],
+        #f"{task}_pipeline_test": dataset_dict["pipeline_test"] #list(dataset_dict["pipeline_test"])[1315:]
     }
 
     model = ModelFactory.get(f"{model_id}") #gpt-3.5

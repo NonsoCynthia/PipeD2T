@@ -2,55 +2,52 @@
 
 #SBATCH --gres=gpu:a100:1
 #SBATCH -p long
-#SBATCH -J Pipe_t
-#SBATCH --cpus-per-task=10
-#SBATCH --mem=30000
+#SBATCH -J Pipe_tl
 #SBATCH -t 9-23:59:59
 
-## --nodelist=g126
 
 source /home/cosuji/anaconda3/etc/profile.d/conda.sh
-conda activate webnlg2
+conda activate webnlg
 
 # Edit this jobs for each model and task
 # Training the model
-# python3 ../main.py --tokenizer "t5-base" \
-#                 --model_path "t5-base" \
-#                 --task "end2end" \
-#                 --data_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
-#                 --epochs 20 \
-#                 --learning_rate 1e-5 \
-#                 --train_batch_size 2 \
-#                 --early_stop 5 \
-#                 --max_length 512 \
-#                 --write_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results" \
-#                 --verbose \
-#                 --batch_status 16 
-# #                 ## --cuda 
+#python3 ../main.py --tokenizer "google/flan-t5-large" \
+                   	#--model_path "google/flan-t5-large" \
+                   	#--task "reg" \
+                   	#--data_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
+                   	#--epochs 20 \
+                   	#--learning_rate 1e-5 \
+                   	#--train_batch_size 16 \
+                   	#--early_stop 10 \
+                   	#--max_length 300 \
+                   	#--write_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results" \
+                   	#--verbose \
+                   	#--batch_status 16 
+                 	###--cuda 
 
 # Making Inferences
-# python3 ../inference.py --tokenizer "t5-base" \
-#                 --model_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results" \
-#                 --task "end2end" \
-#                 --data_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
-#                 --batch_size 2 \
-#                 --max_length 512 \
-#                 --verbose \
-#                 --batch_status 16
-#                 ## --cuda 
+python3 ../inference.py --tokenizer "google/flan-t5-large" \
+                 	--model_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results" \
+                 	--task "reg" \
+                 	--data_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
+                 	--batch_size 16 \
+                 	--max_length 300 \
+                 	--verbose \
+                 	--batch_status 16
+                 
 
 # Mapping the outputs
-# python3 ../mapping.py --previous_data "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
-#                 --pipeline_data "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results" \
-#                 --previous_task "lexicalization" \
-#                 --Gen_model "t5"
+#python3 ../mapping.py --previous_data "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
+                      #--pipeline_data "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results" \
+                      #--previous_task "structuring" \
+                      #--Gen_model "flan-t5-large"
 
 # Surface Realization
-python3 ../realization.py --model "t5" \
-                --task "sr" \
-                --surface_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg/input/sr/surfacevocab.json" \
-                --write_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results"
-                # --data_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
+#python3 ../realization.py --model "t5-large" \
+             #--task "sr" \
+             #--surface_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg/input/sr/surfacevocab.json" \
+             #--write_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/results"
+             ### --data_path "/home/cosuji/spinning-storage/cosuji/NLG_Exp/webnlg/data/deepnlg" \
 
 
 

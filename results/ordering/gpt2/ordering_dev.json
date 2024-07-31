@@ -66,7 +66,7 @@
     {
         "idx":8,
         "input":"[TRIPLE] Alderney_Airport 1st_runway_SurfaceType Poaceae [/TRIPLE] [TRIPLE] Alderney_Airport runwayLength 877.0 [/TRIPLE]",
-        "pred":"runwayLength 1st_runway_SurfaceType",
+        "pred":"1st_runway_SurfaceType runwayLength",
         "refs":[
             "1st_runway_SurfaceType runwayLength"
         ]
@@ -114,7 +114,7 @@
     {
         "idx":14,
         "input":"[TRIPLE] Angola_International_Airport cityServed Luanda [/TRIPLE] [TRIPLE] Angola_International_Airport elevationAboveTheSeaLevel_(in_metres) 159 [/TRIPLE]",
-        "pred":"elevationAboveTheSeaLevel_(in_metres) cityServed",
+        "pred":"cityServed elevationAboveTheSeaLevel_(in_metres)",
         "refs":[
             "cityServed elevationAboveTheSeaLevel_(in_metres)"
         ]
@@ -130,7 +130,7 @@
     {
         "idx":16,
         "input":"[TRIPLE] Antwerp_International_Airport elevationAboveTheSeaLevel_(in_metres) 12.0 [/TRIPLE] [TRIPLE] Antwerp_International_Airport operatingOrganisation \"Flemish_department_of_Mobility_and_Public_Works\" [/TRIPLE]",
-        "pred":"elevationAboveTheSeaLevel_(in_metres) operatingOrganisation",
+        "pred":"operatingOrganisation elevationAboveTheSeaLevel_(in_metres)",
         "refs":[
             "operatingOrganisation elevationAboveTheSeaLevel_(in_metres)"
         ]
@@ -170,7 +170,7 @@
     {
         "idx":21,
         "input":"[TRIPLE] Athens_International_Airport cityServed Athens [/TRIPLE] [TRIPLE] Athens_International_Airport location Spata [/TRIPLE]",
-        "pred":"location cityServed",
+        "pred":"cityServed location",
         "refs":[
             "location cityServed"
         ]
@@ -250,7 +250,7 @@
     {
         "idx":31,
         "input":"[TRIPLE] London leaderTitle European_Parliament [/TRIPLE] [TRIPLE] 20_Fenchurch_Street location London [/TRIPLE]",
-        "pred":"location leaderTitle",
+        "pred":"leaderTitle location",
         "refs":[
             "location leaderTitle"
         ]
@@ -258,7 +258,7 @@
     {
         "idx":32,
         "input":"[TRIPLE] United_States leaderName Barack_Obama [/TRIPLE] [TRIPLE] 250_Delaware_Avenue location United_States [/TRIPLE]",
-        "pred":"location leaderName",
+        "pred":"leaderName location",
         "refs":[
             "location leaderName"
         ]
@@ -282,7 +282,7 @@
     {
         "idx":35,
         "input":"[TRIPLE] 3Arena location \"East_Link_Bridge\" [/TRIPLE] [TRIPLE] 3Arena owner Live_Nation_Entertainment [/TRIPLE]",
-        "pred":"location owner",
+        "pred":"owner location",
         "refs":[
             "location owner"
         ]
@@ -290,7 +290,7 @@
     {
         "idx":36,
         "input":"[TRIPLE] Live_Nation_Entertainment location Beverly_Hills,_California [/TRIPLE] [TRIPLE] 3Arena owner Live_Nation_Entertainment [/TRIPLE]",
-        "pred":"location owner",
+        "pred":"owner location",
         "refs":[
             "owner location"
         ]
@@ -306,7 +306,7 @@
     {
         "idx":38,
         "input":"[TRIPLE] Addis_Ababa_City_Hall currentTenants \"Government_of_Addis_Ababa\" [/TRIPLE] [TRIPLE] Addis_Ababa_City_Hall height \"42_m\" [/TRIPLE]",
-        "pred":"height currentTenants",
+        "pred":"currentTenants height",
         "refs":[
             "height currentTenants"
         ]
@@ -314,7 +314,7 @@
     {
         "idx":39,
         "input":"[TRIPLE] Adisham_Hall architecturalStyle \"Tudor_and_Jacabian\" [/TRIPLE] [TRIPLE] Adisham_Hall location \"Haputale,_Sri_Lanka\" [/TRIPLE]",
-        "pred":"location architecturalStyle",
+        "pred":"architecturalStyle location",
         "refs":[
             "architecturalStyle location"
         ]
@@ -418,7 +418,7 @@
     {
         "idx":52,
         "input":"[TRIPLE] Aurakles alternativeName \"Aurakles\" [/TRIPLE] [TRIPLE] Aurakles creator Len_Wein [/TRIPLE]",
-        "pred":"creator alternativeName",
+        "pred":"creator",
         "refs":[
             "creator"
         ]
@@ -442,7 +442,7 @@
     {
         "idx":55,
         "input":"[TRIPLE] Bill_Oddie birthPlace Lancashire [/TRIPLE] [TRIPLE] Bananaman starring Bill_Oddie [/TRIPLE]",
-        "pred":"birthPlace starring",
+        "pred":"starring birthPlace",
         "refs":[
             "starring birthPlace"
         ]
@@ -450,7 +450,7 @@
     {
         "idx":56,
         "input":"[TRIPLE] Bibbo_Bibbowski creator Jerry_Ordway [/TRIPLE] [TRIPLE] Jerry_Ordway nationality Americans [/TRIPLE]",
-        "pred":"nationality creator",
+        "pred":"creator nationality",
         "refs":[
             "creator nationality"
         ]
@@ -490,7 +490,7 @@
     {
         "idx":61,
         "input":"[TRIPLE] Ajoblanco ingredient Almond [/TRIPLE] [TRIPLE] Ajoblanco region Andalusia [/TRIPLE]",
-        "pred":"ingredient region",
+        "pred":"region ingredient",
         "refs":[
             "region ingredient"
         ]
@@ -514,7 +514,7 @@
     {
         "idx":64,
         "input":"[TRIPLE] Arem-arem ingredient Banana_leaf [/TRIPLE] [TRIPLE] Arem-arem region Indonesia [/TRIPLE]",
-        "pred":"ingredient region",
+        "pred":"region ingredient",
         "refs":[
             "ingredient region"
         ]
@@ -546,7 +546,7 @@
     {
         "idx":68,
         "input":"[TRIPLE] Arr\u00f2s_negre country Spain [/TRIPLE] [TRIPLE] Arr\u00f2s_negre ingredient Squid [/TRIPLE]",
-        "pred":"ingredient country",
+        "pred":"country ingredient",
         "refs":[
             "country ingredient"
         ]
@@ -578,7 +578,7 @@
     {
         "idx":72,
         "input":"[TRIPLE] Bacon_Explosion country United_States [/TRIPLE] [TRIPLE] United_States leaderName John_Roberts [/TRIPLE]",
-        "pred":"country leaderName",
+        "pred":"leaderName country",
         "refs":[
             "leaderName country"
         ]
@@ -586,7 +586,7 @@
     {
         "idx":73,
         "input":"[TRIPLE] Bacon_Explosion course \"Main_course\" [/TRIPLE] [TRIPLE] Bacon_Explosion ingredient Bacon [/TRIPLE]",
-        "pred":"ingredient course",
+        "pred":"course ingredient",
         "refs":[
             "ingredient course"
         ]
@@ -594,7 +594,7 @@
     {
         "idx":74,
         "input":"[TRIPLE] Bacon_sandwich alternativeName \"Bacon_butty,_bacon_sarnie,_rasher_sandwich,_bacon_sanger,_piece_n_bacon,_bacon_cob,_bacon_barm,_bacon_muffin\" [/TRIPLE] [TRIPLE] Bacon_sandwich ingredient Bread [/TRIPLE]",
-        "pred":"ingredient alternativeName",
+        "pred":"alternativeName ingredient",
         "refs":[
             "ingredient alternativeName"
         ]
@@ -602,7 +602,7 @@
     {
         "idx":75,
         "input":"[TRIPLE] Baked_Alaska country \"France,_United_States_or_China\" [/TRIPLE] [TRIPLE] Baked_Alaska ingredient Christmas_pudding [/TRIPLE]",
-        "pred":"ingredient country",
+        "pred":"country ingredient",
         "refs":[
             "country ingredient"
         ]
@@ -618,7 +618,7 @@
     {
         "idx":77,
         "input":"[TRIPLE] Baked_Alaska course Dessert [/TRIPLE] [TRIPLE] Dessert dishVariation Cookie [/TRIPLE]",
-        "pred":"dishVariation course",
+        "pred":"course dishVariation",
         "refs":[
             "course dishVariation"
         ]
@@ -650,7 +650,7 @@
     {
         "idx":81,
         "input":"[TRIPLE] Batchoy country Philippines [/TRIPLE] [TRIPLE] Batchoy ingredient Shrimp [/TRIPLE]",
-        "pred":"ingredient country",
+        "pred":"country ingredient",
         "refs":[
             "country ingredient"
         ]
@@ -714,7 +714,7 @@
     {
         "idx":89,
         "input":"[TRIPLE] Sweet_potato division Flowering_plant [/TRIPLE] [TRIPLE] Binignit ingredient Sweet_potato [/TRIPLE]",
-        "pred":"ingredient division",
+        "pred":"division ingredient",
         "refs":[
             "division ingredient"
         ]
@@ -722,7 +722,7 @@
     {
         "idx":90,
         "input":"[TRIPLE] Binignit mainIngredients Sweet_potato [/TRIPLE] [TRIPLE] Sweet_potato order Solanales [/TRIPLE]",
-        "pred":"order mainIngredients",
+        "pred":"mainIngredients order",
         "refs":[
             "mainIngredients order"
         ]
@@ -730,7 +730,7 @@
     {
         "idx":91,
         "input":"[TRIPLE] Bionico course Dessert [/TRIPLE] [TRIPLE] Bionico ingredient Granola [/TRIPLE]",
-        "pred":"ingredient course",
+        "pred":"course ingredient",
         "refs":[
             "course ingredient"
         ]
@@ -738,7 +738,7 @@
     {
         "idx":92,
         "input":"[TRIPLE] Bionico course Dessert [/TRIPLE] [TRIPLE] Bionico dishVariation Honey [/TRIPLE]",
-        "pred":"dishVariation course",
+        "pred":"course dishVariation",
         "refs":[
             "course dishVariation"
         ]
@@ -746,7 +746,7 @@
     {
         "idx":93,
         "input":"[TRIPLE] Bionico course Dessert [/TRIPLE] [TRIPLE] Dessert dishVariation Ice_cream [/TRIPLE]",
-        "pred":"dishVariation course",
+        "pred":"course dishVariation",
         "refs":[
             "course dishVariation"
         ]
@@ -826,7 +826,7 @@
     {
         "idx":103,
         "input":"[TRIPLE] A.E_Dimitra_Efxeinoupolis league A_EPSTH_2nd_GROUP [/TRIPLE] [TRIPLE] A.E_Dimitra_Efxeinoupolis numberOfMembers 1500 [/TRIPLE]",
-        "pred":"numberOfMembers league",
+        "pred":"league numberOfMembers",
         "refs":[
             "numberOfMembers league"
         ]
@@ -850,7 +850,7 @@
     {
         "idx":106,
         "input":"[TRIPLE] A.F.C._Fylde ground The_Fylde [/TRIPLE] [TRIPLE] A.F.C._Fylde numberOfMembers 3180 [/TRIPLE]",
-        "pred":"numberOfMembers ground",
+        "pred":"ground numberOfMembers",
         "refs":[
             "ground numberOfMembers"
         ]
@@ -898,7 +898,7 @@
     {
         "idx":112,
         "input":"[TRIPLE] AFC_Ajax numberOfMembers 53502 [/TRIPLE] [TRIPLE] AFC_Ajax owner AFC_Ajax_N.V. [/TRIPLE]",
-        "pred":"numberOfMembers owner",
+        "pred":"owner numberOfMembers",
         "refs":[
             "numberOfMembers owner"
         ]
@@ -914,7 +914,7 @@
     {
         "idx":114,
         "input":"[TRIPLE] AFC_Ajax_(amateurs) numberOfMembers 5000 [/TRIPLE] [TRIPLE] AFC_Ajax_(amateurs) season 2014\u201315_Topklasse [/TRIPLE]",
-        "pred":"numberOfMembers season",
+        "pred":"season numberOfMembers",
         "refs":[
             "numberOfMembers season"
         ]
@@ -922,7 +922,7 @@
     {
         "idx":115,
         "input":"[TRIPLE] AZAL_PFK ground AZAL_Arena [/TRIPLE] [TRIPLE] AZAL_Arena location Shuvalan [/TRIPLE]",
-        "pred":"location ground",
+        "pred":"ground location",
         "refs":[
             "ground location"
         ]
@@ -970,7 +970,7 @@
     {
         "idx":121,
         "input":"[TRIPLE] Acharya_Institute_of_Technology campus \"In_Soldevanahalli,_Acharya_Dr._Sarvapalli_Radhakrishnan_Road,_Hessarghatta_Main_Road,_Bangalore_\u2013_560090.\" [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology director \"Dr._G._P._Prabhukumar\" [/TRIPLE]",
-        "pred":"campus director",
+        "pred":"director campus",
         "refs":[
             "campus director"
         ]
@@ -1034,7 +1034,7 @@
     {
         "idx":129,
         "input":"[TRIPLE] ACM_Transactions_on_Information_Systems CODEN_code \"ATISET\" [/TRIPLE] [TRIPLE] ACM_Transactions_on_Information_Systems abbreviation \"ACM_Trans._Inf._Syst.\" [/TRIPLE]",
-        "pred":"abbreviation CODEN_code",
+        "pred":"CODEN_code abbreviation",
         "refs":[
             "CODEN_code abbreviation"
         ]
@@ -1074,7 +1074,7 @@
     {
         "idx":134,
         "input":"[TRIPLE] A_Glastonbury_Romance mediaType \"Print\" [/TRIPLE] [TRIPLE] A_Glastonbury_Romance numberOfPages \"1174\" [/TRIPLE]",
-        "pred":"numberOfPages mediaType",
+        "pred":"mediaType numberOfPages",
         "refs":[
             "numberOfPages mediaType"
         ]
@@ -1170,7 +1170,7 @@
     {
         "idx":146,
         "input":"[TRIPLE] Cornell_University affiliation Association_of_Public_and_Land-grant_Universities [/TRIPLE] [TRIPLE] Administrative_Science_Quarterly publisher Cornell_University [/TRIPLE]",
-        "pred":"publisher affiliation",
+        "pred":"affiliation publisher",
         "refs":[
             "affiliation publisher"
         ]
@@ -1194,7 +1194,7 @@
     {
         "idx":149,
         "input":"[TRIPLE] Alcatraz_Versus_the_Evil_Librarians ISBN_number \"0-439-92550-9\" [/TRIPLE] [TRIPLE] Alcatraz_Versus_the_Evil_Librarians numberOfPages \"320\" [/TRIPLE]",
-        "pred":"numberOfPages ISBN_number",
+        "pred":"ISBN_number numberOfPages",
         "refs":[
             "ISBN_number numberOfPages"
         ]
@@ -1242,7 +1242,7 @@
     {
         "idx":155,
         "input":"[TRIPLE] Agra_Airport ICAO_Location_Identifier \"VIAG\" [/TRIPLE] [TRIPLE] Agra_Airport location India [/TRIPLE] [TRIPLE] Agra_Airport operatingOrganisation Indian_Air_Force [/TRIPLE]",
-        "pred":"location operatingOrganisation ICAO_Location_Identifier",
+        "pred":"location ICAO_Location_Identifier operatingOrganisation",
         "refs":[
             "operatingOrganisation location ICAO_Location_Identifier"
         ]
@@ -1338,7 +1338,7 @@
     {
         "idx":167,
         "input":"[TRIPLE] Antwerp_International_Airport cityServed Antwerp [/TRIPLE] [TRIPLE] Antwerp_International_Airport operatingOrganisation \"Flemish_department_of_Mobility_and_Public_Works\" [/TRIPLE] [TRIPLE] Antwerp_International_Airport owner Flemish_Region [/TRIPLE]",
-        "pred":"owner operatingOrganisation cityServed",
+        "pred":"cityServed owner operatingOrganisation",
         "refs":[
             "operatingOrganisation cityServed"
         ]
@@ -1402,7 +1402,7 @@
     {
         "idx":175,
         "input":"[TRIPLE] Ardmore_Airport_(New_Zealand) 2nd_runway_SurfaceType Poaceae [/TRIPLE] [TRIPLE] Poaceae class Monocotyledon [/TRIPLE] [TRIPLE] Poaceae order Commelinids [/TRIPLE]",
-        "pred":"2nd_runway_SurfaceType order class",
+        "pred":"2nd_runway_SurfaceType class order",
         "refs":[
             "class order 2nd_runway_SurfaceType"
         ]
@@ -1450,7 +1450,7 @@
     {
         "idx":181,
         "input":"[TRIPLE] Elliot_See deathDate \"1966-02-28\" [/TRIPLE] [TRIPLE] Elliot_See deathPlace St._Louis [/TRIPLE] [TRIPLE] Elliot_See was_selected_by_NASA 1962 [/TRIPLE]",
-        "pred":"was_selected_by_NASA deathPlace deathDate",
+        "pred":"was_selected_by_NASA deathDate deathPlace",
         "refs":[
             "was_selected_by_NASA deathDate deathPlace"
         ]
@@ -1466,7 +1466,7 @@
     {
         "idx":183,
         "input":"[TRIPLE] William_Anders birthDate \"1933-10-17\" [/TRIPLE] [TRIPLE] William_Anders birthPlace British_Hong_Kong [/TRIPLE] [TRIPLE] William_Anders was_a_crew_member_of Apollo_8 [/TRIPLE]",
-        "pred":"birthPlace birthDate was_a_crew_member_of",
+        "pred":"birthDate birthPlace was_a_crew_member_of",
         "refs":[
             "birthDate birthPlace was_a_crew_member_of"
         ]
@@ -1482,7 +1482,7 @@
     {
         "idx":185,
         "input":"[TRIPLE] South_Africa ethnicGroup Coloured [/TRIPLE] [TRIPLE] South_Africa leaderName Jacob_Zuma [/TRIPLE] [TRIPLE] 11_Diagonal_Street location South_Africa [/TRIPLE]",
-        "pred":"location ethnicGroup leaderName",
+        "pred":"location leaderName ethnicGroup",
         "refs":[
             "location ethnicGroup leaderName"
         ]
@@ -1490,7 +1490,7 @@
     {
         "idx":186,
         "input":"[TRIPLE] South_Africa ethnicGroup White_South_African [/TRIPLE] [TRIPLE] South_Africa leaderName Jacob_Zuma [/TRIPLE] [TRIPLE] 11_Diagonal_Street location South_Africa [/TRIPLE]",
-        "pred":"location ethnicGroup leaderName",
+        "pred":"location leaderName ethnicGroup",
         "refs":[
             "location leaderName ethnicGroup"
         ]
@@ -1538,7 +1538,7 @@
     {
         "idx":192,
         "input":"[TRIPLE] Dublin country Republic_of_Ireland [/TRIPLE] [TRIPLE] 3Arena location Dublin [/TRIPLE] [TRIPLE] 3Arena owner Live_Nation_Entertainment [/TRIPLE]",
-        "pred":"location country owner",
+        "pred":"owner location country",
         "refs":[
             "owner location country"
         ]
@@ -1546,7 +1546,7 @@
     {
         "idx":193,
         "input":"[TRIPLE] AC_Hotel_Bella_Sky_Copenhagen architect 3XN [/TRIPLE] [TRIPLE] AC_Hotel_Bella_Sky_Copenhagen location Denmark [/TRIPLE] [TRIPLE] AC_Hotel_Bella_Sky_Copenhagen tenant Marriott_International [/TRIPLE]",
-        "pred":"architect tenant location",
+        "pred":"architect location tenant",
         "refs":[
             "tenant location architect"
         ]
@@ -1562,7 +1562,7 @@
     {
         "idx":195,
         "input":"[TRIPLE] Addis_Ababa_City_Hall currentTenants \"Government_of_Addis_Ababa\" [/TRIPLE] [TRIPLE] Addis_Ababa_City_Hall floorArea 140000.0_(square_metres) [/TRIPLE] [TRIPLE] Addis_Ababa_City_Hall height \"42_m\" [/TRIPLE]",
-        "pred":"height floorArea currentTenants",
+        "pred":"currentTenants height floorArea",
         "refs":[
             "currentTenants height floorArea"
         ]
@@ -1570,7 +1570,7 @@
     {
         "idx":196,
         "input":"[TRIPLE] Adisham_Hall architecturalStyle Tudor_Revival_architecture [/TRIPLE] [TRIPLE] Adisham_Hall completionDate 1931 [/TRIPLE] [TRIPLE] Adisham_Hall location Sri_Lanka [/TRIPLE]",
-        "pred":"location completionDate architecturalStyle",
+        "pred":"location architecturalStyle completionDate",
         "refs":[
             "location completionDate architecturalStyle"
         ]
@@ -1602,7 +1602,7 @@
     {
         "idx":200,
         "input":"[TRIPLE] College_of_William_&_Mary chancellor Robert_Gates [/TRIPLE] [TRIPLE] Alan_B._Miller_Hall location Virginia [/TRIPLE] [TRIPLE] Alan_B._Miller_Hall owner College_of_William_&_Mary [/TRIPLE]",
-        "pred":"location chancellor owner",
+        "pred":"chancellor owner location",
         "refs":[
             "chancellor owner location"
         ]
@@ -1610,7 +1610,7 @@
     {
         "idx":201,
         "input":"[TRIPLE] Mason_School_of_Business country United_States [/TRIPLE] [TRIPLE] Alan_B._Miller_Hall currentTenants Mason_School_of_Business [/TRIPLE] [TRIPLE] Alan_B._Miller_Hall location Virginia [/TRIPLE]",
-        "pred":"location country currentTenants",
+        "pred":"currentTenants location country",
         "refs":[
             "country currentTenants location"
         ]
@@ -1626,7 +1626,7 @@
     {
         "idx":203,
         "input":"[TRIPLE] Ampara_Hospital bedCount 476 [/TRIPLE] [TRIPLE] Ampara_Hospital country Sri_Lanka [/TRIPLE] [TRIPLE] Ampara_Hospital region Ampara_District [/TRIPLE]",
-        "pred":"bedCount region country",
+        "pred":"region country bedCount",
         "refs":[
             "bedCount region country"
         ]
@@ -1674,7 +1674,7 @@
     {
         "idx":209,
         "input":"[TRIPLE] Amdavad_ni_Gufa country India [/TRIPLE] [TRIPLE] India leaderName Sumitra_Mahajan [/TRIPLE] [TRIPLE] India leaderName T._S._Thakur [/TRIPLE]",
-        "pred":"country leaderName leaderName",
+        "pred":"leaderName leaderName country",
         "refs":[
             "leaderName leaderName country"
         ]
@@ -1746,7 +1746,7 @@
     {
         "idx":218,
         "input":"[TRIPLE] Ajoblanco alternativeName \"Ajo_blanco\" [/TRIPLE] [TRIPLE] Ajoblanco country Spain [/TRIPLE] [TRIPLE] Ajoblanco ingredient Bread [/TRIPLE]",
-        "pred":"alternativeName ingredient country",
+        "pred":"alternativeName country ingredient",
         "refs":[
             "country alternativeName ingredient"
         ]
@@ -1754,7 +1754,7 @@
     {
         "idx":219,
         "input":"[TRIPLE] Ajoblanco country Spain [/TRIPLE] [TRIPLE] Ajoblanco ingredient Water [/TRIPLE] [TRIPLE] Ajoblanco region Andalusia [/TRIPLE]",
-        "pred":"ingredient region country",
+        "pred":"region country ingredient",
         "refs":[
             "region country ingredient"
         ]
@@ -1762,7 +1762,7 @@
     {
         "idx":220,
         "input":"[TRIPLE] Arem-arem country Indonesia [/TRIPLE] [TRIPLE] Indonesia leaderName Joko_Widodo [/TRIPLE] [TRIPLE] Indonesia leaderName Jusuf_Kalla [/TRIPLE]",
-        "pred":"country leaderName leaderName",
+        "pred":"leaderName leaderName country",
         "refs":[
             "country leaderName leaderName"
         ]
@@ -1778,7 +1778,7 @@
     {
         "idx":222,
         "input":"[TRIPLE] Arrabbiata_sauce country Italy [/TRIPLE] [TRIPLE] Italy language Italian_language [/TRIPLE] [TRIPLE] Italy leaderName Sergio_Mattarella [/TRIPLE]",
-        "pred":"country language leaderName",
+        "pred":"country leaderName language",
         "refs":[
             "leaderName language country"
         ]
@@ -1786,7 +1786,7 @@
     {
         "idx":223,
         "input":"[TRIPLE] Arrabbiata_sauce country Italy [/TRIPLE] [TRIPLE] Arrabbiata_sauce ingredient Chili_pepper [/TRIPLE] [TRIPLE] Arrabbiata_sauce region Rome [/TRIPLE]",
-        "pred":"ingredient region country",
+        "pred":"region country ingredient",
         "refs":[
             "region country ingredient"
         ]
@@ -1794,7 +1794,7 @@
     {
         "idx":224,
         "input":"[TRIPLE] Arrabbiata_sauce country Italy [/TRIPLE] [TRIPLE] Arrabbiata_sauce ingredient Garlic [/TRIPLE] [TRIPLE] Arrabbiata_sauce region Rome [/TRIPLE]",
-        "pred":"ingredient region country",
+        "pred":"region country ingredient",
         "refs":[
             "ingredient region country"
         ]
@@ -1802,7 +1802,7 @@
     {
         "idx":225,
         "input":"[TRIPLE] Arr\u00f2s_negre country Spain [/TRIPLE] [TRIPLE] Arr\u00f2s_negre ingredient Squid [/TRIPLE] [TRIPLE] Arr\u00f2s_negre region Catalonia [/TRIPLE]",
-        "pred":"ingredient region country",
+        "pred":"region country ingredient",
         "refs":[
             "ingredient region country"
         ]
@@ -1810,7 +1810,7 @@
     {
         "idx":226,
         "input":"[TRIPLE] Arr\u00f2s_negre country Spain [/TRIPLE] [TRIPLE] Arr\u00f2s_negre ingredient Cuttlefish [/TRIPLE] [TRIPLE] Arr\u00f2s_negre region Valencian_Community [/TRIPLE]",
-        "pred":"ingredient region country",
+        "pred":"region country ingredient",
         "refs":[
             "ingredient region country"
         ]
@@ -1834,7 +1834,7 @@
     {
         "idx":229,
         "input":"[TRIPLE] Bacon_Explosion country United_States [/TRIPLE] [TRIPLE] Bacon_Explosion ingredient Bacon [/TRIPLE] [TRIPLE] Bacon_Explosion mainIngredients Sausage [/TRIPLE]",
-        "pred":"country mainIngredients ingredient",
+        "pred":"mainIngredients ingredient country",
         "refs":[
             "ingredient mainIngredients country"
         ]
@@ -1874,7 +1874,7 @@
     {
         "idx":234,
         "input":"[TRIPLE] Baked_Alaska country France [/TRIPLE] [TRIPLE] Baked_Alaska ingredient Meringue [/TRIPLE] [TRIPLE] Baked_Alaska region New_York [/TRIPLE]",
-        "pred":"ingredient region country",
+        "pred":"ingredient country region",
         "refs":[
             "ingredient region country"
         ]
@@ -1882,7 +1882,7 @@
     {
         "idx":235,
         "input":"[TRIPLE] Baked_Alaska country United_States [/TRIPLE] [TRIPLE] Baked_Alaska ingredient Sponge_cake [/TRIPLE] [TRIPLE] Baked_Alaska region New_York [/TRIPLE]",
-        "pred":"ingredient region country",
+        "pred":"ingredient country region",
         "refs":[
             "ingredient region country"
         ]
@@ -1906,7 +1906,7 @@
     {
         "idx":238,
         "input":"[TRIPLE] Bandeja_paisa country Colombian_cuisine [/TRIPLE] [TRIPLE] Bandeja_paisa ingredient Kidney_bean [/TRIPLE] [TRIPLE] Bandeja_paisa region Antioquia_Department [/TRIPLE]",
-        "pred":"ingredient region country",
+        "pred":"ingredient country region",
         "refs":[
             "country ingredient region"
         ]
@@ -1930,7 +1930,7 @@
     {
         "idx":241,
         "input":"[TRIPLE] Beef_kway_teow country Singapore [/TRIPLE] [TRIPLE] Singapore currency Singapore_dollar [/TRIPLE] [TRIPLE] Singapore leaderName Halimah_Yacob [/TRIPLE]",
-        "pred":"leaderName currency country",
+        "pred":"country currency leaderName",
         "refs":[
             "country leaderName currency"
         ]
@@ -1970,7 +1970,7 @@
     {
         "idx":246,
         "input":"[TRIPLE] Bhajji country India [/TRIPLE] [TRIPLE] India leaderName Narendra_Modi [/TRIPLE] [TRIPLE] India leaderName T._S._Thakur [/TRIPLE]",
-        "pred":"country leaderName leaderName",
+        "pred":"leaderName leaderName country",
         "refs":[
             "country leaderName leaderName"
         ]
@@ -1994,7 +1994,7 @@
     {
         "idx":249,
         "input":"[TRIPLE] Bionico country Mexico [/TRIPLE] [TRIPLE] Bionico course Dessert [/TRIPLE] [TRIPLE] Bionico ingredient Sour_cream [/TRIPLE]",
-        "pred":"ingredient course country",
+        "pred":"course country ingredient",
         "refs":[
             "course ingredient country"
         ]
@@ -2002,7 +2002,7 @@
     {
         "idx":250,
         "input":"[TRIPLE] Bionico country Mexico [/TRIPLE] [TRIPLE] Bionico ingredient Raisin [/TRIPLE] [TRIPLE] Bionico region Jalisco [/TRIPLE]",
-        "pred":"ingredient region country",
+        "pred":"region country ingredient",
         "refs":[
             "ingredient region country"
         ]
@@ -2010,7 +2010,7 @@
     {
         "idx":251,
         "input":"[TRIPLE] Celery family Apiaceae [/TRIPLE] [TRIPLE] Celery genus Apium [/TRIPLE] [TRIPLE] Bakso ingredient Celery [/TRIPLE]",
-        "pred":"genus ingredient family",
+        "pred":"genus family ingredient",
         "refs":[
             "ingredient genus family"
         ]
@@ -2018,7 +2018,7 @@
     {
         "idx":252,
         "input":"[TRIPLE] Bionico course Dessert [/TRIPLE] [TRIPLE] Dessert dishVariation Cake [/TRIPLE] [TRIPLE] Bionico ingredient Granola [/TRIPLE]",
-        "pred":"ingredient course dishVariation",
+        "pred":"course ingredient dishVariation",
         "refs":[
             "course ingredient dishVariation"
         ]
@@ -2026,7 +2026,7 @@
     {
         "idx":253,
         "input":"[TRIPLE] Indonesia capital Jakarta [/TRIPLE] [TRIPLE] Bakso country Indonesia [/TRIPLE] [TRIPLE] Indonesia leaderName Jusuf_Kalla [/TRIPLE]",
-        "pred":"country capital leaderName",
+        "pred":"country leaderName capital",
         "refs":[
             "country capital leaderName"
         ]
@@ -2066,7 +2066,7 @@
     {
         "idx":258,
         "input":"[TRIPLE] Baku_Turkish_Martyrs_Memorial dedicatedTo \"Ottoman_Army_soldiers_killed_in_the_Battle_of_Baku\" [/TRIPLE] [TRIPLE] Azerbaijan leader Artur_Rasizade [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial location Azerbaijan [/TRIPLE]",
-        "pred":"location dedicatedTo leader",
+        "pred":"dedicatedTo location leader",
         "refs":[
             "dedicatedTo location leader"
         ]
@@ -2074,7 +2074,7 @@
     {
         "idx":259,
         "input":"[TRIPLE] Baku_Turkish_Martyrs_Memorial dedicatedTo \"Ottoman_Army_soldiers_killed_in_the_Battle_of_Baku\" [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial designer \"H\u00fcseyin_B\u00fct\u00fcner_and_Hilmi_G\u00fcner\" [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial location Azerbaijan [/TRIPLE]",
-        "pred":"dedicatedTo location designer",
+        "pred":"dedicatedTo designer location",
         "refs":[
             "location designer dedicatedTo"
         ]
@@ -2082,7 +2082,7 @@
     {
         "idx":260,
         "input":"[TRIPLE] Baku_Turkish_Martyrs_Memorial designer \"H\u00fcseyin_B\u00fct\u00fcner_and_Hilmi_G\u00fcner\" [/TRIPLE] [TRIPLE] Azerbaijan leaderName Artur_Rasizade [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial location Azerbaijan [/TRIPLE]",
-        "pred":"location designer leaderName",
+        "pred":"designer location leaderName",
         "refs":[
             "leaderName location designer"
         ]
@@ -2090,7 +2090,7 @@
     {
         "idx":261,
         "input":"[TRIPLE] Baku_Turkish_Martyrs_Memorial designer \"H\u00fcseyin_B\u00fct\u00fcner_and_Hilmi_G\u00fcner\" [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial location Azerbaijan [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial nativeName \"T\u00fcrk_\u015eehitleri_An\u0131t\u0131\" [/TRIPLE]",
-        "pred":"nativeName designer location",
+        "pred":"location nativeName designer",
         "refs":[
             "designer location nativeName"
         ]
@@ -2186,7 +2186,7 @@
     {
         "idx":273,
         "input":"[TRIPLE] AFC_Ajax_(amateurs) league Hoofdklasse [/TRIPLE] [TRIPLE] AFC_Ajax_(amateurs) numberOfMembers 5000 [/TRIPLE] [TRIPLE] AFC_Ajax_(amateurs) season 2014 [/TRIPLE]",
-        "pred":"numberOfMembers league season",
+        "pred":"league season numberOfMembers",
         "refs":[
             "numberOfMembers league season"
         ]
@@ -2202,7 +2202,7 @@
     {
         "idx":275,
         "input":"[TRIPLE] AZ_Alkmaar fullname \"Alkmaar_Zaanstreek\" [/TRIPLE] [TRIPLE] AZ_Alkmaar numberOfMembers 17023 [/TRIPLE] [TRIPLE] AZ_Alkmaar season 2014 [/TRIPLE]",
-        "pred":"fullname numberOfMembers season",
+        "pred":"fullname season numberOfMembers",
         "refs":[
             "fullname season numberOfMembers"
         ]
@@ -2226,7 +2226,7 @@
     {
         "idx":278,
         "input":"[TRIPLE] Campeonato_Brasileiro_S\u00e9rie_C champions Vila_Nova_Futebol_Clube [/TRIPLE] [TRIPLE] Campeonato_Brasileiro_S\u00e9rie_C country Brazil [/TRIPLE] [TRIPLE] Agremia\u00e7\u00e3o_Sportiva_Arapiraquense league Campeonato_Brasileiro_S\u00e9rie_C [/TRIPLE]",
-        "pred":"league country champions",
+        "pred":"champions country league",
         "refs":[
             "league country champions"
         ]
@@ -2242,7 +2242,7 @@
     {
         "idx":280,
         "input":"[TRIPLE] Premier_Development_League champions K-W_United_FC [/TRIPLE] [TRIPLE] Akron_Summit_Assault league Premier_Development_League [/TRIPLE] [TRIPLE] Akron_Summit_Assault numberOfMembers 3000 [/TRIPLE]",
-        "pred":"numberOfMembers league champions",
+        "pred":"champions league numberOfMembers",
         "refs":[
             "champions league numberOfMembers"
         ]
@@ -2266,7 +2266,7 @@
     {
         "idx":283,
         "input":"[TRIPLE] Accademia_di_Architettura_di_Mendrisio country Switzerland [/TRIPLE] [TRIPLE] Accademia_di_Architettura_di_Mendrisio dean Mario_Botta [/TRIPLE] [TRIPLE] Accademia_di_Architettura_di_Mendrisio numberOfStudents 600 [/TRIPLE]",
-        "pred":"dean country numberOfStudents",
+        "pred":"country dean numberOfStudents",
         "refs":[
             "country dean numberOfStudents"
         ]
@@ -2282,7 +2282,7 @@
     {
         "idx":285,
         "input":"[TRIPLE] Acharya_Institute_of_Technology city Bangalore [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology country \"India\" [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology president \"B.M._Reddy\" [/TRIPLE]",
-        "pred":"city country president",
+        "pred":"president city country",
         "refs":[
             "president city country"
         ]
@@ -2298,7 +2298,7 @@
     {
         "idx":287,
         "input":"[TRIPLE] AWH_Engineering_College country India [/TRIPLE] [TRIPLE] India largestCity Mumbai [/TRIPLE] [TRIPLE] India river Ganges [/TRIPLE]",
-        "pred":"largestCity river country",
+        "pred":"country largestCity river",
         "refs":[
             "country largestCity river"
         ]
@@ -2306,7 +2306,7 @@
     {
         "idx":288,
         "input":"[TRIPLE] 1_Decembrie_1918_University country Romania [/TRIPLE] [TRIPLE] Romania leaderName Klaus_Iohannis [/TRIPLE] [TRIPLE] Romania leaderTitle Prime_Minister_of_Romania [/TRIPLE]",
-        "pred":"country leaderTitle leaderName",
+        "pred":"leaderTitle leaderName country",
         "refs":[
             "leaderTitle leaderName country"
         ]
@@ -2314,7 +2314,7 @@
     {
         "idx":289,
         "input":"[TRIPLE] 1_Decembrie_1918_University country Romania [/TRIPLE] [TRIPLE] 1_Decembrie_1918_University latinName \"Universitas_Apulensis\" [/TRIPLE] [TRIPLE] Romania patronSaint Andrew_the_Apostle [/TRIPLE]",
-        "pred":"latinName country patronSaint",
+        "pred":"country latinName patronSaint",
         "refs":[
             "country latinName patronSaint"
         ]
@@ -2322,7 +2322,7 @@
     {
         "idx":290,
         "input":"[TRIPLE] School_of_Business_and_Social_Sciences_at_the_Aarhus_University academicStaffSize 737 [/TRIPLE] [TRIPLE] School_of_Business_and_Social_Sciences_at_the_Aarhus_University established 1928 [/TRIPLE] [TRIPLE] School_of_Business_and_Social_Sciences_at_the_Aarhus_University numberOfStudents 16000 [/TRIPLE]",
-        "pred":"established academicStaffSize numberOfStudents",
+        "pred":"established numberOfStudents academicStaffSize",
         "refs":[
             "established academicStaffSize numberOfStudents"
         ]
@@ -2338,7 +2338,7 @@
     {
         "idx":292,
         "input":"[TRIPLE] 1634:_The_Bavarian_Crisis author Eric_Flint [/TRIPLE] [TRIPLE] Eric_Flint birthPlace Burbank,_California [/TRIPLE] [TRIPLE] 1634:_The_Bavarian_Crisis precededBy 1634:_The_Baltic_War [/TRIPLE]",
-        "pred":"birthPlace author precededBy",
+        "pred":"precededBy author birthPlace",
         "refs":[
             "birthPlace author precededBy"
         ]
@@ -2346,7 +2346,7 @@
     {
         "idx":293,
         "input":"[TRIPLE] 1634:_The_Ram_Rebellion author Eric_Flint [/TRIPLE] [TRIPLE] 1634:_The_Ram_Rebellion mediaType E-book [/TRIPLE] [TRIPLE] 1634:_The_Ram_Rebellion numberOfPages \"512\" [/TRIPLE]",
-        "pred":"author numberOfPages mediaType",
+        "pred":"author mediaType numberOfPages",
         "refs":[
             "author numberOfPages mediaType"
         ]
@@ -2362,7 +2362,7 @@
     {
         "idx":295,
         "input":"[TRIPLE] 1634:_The_Ram_Rebellion author \"Eric_Flint,_Virginia_DeMarce,_et_al.\" [/TRIPLE] [TRIPLE] 1634:_The_Ram_Rebellion mediaType E-book [/TRIPLE] [TRIPLE] 1634:_The_Ram_Rebellion numberOfPages \"512\" [/TRIPLE]",
-        "pred":"author numberOfPages mediaType",
+        "pred":"author mediaType numberOfPages",
         "refs":[
             "author numberOfPages mediaType"
         ]
@@ -2370,7 +2370,7 @@
     {
         "idx":296,
         "input":"[TRIPLE] ACM_Transactions_on_Information_Systems ISSN_number \"1046-8188\" [/TRIPLE] [TRIPLE] ACM_Transactions_on_Information_Systems abbreviation \"ACM_Trans._Inf._Syst.\" [/TRIPLE] [TRIPLE] ACM_Transactions_on_Information_Systems academicDiscipline Computer_science [/TRIPLE]",
-        "pred":"abbreviation academicDiscipline ISSN_number",
+        "pred":"abbreviation ISSN_number academicDiscipline",
         "refs":[
             "abbreviation academicDiscipline ISSN_number"
         ]
@@ -2378,7 +2378,7 @@
     {
         "idx":297,
         "input":"[TRIPLE] ACM_Transactions_on_Information_Systems ISSN_number \"1558-2868\" [/TRIPLE] [TRIPLE] ACM_Transactions_on_Information_Systems abbreviation \"ACM_Trans._Inf._Syst.\" [/TRIPLE] [TRIPLE] ACM_Transactions_on_Information_Systems academicDiscipline Computer_science [/TRIPLE]",
-        "pred":"abbreviation academicDiscipline ISSN_number",
+        "pred":"abbreviation ISSN_number academicDiscipline",
         "refs":[
             "ISSN_number academicDiscipline abbreviation"
         ]
@@ -2394,7 +2394,7 @@
     {
         "idx":299,
         "input":"[TRIPLE] AIP_Advances editor A.T._Charlie_Johnson [/TRIPLE] [TRIPLE] AIP_Advances publisher American_Institute_of_Physics [/TRIPLE] [TRIPLE] A.T._Charlie_Johnson residence United_States [/TRIPLE]",
-        "pred":"editor residence publisher",
+        "pred":"publisher editor residence",
         "refs":[
             "residence editor publisher"
         ]
@@ -2490,7 +2490,7 @@
     {
         "idx":311,
         "input":"[TRIPLE] Acta_Mathematica_Hungarica ISSN_number \"0236-5294\" [/TRIPLE] [TRIPLE] Acta_Mathematica_Hungarica abbreviation \"Acta_Math._Hungar.\" [/TRIPLE] [TRIPLE] Acta_Mathematica_Hungarica academicDiscipline Mathematics [/TRIPLE]",
-        "pred":"abbreviation academicDiscipline ISSN_number",
+        "pred":"abbreviation ISSN_number academicDiscipline",
         "refs":[
             "ISSN_number abbreviation academicDiscipline"
         ]
@@ -2506,7 +2506,7 @@
     {
         "idx":313,
         "input":"[TRIPLE] Addiction_(journal) ISSN_number \"0965-2140\" [/TRIPLE] [TRIPLE] Addiction_(journal) abbreviation \"Addiction\" [/TRIPLE] [TRIPLE] Addiction_(journal) academicDiscipline Addiction [/TRIPLE]",
-        "pred":"abbreviation ISSN_number academicDiscipline",
+        "pred":"abbreviation ISSN_number",
         "refs":[
             "abbreviation ISSN_number"
         ]
@@ -2530,7 +2530,7 @@
     {
         "idx":316,
         "input":"[TRIPLE] American_Journal_of_Mathematics ISSN_number \"1080-6377\" [/TRIPLE] [TRIPLE] American_Journal_of_Mathematics abbreviation \"Am._J._Math.\" [/TRIPLE] [TRIPLE] American_Journal_of_Mathematics academicDiscipline Mathematics [/TRIPLE]",
-        "pred":"abbreviation academicDiscipline ISSN_number",
+        "pred":"abbreviation ISSN_number academicDiscipline",
         "refs":[
             "abbreviation academicDiscipline ISSN_number"
         ]
@@ -2586,7 +2586,7 @@
     {
         "idx":323,
         "input":"[TRIPLE] Alcobendas country Spain [/TRIPLE] [TRIPLE] Adolfo_Su\u00e1rez_Madrid\u2013Barajas_Airport location Alcobendas [/TRIPLE] [TRIPLE] ENAIRE locationCity Madrid [/TRIPLE] [TRIPLE] Adolfo_Su\u00e1rez_Madrid\u2013Barajas_Airport operatingOrganisation ENAIRE [/TRIPLE]",
-        "pred":"location operatingOrganisation locationCity country",
+        "pred":"location country operatingOrganisation locationCity",
         "refs":[
             "location country operatingOrganisation locationCity"
         ]
@@ -2618,7 +2618,7 @@
     {
         "idx":327,
         "input":"[TRIPLE] United_States_Air_Force aircraftFighter General_Dynamics_F-16_Fighting_Falcon [/TRIPLE] [TRIPLE] United_States_Air_Force attackAircraft Lockheed_AC-130 [/TRIPLE] [TRIPLE] United_States_Air_Force battles 1986_United_States_bombing_of_Libya [/TRIPLE] [TRIPLE] Al_Asad_Airbase operatingOrganisation United_States_Air_Force [/TRIPLE]",
-        "pred":"operatingOrganisation attackAircraft aircraftFighter battles",
+        "pred":"operatingOrganisation battles attackAircraft aircraftFighter",
         "refs":[
             "operatingOrganisation battles aircraftFighter attackAircraft"
         ]
@@ -2626,7 +2626,7 @@
     {
         "idx":328,
         "input":"[TRIPLE] United_States_Air_Force aircraftFighter General_Dynamics_F-16_Fighting_Falcon [/TRIPLE] [TRIPLE] United_States_Air_Force attackAircraft Lockheed_AC-130 [/TRIPLE] [TRIPLE] United_States_Air_Force battles Operation_Enduring_Freedom [/TRIPLE] [TRIPLE] Al_Asad_Airbase operatingOrganisation United_States_Air_Force [/TRIPLE]",
-        "pred":"operatingOrganisation attackAircraft aircraftFighter battles",
+        "pred":"operatingOrganisation aircraftFighter attackAircraft",
         "refs":[
             "operatingOrganisation battles attackAircraft aircraftFighter"
         ]
@@ -2634,7 +2634,7 @@
     {
         "idx":329,
         "input":"[TRIPLE] United_States_Air_Force aircraftFighter McDonnell_Douglas_F-15_Eagle [/TRIPLE] [TRIPLE] United_States_Air_Force attackAircraft Lockheed_AC-130 [/TRIPLE] [TRIPLE] United_States_Air_Force battles Operation_Enduring_Freedom [/TRIPLE] [TRIPLE] Al_Asad_Airbase operatingOrganisation United_States_Air_Force [/TRIPLE]",
-        "pred":"operatingOrganisation attackAircraft aircraftFighter battles",
+        "pred":"operatingOrganisation attackAircraft aircraftFighter",
         "refs":[
             "operatingOrganisation attackAircraft aircraftFighter battles"
         ]
@@ -2642,7 +2642,7 @@
     {
         "idx":330,
         "input":"[TRIPLE] United_States_Air_Force aircraftFighter General_Dynamics_F-16_Fighting_Falcon [/TRIPLE] [TRIPLE] United_States_Air_Force attackAircraft Lockheed_AC-130 [/TRIPLE] [TRIPLE] United_States_Air_Force battles Invasion_of_Grenada [/TRIPLE] [TRIPLE] Al_Asad_Airbase operatingOrganisation United_States_Air_Force [/TRIPLE]",
-        "pred":"operatingOrganisation attackAircraft aircraftFighter battles",
+        "pred":"operatingOrganisation battles attackAircraft aircraftFighter",
         "refs":[
             "operatingOrganisation battles attackAircraft aircraftFighter"
         ]
@@ -2650,7 +2650,7 @@
     {
         "idx":331,
         "input":"[TRIPLE] Pakistan_Civil_Aviation_Authority headquarter Jinnah_International_Airport [/TRIPLE] [TRIPLE] Punjab,_Pakistan leaderTitle Provincial_Assembly_of_the_Punjab [/TRIPLE] [TRIPLE] Allama_Iqbal_International_Airport location Punjab,_Pakistan [/TRIPLE] [TRIPLE] Allama_Iqbal_International_Airport operatingOrganisation Pakistan_Civil_Aviation_Authority [/TRIPLE]",
-        "pred":"location operatingOrganisation headquarter leaderTitle",
+        "pred":"operatingOrganisation location leaderTitle",
         "refs":[
             "headquarter operatingOrganisation location leaderTitle"
         ]
@@ -2658,7 +2658,7 @@
     {
         "idx":332,
         "input":"[TRIPLE] Alpena_County_Regional_Airport cityServed Alpena,_Michigan [/TRIPLE] [TRIPLE] Alpena_County_Regional_Airport elevationAboveTheSeaLevel_(in_metres) 210 [/TRIPLE] [TRIPLE] Alpena_County_Regional_Airport location Maple_Ridge_Township,_Alpena_County,_Michigan [/TRIPLE] [TRIPLE] Alpena_County_Regional_Airport runwayLength 1533.0 [/TRIPLE]",
-        "pred":"location cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength",
+        "pred":"cityServed location elevationAboveTheSeaLevel_(in_metres) runwayLength",
         "refs":[
             "cityServed location runwayLength elevationAboveTheSeaLevel_(in_metres)"
         ]
@@ -2698,7 +2698,7 @@
     {
         "idx":337,
         "input":"[TRIPLE] Texas capital Austin,_Texas [/TRIPLE] [TRIPLE] Texas country United_States [/TRIPLE] [TRIPLE] Texas largestCity Houston [/TRIPLE] [TRIPLE] Andrews_County_Airport location Texas [/TRIPLE]",
-        "pred":"location country largestCity capital",
+        "pred":"country capital largestCity location",
         "refs":[
             "location country capital largestCity"
         ]
@@ -2714,7 +2714,7 @@
     {
         "idx":339,
         "input":"[TRIPLE] Antwerp_International_Airport cityServed Antwerp [/TRIPLE] [TRIPLE] Flemish_Region country Belgium [/TRIPLE] [TRIPLE] Flemish_Government jurisdiction Flemish_Region [/TRIPLE] [TRIPLE] Flemish_Region leaderName Flemish_Government [/TRIPLE]",
-        "pred":"cityServed country leaderName jurisdiction",
+        "pred":"cityServed leaderName country",
         "refs":[
             "leaderName country cityServed"
         ]
@@ -2722,7 +2722,7 @@
     {
         "idx":340,
         "input":"[TRIPLE] Appleton_International_Airport cityServed Appleton,_Wisconsin [/TRIPLE] [TRIPLE] Appleton_International_Airport elevationAboveTheSeaLevel_(in_metres) 280 [/TRIPLE] [TRIPLE] Appleton_International_Airport location Greenville,_Wisconsin [/TRIPLE] [TRIPLE] Appleton_International_Airport runwayLength 2439.0 [/TRIPLE]",
-        "pred":"location cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength",
+        "pred":"cityServed location elevationAboveTheSeaLevel_(in_metres) runwayLength",
         "refs":[
             "location elevationAboveTheSeaLevel_(in_metres) cityServed runwayLength"
         ]
@@ -2730,7 +2730,7 @@
     {
         "idx":341,
         "input":"[TRIPLE] Appleton_International_Airport cityServed Appleton,_Wisconsin [/TRIPLE] [TRIPLE] Greenville,_Wisconsin isPartOf Dale,_Wisconsin [/TRIPLE] [TRIPLE] Greenville,_Wisconsin isPartOf Menasha_(town),_Wisconsin [/TRIPLE] [TRIPLE] Appleton_International_Airport location Greenville,_Wisconsin [/TRIPLE]",
-        "pred":"location cityServed isPartOf isPartOf",
+        "pred":"cityServed location isPartOf isPartOf",
         "refs":[
             "cityServed location isPartOf isPartOf"
         ]
@@ -2738,7 +2738,7 @@
     {
         "idx":342,
         "input":"[TRIPLE] Ardmore_Airport_(New_Zealand) 3rd_runway_SurfaceType Poaceae [/TRIPLE] [TRIPLE] Poaceae class Monocotyledon [/TRIPLE] [TRIPLE] Poaceae order Commelinids [/TRIPLE] [TRIPLE] Poaceae order Poales [/TRIPLE]",
-        "pred":"3rd_runway_SurfaceType order class order",
+        "pred":"3rd_runway_SurfaceType class order order",
         "refs":[
             "order class order 3rd_runway_SurfaceType"
         ]
@@ -2746,7 +2746,7 @@
     {
         "idx":343,
         "input":"[TRIPLE] Ardmore_Airport_(New_Zealand) 3rd_runway_SurfaceType Poaceae [/TRIPLE] [TRIPLE] Ardmore_Airport_(New_Zealand) elevationAboveTheSeaLevel_(in_metres) 34.0 [/TRIPLE] [TRIPLE] Ardmore_Airport_(New_Zealand) runwayLength 597.0 [/TRIPLE] [TRIPLE] Ardmore_Airport_(New_Zealand) runwayName \"03R/21L\" [/TRIPLE]",
-        "pred":"elevationAboveTheSeaLevel_(in_metres) 3rd_runway_SurfaceType runwayLength runwayName",
+        "pred":"elevationAboveTheSeaLevel_(in_metres) 3rd_runway_SurfaceType runwayName runwayLength",
         "refs":[
             "elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName 3rd_runway_SurfaceType"
         ]
@@ -2754,7 +2754,7 @@
     {
         "idx":344,
         "input":"[TRIPLE] Egg_Harbor_Township,_New_Jersey country United_States [/TRIPLE] [TRIPLE] Egg_Harbor_Township,_New_Jersey isPartOf Atlantic_County,_New_Jersey [/TRIPLE] [TRIPLE] Atlantic_City_International_Airport location Egg_Harbor_Township,_New_Jersey [/TRIPLE] [TRIPLE] Atlantic_City_International_Airport runwayLength 1873.0 [/TRIPLE]",
-        "pred":"location isPartOf country runwayLength",
+        "pred":"isPartOf country location runwayLength",
         "refs":[
             "runwayLength location isPartOf country"
         ]
@@ -2770,7 +2770,7 @@
     {
         "idx":346,
         "input":"[TRIPLE] Egg_Harbor_Township,_New_Jersey country United_States [/TRIPLE] [TRIPLE] Egg_Harbor_Township,_New_Jersey isPartOf New_Jersey [/TRIPLE] [TRIPLE] Atlantic_City_International_Airport location Egg_Harbor_Township,_New_Jersey [/TRIPLE] [TRIPLE] Atlantic_City_International_Airport runwayLength 3048.0 [/TRIPLE]",
-        "pred":"location isPartOf country runwayLength",
+        "pred":"isPartOf country location runwayLength",
         "refs":[
             "isPartOf country location runwayLength"
         ]
@@ -2778,7 +2778,7 @@
     {
         "idx":347,
         "input":"[TRIPLE] Ardmore_Airport_(New_Zealand) 2nd_runway_SurfaceType Poaceae [/TRIPLE] [TRIPLE] Poaceae class Monocotyledon [/TRIPLE] [TRIPLE] Poaceae division Flowering_plant [/TRIPLE] [TRIPLE] Poaceae order Commelinids [/TRIPLE]",
-        "pred":"2nd_runway_SurfaceType division order class",
+        "pred":"2nd_runway_SurfaceType class division order",
         "refs":[
             "class order division 2nd_runway_SurfaceType"
         ]
@@ -2794,7 +2794,7 @@
     {
         "idx":349,
         "input":"[TRIPLE] Alan_Shepard almaMater \"NWC,_M.A._1957\" [/TRIPLE] [TRIPLE] Alan_Shepard birthDate \"1923-11-18\" [/TRIPLE] [TRIPLE] Alan_Shepard birthPlace New_Hampshire [/TRIPLE] [TRIPLE] Alan_Shepard dateOfRetirement \"1974-08-01\" [/TRIPLE]",
-        "pred":"birthPlace birthDate almaMater dateOfRetirement",
+        "pred":"birthDate birthPlace almaMater dateOfRetirement",
         "refs":[
             "birthPlace birthDate almaMater dateOfRetirement"
         ]
@@ -2802,7 +2802,7 @@
     {
         "idx":350,
         "input":"[TRIPLE] Alan_Shepard birthPlace New_Hampshire [/TRIPLE] [TRIPLE] Alan_Shepard deathPlace California [/TRIPLE] [TRIPLE] Alan_Shepard occupation Test_pilot [/TRIPLE] [TRIPLE] Alan_Shepard status \"Deceased\" [/TRIPLE]",
-        "pred":"occupation birthPlace deathPlace",
+        "pred":"birthPlace occupation deathPlace",
         "refs":[
             "occupation deathPlace birthPlace"
         ]
@@ -2818,7 +2818,7 @@
     {
         "idx":352,
         "input":"[TRIPLE] Apollo_12 backup_pilot Alfred_Worden [/TRIPLE] [TRIPLE] Apollo_12 commander David_Scott [/TRIPLE] [TRIPLE] Apollo_12 operator NASA [/TRIPLE] [TRIPLE] Alan_Bean was_a_crew_member_of Apollo_12 [/TRIPLE]",
-        "pred":"was_a_crew_member_of operator commander backup_pilot",
+        "pred":"was_a_crew_member_of operator backup_pilot commander",
         "refs":[
             "backup_pilot was_a_crew_member_of commander operator"
         ]
@@ -2826,7 +2826,7 @@
     {
         "idx":353,
         "input":"[TRIPLE] Buzz_Aldrin birthPlace Glen_Ridge,_New_Jersey [/TRIPLE] [TRIPLE] Glen_Ridge,_New_Jersey isPartOf Essex_County,_New_Jersey [/TRIPLE] [TRIPLE] United_States leaderName Joe_Biden [/TRIPLE] [TRIPLE] Buzz_Aldrin nationality United_States [/TRIPLE]",
-        "pred":"nationality birthPlace isPartOf leaderName",
+        "pred":"birthPlace isPartOf nationality leaderName",
         "refs":[
             "nationality leaderName birthPlace isPartOf"
         ]
@@ -2858,7 +2858,7 @@
     {
         "idx":357,
         "input":"[TRIPLE] Elliot_See birthDate \"1927-07-23\" [/TRIPLE] [TRIPLE] Elliot_See birthPlace Dallas [/TRIPLE] [TRIPLE] Elliot_See deathDate \"1966-02-28\" [/TRIPLE] [TRIPLE] Elliot_See deathPlace St._Louis [/TRIPLE]",
-        "pred":"birthPlace birthDate deathPlace deathDate",
+        "pred":"birthDate birthPlace deathDate deathPlace",
         "refs":[
             "birthDate birthPlace deathPlace deathDate"
         ]
@@ -2890,7 +2890,7 @@
     {
         "idx":361,
         "input":"[TRIPLE] Cleveland governingBody Cleveland_City_Council [/TRIPLE] [TRIPLE] Cleveland isPartOf Cuyahoga_County,_Ohio [/TRIPLE] [TRIPLE] Cleveland isPartOf Ohio [/TRIPLE] [TRIPLE] 200_Public_Square location Cleveland [/TRIPLE]",
-        "pred":"location isPartOf isPartOf governingBody",
+        "pred":"governingBody isPartOf isPartOf location",
         "refs":[
             "location isPartOf governingBody"
         ]
@@ -2898,7 +2898,7 @@
     {
         "idx":362,
         "input":"[TRIPLE] 250_Delaware_Avenue architecturalStyle Postmodern_architecture [/TRIPLE] [TRIPLE] 250_Delaware_Avenue buildingStartDate \"January,_2014\" [/TRIPLE] [TRIPLE] 250_Delaware_Avenue floorArea 30843.8_(square_metres) [/TRIPLE] [TRIPLE] 250_Delaware_Avenue floorCount 12 [/TRIPLE]",
-        "pred":"architecturalStyle buildingStartDate floorCount floorArea",
+        "pred":"buildingStartDate floorCount floorArea architecturalStyle",
         "refs":[
             "buildingStartDate architecturalStyle floorCount floorArea"
         ]
@@ -2922,7 +2922,7 @@
     {
         "idx":365,
         "input":"[TRIPLE] Dublin isPartOf Republic_of_Ireland [/TRIPLE] [TRIPLE] Dublin leaderName Cr\u00edona_N\u00ed_Dh\u00e1laigh [/TRIPLE] [TRIPLE] 3Arena location Dublin [/TRIPLE] [TRIPLE] 3Arena owner Live_Nation_Entertainment [/TRIPLE]",
-        "pred":"location isPartOf owner leaderName",
+        "pred":"owner location isPartOf leaderName",
         "refs":[
             "owner location isPartOf leaderName"
         ]
@@ -2930,7 +2930,7 @@
     {
         "idx":366,
         "input":"[TRIPLE] AC_Hotel_Bella_Sky_Copenhagen floorCount 23 [/TRIPLE] [TRIPLE] AC_Hotel_Bella_Sky_Copenhagen location Denmark [/TRIPLE] [TRIPLE] AC_Hotel_Bella_Sky_Copenhagen owner Bella_Center [/TRIPLE] [TRIPLE] AC_Hotel_Bella_Sky_Copenhagen tenant Marriott_International [/TRIPLE]",
-        "pred":"floorCount owner location tenant",
+        "pred":"tenant location owner floorCount",
         "refs":[
             "location tenant owner floorCount"
         ]
@@ -2938,7 +2938,7 @@
     {
         "idx":367,
         "input":"[TRIPLE] AC_Hotel_Bella_Sky_Copenhagen architect 3XN [/TRIPLE] [TRIPLE] AC_Hotel_Bella_Sky_Copenhagen floorCount 23 [/TRIPLE] [TRIPLE] AC_Hotel_Bella_Sky_Copenhagen owner Bella_Center [/TRIPLE] [TRIPLE] AC_Hotel_Bella_Sky_Copenhagen tenant Marriott_International [/TRIPLE]",
-        "pred":"owner floorCount tenant architect",
+        "pred":"owner floorCount architect tenant",
         "refs":[
             "floorCount tenant architect owner"
         ]
@@ -2962,7 +2962,7 @@
     {
         "idx":370,
         "input":"[TRIPLE] Adisham_Hall architecturalStyle Tudor_Revival_architecture [/TRIPLE] [TRIPLE] Adisham_Hall buildingStartDate \"1927\" [/TRIPLE] [TRIPLE] Adisham_Hall completionDate 1931 [/TRIPLE] [TRIPLE] Adisham_Hall location Sri_Lanka [/TRIPLE]",
-        "pred":"buildingStartDate completionDate location architecturalStyle",
+        "pred":"buildingStartDate completionDate architecturalStyle location",
         "refs":[
             "location buildingStartDate completionDate architecturalStyle"
         ]
@@ -2978,7 +2978,7 @@
     {
         "idx":372,
         "input":"[TRIPLE] Alan_B._Miller_Hall architect Robert_A._M._Stern [/TRIPLE] [TRIPLE] Mason_School_of_Business country United_States [/TRIPLE] [TRIPLE] Alan_B._Miller_Hall currentTenants Mason_School_of_Business [/TRIPLE] [TRIPLE] Alan_B._Miller_Hall location Virginia [/TRIPLE]",
-        "pred":"architect currentTenants location country",
+        "pred":"architect location country currentTenants",
         "refs":[
             "country currentTenants architect location"
         ]
@@ -2986,7 +2986,7 @@
     {
         "idx":373,
         "input":"[TRIPLE] Alan_B._Miller_Hall completionDate \"1_June_2009\" [/TRIPLE] [TRIPLE] Mason_School_of_Business country United_States [/TRIPLE] [TRIPLE] Alan_B._Miller_Hall currentTenants Mason_School_of_Business [/TRIPLE] [TRIPLE] Alan_B._Miller_Hall location Virginia [/TRIPLE]",
-        "pred":"completionDate location currentTenants country",
+        "pred":"currentTenants completionDate location country",
         "refs":[
             "location completionDate country currentTenants"
         ]
@@ -2994,7 +2994,7 @@
     {
         "idx":374,
         "input":"[TRIPLE] Amdavad_ni_Gufa country India [/TRIPLE] [TRIPLE] India leaderName Narendra_Modi [/TRIPLE] [TRIPLE] India leaderName Sumitra_Mahajan [/TRIPLE] [TRIPLE] Amdavad_ni_Gufa location Ahmedabad [/TRIPLE]",
-        "pred":"location country leaderName leaderName",
+        "pred":"leaderName leaderName country location",
         "refs":[
             "leaderName leaderName country location"
         ]
@@ -3002,7 +3002,7 @@
     {
         "idx":375,
         "input":"[TRIPLE] Amdavad_ni_Gufa address \"Lalbhai_Dalpatbhai_Campus,_near_CEPT_University,_opp._Gujarat_University,_University_Road\" [/TRIPLE] [TRIPLE] Amdavad_ni_Gufa country India [/TRIPLE] [TRIPLE] Amdavad_ni_Gufa location Ahmedabad [/TRIPLE] [TRIPLE] Amdavad_ni_Gufa location Gujarat [/TRIPLE]",
-        "pred":"location location country address",
+        "pred":"address location location country",
         "refs":[
             "address location location country"
         ]
@@ -3050,7 +3050,7 @@
     {
         "idx":381,
         "input":"[TRIPLE] 103_Colmore_Row architect John_Madin [/TRIPLE] [TRIPLE] John_Madin hometown Birmingham [/TRIPLE] [TRIPLE] Birmingham leaderName John_Clancy_(Labour_politician) [/TRIPLE] [TRIPLE] Birmingham postalCode B_postcode_area [/TRIPLE]",
-        "pred":"postalCode leaderName hometown architect",
+        "pred":"architect hometown postalCode leaderName",
         "refs":[
             "architect hometown leaderName postalCode"
         ]
@@ -3066,7 +3066,7 @@
     {
         "idx":383,
         "input":"[TRIPLE] United_States capital Washington,_D.C. [/TRIPLE] [TRIPLE] United_States leaderName Paul_Ryan [/TRIPLE] [TRIPLE] United_States leaderTitle President_of_the_United_States [/TRIPLE] [TRIPLE] 250_Delaware_Avenue location United_States [/TRIPLE]",
-        "pred":"location capital leaderTitle leaderName",
+        "pred":"leaderName leaderTitle capital location",
         "refs":[
             "leaderTitle capital leaderName location"
         ]
@@ -3074,7 +3074,7 @@
     {
         "idx":384,
         "input":"[TRIPLE] Bananaman broadcastedBy \"STV\" [/TRIPLE] [TRIPLE] Bananaman creator Steve_Bright [/TRIPLE] [TRIPLE] Bananaman firstAired \"1983-10-03\" [/TRIPLE] [TRIPLE] Bananaman starring Tim_Brooke-Taylor [/TRIPLE]",
-        "pred":"broadcastedBy firstAired creator starring",
+        "pred":"starring creator broadcastedBy firstAired",
         "refs":[
             "starring broadcastedBy firstAired creator"
         ]
@@ -3130,7 +3130,7 @@
     {
         "idx":391,
         "input":"[TRIPLE] Arem-arem dishVariation Lemper [/TRIPLE] [TRIPLE] Arem-arem ingredient Banana_leaf [/TRIPLE] [TRIPLE] Arem-arem mainIngredients \"compressed_rice_cooked_in_banana_leaf_with_vegetables_or_minced_meat_fillings\" [/TRIPLE] [TRIPLE] Arem-arem region Javanese_cuisine [/TRIPLE]",
-        "pred":"dishVariation region mainIngredients",
+        "pred":"region mainIngredients dishVariation",
         "refs":[
             "dishVariation ingredient mainIngredients region"
         ]
@@ -3202,7 +3202,7 @@
     {
         "idx":400,
         "input":"[TRIPLE] United_States capital Washington,_D.C. [/TRIPLE] [TRIPLE] Bacon_Explosion country United_States [/TRIPLE] [TRIPLE] United_States ethnicGroup Asian_Americans [/TRIPLE] [TRIPLE] United_States leaderName Paul_Ryan [/TRIPLE]",
-        "pred":"country leaderName capital ethnicGroup",
+        "pred":"country leaderName ethnicGroup capital",
         "refs":[
             "country leaderName ethnicGroup capital"
         ]
@@ -3234,7 +3234,7 @@
     {
         "idx":404,
         "input":"[TRIPLE] Baked_Alaska country \"France,_United_States_or_China\" [/TRIPLE] [TRIPLE] Baked_Alaska ingredient Meringue [/TRIPLE] [TRIPLE] Baked_Alaska mainIngredients \"Meringue,_ice_cream,_sponge_cake_or_Christmas_pudding\" [/TRIPLE] [TRIPLE] Baked_Alaska region \"Paris,_New_York_or_Hong_Kong\" [/TRIPLE]",
-        "pred":"mainIngredients region country",
+        "pred":"country mainIngredients",
         "refs":[
             "mainIngredients country region"
         ]
@@ -3242,7 +3242,7 @@
     {
         "idx":405,
         "input":"[TRIPLE] Baked_Alaska country United_States [/TRIPLE] [TRIPLE] Baked_Alaska ingredient Ice_cream [/TRIPLE] [TRIPLE] Baked_Alaska mainIngredients \"Meringue,_ice_cream,_sponge_cake_or_Christmas_pudding\" [/TRIPLE] [TRIPLE] Baked_Alaska region \"Paris,_New_York_or_Hong_Kong\" [/TRIPLE]",
-        "pred":"mainIngredients region country",
+        "pred":"region country mainIngredients",
         "refs":[
             "region mainIngredients"
         ]
@@ -3274,7 +3274,7 @@
     {
         "idx":409,
         "input":"[TRIPLE] Bandeja_paisa country Colombian_cuisine [/TRIPLE] [TRIPLE] Bandeja_paisa ingredient Rice [/TRIPLE] [TRIPLE] Bandeja_paisa mainIngredients \"red_beans,_pork_belly,_white_rice,_ground_meat,_chicharon,_fried_egg,_plantain_(patacones),_chorizo,_arepa,_hogao_sauce,_black_pudding_(morcilla),_avocado_and_lemon\" [/TRIPLE] [TRIPLE] Bandeja_paisa region Paisa_Region [/TRIPLE]",
-        "pred":"region country mainIngredients",
+        "pred":"country region mainIngredients",
         "refs":[
             "country region mainIngredients"
         ]
@@ -3290,7 +3290,7 @@
     {
         "idx":411,
         "input":"[TRIPLE] Batagor country Indonesia [/TRIPLE] [TRIPLE] Batagor dishVariation Shumai [/TRIPLE] [TRIPLE] Shumai dishVariation Siomay [/TRIPLE] [TRIPLE] Shumai ingredient Shiitake [/TRIPLE]",
-        "pred":"dishVariation dishVariation ingredient country",
+        "pred":"country dishVariation dishVariation ingredient",
         "refs":[
             "country dishVariation dishVariation ingredient"
         ]
@@ -3306,7 +3306,7 @@
     {
         "idx":413,
         "input":"[TRIPLE] Beef_kway_teow country \"Singapore_and_Indonesia\" [/TRIPLE] [TRIPLE] Beef_kway_teow ingredient Oyster_sauce [/TRIPLE] [TRIPLE] Beef_kway_teow mainIngredients \"Kway_teow,_beef_tender_loin,_gula_Melaka,_sliced,_dried_black_beans,_garlic,_dark_soy_sauce,_lengkuas,_oyster_sauce,_soya_sauce,_chilli_and_sesame_oil\" [/TRIPLE] [TRIPLE] Beef_kway_teow region Indonesia [/TRIPLE]",
-        "pred":"region country mainIngredients",
+        "pred":"country mainIngredients",
         "refs":[
             "country mainIngredients"
         ]
@@ -3322,7 +3322,7 @@
     {
         "idx":415,
         "input":"[TRIPLE] Beef_kway_teow country \"Singapore_and_Indonesia\" [/TRIPLE] [TRIPLE] Singapore language English_language [/TRIPLE] [TRIPLE] Singapore leaderName Tony_Tan [/TRIPLE] [TRIPLE] Beef_kway_teow region Singapore [/TRIPLE]",
-        "pred":"region country leaderName language",
+        "pred":"country region leaderName language",
         "refs":[
             "region language country leaderName"
         ]
@@ -3330,7 +3330,7 @@
     {
         "idx":416,
         "input":"[TRIPLE] Bhajji country India [/TRIPLE] [TRIPLE] India currency Indian_rupee [/TRIPLE] [TRIPLE] India leaderName Narendra_Modi [/TRIPLE] [TRIPLE] India leaderName T._S._Thakur [/TRIPLE]",
-        "pred":"leaderName leaderName currency country",
+        "pred":"country currency leaderName leaderName",
         "refs":[
             "country leaderName leaderName currency"
         ]
@@ -3338,7 +3338,7 @@
     {
         "idx":417,
         "input":"[TRIPLE] Bhajji country India [/TRIPLE] [TRIPLE] India demonym Indian_people [/TRIPLE] [TRIPLE] India leaderName Sumitra_Mahajan [/TRIPLE] [TRIPLE] India leaderName T._S._Thakur [/TRIPLE]",
-        "pred":"leaderName leaderName demonym country",
+        "pred":"country leaderName leaderName demonym",
         "refs":[
             "country demonym leaderName leaderName"
         ]
@@ -3386,7 +3386,7 @@
     {
         "idx":423,
         "input":"[TRIPLE] Indonesia capital Jakarta [/TRIPLE] [TRIPLE] Bakso country Chinese_cuisine [/TRIPLE] [TRIPLE] Indonesia leaderName Jusuf_Kalla [/TRIPLE] [TRIPLE] Bakso region Indonesia [/TRIPLE]",
-        "pred":"region country leaderName capital",
+        "pred":"country region capital leaderName",
         "refs":[
             "country region leaderName capital"
         ]
@@ -3394,7 +3394,7 @@
     {
         "idx":424,
         "input":"[TRIPLE] Bakso country Indonesia [/TRIPLE] [TRIPLE] Bakso ingredient Celery [/TRIPLE] [TRIPLE] Indonesia leaderName Jusuf_Kalla [/TRIPLE] [TRIPLE] Bakso region Indonesia [/TRIPLE]",
-        "pred":"ingredient region leaderName",
+        "pred":"region leaderName ingredient",
         "refs":[
             "region ingredient leaderName country"
         ]
@@ -3426,7 +3426,7 @@
     {
         "idx":428,
         "input":"[TRIPLE] Batchoy country Philippines [/TRIPLE] [TRIPLE] Philippines ethnicGroup Ilocano_people [/TRIPLE] [TRIPLE] Philippines ethnicGroup Moro_people [/TRIPLE] [TRIPLE] Philippines language Philippine_Spanish [/TRIPLE]",
-        "pred":"country language ethnicGroup ethnicGroup",
+        "pred":"country ethnicGroup ethnicGroup language",
         "refs":[
             "language ethnicGroup ethnicGroup"
         ]
@@ -3434,7 +3434,7 @@
     {
         "idx":429,
         "input":"[TRIPLE] Arr\u00f2s_negre country Spain [/TRIPLE] [TRIPLE] Spain currency Euro [/TRIPLE] [TRIPLE] Spain ethnicGroup Spaniards [/TRIPLE] [TRIPLE] Spain leaderName Felipe_VI_of_Spain [/TRIPLE]",
-        "pred":"country leaderName ethnicGroup currency",
+        "pred":"country leaderName currency ethnicGroup",
         "refs":[
             "country leaderName currency ethnicGroup"
         ]
@@ -3442,7 +3442,7 @@
     {
         "idx":430,
         "input":"[TRIPLE] Adams_County,_Pennsylvania has_to_its_north Cumberland_County,_Pennsylvania [/TRIPLE] [TRIPLE] Adams_County,_Pennsylvania has_to_its_southeast Carroll_County,_Maryland [/TRIPLE] [TRIPLE] 11th_Mississippi_Infantry_Monument location Adams_County,_Pennsylvania [/TRIPLE] [TRIPLE] 11th_Mississippi_Infantry_Monument municipality Gettysburg,_Pennsylvania [/TRIPLE]",
-        "pred":"municipality location has_to_its_north has_to_its_southeast",
+        "pred":"municipality location has_to_its_southeast has_to_its_north",
         "refs":[
             "has_to_its_southeast has_to_its_north location municipality"
         ]
@@ -3458,7 +3458,7 @@
     {
         "idx":432,
         "input":"[TRIPLE] Azerbaijan capital Baku [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial dedicatedTo \"Ottoman_Army_soldiers_killed_in_the_Battle_of_Baku\" [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial designer \"H\u00fcseyin_B\u00fct\u00fcner_and_Hilmi_G\u00fcner\" [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial location Azerbaijan [/TRIPLE]",
-        "pred":"dedicatedTo location designer",
+        "pred":"designer dedicatedTo location capital",
         "refs":[
             "capital location dedicatedTo designer"
         ]
@@ -3466,7 +3466,7 @@
     {
         "idx":433,
         "input":"[TRIPLE] Azerbaijan capital Baku [/TRIPLE] [TRIPLE] Azerbaijan leader Artur_Rasizade [/TRIPLE] [TRIPLE] Azerbaijan legislature National_Assembly_(Azerbaijan) [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial location Azerbaijan [/TRIPLE]",
-        "pred":"leader legislature capital location",
+        "pred":"legislature leader capital location",
         "refs":[
             "capital legislature leader location"
         ]
@@ -3474,7 +3474,7 @@
     {
         "idx":434,
         "input":"[TRIPLE] Baku_Turkish_Martyrs_Memorial dedicatedTo \"Ottoman_Army_soldiers_killed_in_the_Battle_of_Baku\" [/TRIPLE] [TRIPLE] Azerbaijan leader Artur_Rasizade [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial location Azerbaijan [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial material \"Red_granite_and_white_marble\" [/TRIPLE]",
-        "pred":"material dedicatedTo location leader",
+        "pred":"dedicatedTo material location leader",
         "refs":[
             "material dedicatedTo location leader"
         ]
@@ -3482,7 +3482,7 @@
     {
         "idx":435,
         "input":"[TRIPLE] Baku_Turkish_Martyrs_Memorial dedicatedTo \"Ottoman_Army_soldiers_killed_in_the_Battle_of_Baku\" [/TRIPLE] [TRIPLE] Azerbaijan leaderName Artur_Rasizade [/TRIPLE] [TRIPLE] Azerbaijan leaderTitle Prime_Minister_of_Azerbaijan [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial location Azerbaijan [/TRIPLE]",
-        "pred":"leaderTitle leaderName location dedicatedTo",
+        "pred":"dedicatedTo location leaderTitle leaderName",
         "refs":[
             "dedicatedTo location leaderTitle leaderName"
         ]
@@ -3498,7 +3498,7 @@
     {
         "idx":437,
         "input":"[TRIPLE] Rolando_Maran club Carrarese_Calcio [/TRIPLE] [TRIPLE] Rolando_Maran club Unione_Triestina_2012_S.S.D. [/TRIPLE] [TRIPLE] A.C._Chievo_Verona manager Rolando_Maran [/TRIPLE] [TRIPLE] Rolando_Maran placeOfBirth Italy [/TRIPLE]",
-        "pred":"placeOfBirth club club manager",
+        "pred":"placeOfBirth manager club club",
         "refs":[
             "placeOfBirth manager club club"
         ]
@@ -3522,7 +3522,7 @@
     {
         "idx":440,
         "input":"[TRIPLE] A.S._Gubbio_1910 fullname \"Associazione_Sportiva_Gubbio_1910_Srl\" [/TRIPLE] [TRIPLE] A.S._Gubbio_1910 ground Italy [/TRIPLE] [TRIPLE] A.S._Gubbio_1910 numberOfMembers 5300 [/TRIPLE] [TRIPLE] A.S._Gubbio_1910 season 2014 [/TRIPLE]",
-        "pred":"fullname ground numberOfMembers season",
+        "pred":"fullname ground season numberOfMembers",
         "refs":[
             "ground fullname season numberOfMembers"
         ]
@@ -3530,7 +3530,7 @@
     {
         "idx":441,
         "input":"[TRIPLE] A.S._Gubbio_1910 fullname \"Associazione_Sportiva_Gubbio_1910_Srl\" [/TRIPLE] [TRIPLE] A.S._Gubbio_1910 ground Stadio_Pietro_Barbetti [/TRIPLE] [TRIPLE] A.S._Gubbio_1910 numberOfMembers 5300 [/TRIPLE] [TRIPLE] A.S._Gubbio_1910 season 2014 [/TRIPLE]",
-        "pred":"fullname ground numberOfMembers season",
+        "pred":"fullname ground season numberOfMembers",
         "refs":[
             "fullname season ground numberOfMembers"
         ]
@@ -3538,7 +3538,7 @@
     {
         "idx":442,
         "input":"[TRIPLE] A.S._Livorno_Calcio fullname \"Livorno_Calcio_S.p.A.\" [/TRIPLE] [TRIPLE] A.S._Livorno_Calcio ground Stadio_Armando_Picchi [/TRIPLE] [TRIPLE] A.S._Livorno_Calcio numberOfMembers 19238 [/TRIPLE] [TRIPLE] A.S._Livorno_Calcio season 2014\u201315_Serie_B [/TRIPLE]",
-        "pred":"fullname ground numberOfMembers season",
+        "pred":"fullname ground season numberOfMembers",
         "refs":[
             "fullname ground season numberOfMembers"
         ]
@@ -3546,7 +3546,7 @@
     {
         "idx":443,
         "input":"[TRIPLE] A.S._Roma fullname \"Associazione_Sportiva_Roma_S.p.A.\" [/TRIPLE] [TRIPLE] A.S._Roma ground Rome [/TRIPLE] [TRIPLE] A.S._Roma numberOfMembers 70634 [/TRIPLE] [TRIPLE] A.S._Roma season 2014\u201315_Serie_A [/TRIPLE]",
-        "pred":"fullname ground numberOfMembers season",
+        "pred":"fullname ground season numberOfMembers",
         "refs":[
             "fullname numberOfMembers ground season"
         ]
@@ -3554,7 +3554,7 @@
     {
         "idx":444,
         "input":"[TRIPLE] Azerbaijan_Premier_League champions Qaraba\u011f_FK [/TRIPLE] [TRIPLE] AZAL_PFK ground AZAL_Arena [/TRIPLE] [TRIPLE] AZAL_PFK league Azerbaijan_Premier_League [/TRIPLE] [TRIPLE] AZAL_Arena location Azerbaijan [/TRIPLE]",
-        "pred":"ground location league champions",
+        "pred":"ground league champions",
         "refs":[
             "ground location league champions"
         ]
@@ -3570,7 +3570,7 @@
     {
         "idx":446,
         "input":"[TRIPLE] John_van_den_Brom club AFC_Ajax [/TRIPLE] [TRIPLE] John_van_den_Brom club \u0130stanbulspor_A.\u015e. [/TRIPLE] [TRIPLE] AZ_Alkmaar manager John_van_den_Brom [/TRIPLE] [TRIPLE] AZ_Alkmaar owner Robert_Eenhoorn [/TRIPLE]",
-        "pred":"manager club club owner",
+        "pred":"manager owner club club",
         "refs":[
             "club club manager owner"
         ]
@@ -3586,7 +3586,7 @@
     {
         "idx":448,
         "input":"[TRIPLE] Campeonato_Brasileiro_S\u00e9rie_C champions Vila_Nova_Futebol_Clube [/TRIPLE] [TRIPLE] Campeonato_Brasileiro_S\u00e9rie_C country Brazil [/TRIPLE] [TRIPLE] Agremia\u00e7\u00e3o_Sportiva_Arapiraquense league Campeonato_Brasileiro_S\u00e9rie_C [/TRIPLE] [TRIPLE] Agremia\u00e7\u00e3o_Sportiva_Arapiraquense season 2015_Campeonato_Brasileiro_S\u00e9rie_C [/TRIPLE]",
-        "pred":"league country season champions",
+        "pred":"champions country league season",
         "refs":[
             "country league season champions"
         ]
@@ -3618,7 +3618,7 @@
     {
         "idx":452,
         "input":"[TRIPLE] Italy capital Rome [/TRIPLE] [TRIPLE] A.S._Gubbio_1910 ground Italy [/TRIPLE] [TRIPLE] Italy leader Pietro_Grasso [/TRIPLE] [TRIPLE] Italy officialLanguage Italian_language [/TRIPLE]",
-        "pred":"ground leader officialLanguage capital",
+        "pred":"ground capital officialLanguage leader",
         "refs":[
             "capital leader officialLanguage ground"
         ]
@@ -3642,7 +3642,7 @@
     {
         "idx":455,
         "input":"[TRIPLE] Accademia_di_Architettura_di_Mendrisio country Switzerland [/TRIPLE] [TRIPLE] Accademia_di_Architettura_di_Mendrisio established 1996 [/TRIPLE] [TRIPLE] Switzerland leaderTitle Federal_Chancellor_of_Switzerland [/TRIPLE] [TRIPLE] Accademia_di_Architettura_di_Mendrisio numberOfStudents 600 [/TRIPLE]",
-        "pred":"established country numberOfStudents leaderTitle",
+        "pred":"country established numberOfStudents leaderTitle",
         "refs":[
             "country established numberOfStudents leaderTitle"
         ]
@@ -3658,7 +3658,7 @@
     {
         "idx":457,
         "input":"[TRIPLE] Acharya_Institute_of_Technology affiliation Visvesvaraya_Technological_University [/TRIPLE] [TRIPLE] Visvesvaraya_Technological_University city Belgaum [/TRIPLE] [TRIPLE] All_India_Council_for_Technical_Education location Mumbai [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology was_given_the_'Technical_Campus'_status_by All_India_Council_for_Technical_Education [/TRIPLE]",
-        "pred":"affiliation city was_given_the_'Technical_Campus'_status_by location",
+        "pred":"city affiliation was_given_the_'Technical_Campus'_status_by location",
         "refs":[
             "affiliation city was_given_the_'Technical_Campus'_status_by location"
         ]
@@ -3666,7 +3666,7 @@
     {
         "idx":458,
         "input":"[TRIPLE] Acharya_Institute_of_Technology campus \"In_Soldevanahalli,_Acharya_Dr._Sarvapalli_Radhakrishnan_Road,_Hessarghatta_Main_Road,_Bangalore_\u2013_560090.\" [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology city Bangalore [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology country \"India\" [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology numberOfPostgraduateStudents 700 [/TRIPLE]",
-        "pred":"campus country numberOfPostgraduateStudents",
+        "pred":"city country numberOfPostgraduateStudents campus",
         "refs":[
             "campus country numberOfPostgraduateStudents"
         ]
@@ -3674,7 +3674,7 @@
     {
         "idx":459,
         "input":"[TRIPLE] Acharya_Institute_of_Technology affiliation Visvesvaraya_Technological_University [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology country \"India\" [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology director \"Dr._G._P._Prabhukumar\" [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology established 2000 [/TRIPLE]",
-        "pred":"country established director affiliation",
+        "pred":"country affiliation director established",
         "refs":[
             "director country established affiliation"
         ]
@@ -3698,7 +3698,7 @@
     {
         "idx":462,
         "input":"[TRIPLE] School_of_Business_and_Social_Sciences_at_the_Aarhus_University academicStaffSize 737 [/TRIPLE] [TRIPLE] School_of_Business_and_Social_Sciences_at_the_Aarhus_University country Denmark [/TRIPLE] [TRIPLE] School_of_Business_and_Social_Sciences_at_the_Aarhus_University established 1928 [/TRIPLE] [TRIPLE] School_of_Business_and_Social_Sciences_at_the_Aarhus_University numberOfStudents 16000 [/TRIPLE]",
-        "pred":"country established academicStaffSize numberOfStudents",
+        "pred":"country established numberOfStudents academicStaffSize",
         "refs":[
             "established country academicStaffSize numberOfStudents"
         ]
@@ -3706,7 +3706,7 @@
     {
         "idx":463,
         "input":"[TRIPLE] 1634:_The_Baltic_War author David_Weber [/TRIPLE] [TRIPLE] 1634:_The_Bavarian_Crisis followedBy Ring_of_Fire_II [/TRIPLE] [TRIPLE] Ring_of_Fire_II language English_language [/TRIPLE] [TRIPLE] 1634:_The_Bavarian_Crisis precededBy 1634:_The_Baltic_War [/TRIPLE]",
-        "pred":"language precededBy author followedBy",
+        "pred":"precededBy author followedBy language",
         "refs":[
             "precededBy author followedBy language"
         ]
@@ -3722,7 +3722,7 @@
     {
         "idx":465,
         "input":"[TRIPLE] United_Kingdom capital London [/TRIPLE] [TRIPLE] AIDS_(journal) country United_Kingdom [/TRIPLE] [TRIPLE] United_Kingdom leaderName Elizabeth_II [/TRIPLE] [TRIPLE] AIDS_(journal) publisher Lippincott_Williams_&_Wilkins [/TRIPLE]",
-        "pred":"leaderName capital country publisher",
+        "pred":"publisher country capital leaderName",
         "refs":[
             "publisher country capital leaderName"
         ]
@@ -3738,7 +3738,7 @@
     {
         "idx":467,
         "input":"[TRIPLE] A_Long_Long_Way country Ireland [/TRIPLE] [TRIPLE] A_Long_Long_Way followedBy The_Secret_Scripture [/TRIPLE] [TRIPLE] A_Long_Long_Way precededBy Annie_Dunne [/TRIPLE] [TRIPLE] A_Long_Long_Way publisher Viking_Press [/TRIPLE]",
-        "pred":"precededBy publisher country followedBy",
+        "pred":"country precededBy publisher followedBy",
         "refs":[
             "publisher country precededBy followedBy"
         ]
@@ -3762,7 +3762,7 @@
     {
         "idx":470,
         "input":"[TRIPLE] A_Severed_Wasp ISBN_number \"0-374-26131-8\" [/TRIPLE] [TRIPLE] A_Severed_Wasp OCLC_number 8805735 [/TRIPLE] [TRIPLE] A_Severed_Wasp mediaType Hardcover [/TRIPLE] [TRIPLE] A_Severed_Wasp numberOfPages \"388\" [/TRIPLE]",
-        "pred":"mediaType numberOfPages OCLC_number ISBN_number",
+        "pred":"mediaType OCLC_number ISBN_number numberOfPages",
         "refs":[
             "mediaType numberOfPages OCLC_number ISBN_number"
         ]
@@ -3778,7 +3778,7 @@
     {
         "idx":472,
         "input":"[TRIPLE] Addiction_(journal) ISSN_number \"1360-0443\" [/TRIPLE] [TRIPLE] Addiction_(journal) LCCN_number 93645978 [/TRIPLE] [TRIPLE] Addiction_(journal) abbreviation \"Addiction\" [/TRIPLE] [TRIPLE] Addiction_(journal) academicDiscipline Addiction [/TRIPLE]",
-        "pred":"abbreviation academicDiscipline ISSN_number LCCN_number",
+        "pred":"abbreviation ISSN_number LCCN_number",
         "refs":[
             "academicDiscipline LCCN_number abbreviation ISSN_number"
         ]
@@ -3810,7 +3810,7 @@
     {
         "idx":476,
         "input":"[TRIPLE] American_Journal_of_Mathematics ISSN_number \"1080-6377\" [/TRIPLE] [TRIPLE] American_Journal_of_Mathematics abbreviation \"Am._J._Math.\" [/TRIPLE] [TRIPLE] American_Journal_of_Mathematics academicDiscipline Mathematics [/TRIPLE] [TRIPLE] American_Journal_of_Mathematics firstPublicationYear 1878 [/TRIPLE]",
-        "pred":"abbreviation firstPublicationYear academicDiscipline ISSN_number",
+        "pred":"abbreviation academicDiscipline firstPublicationYear ISSN_number",
         "refs":[
             "academicDiscipline firstPublicationYear"
         ]
@@ -3842,7 +3842,7 @@
     {
         "idx":480,
         "input":"[TRIPLE] AIDS_(journal) country United_Kingdom [/TRIPLE] [TRIPLE] United_Kingdom leaderName David_Cameron [/TRIPLE] [TRIPLE] United_Kingdom leaderName Elizabeth_II [/TRIPLE] [TRIPLE] AIDS_(journal) publisher Lippincott_Williams_&_Wilkins [/TRIPLE]",
-        "pred":"leaderName leaderName country publisher",
+        "pred":"publisher country leaderName leaderName",
         "refs":[
             "leaderName leaderName country publisher"
         ]
@@ -3866,7 +3866,7 @@
     {
         "idx":483,
         "input":"[TRIPLE] A_Severed_Wasp country United_States [/TRIPLE] [TRIPLE] United_States ethnicGroup African_Americans [/TRIPLE] [TRIPLE] United_States language English_language [/TRIPLE] [TRIPLE] United_States leaderName Barack_Obama [/TRIPLE]",
-        "pred":"country leaderName ethnicGroup language",
+        "pred":"country leaderName language ethnicGroup",
         "refs":[
             "country leaderName language ethnicGroup"
         ]
@@ -3906,7 +3906,7 @@
     {
         "idx":488,
         "input":"[TRIPLE] Agra_Airport ICAO_Location_Identifier \"VIAG\" [/TRIPLE] [TRIPLE] Uttar_Pradesh isPartOf Awadh [/TRIPLE] [TRIPLE] Uttar_Pradesh isPartOf Bundelkhand [/TRIPLE] [TRIPLE] Uttar_Pradesh leaderName Ram_Naik [/TRIPLE] [TRIPLE] Agra_Airport location Uttar_Pradesh [/TRIPLE]",
-        "pred":"location isPartOf isPartOf leaderName isPartOf",
+        "pred":"leaderName isPartOf isPartOf location ICAO_Location_Identifier",
         "refs":[
             "location isPartOf ICAO_Location_Identifier leaderName"
         ]
@@ -3922,7 +3922,7 @@
     {
         "idx":490,
         "input":"[TRIPLE] United_States_Air_Force aircraftFighter General_Dynamics_F-16_Fighting_Falcon [/TRIPLE] [TRIPLE] United_States_Air_Force attackAircraft Lockheed_AC-130 [/TRIPLE] [TRIPLE] United_States_Air_Force battles United_States_invasion_of_Panama [/TRIPLE] [TRIPLE] Al_Asad_Airbase operatingOrganisation United_States_Air_Force [/TRIPLE] [TRIPLE] United_States_Air_Force transportAircraft Boeing_C-17_Globemaster_III [/TRIPLE]",
-        "pred":"operatingOrganisation attackAircraft transportAircraft aircraftFighter battles",
+        "pred":"operatingOrganisation battles attackAircraft transportAircraft aircraftFighter",
         "refs":[
             "operatingOrganisation transportAircraft aircraftFighter attackAircraft battles"
         ]
@@ -3930,7 +3930,7 @@
     {
         "idx":491,
         "input":"[TRIPLE] United_States_Air_Force aircraftFighter McDonnell_Douglas_F-15_Eagle [/TRIPLE] [TRIPLE] United_States_Air_Force attackAircraft Lockheed_AC-130 [/TRIPLE] [TRIPLE] United_States_Air_Force battles Korean_War [/TRIPLE] [TRIPLE] Al_Asad_Airbase operatingOrganisation United_States_Air_Force [/TRIPLE] [TRIPLE] United_States_Air_Force transportAircraft Boeing_C-17_Globemaster_III [/TRIPLE]",
-        "pred":"operatingOrganisation attackAircraft transportAircraft aircraftFighter battles",
+        "pred":"operatingOrganisation battles attackAircraft transportAircraft aircraftFighter",
         "refs":[
             "battles operatingOrganisation transportAircraft attackAircraft aircraftFighter"
         ]
@@ -3954,7 +3954,7 @@
     {
         "idx":494,
         "input":"[TRIPLE] Allama_Iqbal_International_Airport cityServed Lahore [/TRIPLE] [TRIPLE] Lahore country Pakistan [/TRIPLE] [TRIPLE] Pakistan leaderName Anwar_Zaheer_Jamali [/TRIPLE] [TRIPLE] Allama_Iqbal_International_Airport location Punjab,_Pakistan [/TRIPLE] [TRIPLE] Allama_Iqbal_International_Airport operatingOrganisation Pakistan_Civil_Aviation_Authority [/TRIPLE]",
-        "pred":"operatingOrganisation location cityServed country leaderName",
+        "pred":"operatingOrganisation cityServed location country leaderName",
         "refs":[
             "location cityServed country operatingOrganisation leaderName"
         ]
@@ -3978,7 +3978,7 @@
     {
         "idx":497,
         "input":"[TRIPLE] Texas capital Austin,_Texas [/TRIPLE] [TRIPLE] Texas country United_States [/TRIPLE] [TRIPLE] Texas language Spanish_language [/TRIPLE] [TRIPLE] Texas largestCity Houston [/TRIPLE] [TRIPLE] Andrews_County_Airport location Texas [/TRIPLE]",
-        "pred":"location country largestCity capital language",
+        "pred":"country capital largestCity location language",
         "refs":[
             "location country language largestCity capital"
         ]
@@ -3986,7 +3986,7 @@
     {
         "idx":498,
         "input":"[TRIPLE] Texas capital Austin,_Texas [/TRIPLE] [TRIPLE] Texas demonym Texan [/TRIPLE] [TRIPLE] Texas language Spanish_language [/TRIPLE] [TRIPLE] Texas largestCity Houston [/TRIPLE] [TRIPLE] Andrews_County_Airport location Texas [/TRIPLE]",
-        "pred":"location capital largestCity demonym language",
+        "pred":"location largestCity capital demonym language",
         "refs":[
             "largestCity capital location demonym language"
         ]
@@ -3994,7 +3994,7 @@
     {
         "idx":499,
         "input":"[TRIPLE] Angola_International_Airport cityServed Luanda [/TRIPLE] [TRIPLE] \u00cdcolo_e_Bengo country Angola [/TRIPLE] [TRIPLE] Angola_International_Airport elevationAboveTheSeaLevel_(in_metres) 159 [/TRIPLE] [TRIPLE] \u00cdcolo_e_Bengo isPartOf Luanda_Province [/TRIPLE] [TRIPLE] Angola_International_Airport location \u00cdcolo_e_Bengo [/TRIPLE]",
-        "pred":"elevationAboveTheSeaLevel_(in_metres) location isPartOf country cityServed",
+        "pred":"elevationAboveTheSeaLevel_(in_metres) location isPartOf cityServed country",
         "refs":[
             "location isPartOf cityServed elevationAboveTheSeaLevel_(in_metres)"
         ]
@@ -4018,7 +4018,7 @@
     {
         "idx":502,
         "input":"[TRIPLE] Appleton_International_Airport cityServed Appleton,_Wisconsin [/TRIPLE] [TRIPLE] Appleton_International_Airport elevationAboveTheSeaLevel_(in_metres) 280 [/TRIPLE] [TRIPLE] Appleton_International_Airport location Greenville,_Wisconsin [/TRIPLE] [TRIPLE] Appleton_International_Airport runwayLength 2439.0 [/TRIPLE] [TRIPLE] Appleton_International_Airport runwayName \"3/21\" [/TRIPLE]",
-        "pred":"location cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName",
+        "pred":"cityServed location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength",
         "refs":[
             "cityServed elevationAboveTheSeaLevel_(in_metres) location runwayName runwayLength"
         ]
@@ -4042,7 +4042,7 @@
     {
         "idx":505,
         "input":"[TRIPLE] Ashgabat_International_Airport elevationAboveTheSeaLevel_(in_metres) 211 [/TRIPLE] [TRIPLE] Ashgabat_International_Airport location Ashgabat [/TRIPLE] [TRIPLE] Ashgabat_International_Airport operatingOrganisation Turkmenistan_Airlines [/TRIPLE] [TRIPLE] Ashgabat_International_Airport runwayLength 2989.0 [/TRIPLE] [TRIPLE] Ashgabat_International_Airport runwayName \"12R/30L\" [/TRIPLE]",
-        "pred":"location operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength",
+        "pred":"operatingOrganisation location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength",
         "refs":[
             "operatingOrganisation location elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName"
         ]
@@ -4050,7 +4050,7 @@
     {
         "idx":506,
         "input":"[TRIPLE] Atlantic_City_International_Airport ICAO_Location_Identifier \"KACY\" [/TRIPLE] [TRIPLE] Atlantic_City_International_Airport elevationAboveTheSeaLevel_(in_metres) 23.0 [/TRIPLE] [TRIPLE] Atlantic_City_International_Airport operatingOrganisation Port_Authority_of_New_York_and_New_Jersey [/TRIPLE] [TRIPLE] Atlantic_City_International_Airport runwayLength 1873.0 [/TRIPLE] [TRIPLE] Atlantic_City_International_Airport runwayName \"4/22\" [/TRIPLE]",
-        "pred":"operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength",
+        "pred":"operatingOrganisation elevationAboveTheSeaLevel_(in_metres) ICAO_Location_Identifier runwayName runwayLength",
         "refs":[
             "runwayLength operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName ICAO_Location_Identifier"
         ]
@@ -4058,7 +4058,7 @@
     {
         "idx":507,
         "input":"[TRIPLE] Antwerp_International_Airport cityServed Antwerp [/TRIPLE] [TRIPLE] Flemish_Region country Belgium [/TRIPLE] [TRIPLE] Flemish_Government jurisdiction Flemish_Region [/TRIPLE] [TRIPLE] Belgium leaderName Charles_Michel [/TRIPLE] [TRIPLE] Flemish_Region leaderName Flemish_Government [/TRIPLE]",
-        "pred":"cityServed country leaderName leaderName jurisdiction",
+        "pred":"cityServed leaderName leaderName country",
         "refs":[
             "leaderName country leaderName cityServed"
         ]
@@ -4082,7 +4082,7 @@
     {
         "idx":510,
         "input":"[TRIPLE] Alan_Shepard almaMater \"NWC,_M.A._1957\" [/TRIPLE] [TRIPLE] Alan_Shepard birthDate \"1923-11-18\" [/TRIPLE] [TRIPLE] Alan_Shepard birthPlace New_Hampshire [/TRIPLE] [TRIPLE] Alan_Shepard deathDate \"1998-07-21\" [/TRIPLE] [TRIPLE] Alan_Shepard deathPlace California [/TRIPLE]",
-        "pred":"birthDate birthPlace almaMater deathPlace deathDate",
+        "pred":"birthDate birthPlace almaMater deathDate deathPlace",
         "refs":[
             "birthPlace birthDate almaMater deathPlace deathDate"
         ]
@@ -4114,7 +4114,7 @@
     {
         "idx":514,
         "input":"[TRIPLE] Alan_Shepard awards Distinguished_Service_Medal_(United_States_Navy) [/TRIPLE] [TRIPLE] Alan_Shepard birthDate \"1923-11-18\" [/TRIPLE] [TRIPLE] Alan_Shepard birthPlace New_Hampshire [/TRIPLE] [TRIPLE] Alan_Shepard deathPlace California [/TRIPLE] [TRIPLE] Distinguished_Service_Medal_(United_States_Navy) higher Department_of_Commerce_Gold_Medal [/TRIPLE]",
-        "pred":"birthDate birthPlace deathPlace awards higher",
+        "pred":"birthDate birthPlace awards higher deathPlace",
         "refs":[
             "birthDate birthPlace awards higher deathPlace"
         ]
@@ -4122,7 +4122,7 @@
     {
         "idx":515,
         "input":"[TRIPLE] University_of_Texas_at_Austin affiliation University_of_Texas_System [/TRIPLE] [TRIPLE] Elliot_See almaMater University_of_Texas_at_Austin [/TRIPLE] [TRIPLE] Elliot_See birthPlace Dallas [/TRIPLE] [TRIPLE] University_of_Texas_at_Austin compete_in Big_12_Conference [/TRIPLE] [TRIPLE] University_of_Texas_at_Austin president Gregory_L._Fenves [/TRIPLE]",
-        "pred":"birthPlace almaMater president compete_in affiliation",
+        "pred":"birthPlace almaMater compete_in president affiliation",
         "refs":[
             "birthPlace almaMater affiliation compete_in president"
         ]
@@ -4138,7 +4138,7 @@
     {
         "idx":517,
         "input":"[TRIPLE] University_of_Texas_at_Austin affiliations University_of_Texas_System [/TRIPLE] [TRIPLE] Elliot_See almaMater University_of_Texas_at_Austin [/TRIPLE] [TRIPLE] Elliot_See birthPlace Dallas [/TRIPLE] [TRIPLE] University_of_Texas_at_Austin compete_in Big_12_Conference [/TRIPLE] [TRIPLE] Dallas partsType List_of_counties_in_Texas [/TRIPLE]",
-        "pred":"birthPlace partsType almaMater affiliations compete_in",
+        "pred":"birthPlace almaMater compete_in",
         "refs":[
             "birthPlace almaMater affiliations compete_in"
         ]
@@ -4162,7 +4162,7 @@
     {
         "idx":520,
         "input":"[TRIPLE] United_Kingdom capital London [/TRIPLE] [TRIPLE] United_Kingdom currency Pound_sterling [/TRIPLE] [TRIPLE] London leaderName Boris_Johnson [/TRIPLE] [TRIPLE] United_Kingdom leaderName Elizabeth_II [/TRIPLE] [TRIPLE] 20_Fenchurch_Street location United_Kingdom [/TRIPLE]",
-        "pred":"location capital currency leaderName leaderName",
+        "pred":"leaderName leaderName currency capital location",
         "refs":[
             "location capital currency leaderName leaderName"
         ]
@@ -4170,7 +4170,7 @@
     {
         "idx":521,
         "input":"[TRIPLE] 250_Delaware_Avenue buildingStartDate \"January,_2014\" [/TRIPLE] [TRIPLE] 250_Delaware_Avenue cost \"110_million_(dollars)\" [/TRIPLE] [TRIPLE] 250_Delaware_Avenue floorArea 30843.8_(square_metres) [/TRIPLE] [TRIPLE] 250_Delaware_Avenue floorCount 12 [/TRIPLE] [TRIPLE] 250_Delaware_Avenue location Buffalo,_New_York [/TRIPLE]",
-        "pred":"location buildingStartDate floorCount floorArea cost",
+        "pred":"location floorCount floorArea buildingStartDate cost",
         "refs":[
             "location cost buildingStartDate floorCount floorArea"
         ]
@@ -4178,7 +4178,7 @@
     {
         "idx":522,
         "input":"[TRIPLE] Chicago country United_States [/TRIPLE] [TRIPLE] 300_North_LaSalle floorCount 60 [/TRIPLE] [TRIPLE] Chicago isPartOf DuPage_County,_Illinois [/TRIPLE] [TRIPLE] Chicago leaderName Rahm_Emanuel [/TRIPLE] [TRIPLE] 300_North_LaSalle location Chicago [/TRIPLE]",
-        "pred":"location isPartOf country floorCount leaderName",
+        "pred":"floorCount location isPartOf country leaderName",
         "refs":[
             "leaderName isPartOf country location floorCount"
         ]
@@ -4186,7 +4186,7 @@
     {
         "idx":523,
         "input":"[TRIPLE] Dublin country Republic_of_Ireland [/TRIPLE] [TRIPLE] Dublin isPartOf Leinster [/TRIPLE] [TRIPLE] Dublin leaderTitle D\u00e1il_\u00c9ireann [/TRIPLE] [TRIPLE] 3Arena location Dublin [/TRIPLE] [TRIPLE] 3Arena owner Live_Nation_Entertainment [/TRIPLE]",
-        "pred":"location isPartOf country owner leaderTitle",
+        "pred":"owner location isPartOf country leaderTitle",
         "refs":[
             "owner location country leaderTitle isPartOf"
         ]
@@ -4194,7 +4194,7 @@
     {
         "idx":524,
         "input":"[TRIPLE] Adisham_Hall address \"St._Benedicts_Monastery,_Adisham,_Haputhale,_Sri_Lanka\" [/TRIPLE] [TRIPLE] Adisham_Hall architecturalStyle \"Tudor_and_Jacabian\" [/TRIPLE] [TRIPLE] Adisham_Hall buildingStartDate \"1927\" [/TRIPLE] [TRIPLE] Adisham_Hall completionDate 1931 [/TRIPLE] [TRIPLE] Adisham_Hall location Sri_Lanka [/TRIPLE]",
-        "pred":"location architecturalStyle buildingStartDate completionDate address",
+        "pred":"buildingStartDate completionDate architecturalStyle address",
         "refs":[
             "location buildingStartDate completionDate address architecturalStyle"
         ]
@@ -4210,7 +4210,7 @@
     {
         "idx":526,
         "input":"[TRIPLE] Sri_Lanka capital Sri_Jayawardenepura_Kotte [/TRIPLE] [TRIPLE] Adisham_Hall country Sri_Lanka [/TRIPLE] [TRIPLE] Sri_Lanka currency Sri_Lankan_rupee [/TRIPLE] [TRIPLE] Sri_Lanka leaderName Ranil_Wickremesinghe [/TRIPLE] [TRIPLE] Adisham_Hall location Haputale [/TRIPLE]",
-        "pred":"location country capital leaderName currency",
+        "pred":"location country leaderName currency capital",
         "refs":[
             "leaderName capital currency country location"
         ]
@@ -4226,7 +4226,7 @@
     {
         "idx":528,
         "input":"[TRIPLE] Amdavad_ni_Gufa country India [/TRIPLE] [TRIPLE] India leaderName Narendra_Modi [/TRIPLE] [TRIPLE] Gujarat leaderTitle Gujarat_Legislative_Assembly [/TRIPLE] [TRIPLE] Amdavad_ni_Gufa location Ahmedabad [/TRIPLE] [TRIPLE] Amdavad_ni_Gufa location Gujarat [/TRIPLE]",
-        "pred":"location location location country leaderTitle leaderName",
+        "pred":"location location country leaderName leaderTitle",
         "refs":[
             "location location country leaderTitle leaderName"
         ]
@@ -4234,7 +4234,7 @@
     {
         "idx":529,
         "input":"[TRIPLE] Ahmedabad country India [/TRIPLE] [TRIPLE] India leaderName T._S._Thakur [/TRIPLE] [TRIPLE] Gujarat leaderTitle Gujarat_Legislative_Assembly [/TRIPLE] [TRIPLE] Amdavad_ni_Gufa location Ahmedabad [/TRIPLE] [TRIPLE] Amdavad_ni_Gufa location Gujarat [/TRIPLE]",
-        "pred":"location location country leaderTitle leaderName",
+        "pred":"location location country leaderName leaderTitle",
         "refs":[
             "location location country leaderTitle leaderName"
         ]
@@ -4242,7 +4242,7 @@
     {
         "idx":530,
         "input":"[TRIPLE] Ampara_Hospital bedCount 476 [/TRIPLE] [TRIPLE] Ampara_Hospital country Sri_Lanka [/TRIPLE] [TRIPLE] Eastern_Province,_Sri_Lanka leaderName Austin_Fernando [/TRIPLE] [TRIPLE] Sri_Lanka leaderName Ranil_Wickremesinghe [/TRIPLE] [TRIPLE] Ampara_Hospital state Eastern_Province,_Sri_Lanka [/TRIPLE]",
-        "pred":"bedCount leaderName country state leaderName",
+        "pred":"state leaderName country bedCount leaderName",
         "refs":[
             "bedCount state leaderName country"
         ]
@@ -4258,7 +4258,7 @@
     {
         "idx":532,
         "input":"[TRIPLE] Asilomar_Conference_Grounds architect Julia_Morgan [/TRIPLE] [TRIPLE] Julia_Morgan birthPlace California [/TRIPLE] [TRIPLE] Julia_Morgan significantBuilding Chinatown,_San_Francisco [/TRIPLE] [TRIPLE] Julia_Morgan significantBuilding Riverside_Art_Museum [/TRIPLE] [TRIPLE] Julia_Morgan significantProject Hearst_Castle [/TRIPLE]",
-        "pred":"birthPlace architect significantBuilding significantBuilding significantProject",
+        "pred":"birthPlace architect significantBuilding significantProject significantBuilding",
         "refs":[
             "architect birthPlace significantProject significantBuilding significantBuilding"
         ]
@@ -4282,7 +4282,7 @@
     {
         "idx":535,
         "input":"[TRIPLE] New_York_City country United_States [/TRIPLE] [TRIPLE] New_York_City isPartOf Manhattan [/TRIPLE] [TRIPLE] New_York_City isPartOf New_York [/TRIPLE] [TRIPLE] Manhattan leaderName Gale_Brewer [/TRIPLE] [TRIPLE] Asser_Levy_Public_Baths location New_York_City [/TRIPLE]",
-        "pred":"location isPartOf isPartOf country leaderName",
+        "pred":"location isPartOf country isPartOf leaderName",
         "refs":[
             "location country isPartOf leaderName"
         ]
@@ -4298,7 +4298,7 @@
     {
         "idx":537,
         "input":"[TRIPLE] Addis_Ababa country Ethiopia [/TRIPLE] [TRIPLE] Addis_Ababa isPartOf Addis_Ababa_Stadium [/TRIPLE] [TRIPLE] Ethiopia leaderName Hailemariam_Desalegn [/TRIPLE] [TRIPLE] Ethiopia leaderName Mulatu_Teshome [/TRIPLE] [TRIPLE] Addis_Ababa_City_Hall location Addis_Ababa [/TRIPLE]",
-        "pred":"location isPartOf country leaderName leaderName",
+        "pred":"isPartOf location country leaderName leaderName",
         "refs":[
             "leaderName leaderName country isPartOf location"
         ]
@@ -4306,7 +4306,7 @@
     {
         "idx":538,
         "input":"[TRIPLE] United_States ethnicGroup African_Americans [/TRIPLE] [TRIPLE] United_States language English_language [/TRIPLE] [TRIPLE] United_States leaderName John_Roberts [/TRIPLE] [TRIPLE] United_States leaderTitle President_of_the_United_States [/TRIPLE] [TRIPLE] 250_Delaware_Avenue location United_States [/TRIPLE]",
-        "pred":"location language leaderTitle leaderName ethnicGroup",
+        "pred":"leaderName leaderTitle location language ethnicGroup",
         "refs":[
             "leaderTitle language leaderName ethnicGroup location"
         ]
@@ -4314,7 +4314,7 @@
     {
         "idx":539,
         "input":"[TRIPLE] United_States ethnicGroup White_Americans [/TRIPLE] [TRIPLE] United_States language English_language [/TRIPLE] [TRIPLE] United_States leaderName Joe_Biden [/TRIPLE] [TRIPLE] United_States leaderTitle President_of_the_United_States [/TRIPLE] [TRIPLE] 250_Delaware_Avenue location United_States [/TRIPLE]",
-        "pred":"location language leaderTitle leaderName ethnicGroup",
+        "pred":"leaderName leaderTitle location language ethnicGroup",
         "refs":[
             "leaderName leaderTitle ethnicGroup language location"
         ]
@@ -4322,7 +4322,7 @@
     {
         "idx":540,
         "input":"[TRIPLE] Bananaman broadcastedBy BBC [/TRIPLE] [TRIPLE] Bananaman creator John_Geering [/TRIPLE] [TRIPLE] Bananaman firstAired \"1983-10-03\" [/TRIPLE] [TRIPLE] Bananaman lastAired \"1986-04-15\" [/TRIPLE] [TRIPLE] Bananaman starring Tim_Brooke-Taylor [/TRIPLE]",
-        "pred":"broadcastedBy firstAired lastAired creator starring",
+        "pred":"broadcastedBy firstAired lastAired starring creator",
         "refs":[
             "broadcastedBy firstAired lastAired creator starring"
         ]
@@ -4330,7 +4330,7 @@
     {
         "idx":541,
         "input":"[TRIPLE] Baymax creator Duncan_Rouleau [/TRIPLE] [TRIPLE] Baymax creator Steven_T._Seagle [/TRIPLE] [TRIPLE] Duncan_Rouleau nationality Americans [/TRIPLE] [TRIPLE] Baymax series Big_Hero_6_(film) [/TRIPLE] [TRIPLE] Big_Hero_6_(film) starring Scott_Adsit [/TRIPLE]",
-        "pred":"series starring creator creator nationality",
+        "pred":"series starring creator nationality creator",
         "refs":[
             "series starring creator creator"
         ]
@@ -4346,7 +4346,7 @@
     {
         "idx":543,
         "input":"[TRIPLE] Amatriciana_sauce country Italy [/TRIPLE] [TRIPLE] Amatriciana_sauce course Italian_meal_structure [/TRIPLE] [TRIPLE] Amatriciana_sauce ingredient Guanciale [/TRIPLE] [TRIPLE] Amatriciana_sauce mainIngredients \"Tomatoes,_guanciale,_cheese,_olive_oil\" [/TRIPLE] [TRIPLE] Amatriciana_sauce region Lazio [/TRIPLE]",
-        "pred":"course region country mainIngredients",
+        "pred":"region country mainIngredients",
         "refs":[
             "mainIngredients region course"
         ]
@@ -4354,7 +4354,7 @@
     {
         "idx":544,
         "input":"[TRIPLE] Arem-arem country Indonesia [/TRIPLE] [TRIPLE] Indonesia currency Indonesian_rupiah [/TRIPLE] [TRIPLE] Indonesia language Indonesian_language [/TRIPLE] [TRIPLE] Indonesia leaderName Joko_Widodo [/TRIPLE] [TRIPLE] Arem-arem region Javanese_cuisine [/TRIPLE]",
-        "pred":"region country leaderName currency language",
+        "pred":"region country leaderName language currency",
         "refs":[
             "region country leaderName currency language"
         ]
@@ -4362,7 +4362,7 @@
     {
         "idx":545,
         "input":"[TRIPLE] Italy capital Rome [/TRIPLE] [TRIPLE] Arrabbiata_sauce country Italy [/TRIPLE] [TRIPLE] Italy demonym Italians [/TRIPLE] [TRIPLE] Italy language Italian_language [/TRIPLE] [TRIPLE] Italy leaderName Sergio_Mattarella [/TRIPLE]",
-        "pred":"country demonym language capital leaderName",
+        "pred":"country demonym capital leaderName language",
         "refs":[
             "leaderName capital demonym language country"
         ]
@@ -4370,7 +4370,7 @@
     {
         "idx":546,
         "input":"[TRIPLE] Arr\u00f2s_negre country Spain [/TRIPLE] [TRIPLE] Spain demonym Spaniards [/TRIPLE] [TRIPLE] Spain leaderName Felipe_VI_of_Spain [/TRIPLE] [TRIPLE] Valencian_Community leaderName Ximo_Puig [/TRIPLE] [TRIPLE] Arr\u00f2s_negre region Valencian_Community [/TRIPLE]",
-        "pred":"region country leaderName demonym leaderName",
+        "pred":"region country leaderName leaderName demonym",
         "refs":[
             "leaderName region country demonym leaderName"
         ]
@@ -4394,7 +4394,7 @@
     {
         "idx":549,
         "input":"[TRIPLE] Ayam_penyet country Java [/TRIPLE] [TRIPLE] Ayam_penyet ingredient Fried_chicken [/TRIPLE] [TRIPLE] Ayam_penyet mainIngredients \"Squeezed\"_or_\"smashed\"_fried_chicken_served_with_sambal [/TRIPLE] [TRIPLE] Ayam_penyet region \"Nationwide,_also_can_be_found_in_Malaysia_and_Singapore\" [/TRIPLE] [TRIPLE] Ayam_penyet servingTemperature \"Hot\" [/TRIPLE]",
-        "pred":"region country mainIngredients servingTemperature",
+        "pred":"region mainIngredients servingTemperature",
         "refs":[
             "region mainIngredients"
         ]
@@ -4402,7 +4402,7 @@
     {
         "idx":550,
         "input":"[TRIPLE] United_States capital Washington,_D.C. [/TRIPLE] [TRIPLE] Bacon_Explosion country United_States [/TRIPLE] [TRIPLE] United_States ethnicGroup Native_Americans_in_the_United_States [/TRIPLE] [TRIPLE] United_States language English_language [/TRIPLE] [TRIPLE] United_States leaderName Barack_Obama [/TRIPLE]",
-        "pred":"country leaderName capital ethnicGroup language",
+        "pred":"country leaderName capital language ethnicGroup",
         "refs":[
             "country language capital leaderName ethnicGroup"
         ]
@@ -4410,7 +4410,7 @@
     {
         "idx":551,
         "input":"[TRIPLE] Baked_Alaska country France [/TRIPLE] [TRIPLE] France language French_language [/TRIPLE] [TRIPLE] France leaderName G\u00e9rard_Larcher [/TRIPLE] [TRIPLE] Hong_Kong leaderName Carrie_Lam_(politician) [/TRIPLE] [TRIPLE] Baked_Alaska region Hong_Kong [/TRIPLE]",
-        "pred":"leaderName language country region leaderName",
+        "pred":"country region leaderName language leaderName",
         "refs":[
             "country language leaderName region leaderName"
         ]
@@ -4418,7 +4418,7 @@
     {
         "idx":552,
         "input":"[TRIPLE] Bakewell_pudding dishVariation Bakewell_tart [/TRIPLE] [TRIPLE] Bakewell_tart ingredient Shortcrust_pastry [/TRIPLE] [TRIPLE] Derbyshire_Dales isPartOf Derbyshire [/TRIPLE] [TRIPLE] Derbyshire_Dales leaderName Patrick_McLoughlin [/TRIPLE] [TRIPLE] Bakewell_pudding region Derbyshire_Dales [/TRIPLE]",
-        "pred":"dishVariation region isPartOf ingredient leaderName",
+        "pred":"leaderName isPartOf region dishVariation ingredient",
         "refs":[
             "region isPartOf leaderName dishVariation ingredient"
         ]
@@ -4426,7 +4426,7 @@
     {
         "idx":553,
         "input":"[TRIPLE] Bandeja_paisa country Colombian_cuisine [/TRIPLE] [TRIPLE] Lemon family Rutaceae [/TRIPLE] [TRIPLE] Lemon genus Citrus [/TRIPLE] [TRIPLE] Bandeja_paisa ingredient Lemon [/TRIPLE] [TRIPLE] Bandeja_paisa region Paisa_Region [/TRIPLE]",
-        "pred":"region country ingredient genus family",
+        "pred":"genus family ingredient country region",
         "refs":[
             "country region ingredient family genus"
         ]
@@ -4442,7 +4442,7 @@
     {
         "idx":555,
         "input":"[TRIPLE] Barny_Cakes country France [/TRIPLE] [TRIPLE] Barny_Cakes ingredient Sponge_cake [/TRIPLE] [TRIPLE] France language French_language [/TRIPLE] [TRIPLE] France leaderName Claude_Bartolone [/TRIPLE] [TRIPLE] France leaderName G\u00e9rard_Larcher [/TRIPLE]",
-        "pred":"ingredient country leaderName leaderName language",
+        "pred":"country language leaderName leaderName",
         "refs":[
             "ingredient country leaderName leaderName language"
         ]
@@ -4450,7 +4450,7 @@
     {
         "idx":556,
         "input":"[TRIPLE] Barny_Cakes country France [/TRIPLE] [TRIPLE] Barny_Cakes creator Mondelez_International [/TRIPLE] [TRIPLE] Mondelez_International foundationPlace Chicago [/TRIPLE] [TRIPLE] France language French_language [/TRIPLE] [TRIPLE] France leaderName G\u00e9rard_Larcher [/TRIPLE]",
-        "pred":"foundationPlace creator country language leaderName",
+        "pred":"country language leaderName creator foundationPlace",
         "refs":[
             "foundationPlace creator country leaderName language"
         ]
@@ -4458,7 +4458,7 @@
     {
         "idx":557,
         "input":"[TRIPLE] Beef_kway_teow country \"Singapore_and_Indonesia\" [/TRIPLE] [TRIPLE] Singapore language English_language [/TRIPLE] [TRIPLE] Singapore leaderName Halimah_Yacob [/TRIPLE] [TRIPLE] Singapore leaderName Tony_Tan [/TRIPLE] [TRIPLE] Beef_kway_teow region Singapore [/TRIPLE]",
-        "pred":"region country leaderName leaderName language",
+        "pred":"leaderName leaderName language region country",
         "refs":[
             "language leaderName leaderName region country"
         ]
@@ -4482,7 +4482,7 @@
     {
         "idx":560,
         "input":"[TRIPLE] Bionico country Mexico [/TRIPLE] [TRIPLE] Bionico course Dessert [/TRIPLE] [TRIPLE] Dessert dishVariation Cake [/TRIPLE] [TRIPLE] Jalisco leaderName Jes\u00fas_Casillas_Romero [/TRIPLE] [TRIPLE] Bionico region Jalisco [/TRIPLE]",
-        "pred":"course region country leaderName dishVariation",
+        "pred":"leaderName country region course dishVariation",
         "refs":[
             "region country leaderName"
         ]
@@ -4490,7 +4490,7 @@
     {
         "idx":561,
         "input":"[TRIPLE] Bionico country Mexico [/TRIPLE] [TRIPLE] Bionico course Dessert [/TRIPLE] [TRIPLE] Dessert dishVariation Cake [/TRIPLE] [TRIPLE] Mexico leaderName Enrique_Pe\u00f1a_Nieto [/TRIPLE] [TRIPLE] Bionico region Guadalajara [/TRIPLE]",
-        "pred":"course region country leaderName dishVariation",
+        "pred":"leaderName country region course dishVariation",
         "refs":[
             "dishVariation course region country leaderName"
         ]
@@ -4498,7 +4498,7 @@
     {
         "idx":562,
         "input":"[TRIPLE] Derbyshire_Dales administrativeCounty Derbyshire [/TRIPLE] [TRIPLE] Bakewell_pudding dishVariation Bakewell_tart [/TRIPLE] [TRIPLE] Bakewell_tart ingredient Frangipane [/TRIPLE] [TRIPLE] Derbyshire_Dales leaderName Patrick_McLoughlin [/TRIPLE] [TRIPLE] Bakewell_tart region Derbyshire_Dales [/TRIPLE]",
-        "pred":"ingredient dishVariation region administrativeCounty leaderName",
+        "pred":"dishVariation ingredient region administrativeCounty leaderName",
         "refs":[
             "leaderName region dishVariation ingredient"
         ]
@@ -4506,7 +4506,7 @@
     {
         "idx":563,
         "input":"[TRIPLE] Bakewell_pudding dishVariation Bakewell_tart [/TRIPLE] [TRIPLE] Bakewell_tart ingredient Frangipane [/TRIPLE] [TRIPLE] Derbyshire_Dales isPartOf Derbyshire [/TRIPLE] [TRIPLE] Derbyshire_Dales leaderName Patrick_McLoughlin [/TRIPLE] [TRIPLE] Bakewell_tart region Derbyshire_Dales [/TRIPLE]",
-        "pred":"dishVariation region isPartOf ingredient leaderName",
+        "pred":"dishVariation region isPartOf leaderName ingredient",
         "refs":[
             "leaderName isPartOf region dishVariation ingredient"
         ]
@@ -4514,7 +4514,7 @@
     {
         "idx":564,
         "input":"[TRIPLE] Indonesia capital Jakarta [/TRIPLE] [TRIPLE] Bakso country Indonesia [/TRIPLE] [TRIPLE] Indonesia language Indonesian_language [/TRIPLE] [TRIPLE] Indonesia leaderName Jusuf_Kalla [/TRIPLE] [TRIPLE] Bakso region Indonesia [/TRIPLE]",
-        "pred":"region country capital leaderName language",
+        "pred":"region capital leaderName language",
         "refs":[
             "capital leaderName language region country"
         ]
@@ -4522,7 +4522,7 @@
     {
         "idx":565,
         "input":"[TRIPLE] Italy capital Rome [/TRIPLE] [TRIPLE] Amatriciana_sauce country Italy [/TRIPLE] [TRIPLE] Italy demonym Italians [/TRIPLE] [TRIPLE] Italy leaderName Matteo_Renzi [/TRIPLE] [TRIPLE] Italy leaderName Sergio_Mattarella [/TRIPLE]",
-        "pred":"demonym capital leaderName leaderName country",
+        "pred":"country demonym capital leaderName leaderName",
         "refs":[
             "country demonym capital leaderName leaderName"
         ]
@@ -4530,7 +4530,7 @@
     {
         "idx":566,
         "input":"[TRIPLE] Ayam_penyet country Java [/TRIPLE] [TRIPLE] Java ethnicGroup Baduy [/TRIPLE] [TRIPLE] Singapore language English_language [/TRIPLE] [TRIPLE] Singapore leaderName Halimah_Yacob [/TRIPLE] [TRIPLE] Ayam_penyet region Singapore [/TRIPLE]",
-        "pred":"region country ethnicGroup leaderName language",
+        "pred":"region country leaderName language ethnicGroup",
         "refs":[
             "leaderName language region country ethnicGroup"
         ]
@@ -4538,7 +4538,7 @@
     {
         "idx":567,
         "input":"[TRIPLE] Batchoy country Philippines [/TRIPLE] [TRIPLE] Philippines ethnicGroup Igorot_people [/TRIPLE] [TRIPLE] Philippines ethnicGroup Ilocano_people [/TRIPLE] [TRIPLE] Philippines language Arabic [/TRIPLE] [TRIPLE] Philippines officialLanguage Philippine_English [/TRIPLE]",
-        "pred":"ethnicGroup ethnicGroup officialLanguage language country",
+        "pred":"country officialLanguage language ethnicGroup ethnicGroup",
         "refs":[
             "country ethnicGroup ethnicGroup language officialLanguage"
         ]
@@ -4554,7 +4554,7 @@
     {
         "idx":569,
         "input":"[TRIPLE] Ajoblanco country Spain [/TRIPLE] [TRIPLE] Spain currency Euro [/TRIPLE] [TRIPLE] Spain demonym Spaniards [/TRIPLE] [TRIPLE] Spain language Spanish_language [/TRIPLE] [TRIPLE] Spain leaderName Felipe_VI_of_Spain [/TRIPLE]",
-        "pred":"leaderName demonym language currency country",
+        "pred":"country demonym currency leaderName language",
         "refs":[
             "country currency leaderName language demonym"
         ]
@@ -4562,7 +4562,7 @@
     {
         "idx":570,
         "input":"[TRIPLE] Adams_County,_Pennsylvania has_to_its_north Cumberland_County,_Pennsylvania [/TRIPLE] [TRIPLE] Adams_County,_Pennsylvania has_to_its_southeast Carroll_County,_Maryland [/TRIPLE] [TRIPLE] Adams_County,_Pennsylvania has_to_its_west Franklin_County,_Pennsylvania [/TRIPLE] [TRIPLE] 11th_Mississippi_Infantry_Monument location Adams_County,_Pennsylvania [/TRIPLE] [TRIPLE] 11th_Mississippi_Infantry_Monument municipality Gettysburg,_Pennsylvania [/TRIPLE]",
-        "pred":"municipality location has_to_its_west has_to_its_north has_to_its_southeast",
+        "pred":"municipality location has_to_its_west has_to_its_north",
         "refs":[
             "municipality location has_to_its_west has_to_its_north"
         ]
@@ -4570,7 +4570,7 @@
     {
         "idx":571,
         "input":"[TRIPLE] Azerbaijan capital Baku [/TRIPLE] [TRIPLE] Azerbaijan leaderName Artur_Rasizade [/TRIPLE] [TRIPLE] Azerbaijan leaderTitle Prime_Minister_of_Azerbaijan [/TRIPLE] [TRIPLE] Azerbaijan legislature National_Assembly_(Azerbaijan) [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial location Azerbaijan [/TRIPLE]",
-        "pred":"location capital leaderTitle leaderName legislature",
+        "pred":"legislature leaderTitle leaderName capital location",
         "refs":[
             "capital leaderTitle leaderName location legislature"
         ]
@@ -4578,7 +4578,7 @@
     {
         "idx":572,
         "input":"[TRIPLE] Baku_Turkish_Martyrs_Memorial dedicatedTo \"Ottoman_Army_soldiers_killed_in_the_Battle_of_Baku\" [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial designer \"H\u00fcseyin_B\u00fct\u00fcner_and_Hilmi_G\u00fcner\" [/TRIPLE] [TRIPLE] Azerbaijan leaderName Artur_Rasizade [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial location Azerbaijan [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial nativeName \"T\u00fcrk_\u015eehitleri_An\u0131t\u0131\" [/TRIPLE]",
-        "pred":"dedicatedTo location nativeName designer leaderName",
+        "pred":"leaderName location nativeName dedicatedTo designer",
         "refs":[
             "location dedicatedTo designer nativeName leaderName"
         ]
@@ -4586,7 +4586,7 @@
     {
         "idx":573,
         "input":"[TRIPLE] Baku_Turkish_Martyrs_Memorial dedicatedTo \"Ottoman_Army_soldiers_killed_in_the_Battle_of_Baku\" [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial designer \"H\u00fcseyin_B\u00fct\u00fcner_and_Hilmi_G\u00fcner\" [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial location Azerbaijan [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial material \"Red_granite_and_white_marble\" [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial nativeName \"T\u00fcrk_\u015eehitleri_An\u0131t\u0131\" [/TRIPLE]",
-        "pred":"dedicatedTo location material designer nativeName",
+        "pred":"location nativeName dedicatedTo designer material",
         "refs":[
             "designer material location nativeName dedicatedTo"
         ]
@@ -4594,7 +4594,7 @@
     {
         "idx":574,
         "input":"[TRIPLE] Baku_Turkish_Martyrs_Memorial dedicatedTo \"Ottoman_Army_soldiers_killed_in_the_Battle_of_Baku\" [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial designer \"H\u00fcseyin_B\u00fct\u00fcner_and_Hilmi_G\u00fcner\" [/TRIPLE] [TRIPLE] Azerbaijan leaderTitle Prime_Minister_of_Azerbaijan [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial location Azerbaijan [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial material \"Red_granite_and_white_marble\" [/TRIPLE]",
-        "pred":"material dedicatedTo location leaderTitle leaderName",
+        "pred":"designer material dedicatedTo location leaderTitle",
         "refs":[
             "designer material dedicatedTo location leaderTitle"
         ]
@@ -4602,7 +4602,7 @@
     {
         "idx":575,
         "input":"[TRIPLE] Stuart_Parker_(footballer) club Chesterfield_F.C. [/TRIPLE] [TRIPLE] Stuart_Parker_(footballer) club KV_Mechelen [/TRIPLE] [TRIPLE] A.F.C._Blackpool ground Blackpool [/TRIPLE] [TRIPLE] Blackpool leader Gordon_Marsden [/TRIPLE] [TRIPLE] A.F.C._Blackpool manager Stuart_Parker_(footballer) [/TRIPLE]",
-        "pred":"ground manager club club leader",
+        "pred":"ground leader manager club club",
         "refs":[
             "leader ground manager club club"
         ]
@@ -4634,7 +4634,7 @@
     {
         "idx":579,
         "input":"[TRIPLE] Campeonato_Brasileiro_S\u00e9rie_C champions Vila_Nova_Futebol_Clube [/TRIPLE] [TRIPLE] Campeonato_Brasileiro_S\u00e9rie_C country Brazil [/TRIPLE] [TRIPLE] Agremia\u00e7\u00e3o_Sportiva_Arapiraquense league Campeonato_Brasileiro_S\u00e9rie_C [/TRIPLE] [TRIPLE] Agremia\u00e7\u00e3o_Sportiva_Arapiraquense manager Vica [/TRIPLE] [TRIPLE] Agremia\u00e7\u00e3o_Sportiva_Arapiraquense numberOfMembers 17000 [/TRIPLE]",
-        "pred":"champions league country manager numberOfMembers",
+        "pred":"numberOfMembers league country champions manager",
         "refs":[
             "champions country league numberOfMembers manager"
         ]
@@ -4650,7 +4650,7 @@
     {
         "idx":581,
         "input":"[TRIPLE] Accademia_di_Architettura_di_Mendrisio country Switzerland [/TRIPLE] [TRIPLE] Accademia_di_Architettura_di_Mendrisio established 1996 [/TRIPLE] [TRIPLE] Switzerland leaderName Johann_Schneider-Ammann [/TRIPLE] [TRIPLE] Accademia_di_Architettura_di_Mendrisio location Ticino [/TRIPLE] [TRIPLE] Accademia_di_Architettura_di_Mendrisio numberOfStudents 600 [/TRIPLE]",
-        "pred":"location country established numberOfStudents leaderName",
+        "pred":"leaderName country location established numberOfStudents",
         "refs":[
             "location country established numberOfStudents leaderName"
         ]
@@ -4658,7 +4658,7 @@
     {
         "idx":582,
         "input":"[TRIPLE] Acharya_Institute_of_Technology affiliation Visvesvaraya_Technological_University [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology city Bangalore [/TRIPLE] [TRIPLE] Karnataka has_to_its_northeast Telangana [/TRIPLE] [TRIPLE] Karnataka has_to_its_west Arabian_Sea [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology state Karnataka [/TRIPLE]",
-        "pred":"city state has_to_its_northeast has_to_its_west affiliation",
+        "pred":"affiliation city state has_to_its_west has_to_its_northeast",
         "refs":[
             "affiliation city state has_to_its_northeast has_to_its_west"
         ]
@@ -4666,7 +4666,7 @@
     {
         "idx":583,
         "input":"[TRIPLE] Acharya_Institute_of_Technology campus \"In_Soldevanahalli,_Acharya_Dr._Sarvapalli_Radhakrishnan_Road,_Hessarghatta_Main_Road,_Bangalore_\u2013_560090.\" [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology city Bangalore [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology country \"India\" [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology established 2000 [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology numberOfPostgraduateStudents 700 [/TRIPLE]",
-        "pred":"campus country established numberOfPostgraduateStudents",
+        "pred":"city country established numberOfPostgraduateStudents campus",
         "refs":[
             "campus country established numberOfPostgraduateStudents"
         ]
@@ -4674,7 +4674,7 @@
     {
         "idx":584,
         "input":"[TRIPLE] Acharya_Institute_of_Technology affiliation Visvesvaraya_Technological_University [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology city Bangalore [/TRIPLE] [TRIPLE] Bangalore founder Kempe_Gowda_I [/TRIPLE] [TRIPLE] Karnataka has_to_its_west Arabian_Sea [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology state Karnataka [/TRIPLE]",
-        "pred":"founder city state has_to_its_west affiliation",
+        "pred":"affiliation city state has_to_its_west founder",
         "refs":[
             "city founder state has_to_its_west affiliation"
         ]
@@ -4690,7 +4690,7 @@
     {
         "idx":586,
         "input":"[TRIPLE] School_of_Business_and_Social_Sciences_at_the_Aarhus_University academicStaffSize 737 [/TRIPLE] [TRIPLE] School_of_Business_and_Social_Sciences_at_the_Aarhus_University affiliation European_University_Association [/TRIPLE] [TRIPLE] School_of_Business_and_Social_Sciences_at_the_Aarhus_University country Denmark [/TRIPLE] [TRIPLE] School_of_Business_and_Social_Sciences_at_the_Aarhus_University established 1928 [/TRIPLE] [TRIPLE] School_of_Business_and_Social_Sciences_at_the_Aarhus_University numberOfStudents 16000 [/TRIPLE]",
-        "pred":"country established academicStaffSize numberOfStudents affiliation",
+        "pred":"country established numberOfStudents academicStaffSize affiliation",
         "refs":[
             "country affiliation numberOfStudents academicStaffSize established"
         ]
@@ -4698,7 +4698,7 @@
     {
         "idx":587,
         "input":"[TRIPLE] A_Long_Long_Way country Ireland [/TRIPLE] [TRIPLE] Ireland ethnicGroup White_people [/TRIPLE] [TRIPLE] A_Long_Long_Way followedBy The_Secret_Scripture [/TRIPLE] [TRIPLE] Ireland location Europe [/TRIPLE] [TRIPLE] The_Secret_Scripture publisher Faber_and_Faber [/TRIPLE]",
-        "pred":"location country followedBy publisher ethnicGroup",
+        "pred":"publisher followedBy country ethnicGroup location",
         "refs":[
             "publisher followedBy country location ethnicGroup"
         ]
@@ -4706,7 +4706,7 @@
     {
         "idx":588,
         "input":"[TRIPLE] A_Long_Long_Way country Ireland [/TRIPLE] [TRIPLE] Ireland ethnicGroup White_people [/TRIPLE] [TRIPLE] A_Long_Long_Way followedBy The_Secret_Scripture [/TRIPLE] [TRIPLE] A_Long_Long_Way precededBy Annie_Dunne [/TRIPLE] [TRIPLE] The_Secret_Scripture publisher Faber_and_Faber [/TRIPLE]",
-        "pred":"precededBy publisher country ethnicGroup followedBy",
+        "pred":"precededBy country followedBy publisher ethnicGroup",
         "refs":[
             "ethnicGroup country precededBy followedBy publisher"
         ]
@@ -4714,7 +4714,7 @@
     {
         "idx":589,
         "input":"[TRIPLE] Above_the_Veil country Australians [/TRIPLE] [TRIPLE] Above_the_Veil followedBy Into_Battle_(novel) [/TRIPLE] [TRIPLE] Into_Battle_(novel) followedBy The_Violet_Keystone [/TRIPLE] [TRIPLE] Above_the_Veil precededBy Aenir [/TRIPLE] [TRIPLE] Aenir precededBy Castle_(novel) [/TRIPLE]",
-        "pred":"precededBy precededBy followedBy followedBy country",
+        "pred":"precededBy precededBy country followedBy followedBy",
         "refs":[
             "country precededBy precededBy followedBy followedBy"
         ]
@@ -4722,7 +4722,7 @@
     {
         "idx":590,
         "input":"[TRIPLE] Cornell_University affiliation Association_of_American_Universities [/TRIPLE] [TRIPLE] Cornell_University city Ithaca,_New_York [/TRIPLE] [TRIPLE] Cornell_University nickname Cornell_Big_Red [/TRIPLE] [TRIPLE] Administrative_Science_Quarterly publisher Cornell_University [/TRIPLE] [TRIPLE] Cornell_University state New_York [/TRIPLE]",
-        "pred":"city state affiliation publisher nickname",
+        "pred":"publisher affiliation city state",
         "refs":[
             "city nickname publisher affiliation"
         ]
@@ -4730,7 +4730,7 @@
     {
         "idx":591,
         "input":"[TRIPLE] Cornell_University affiliation Association_of_Public_and_Land-grant_Universities [/TRIPLE] [TRIPLE] Cornell_University city Ithaca,_New_York [/TRIPLE] [TRIPLE] Cornell_University nickname Cornell_Big_Red [/TRIPLE] [TRIPLE] Administrative_Science_Quarterly publisher Cornell_University [/TRIPLE] [TRIPLE] Cornell_University state New_York [/TRIPLE]",
-        "pred":"city state affiliation publisher nickname",
+        "pred":"publisher affiliation city state",
         "refs":[
             "publisher city state nickname affiliation"
         ]
@@ -4738,7 +4738,7 @@
     {
         "idx":592,
         "input":"[TRIPLE] Alcatraz_Versus_the_Evil_Librarians country United_States [/TRIPLE] [TRIPLE] United_States ethnicGroup African_Americans [/TRIPLE] [TRIPLE] Alcatraz_Versus_the_Evil_Librarians language English_language [/TRIPLE] [TRIPLE] United_States leaderName Barack_Obama [/TRIPLE] [TRIPLE] English_language spokenIn Great_Britain [/TRIPLE]",
-        "pred":"spokenIn language country leaderName ethnicGroup",
+        "pred":"country leaderName ethnicGroup language spokenIn",
         "refs":[
             "ethnicGroup leaderName country language spokenIn"
         ]
@@ -4746,7 +4746,7 @@
     {
         "idx":593,
         "input":"[TRIPLE] United_States capital Washington,_D.C. [/TRIPLE] [TRIPLE] A_Severed_Wasp country United_States [/TRIPLE] [TRIPLE] United_States ethnicGroup African_Americans [/TRIPLE] [TRIPLE] United_States language English_language [/TRIPLE] [TRIPLE] English_language spokenIn Great_Britain [/TRIPLE]",
-        "pred":"country language spokenIn ethnicGroup capital",
+        "pred":"country capital language spokenIn ethnicGroup",
         "refs":[
             "country language spokenIn capital ethnicGroup"
         ]
@@ -4762,7 +4762,7 @@
     {
         "idx":595,
         "input":"[TRIPLE] United_Kingdom capital London [/TRIPLE] [TRIPLE] AIDS_(journal) country United_Kingdom [/TRIPLE] [TRIPLE] United_Kingdom language English_language [/TRIPLE] [TRIPLE] United_Kingdom leaderName David_Cameron [/TRIPLE] [TRIPLE] United_Kingdom leaderName Elizabeth_II [/TRIPLE]",
-        "pred":"leaderName leaderName capital language country",
+        "pred":"country capital leaderName leaderName language",
         "refs":[
             "leaderName leaderName language capital country"
         ]
@@ -4794,7 +4794,7 @@
     {
         "idx":599,
         "input":"[TRIPLE] Alan_Bean birthPlace Wheeler,_Texas [/TRIPLE] [TRIPLE] Apollo_12 commander David_Scott [/TRIPLE] [TRIPLE] Alan_Bean nationality United_States [/TRIPLE] [TRIPLE] Apollo_12 operator NASA [/TRIPLE] [TRIPLE] Alan_Bean status \"Retired\" [/TRIPLE] [TRIPLE] Alan_Bean was_a_crew_member_of Apollo_12 [/TRIPLE]",
-        "pred":"nationality birthPlace was_a_crew_member_of operator commander status",
+        "pred":"birthPlace was_a_crew_member_of operator commander status",
         "refs":[
             "nationality was_a_crew_member_of operator commander birthPlace status"
         ]
@@ -4818,7 +4818,7 @@
     {
         "idx":602,
         "input":"[TRIPLE] Alan_Shepard birthDate \"1923-11-18\" [/TRIPLE] [TRIPLE] Alan_Shepard birthPlace New_Hampshire [/TRIPLE] [TRIPLE] Alan_Shepard dateOfRetirement \"1974-08-01\" [/TRIPLE] [TRIPLE] Alan_Shepard deathPlace California [/TRIPLE] [TRIPLE] Apollo_14 operator NASA [/TRIPLE] [TRIPLE] Alan_Shepard was_a_crew_member_of Apollo_14 [/TRIPLE]",
-        "pred":"birthPlace birthDate was_a_crew_member_of operator dateOfRetirement deathPlace",
+        "pred":"birthDate birthPlace was_a_crew_member_of operator dateOfRetirement deathPlace",
         "refs":[
             "birthDate birthPlace was_a_crew_member_of operator dateOfRetirement deathPlace"
         ]
@@ -4826,7 +4826,7 @@
     {
         "idx":603,
         "input":"[TRIPLE] Alan_Shepard awards Distinguished_Service_Medal_(United_States_Navy) [/TRIPLE] [TRIPLE] Alan_Shepard birthPlace New_Hampshire [/TRIPLE] [TRIPLE] Alan_Shepard deathDate \"1998-07-21\" [/TRIPLE] [TRIPLE] Alan_Shepard deathPlace California [/TRIPLE] [TRIPLE] Distinguished_Service_Medal_(United_States_Navy) higher Department_of_Commerce_Gold_Medal [/TRIPLE] [TRIPLE] Alan_Shepard was_awarded \"American_Defense_Service_ribbon.svg\" [/TRIPLE]",
-        "pred":"birthPlace deathDate deathPlace awards higher was_awarded",
+        "pred":"birthPlace deathDate deathPlace was_awarded higher awards",
         "refs":[
             "birthPlace was_awarded awards higher deathDate"
         ]
@@ -4850,7 +4850,7 @@
     {
         "idx":606,
         "input":"[TRIPLE] Buzz_Aldrin almaMater \"Massachusetts_Institute_of_Technology,_Sc.D._1963\" [/TRIPLE] [TRIPLE] Apollo_11 backup_pilot William_Anders [/TRIPLE] [TRIPLE] Buzz_Aldrin occupation Fighter_pilot [/TRIPLE] [TRIPLE] Apollo_11 operator NASA [/TRIPLE] [TRIPLE] Buzz_Aldrin was_a_crew_member_of Apollo_11 [/TRIPLE] [TRIPLE] Buzz_Aldrin was_selected_by_NASA 1963 [/TRIPLE]",
-        "pred":"almaMater occupation was_selected_by_NASA was_a_crew_member_of operator backup_pilot",
+        "pred":"almaMater was_selected_by_NASA occupation was_a_crew_member_of operator backup_pilot",
         "refs":[
             "almaMater occupation was_selected_by_NASA was_a_crew_member_of operator"
         ]
@@ -4858,7 +4858,7 @@
     {
         "idx":607,
         "input":"[TRIPLE] Elliot_See almaMater University_of_Texas_at_Austin [/TRIPLE] [TRIPLE] Elliot_See birthPlace Dallas [/TRIPLE] [TRIPLE] Elliot_See deathDate \"1966-02-28\" [/TRIPLE] [TRIPLE] Elliot_See deathPlace St._Louis [/TRIPLE] [TRIPLE] Elliot_See nationality United_States [/TRIPLE] [TRIPLE] Elliot_See status \"Deceased\" [/TRIPLE]",
-        "pred":"nationality birthPlace almaMater deathPlace deathDate",
+        "pred":"birthPlace almaMater nationality deathPlace deathDate",
         "refs":[
             "birthPlace nationality almaMater deathDate deathPlace"
         ]
@@ -4874,7 +4874,7 @@
     {
         "idx":609,
         "input":"[TRIPLE] William_Anders almaMater \"AFIT,_M.S._1962\" [/TRIPLE] [TRIPLE] William_Anders birthDate \"1933-10-17\" [/TRIPLE] [TRIPLE] William_Anders birthPlace British_Hong_Kong [/TRIPLE] [TRIPLE] William_Anders dateOfRetirement \"1969-09-01\" [/TRIPLE] [TRIPLE] William_Anders occupation Fighter_pilot [/TRIPLE] [TRIPLE] William_Anders was_a_crew_member_of Apollo_8 [/TRIPLE]",
-        "pred":"birthPlace birthDate almaMater occupation was_a_crew_member_of dateOfRetirement",
+        "pred":"birthDate birthPlace almaMater occupation was_a_crew_member_of dateOfRetirement",
         "refs":[
             "birthDate birthPlace almaMater occupation was_a_crew_member_of dateOfRetirement"
         ]
@@ -4882,7 +4882,7 @@
     {
         "idx":610,
         "input":"[TRIPLE] Turkey capital Ankara [/TRIPLE] [TRIPLE] Atat\u00fcrk_Monument_(\u0130zmir) designer Pietro_Canonica [/TRIPLE] [TRIPLE] Atat\u00fcrk_Monument_(\u0130zmir) inaugurationDate \"1932-07-27\" [/TRIPLE] [TRIPLE] Turkey leaderName Ahmet_Davuto\u011flu [/TRIPLE] [TRIPLE] Atat\u00fcrk_Monument_(\u0130zmir) location Turkey [/TRIPLE] [TRIPLE] Atat\u00fcrk_Monument_(\u0130zmir) material \"Bronze\" [/TRIPLE]",
-        "pred":"material designer inaugurationDate location leaderName capital",
+        "pred":"leaderName capital location material designer inaugurationDate",
         "refs":[
             "capital leaderName location designer material inaugurationDate"
         ]
@@ -4890,7 +4890,7 @@
     {
         "idx":611,
         "input":"[TRIPLE] Baku_Turkish_Martyrs_Memorial dedicatedTo \"Ottoman_Army_soldiers_killed_in_the_Battle_of_Baku\" [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial designer \"H\u00fcseyin_B\u00fct\u00fcner_and_Hilmi_G\u00fcner\" [/TRIPLE] [TRIPLE] Azerbaijan leaderName Artur_Rasizade [/TRIPLE] [TRIPLE] Azerbaijan leaderTitle Prime_Minister_of_Azerbaijan [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial location Azerbaijan [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial nativeName \"T\u00fcrk_\u015eehitleri_An\u0131t\u0131\" [/TRIPLE]",
-        "pred":"dedicatedTo location nativeName designer leaderTitle leaderName",
+        "pred":"leaderTitle leaderName location nativeName designer dedicatedTo",
         "refs":[
             "designer location dedicatedTo leaderTitle leaderName"
         ]
@@ -4898,7 +4898,7 @@
     {
         "idx":612,
         "input":"[TRIPLE] 14th_New_Jersey_Volunteer_Infantry_Monument category Historic_districts_in_the_United_States [/TRIPLE] [TRIPLE] 14th_New_Jersey_Volunteer_Infantry_Monument district Monocacy_National_Battlefield [/TRIPLE] [TRIPLE] 14th_New_Jersey_Volunteer_Infantry_Monument established \"1907-07-11\" [/TRIPLE] [TRIPLE] Monocacy_National_Battlefield location Frederick_County,_Maryland [/TRIPLE] [TRIPLE] Monocacy_National_Battlefield nearestCity Frederick,_Maryland [/TRIPLE] [TRIPLE] 14th_New_Jersey_Volunteer_Infantry_Monument owningOrganisation National_Park_Service [/TRIPLE]",
-        "pred":"established district location nearestCity owningOrganisation category",
+        "pred":"nearestCity location district established category owningOrganisation",
         "refs":[
             "district nearestCity established category owningOrganisation"
         ]
@@ -4906,7 +4906,7 @@
     {
         "idx":613,
         "input":"[TRIPLE] 14th_New_Jersey_Volunteer_Infantry_Monument category Historic_districts_in_the_United_States [/TRIPLE] [TRIPLE] 14th_New_Jersey_Volunteer_Infantry_Monument country \"United_States\" [/TRIPLE] [TRIPLE] 14th_New_Jersey_Volunteer_Infantry_Monument district Monocacy_National_Battlefield [/TRIPLE] [TRIPLE] 14th_New_Jersey_Volunteer_Infantry_Monument established \"1907-07-11\" [/TRIPLE] [TRIPLE] Monocacy_National_Battlefield location Frederick_County,_Maryland [/TRIPLE] [TRIPLE] 14th_New_Jersey_Volunteer_Infantry_Monument owningOrganisation National_Park_Service [/TRIPLE]",
-        "pred":"established district location country owningOrganisation category",
+        "pred":"established category district location owningOrganisation",
         "refs":[
             "district location country established category owningOrganisation"
         ]
@@ -4914,7 +4914,7 @@
     {
         "idx":614,
         "input":"[TRIPLE] Accademia_di_Architettura_di_Mendrisio country Switzerland [/TRIPLE] [TRIPLE] Accademia_di_Architettura_di_Mendrisio established 1996 [/TRIPLE] [TRIPLE] Switzerland leaderName Johann_Schneider-Ammann [/TRIPLE] [TRIPLE] Switzerland leaderTitle Federal_Chancellor_of_Switzerland [/TRIPLE] [TRIPLE] Accademia_di_Architettura_di_Mendrisio location Ticino [/TRIPLE] [TRIPLE] Accademia_di_Architettura_di_Mendrisio numberOfStudents 600 [/TRIPLE]",
-        "pred":"location country established numberOfStudents leaderTitle leaderName",
+        "pred":"leaderTitle leaderName country location established numberOfStudents",
         "refs":[
             "location country established numberOfStudents leaderTitle leaderName"
         ]
@@ -4930,7 +4930,7 @@
     {
         "idx":616,
         "input":"[TRIPLE] Acharya_Institute_of_Technology affiliation Visvesvaraya_Technological_University [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology city Bangalore [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology country \"India\" [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology director \"Dr._G._P._Prabhukumar\" [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology established 2000 [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology president \"B.M._Reddy\" [/TRIPLE]",
-        "pred":"city country established president affiliation director",
+        "pred":"city country affiliation established director president",
         "refs":[
             "city country established affiliation president director"
         ]
@@ -4946,7 +4946,7 @@
     {
         "idx":618,
         "input":"[TRIPLE] Acharya_Institute_of_Technology affiliation Visvesvaraya_Technological_University [/TRIPLE] [TRIPLE] Visvesvaraya_Technological_University city Belgaum [/TRIPLE] [TRIPLE] All_India_Council_for_Technical_Education location Mumbai [/TRIPLE] [TRIPLE] Tennis sportsGoverningBody International_Tennis_Federation [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology sportsOffered Tennis [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology was_given_the_'Technical_Campus'_status_by All_India_Council_for_Technical_Education [/TRIPLE]",
-        "pred":"affiliation city was_given_the_'Technical_Campus'_status_by location sportsOffered sportsGoverningBody",
+        "pred":"city affiliation sportsOffered sportsGoverningBody was_given_the_'Technical_Campus'_status_by location",
         "refs":[
             "affiliation city was_given_the_'Technical_Campus'_status_by location sportsOffered sportsGoverningBody"
         ]
@@ -4962,7 +4962,7 @@
     {
         "idx":620,
         "input":"[TRIPLE] School_of_Business_and_Social_Sciences_at_the_Aarhus_University academicStaffSize 737 [/TRIPLE] [TRIPLE] School_of_Business_and_Social_Sciences_at_the_Aarhus_University affiliation European_University_Association [/TRIPLE] [TRIPLE] School_of_Business_and_Social_Sciences_at_the_Aarhus_University city Aarhus [/TRIPLE] [TRIPLE] School_of_Business_and_Social_Sciences_at_the_Aarhus_University country Denmark [/TRIPLE] [TRIPLE] School_of_Business_and_Social_Sciences_at_the_Aarhus_University established 1928 [/TRIPLE] [TRIPLE] Denmark leaderName Lars_L\u00f8kke_Rasmussen [/TRIPLE]",
-        "pred":"city country established academicStaffSize leaderName affiliation",
+        "pred":"city country established academicStaffSize affiliation leaderName",
         "refs":[
             "city country established academicStaffSize affiliation leaderName"
         ]
@@ -4978,7 +4978,7 @@
     {
         "idx":622,
         "input":"[TRIPLE] Alan_Bean birthDate \"1932-03-15\" [/TRIPLE] [TRIPLE] Alan_Bean birthPlace Wheeler,_Texas [/TRIPLE] [TRIPLE] Alan_Bean nationality United_States [/TRIPLE] [TRIPLE] Alan_Bean occupation Test_pilot [/TRIPLE] [TRIPLE] Apollo_12 operator NASA [/TRIPLE] [TRIPLE] Alan_Bean status \"Retired\" [/TRIPLE] [TRIPLE] Alan_Bean was_a_crew_member_of Apollo_12 [/TRIPLE]",
-        "pred":"nationality birthPlace birthDate occupation was_a_crew_member_of operator status",
+        "pred":"nationality birthDate birthPlace was_a_crew_member_of operator status",
         "refs":[
             "birthDate birthPlace nationality occupation was_a_crew_member_of operator status"
         ]
@@ -4986,7 +4986,7 @@
     {
         "idx":623,
         "input":"[TRIPLE] Alan_Bean almaMater \"UT_Austin,_B.S._1955\" [/TRIPLE] [TRIPLE] Alan_Bean birthPlace Wheeler,_Texas [/TRIPLE] [TRIPLE] Apollo_12 commander David_Scott [/TRIPLE] [TRIPLE] Alan_Bean occupation Test_pilot [/TRIPLE] [TRIPLE] Apollo_12 operator NASA [/TRIPLE] [TRIPLE] Alan_Bean status \"Retired\" [/TRIPLE] [TRIPLE] Alan_Bean was_a_crew_member_of Apollo_12 [/TRIPLE]",
-        "pred":"birthPlace almaMater occupation was_a_crew_member_of operator commander status",
+        "pred":"birthPlace almaMater occupation was_a_crew_member_of operator status commander",
         "refs":[
             "birthPlace almaMater occupation was_a_crew_member_of operator commander"
         ]
@@ -4994,7 +4994,7 @@
     {
         "idx":624,
         "input":"[TRIPLE] Alan_Shepard almaMater \"NWC,_M.A._1957\" [/TRIPLE] [TRIPLE] Alan_Shepard birthDate \"1923-11-18\" [/TRIPLE] [TRIPLE] Alan_Shepard birthPlace New_Hampshire [/TRIPLE] [TRIPLE] Alan_Shepard deathPlace California [/TRIPLE] [TRIPLE] Alan_Shepard nationality United_States [/TRIPLE] [TRIPLE] Alan_Shepard was_a_crew_member_of Apollo_14 [/TRIPLE] [TRIPLE] Alan_Shepard was_selected_by_NASA 1959 [/TRIPLE]",
-        "pred":"nationality birthDate birthPlace almaMater was_selected_by_NASA deathPlace",
+        "pred":"nationality birthDate birthPlace almaMater was_selected_by_NASA was_a_crew_member_of deathPlace",
         "refs":[
             "birthDate birthPlace nationality almaMater was_selected_by_NASA was_a_crew_member_of deathPlace"
         ]
@@ -5018,7 +5018,7 @@
     {
         "idx":627,
         "input":"[TRIPLE] Buzz_Aldrin almaMater \"Massachusetts_Institute_of_Technology,_Sc.D._1963\" [/TRIPLE] [TRIPLE] Buzz_Aldrin alternativeNames \"Edwin_E._Aldrin,_Jr.\" [/TRIPLE] [TRIPLE] Buzz_Aldrin birthPlace Glen_Ridge,_New_Jersey [/TRIPLE] [TRIPLE] Buzz_Aldrin nationality United_States [/TRIPLE] [TRIPLE] Buzz_Aldrin occupation Fighter_pilot [/TRIPLE] [TRIPLE] Buzz_Aldrin status \"Retired\" [/TRIPLE] [TRIPLE] Buzz_Aldrin was_a_crew_member_of Apollo_11 [/TRIPLE]",
-        "pred":"alternativeNames nationality birthPlace almaMater occupation was_a_crew_member_of status",
+        "pred":"alternativeNames birthPlace almaMater occupation was_a_crew_member_of status",
         "refs":[
             "status nationality occupation alternativeNames birthPlace almaMater was_a_crew_member_of"
         ]
@@ -5026,7 +5026,7 @@
     {
         "idx":628,
         "input":"[TRIPLE] Apollo_11 backup_pilot William_Anders [/TRIPLE] [TRIPLE] Buzz_Aldrin birthPlace Glen_Ridge,_New_Jersey [/TRIPLE] [TRIPLE] Glen_Ridge,_New_Jersey isPartOf Essex_County,_New_Jersey [/TRIPLE] [TRIPLE] United_States leaderName Joe_Biden [/TRIPLE] [TRIPLE] Buzz_Aldrin nationality United_States [/TRIPLE] [TRIPLE] Apollo_11 operator NASA [/TRIPLE] [TRIPLE] Buzz_Aldrin was_a_crew_member_of Apollo_11 [/TRIPLE]",
-        "pred":"nationality birthPlace isPartOf was_a_crew_member_of operator backup_pilot leaderName",
+        "pred":"birthPlace isPartOf was_a_crew_member_of operator backup_pilot",
         "refs":[
             "birthPlace isPartOf nationality was_a_crew_member_of operator backup_pilot leaderName"
         ]
@@ -5042,7 +5042,7 @@
     {
         "idx":630,
         "input":"[TRIPLE] Buzz_Aldrin almaMater \"Massachusetts_Institute_of_Technology,_Sc.D._1963\" [/TRIPLE] [TRIPLE] Apollo_11 backup_pilot William_Anders [/TRIPLE] [TRIPLE] Buzz_Aldrin birthPlace Glen_Ridge,_New_Jersey [/TRIPLE] [TRIPLE] Buzz_Aldrin occupation Fighter_pilot [/TRIPLE] [TRIPLE] Apollo_11 operator NASA [/TRIPLE] [TRIPLE] Buzz_Aldrin was_a_crew_member_of Apollo_11 [/TRIPLE] [TRIPLE] Buzz_Aldrin was_selected_by_NASA 1963 [/TRIPLE]",
-        "pred":"birthPlace almaMater occupation was_selected_by_NASA was_a_crew_member_of operator backup_pilot",
+        "pred":"birthPlace almaMater was_selected_by_NASA occupation was_a_crew_member_of operator backup_pilot",
         "refs":[
             "birthPlace almaMater was_a_crew_member_of operator was_selected_by_NASA backup_pilot"
         ]
@@ -5050,7 +5050,7 @@
     {
         "idx":631,
         "input":"[TRIPLE] University_of_Texas_at_Austin affiliation University_of_Texas_System [/TRIPLE] [TRIPLE] Elliot_See almaMater University_of_Texas_at_Austin [/TRIPLE] [TRIPLE] Elliot_See birthDate \"1927-07-23\" [/TRIPLE] [TRIPLE] Elliot_See birthPlace Dallas [/TRIPLE] [TRIPLE] Elliot_See deathPlace St._Louis [/TRIPLE] [TRIPLE] Elliot_See occupation Test_pilot [/TRIPLE] [TRIPLE] Elliot_See status \"Deceased\" [/TRIPLE]",
-        "pred":"birthDate birthPlace almaMater occupation deathPlace",
+        "pred":"birthDate birthPlace almaMater affiliation occupation deathPlace",
         "refs":[
             "birthDate birthPlace almaMater affiliation occupation deathPlace"
         ]
@@ -5058,7 +5058,7 @@
     {
         "idx":632,
         "input":"[TRIPLE] Elliot_See almaMater University_of_Texas_at_Austin [/TRIPLE] [TRIPLE] Elliot_See birthDate \"1927-07-23\" [/TRIPLE] [TRIPLE] Elliot_See birthPlace Dallas [/TRIPLE] [TRIPLE] Elliot_See deathDate \"1966-02-28\" [/TRIPLE] [TRIPLE] Elliot_See deathPlace St._Louis [/TRIPLE] [TRIPLE] Elliot_See occupation Test_pilot [/TRIPLE] [TRIPLE] Elliot_See status \"Deceased\" [/TRIPLE]",
-        "pred":"birthDate birthPlace almaMater occupation deathPlace deathDate",
+        "pred":"birthDate birthPlace almaMater occupation deathDate deathPlace",
         "refs":[
             "birthPlace birthDate almaMater occupation status deathDate"
         ]
@@ -5066,7 +5066,7 @@
     {
         "idx":633,
         "input":"[TRIPLE] William_Anders almaMater \"AFIT,_M.S._1962\" [/TRIPLE] [TRIPLE] William_Anders birthDate \"1933-10-17\" [/TRIPLE] [TRIPLE] William_Anders birthPlace British_Hong_Kong [/TRIPLE] [TRIPLE] William_Anders dateOfRetirement \"1969-09-01\" [/TRIPLE] [TRIPLE] William_Anders nationality United_States [/TRIPLE] [TRIPLE] William_Anders occupation Fighter_pilot [/TRIPLE] [TRIPLE] William_Anders status \"Retired\" [/TRIPLE]",
-        "pred":"nationality birthPlace birthDate almaMater occupation dateOfRetirement",
+        "pred":"birthDate birthPlace nationality almaMater occupation dateOfRetirement",
         "refs":[
             "birthDate birthPlace almaMater nationality occupation"
         ]
@@ -5074,7 +5074,7 @@
     {
         "idx":634,
         "input":"[TRIPLE] 11th_Mississippi_Infantry_Monument category Contributing_property [/TRIPLE] [TRIPLE] 11th_Mississippi_Infantry_Monument country \"United_States\" [/TRIPLE] [TRIPLE] 11th_Mississippi_Infantry_Monument established 2000 [/TRIPLE] [TRIPLE] Adams_County,_Pennsylvania has_to_its_north Cumberland_County,_Pennsylvania [/TRIPLE] [TRIPLE] Adams_County,_Pennsylvania has_to_its_southeast Carroll_County,_Maryland [/TRIPLE] [TRIPLE] 11th_Mississippi_Infantry_Monument location Adams_County,_Pennsylvania [/TRIPLE] [TRIPLE] 11th_Mississippi_Infantry_Monument municipality Gettysburg,_Pennsylvania [/TRIPLE]",
-        "pred":"municipality location country established category has_to_its_north has_to_its_southeast",
+        "pred":"established category location municipality country has_to_its_southeast has_to_its_north",
         "refs":[
             "has_to_its_north has_to_its_southeast municipality location established category country"
         ]
@@ -5082,7 +5082,7 @@
     {
         "idx":635,
         "input":"[TRIPLE] Turkey capital Ankara [/TRIPLE] [TRIPLE] Turkey currency Turkish_lira [/TRIPLE] [TRIPLE] Atat\u00fcrk_Monument_(\u0130zmir) designer Pietro_Canonica [/TRIPLE] [TRIPLE] Atat\u00fcrk_Monument_(\u0130zmir) inaugurationDate \"1932-07-27\" [/TRIPLE] [TRIPLE] Turkey leaderName Ahmet_Davuto\u011flu [/TRIPLE] [TRIPLE] Atat\u00fcrk_Monument_(\u0130zmir) location Turkey [/TRIPLE] [TRIPLE] Atat\u00fcrk_Monument_(\u0130zmir) material \"Bronze\" [/TRIPLE]",
-        "pred":"material designer inaugurationDate location leaderName currency capital",
+        "pred":"leaderName currency capital location designer material inaugurationDate",
         "refs":[
             "capital currency leaderName location material inaugurationDate designer"
         ]
@@ -5090,7 +5090,7 @@
     {
         "idx":636,
         "input":"[TRIPLE] Azerbaijan capital Baku [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial dedicatedTo \"Ottoman_Army_soldiers_killed_in_the_Battle_of_Baku\" [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial designer \"H\u00fcseyin_B\u00fct\u00fcner_and_Hilmi_G\u00fcner\" [/TRIPLE] [TRIPLE] Azerbaijan leaderTitle Prime_Minister_of_Azerbaijan [/TRIPLE] [TRIPLE] Azerbaijan legislature National_Assembly_(Azerbaijan) [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial location Azerbaijan [/TRIPLE] [TRIPLE] Baku_Turkish_Martyrs_Memorial material \"Red_granite_and_white_marble\" [/TRIPLE]",
-        "pred":"leaderTitle legislature location material designer dedicatedTo",
+        "pred":"capital leaderTitle legislature location material designer dedicatedTo",
         "refs":[
             "legislature leaderTitle capital location material designer dedicatedTo"
         ]
@@ -5098,7 +5098,7 @@
     {
         "idx":637,
         "input":"[TRIPLE] Acharya_Institute_of_Technology affiliation Visvesvaraya_Technological_University [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology campus \"In_Soldevanahalli,_Acharya_Dr._Sarvapalli_Radhakrishnan_Road,_Hessarghatta_Main_Road,_Bangalore_\u2013_560090.\" [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology city Bangalore [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology country \"India\" [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology established 2000 [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology president \"B.M._Reddy\" [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology state Karnataka [/TRIPLE]",
-        "pred":"campus state country established president affiliation",
+        "pred":"city state country established president campus affiliation",
         "refs":[
             "campus president established affiliation"
         ]
@@ -5106,7 +5106,7 @@
     {
         "idx":638,
         "input":"[TRIPLE] Acharya_Institute_of_Technology affiliation Visvesvaraya_Technological_University [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology campus \"In_Soldevanahalli,_Acharya_Dr._Sarvapalli_Radhakrishnan_Road,_Hessarghatta_Main_Road,_Bangalore_\u2013_560090.\" [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology city Bangalore [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology country \"India\" [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology established 2000 [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology motto \"Nurturing_Excellence\" [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology numberOfPostgraduateStudents 700 [/TRIPLE]",
-        "pred":"campus country established motto numberOfPostgraduateStudents affiliation",
+        "pred":"city country established numberOfPostgraduateStudents affiliation motto campus",
         "refs":[
             "campus country affiliation established motto numberOfPostgraduateStudents"
         ]
@@ -5114,7 +5114,7 @@
     {
         "idx":639,
         "input":"[TRIPLE] Acharya_Institute_of_Technology affiliation Visvesvaraya_Technological_University [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology campus \"In_Soldevanahalli,_Acharya_Dr._Sarvapalli_Radhakrishnan_Road,_Hessarghatta_Main_Road,_Bangalore_\u2013_560090.\" [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology city Bangalore [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology country \"India\" [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology director \"Dr._G._P._Prabhukumar\" [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology established 2000 [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology president \"B.M._Reddy\" [/TRIPLE]",
-        "pred":"campus country established president affiliation director",
+        "pred":"city country affiliation established president director campus",
         "refs":[
             "city country established affiliation president director campus"
         ]
@@ -5122,7 +5122,7 @@
     {
         "idx":640,
         "input":"[TRIPLE] Acharya_Institute_of_Technology affiliation Visvesvaraya_Technological_University [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology campus \"In_Soldevanahalli,_Acharya_Dr._Sarvapalli_Radhakrishnan_Road,_Hessarghatta_Main_Road,_Bangalore_\u2013_560090.\" [/TRIPLE] [TRIPLE] Visvesvaraya_Technological_University city Belgaum [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology country \"India\" [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology established 2000 [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology numberOfPostgraduateStudents 700 [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology president \"B.M._Reddy\" [/TRIPLE]",
-        "pred":"campus country established president numberOfPostgraduateStudents affiliation",
+        "pred":"campus country established president numberOfPostgraduateStudents affiliation city",
         "refs":[
             "president campus established numberOfPostgraduateStudents affiliation city"
         ]
@@ -5130,7 +5130,7 @@
     {
         "idx":641,
         "input":"[TRIPLE] AWH_Engineering_College academicStaffSize 250 [/TRIPLE] [TRIPLE] AWH_Engineering_College city \"Kuttikkattoor\" [/TRIPLE] [TRIPLE] AWH_Engineering_College country India [/TRIPLE] [TRIPLE] Kerala has_to_its_northwest Mah\u00e9,_India [/TRIPLE] [TRIPLE] India largestCity Mumbai [/TRIPLE] [TRIPLE] India river Ganges [/TRIPLE] [TRIPLE] AWH_Engineering_College state Kerala [/TRIPLE]",
-        "pred":"city state country academicStaffSize has_to_its_northwest largestCity river",
+        "pred":"city state country academicStaffSize has_to_its_northwest river largestCity",
         "refs":[
             "city country state has_to_its_northwest academicStaffSize river largestCity"
         ]
@@ -5146,7 +5146,7 @@
     {
         "idx":643,
         "input":"[TRIPLE] Acharya_Institute_of_Technology affiliation Visvesvaraya_Technological_University [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology campus \"In_Soldevanahalli,_Acharya_Dr._Sarvapalli_Radhakrishnan_Road,_Hessarghatta_Main_Road,_Bangalore_\u2013_560090.\" [/TRIPLE] [TRIPLE] Visvesvaraya_Technological_University city Belgaum [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology country \"India\" [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology director \"Dr._G._P._Prabhukumar\" [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology established 2000 [/TRIPLE] [TRIPLE] Acharya_Institute_of_Technology state Karnataka [/TRIPLE]",
-        "pred":"campus state country established director affiliation",
+        "pred":"state country established campus director affiliation city",
         "refs":[
             "established state country campus director affiliation city"
         ]
