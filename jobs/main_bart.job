@@ -4,7 +4,6 @@
 #SBATCH -p long
 #SBATCH -J Pipe_b
 #SBATCH --cpus-per-task=10
-#SBATCH --mem=30000
 #SBATCH -t 9-23:59:59
 
 source /home/cosuji/anaconda3/etc/profile.d/conda.sh
