@@ -11,7 +11,7 @@ conda activate webnlg
 
 
 # List of models for lexicalization
-models=("bart" "cohere" "gpt2" "t5" "flan-t5-large" "gpt-3.5" "gpt4_turbo" "mistral7b" "t5-large", "baseline")
+models=("bart" "cohere" "gpt2" "t5" "flan-t5-large" "gpt-3.5" "gpt4_turbo" "mistral7b" "t5-large" "baseline")
 task="lexicalization"
 source_file="${task}_src_all_domains.txt"
 ref_file="${task}_ref_all_domains.txt"
@@ -27,7 +27,7 @@ ref_file="${task}_ref_all_domains.txt"
 
 
 # For SR
-#models=("bart" "cohere" "gpt2" "t5" "flan-t5-large" "gpt-3.5" "gpt4_turbo" "mistral7b" "t5-large", "baseline")
+#models=("bart" "cohere" "gpt2" "t5" "flan-t5-large" "gpt-3.5" "gpt4_turbo" "mistral7b" "t5-large" "baseline")
 #task="sr"
 #source_file="${task}_src_all_domains.txt"
 #ref_file="${task}_ref_all_domains.txt"
